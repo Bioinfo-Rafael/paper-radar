@@ -7,3 +7,7 @@ __pycache__/
 dist/
 build/
 config/seeds.resolved.yaml
+extensions/discord_more/wrangler.toml
+extensions/discord_more/.dev.vars
+extensions/discord_more/.env
+extensions/discord_more/.wrangler/
