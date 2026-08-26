@@ -1,0 +1,45 @@
+families:
+  core:
+    physical-ai: [physical AI, embodied AI, embodied intelligence]
+    vla: [vision-language-action, vision language action, VLA, robot foundation model]
+    world-model: [world model, world models]
+    agent: [AI agent, agentic system, autonomous agent, long-horizon agent, computer use, coding agent]
+    self-improvement: [self-improving, self improving, learning from experience, policy self-update, model self-update]
+    ai-scientist: [AI scientist, autonomous research, scientific discovery]
+    agent-capability: [tool use, planning, error recovery, long-horizon autonomy, memory]
+  secondary:
+    reasoning: [reasoning, test-time compute, test time compute]
+    rl-foundation: [reinforcement learning, RL for foundation models]
+    foundation-model: [foundation model, multimodal model]
+  breakthrough:
+    qualitative-change: [previously impossible, first demonstration, new paradigm, qualitative capability]
+    generalization: [unseen task, unseen environment, unseen robot, unseen embodiment, zero-shot transfer]
+    durable-learning: [persistent improvement, improves from experience, transfer of self-improvement]
+    discovery: [scientific discovery, discovered algorithm, novel discovery]
+    negative-result: [negative result, breaks the assumption, fundamental limitation]
+    understanding: [internal phenomenon, mechanism discovery, phase transition]
+  negative:
+    incremental: [minor improvement, benchmark improvement, improves by, SOTA by, state-of-the-art by]
+    shallow-agent: [prompt refinement, reflection loop, retry loop]
+    pure-generation: [image generation, video generation, 3D reconstruction]
+weights:
+  hf_rank_max: 5.0
+  core_topic: 2.2
+  secondary_topic: 1.0
+  breakthrough: 2.0
+  recency: 0.8
+  citation_bonus_max: 1.0
+  negative_penalty: -3.5
+thresholds:
+  must_read: 8.0
+  strong: 5.7
+  more_min_score: 4.4
+ranking:
+  core_max_rank: 50
+  secondary_max_rank: 15
+  secondary_breakthrough_max_rank: 10
+  resurfaced_max_rank: 5
+  legendary_min_citations: 1000
+  legendary_min_influential_citations: 100
+  old_after_days: 730
+

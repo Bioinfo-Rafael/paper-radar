@@ -1,0 +1,56 @@
+name: More Paper Radar
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: Radar category
+        required: true
+        type: choice
+        options: [bioinfo, ml, frontier]
+      count:
+        description: Number of papers
+        required: false
+        default: "5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-radar-more
+  cancel-in-progress: false
+
+jobs:
+  more:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+      - name: Send next ranked papers
+        env:
+          DISCORD_BIOINFO_WEBHOOK: ${{ secrets.DISCORD_BIOINFO_WEBHOOK }}
+          DISCORD_ML_WEBHOOK: ${{ secrets.DISCORD_ML_WEBHOOK }}
+          DISCORD_FRONTIER_WEBHOOK: ${{ secrets.DISCORD_FRONTIER_WEBHOOK }}
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: >-
+          python -m paper_radar.cli more
+          --category "${{ inputs.category }}"
+          --count "${{ inputs.count }}"
+      - name: Persist deduplication state
+        run: |
+          if git diff --quiet -- state/sent.json; then
+            exit 0
+          fi
+          git config user.name "paper-radar[bot]"
+          git config user.email "paper-radar[bot]@users.noreply.github.com"
+          git add state/sent.json
+          git commit -m "chore(state): persist /more results"
+          git push
+

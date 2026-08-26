@@ -1,0 +1,39 @@
+bioinfo:
+  tier_s:
+    - Nature Methods
+    - Nature Biotechnology
+    - Nature Genetics
+    - Nature
+    - Science
+    - Cell
+  tier_a:
+    - Genome Biology
+    - Cell Systems
+    - Cell Genomics
+    - Genome Research
+  specialist:
+    - Bioinformatics
+    - PLOS Computational Biology
+    - BMC Bioinformatics
+    - NAR Genomics and Bioinformatics
+  preprint: [bioRxiv]
+  spatial_high:
+    - Nature Methods
+    - Nature Biotechnology
+    - Nature Genetics
+    - Nature
+    - Science
+    - Cell
+    - Cell Systems
+  foundation_high:
+    - Nature Methods
+    - Nature Biotechnology
+    - Nature Genetics
+    - Genome Biology
+    - Cell Systems
+    - Cell Genomics
+    - Genome Research
+ml:
+  top: [NeurIPS, ICML, ICLR]
+  strong: [CVPR, ICCV, ECCV, AISTATS, JMLR, TMLR]
+

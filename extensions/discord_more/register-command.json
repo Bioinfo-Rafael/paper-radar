@@ -1,0 +1,18 @@
+{
+  "name": "more",
+  "description": "Send the next five papers from Paper Radar's existing ranking",
+  "options": [
+    {
+      "name": "category",
+      "description": "Radar category",
+      "type": 3,
+      "required": true,
+      "choices": [
+        {"name": "Bioinfo", "value": "bioinfo"},
+        {"name": "ML Algorithms", "value": "ml"},
+        {"name": "AI Frontier", "value": "frontier"}
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,58 @@
+queries:
+  semantic_scholar:
+    - generative modeling new formulation
+    - diffusion model sampling objective
+    - flow matching generative model
+    - model understanding mechanism phase emergence
+    - neural network failure mechanism representation geometry
+    - new machine learning architecture training objective
+    - transformer attention state space model architecture
+    - machine learning evaluation failure mode
+    - theory explaining neural network phenomenon
+  arxiv_categories: [cs.LG, stat.ML, cs.AI, cs.CL, cs.CV]
+families:
+  domain:
+    generative-modeling: [generative model, diffusion, score-based, flow matching, autoregressive, energy-based model]
+    architecture: [transformer, attention, state space model, mixture of experts, MoE, architecture]
+    training: [training objective, objective function, regularization, distillation, consistency training, guidance, optimization]
+    representation: [representation learning, latent representation, internal representation]
+    evaluation: [evaluation metric, evaluation framework, failure mode, diagnose]
+    theory: [theorem, proof, theoretical analysis, convergence]
+  method:
+    actionable-design: [we propose, we introduce, new algorithm, new architecture, new objective, training procedure]
+    broad-improvement: [general framework, across tasks, broad range, general-purpose, model-agnostic]
+    understanding: [mechanism, phenomenon, phase transition, emergence, failure mechanism, internal dynamics]
+  formulation:
+    formulation: [formulation, probability path, parameterization, corruption process, forward process, reverse process]
+    conceptual: [latent variable, stochastic process, differential equation, objective function, sampling process]
+    observed-explained: [we observe, empirical phenomenon, mathematical explanation, design implication]
+  negative:
+    application-only: [applied to, application of, for medical imaging, disease diagnosis, remote sensing application]
+    benchmark-only: [new benchmark, dataset release, benchmark suite]
+    incremental: [slight improvement, marginal improvement, improves accuracy by, SOTA by, state-of-the-art by]
+    systems: [CUDA kernel, GPU kernel, distributed system, memory optimization, inference engine]
+    llm-applied: [LLM for, large language model for]
+  generic_required_categories: [cs.AI, cs.CL, cs.CV]
+weights:
+  domain_title: 1.4
+  domain_abstract: 0.9
+  method_title: 1.8
+  method_abstract: 1.2
+  formulation_title: 1.8
+  formulation_abstract: 1.2
+  understanding_synergy: 2.2
+  actionable_synergy: 0.7
+  venue_top: 1.2
+  venue_strong: 0.7
+  recency: 0.7
+  seed_max: 0.6
+  negative_penalty: -3.2
+  arxiv_penalty: -0.3
+thresholds:
+  must_read: 8.5
+  strong: 5.8
+  more_min_score: 4.5
+requirements:
+  application_exclude_if_method_below: 1.8
+  generic_category_min_method: 1.8
+  pure_theory_positive_min: 1.0

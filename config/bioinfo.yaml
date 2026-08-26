@@ -1,0 +1,81 @@
+queries:
+  semantic_scholar:
+    - single cell computational methods
+    - scRNA seq modeling
+    - RNA velocity
+    - gene regulatory network single cell
+    - cellular dynamics single cell
+    - trajectory inference single cell
+    - perturbation prediction single cell
+    - in silico perturbation single cell
+    - single cell generative model
+    - single cell diffusion
+    - optimal transport single cell
+    - differential equation single cell
+    - single cell foundation model
+    - spatial transcriptomics method
+  pubmed:
+    - '(single-cell OR scRNA-seq) AND (computational method OR model OR algorithm)'
+    - '(RNA velocity OR trajectory inference OR cell fate) AND single-cell'
+    - '(gene regulatory network OR perturbation prediction OR Perturb-seq) AND single-cell'
+    - '(generative model OR diffusion OR optimal transport OR differential equation) AND single-cell'
+    - '(spatial transcriptomics OR multimodal single-cell) AND (method OR model)'
+  biorxiv_categories: [bioinformatics, genomics, systems biology]
+families:
+  domain:
+    single-cell: [single-cell, single cell, scRNA-seq, scRNA seq, transcriptomics]
+    rna-velocity: [RNA velocity, velocity inference]
+    dynamics: [cell dynamics, cellular dynamics, trajectory inference, cell fate, vector field]
+    grn: [gene regulatory network, GRN, gene regulation]
+    perturbation: [perturbation prediction, in-silico perturbation, in silico perturbation, Perturb-seq, intervention]
+    generative-modeling: [generative model, diffusion model, flow matching]
+    mathematical-dynamics: [ordinary differential equation, stochastic differential equation, ODE, SDE, optimal transport, mechanistic model, stochastic model]
+    multi-omics: [multi-omics, multiomics, multimodal single-cell, RNA and ATAC, RNA + ATAC]
+    spatial: [spatial transcriptomics, spatial omics]
+    foundation-model: [foundation model, pretrained model, pre-trained model]
+  method:
+    method-development: [we propose, we introduce, novel method, new method, algorithm, framework, methodology]
+    inference: [inference, estimator, estimation, learnable, training procedure]
+  formulation:
+    formulation: [formulation, mathematical model, probabilistic model, dynamical model, latent variable, latent state]
+    objective: [objective function, loss function, parameterization, conditional model]
+    process: [stochastic process, differential equation, optimal transport, vector field, causal model, mechanistic model]
+  application_only:
+    application-only: [applied to, case study, patient cohort, tumor microenvironment, cancer dataset, clinical samples]
+    atlas: [cell atlas, atlas construction, reference atlas]
+    existing-tool-only: [using CellChat, CellChat analysis, Seurat analysis]
+    packaging-only: [software package, visualization tool, analysis pipeline]
+    wet-lab-only: [sequencing protocol, library preparation, wet-lab method]
+  low_priority:
+    annotation: [cell type annotation, cell-type annotation]
+    clustering: [clustering]
+    integration: [batch correction, data integration]
+    imputation: [imputation, denoising]
+    differential-expression: [differential expression]
+  reviews: [review, perspective, survey, commentary, editorial]
+weights:
+  domain_title: 1.5
+  domain_abstract: 1.0
+  method_title: 1.7
+  method_abstract: 1.1
+  formulation_title: 1.8
+  formulation_abstract: 1.2
+  venue_s: 1.0
+  venue_a: 0.7
+  venue_specialist: 0.35
+  venue_preprint: 0.0
+  recency: 0.8
+  seed_max: 0.7
+  application_penalty: -4.0
+  low_priority_penalty: -1.3
+  spatial_low_venue_penalty: -2.0
+  foundation_low_venue_penalty: -1.5
+thresholds:
+  must_read: 9.0
+  strong: 6.2
+  more_min_score: 4.8
+requirements:
+  application_exclude_if_method_below: 1.5
+  spatial_min_method: 1.5
+  foundation_preprint_strong_min_formulation: 3.0
+

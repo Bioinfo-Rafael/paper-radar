@@ -1,0 +1,9 @@
+name = "paper-radar-discord-more"
+main = "worker.js"
+compatibility_date = "2025-08-01"
+
+# Configure these as Worker secrets/variables; do not commit secret values.
+[vars]
+GITHUB_OWNER = "YOUR_GITHUB_OWNER"
+GITHUB_REPO = "Discord_paper-radar"
+
