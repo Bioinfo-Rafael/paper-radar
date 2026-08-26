@@ -211,6 +211,48 @@
         "biorxiv:10.64898/2026.08.20.745960",
         "title:bulk2scdiffapseudobulkconditioneddiffusionmodelforbulktosinglecellrnaseqgeneration"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2508.16279",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:24:15.954035+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentscope10adevelopercentricframeworkforbuildingagenticapplications",
+      "identity_keys": [
+        "arxiv:2508.16279",
+        "title:agentscope10adevelopercentricframeworkforbuildingagenticapplications"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.01964",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:24:16.164422+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "longhorizonharnessadvancinglonghorizonagentsforrealworldtasks",
+      "identity_keys": [
+        "arxiv:2608.01964",
+        "title:longhorizonharnessadvancinglonghorizonagentsforrealworldtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2504.19413",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:24:16.535422+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mem0buildingproductionreadyaiagentswithscalablelongtermmemory",
+      "identity_keys": [
+        "arxiv:2504.19413",
+        "title:mem0buildingproductionreadyaiagentswithscalablelongtermmemory"
+      ]
     }
   ]
 }
