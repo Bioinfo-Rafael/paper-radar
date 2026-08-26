@@ -31,9 +31,9 @@ def parser() -> argparse.ArgumentParser:
     daily.add_argument("--date", type=_date, default=date.today())
     daily.add_argument("--dry-run", action="store_true")
     daily.add_argument("--debug-scores", action="store_true")
-    more = commands.add_parser("more", help="Deliver the next papers from the same ranking")
+    more = commands.add_parser("more", help="Run a fresh, broader search for additional papers")
     more.add_argument("--category", choices=CATEGORIES, required=True)
-    more.add_argument("--count", type=int, default=5)
+    more.add_argument("--count", type=int, default=None)
     more.add_argument("--date", type=_date, default=date.today())
     more.add_argument("--dry-run", action="store_true")
     more.add_argument("--debug-scores", action="store_true")
@@ -48,14 +48,14 @@ def _deliver(
     dry_run: bool,
     debug_scores: bool,
 ) -> None:
-    print(render_console(result.category, run_date, result.selected))
+    print(render_console(result.category, run_date, result.selected, mode=result.mode))
     print(f"Sources: {json.dumps(result.source_counts, sort_keys=True)}")
     if debug_scores:
         for paper in result.candidates:
             print(json.dumps(debug_score(paper), ensure_ascii=False, sort_keys=True))
     if dry_run:
         return
-    webhook.send_header(result.category, run_date, result.selected)
+    webhook.send_header(result.category, run_date, result.selected, mode=result.mode)
     for paper in result.selected:
         webhook.send_paper(result.category, paper)
         pipeline.state.mark_sent(paper, result.category)
@@ -82,9 +82,9 @@ def main(argv: list[str] | None = None) -> int:
                 pipeline.cache_results(args.date, results)
                 pipeline.persist_state(args.date)
         else:
-            ranked = pipeline.candidates_for_more(args.category, args.date)
-            selected = pipeline.select_more(args.category, ranked, max(1, args.count))
-            result = RunResult(args.category, ranked, selected, {"candidate_cache": len(ranked)})
+            configured_count = config.common["search"]["more"]["count"]
+            count = max(1, args.count if args.count is not None else configured_count)
+            result = pipeline.run_more(args.category, args.date, count)
             _deliver(pipeline, webhook, result, args.date, args.dry_run, args.debug_scores)
             if not args.dry_run:
                 pipeline.persist_state(args.date)

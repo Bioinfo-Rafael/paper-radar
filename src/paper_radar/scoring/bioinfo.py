@@ -3,7 +3,7 @@ from __future__ import annotations
 from datetime import date
 from typing import Any
 
-from paper_radar.models import Paper
+from paper_radar.models import Paper, Rating
 from paper_radar.scoring.common import (
     add_matches,
     apply_rating,
@@ -126,5 +126,9 @@ def score_bioinfo(
         and paper.score >= config["thresholds"]["strong"]
     ):
         paper.score = config["thresholds"]["strong"] - 0.001
-        paper.rating = paper.rating.BELOW
+        paper.rating = (
+            Rating.CANDIDATE
+            if paper.score >= config["thresholds"]["more_min_score"]
+            else Rating.BELOW
+        )
     return paper

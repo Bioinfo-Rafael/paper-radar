@@ -33,8 +33,11 @@ def weighted_family_component(
 
 
 def venue_in(venue: str | None, candidates: Iterable[str]) -> bool:
-    current = re.sub(r"[^a-z0-9]", "", (venue or "").casefold())
-    return any(re.sub(r"[^a-z0-9]", "", item.casefold()) in current for item in candidates)
+    def normalized(value: str) -> str:
+        return " ".join(re.sub(r"[^a-z0-9]+", " ", value.casefold()).split())
+
+    current = normalized(venue or "")
+    return any(current == normalized(candidate) for candidate in candidates)
 
 
 def recency_component(paper: Paper, today: date, max_weight: float, window_days: int = 14) -> float:
@@ -58,6 +61,8 @@ def apply_rating(paper: Paper, thresholds: dict[str, float]) -> None:
         paper.rating = Rating.MUST_READ
     elif paper.score >= thresholds["strong"]:
         paper.rating = Rating.STRONG
+    elif paper.score >= thresholds["more_min_score"]:
+        paper.rating = Rating.CANDIDATE
     else:
         paper.rating = Rating.BELOW
 

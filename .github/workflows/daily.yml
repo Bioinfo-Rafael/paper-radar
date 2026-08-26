@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: paper-radar-daily
+  group: paper-radar-state
   cancel-in-progress: false
 
 jobs:
@@ -33,7 +33,7 @@ jobs:
           NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
         run: python -m paper_radar.cli daily --category all
-      - name: Persist deduplication state and /more candidates
+      - name: Persist deduplication state and audit candidates
         run: |
           if git diff --quiet -- state/sent.json state/candidates.json; then
             exit 0
@@ -43,4 +43,3 @@ jobs:
           git add state/sent.json state/candidates.json
           git commit -m "chore(state): persist paper radar run"
           git push
-

@@ -7,6 +7,7 @@ Paper Radar is a personal, LLM-free research monitor. Every run gathers a delibe
 - **Bioinfo:** prioritizes computational method development for scRNA-seq, dynamics, GRNs, perturbation, generative models, multi-omics, spatial methods, and single-cell foundation models.
 - **ML Algorithms:** prioritizes actionable changes to model design, training, formulation, understanding, diagnosis, or evaluation.
 - **AI Frontier:** starts from the current ISO week's Hugging Face Daily Papers Trending Top 50 and tracks Physical AI, VLA, world models, agents, self-improvement, and AI scientists.
+- Sends every unsent paper at or above the category's `more_min_score`; there is no daily paper cap.
 - Keeps `matched_criteria`, `penalties`, and every numeric score component for inspection with `--debug-scores`.
 - Does not use OpenAI, Anthropic, Gemini, or any other LLM API.
 
@@ -19,12 +20,12 @@ bioRxiv / PubMed / arXiv / Semantic Scholar / Hugging Face
                          │
              normalize → deduplicate → score
                          │
-             daily cutoff or same-rank /more
+       daily selection or fresh broader /more search
                          │
                 Discord webhooks + state
 ```
 
-Candidate generation and ranking are separate. Semantic Scholar recommendations add candidates and at most a small score bonus; they are never a hard filter. The `src/paper_radar` core never imports `extensions`, so deleting experimental extensions cannot break daily or `/more`.
+Candidate generation and ranking are separate. Semantic Scholar recommendations add candidates and at most a small score bonus; they are never a hard filter. Daily sends all unsent papers at or above `more_min_score`. `/more` performs a fresh, broader search using the same ranking criteria, excludes already-sent papers, and returns up to five additional results. The `src/paper_radar` core never imports `extensions`, so deleting experimental extensions cannot break daily or `/more`.
 
 ## 3. Local setup
 
@@ -108,13 +109,15 @@ Edit `config/ai_frontier.yaml`. HF Trending rank is the dominant component, foll
 
 Each category YAML contains `thresholds.must_read`, `thresholds.strong`, and `thresholds.more_min_score`. Defaults are:
 
-| Category | Must Read | Strong | `/more` minimum |
+Daily/explore acquisition breadth is configured independently in `config/common.yaml` under `search.daily` and `search.more`. The defaults are 14 days/1× for daily and 30 days/3× for `/more`; changing these does not duplicate or alter scoring rules.
+
+| Category | Must Read | Strong | Candidate / `/more` minimum |
 |---|---:|---:|---:|
 | Bioinfo | 9.0 | 6.2 | 4.8 |
 | ML | 8.5 | 5.8 | 4.5 |
 | Frontier | 8.0 | 5.7 | 4.4 |
 
-Daily sends every Must Read plus at most three Strong papers. Must Read is never artificially capped.
+Papers at or above Must Read and Strong thresholds receive those ratings. Papers from `more_min_score` up to the Strong threshold receive `★★★☆☆ Candidate`. Daily sends every unsent Must Read, Strong, and Candidate paper without an artificial cap.
 
 ## 13. How to add positive/negative seeds
 
@@ -122,7 +125,9 @@ Edit `config/seeds.yaml`. A seed may supply a `paper_id` directly or only a titl
 
 ## 14. `/more` setup
 
-`python -m paper_radar.cli more` reuses the scored candidate cache from daily; it has no second ranker. It filters hard exclusions and sent papers, then returns the next five above `more_min_score`. `.github/workflows/more.yml` exposes the same operation through `workflow_dispatch`.
+`python -m paper_radar.cli more` performs fresh network acquisition; it never uses `state/candidates.json` as its candidate source. Explore mode defaults to a 30-day lookback and 3× source limits, while reusing the exact daily scorer, thresholds, and hard exclusions. It removes every paper already present in `state/sent.json` and returns up to five qualifying results. Repeated calls therefore return different unsent papers when enough results exist. `.github/workflows/more.yml` exposes the same operation through `workflow_dispatch`.
+
+Daily and `/more` share the `paper-radar-state` GitHub Actions concurrency group, preventing simultaneous state writers. The daily candidate cache remains available only for debugging, score inspection, and audit.
 
 ## 15. Cloudflare Worker deployment
 
@@ -160,7 +165,7 @@ This creates `/more category:<bioinfo|ml|frontier>`. The GitHub token and Discor
 - **No Discord post:** verify the category-specific webhook environment variable. A zero-result live run still sends the daily header.
 - **Too many/few papers:** first inspect `--debug-scores`, then tune weights and thresholds in YAML.
 - **Repeated paper:** inspect `state/sent.json`. Identity priority is DOI → arXiv → bioRxiv DOI → Semantic Scholar ID → normalized title. A formal journal publication after a sent bioRxiv preprint is intentionally allowed once.
-- **`/more` refetches:** run daily live once so `state/candidates.json` exists.
+- **`/more` is slower than daily:** explore mode intentionally performs fresh 30-day acquisition with larger source limits. It does not depend on the daily candidate cache.
 - **Tests:** run `pytest`; all scoring tests are deterministic and use no network.
 
 External APIs used: official bioRxiv details/publication mapping endpoints, NCBI PubMed E-utilities, arXiv Atom API, Semantic Scholar Academic Graph and Recommendations APIs, and `huggingface_hub.HfApi.list_daily_papers`.

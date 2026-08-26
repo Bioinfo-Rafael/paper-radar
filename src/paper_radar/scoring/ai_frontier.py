@@ -28,9 +28,8 @@ def score_frontier(paper: Paper, config: dict[str, Any], today: date) -> Paper:
     if rank > ranking["core_max_rank"]:
         paper.excluded = True
         paper.penalties.append("outside-HF-candidate-pool")
-    hf_score = weights["hf_rank_max"] * max(
-        0.0, 1 - (rank - 1) / max(1, ranking["core_max_rank"] - 1)
-    )
+    score_window = ranking.get("hf_rank_score_window", ranking["core_max_rank"])
+    hf_score = weights["hf_rank_max"] * max(0.0, 1 - (rank - 1) / max(1, score_window - 1))
     paper.score_components["hf_trending"] = round(hf_score, 3)
     paper.matched_criteria.append(f"HF Trending #{rank}")
     paper.score_components["core_topic"] = round(weights["core_topic"] * len(core_hits), 3)

@@ -56,8 +56,7 @@ export default {
     ctx.waitUntil(dispatchWorkflow(env, category));
     return Response.json({
       type: 4,
-      data: { content: `Fetching 5 more ${category} papers…`, flags: 64 },
+      data: { content: `Searching for 5 more ${category} papers…`, flags: 64 },
     });
   },
 };
-

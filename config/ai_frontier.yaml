@@ -35,11 +35,11 @@ thresholds:
   strong: 5.7
   more_min_score: 4.4
 ranking:
-  core_max_rank: 50
+  core_max_rank: 100
+  hf_rank_score_window: 50
   secondary_max_rank: 15
   secondary_breakthrough_max_rank: 10
   resurfaced_max_rank: 5
   legendary_min_citations: 1000
   legendary_min_influential_citations: 100
   old_after_days: 730
-

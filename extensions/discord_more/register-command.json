@@ -1,6 +1,6 @@
 {
   "name": "more",
-  "description": "Send the next five papers from Paper Radar's existing ranking",
+  "description": "Search again for additional Paper Radar recommendations",
   "options": [
     {
       "name": "category",
@@ -15,4 +15,3 @@
     }
   ]
 }
-

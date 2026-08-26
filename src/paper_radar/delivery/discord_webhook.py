@@ -19,12 +19,30 @@ LABELS = {
 }
 
 
-def render_console(category: str, run_date: date, papers: list[Paper]) -> str:
+def _rating_counts(papers: list[Paper]) -> tuple[int, int, int]:
     must = sum(p.rating is Rating.MUST_READ for p in papers)
     strong = sum(p.rating is Rating.STRONG for p in papers)
-    lines = [f"{LABELS[category]} — {run_date.isoformat()}", f"{must} Must Read · {strong} Strong"]
+    candidate = sum(p.rating is Rating.CANDIDATE for p in papers)
+    return must, strong, candidate
+
+
+def render_console(
+    category: str,
+    run_date: date,
+    papers: list[Paper],
+    mode: str = "daily",
+) -> str:
+    must, strong, candidate = _rating_counts(papers)
+    lines = [
+        f"{LABELS[category]} — {run_date.isoformat()}",
+        f"{must} Must Read · {strong} Strong · {candidate} Candidate",
+    ]
     if not papers:
-        lines.append("No new papers above the notification threshold.")
+        lines.append(
+            "No additional qualifying papers found."
+            if mode == "more"
+            else "No new papers above the notification threshold."
+        )
     for paper in papers:
         lines.extend(
             [
@@ -78,12 +96,24 @@ class DiscordWebhook:
             raise RuntimeError(f"Required environment variable is not set: {name}")
         return value
 
-    def send_header(self, category: str, run_date: date, papers: list[Paper]) -> None:
-        must = sum(p.rating is Rating.MUST_READ for p in papers)
-        strong = sum(p.rating is Rating.STRONG for p in papers)
+    def send_header(
+        self,
+        category: str,
+        run_date: date,
+        papers: list[Paper],
+        mode: str = "daily",
+    ) -> None:
+        must, strong, candidate = _rating_counts(papers)
         content = (
-            f"**{LABELS[category]} — {run_date.isoformat()}**\n{must} Must Read · {strong} Strong"
+            f"**{LABELS[category]} — {run_date.isoformat()}**\n"
+            f"{must} Must Read · {strong} Strong · {candidate} Candidate"
         )
+        if not papers:
+            content += (
+                "\nNo additional qualifying papers found."
+                if mode == "more"
+                else "\nNo new papers above the notification threshold."
+            )
         self.client.request(
             "POST", self.webhook_url(category), json={"username": self.username, "content": content}
         )

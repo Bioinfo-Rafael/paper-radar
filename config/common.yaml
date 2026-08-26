@@ -1,15 +1,20 @@
-lookback_days: 14
 request_timeout_seconds: 25
 request_retries: 4
+search:
+  daily:
+    lookback_days: 14
+    source_limit_multiplier: 1
+  more:
+    lookback_days: 30
+    source_limit_multiplier: 3
+    count: 5
 source_limits:
   semantic_scholar_per_query: 35
+  semantic_scholar_recommendations: 50
   pubmed_per_query: 80
   arxiv_total: 350
   huggingface: 50
-selection:
-  strong_daily_limit: 3
-  target_soft_limit: 5
-  more_count: 5
+  huggingface_max: 100
 state:
   path: state/sent.json
   candidate_cache: state/candidates.json
@@ -20,4 +25,3 @@ discord:
     bioinfo: 3066993
     ml: 10181046
     frontier: 15105570
-

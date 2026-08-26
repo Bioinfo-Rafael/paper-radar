@@ -4,6 +4,7 @@ from paper_radar.dedup import deduplicate
 from paper_radar.models import Rating
 from paper_radar.pipeline import Pipeline
 from paper_radar.scoring.bioinfo import score_bioinfo
+from paper_radar.scoring.common import venue_in
 from paper_radar.state import StateStore
 from tests.conftest import make_paper
 
@@ -57,3 +58,10 @@ def test_more_never_repeats_daily(config, tmp_path, monkeypatch):
     pipeline.state.mark_sent(daily, "bioinfo")
     selected = pipeline.select_more("bioinfo", [daily, next_paper], 5)
     assert selected == [next_paper]
+
+
+def test_venue_matching_does_not_use_substrings():
+    assert venue_in("Science", ["Science"])
+    assert not venue_in("iScience", ["Science"])
+    assert not venue_in("Interdisciplinary sciences", ["Science"])
+    assert not venue_in("Nature Communications", ["Nature"])

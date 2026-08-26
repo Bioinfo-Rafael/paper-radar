@@ -11,7 +11,8 @@ from typing import Any
 class Rating(StrEnum):
     MUST_READ = "★★★★★ Must Read"
     STRONG = "★★★★☆ Strong"
-    BELOW = "★★★☆☆ Below notification threshold"
+    CANDIDATE = "★★★☆☆ Candidate"
+    BELOW = "Below notification threshold"
     EXCLUDED = "Excluded"
 
 
@@ -113,5 +114,8 @@ class Paper:
         if clean.get("publication_date"):
             clean["publication_date"] = date.fromisoformat(clean["publication_date"])
         if clean.get("rating"):
-            clean["rating"] = Rating(clean["rating"])
+            legacy_rating = "★★★☆☆ Below notification threshold"
+            clean["rating"] = (
+                Rating.BELOW if clean["rating"] == legacy_rating else Rating(clean["rating"])
+            )
         return cls(**clean)

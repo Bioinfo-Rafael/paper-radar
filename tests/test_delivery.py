@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from datetime import date
 
-from paper_radar.delivery.discord_webhook import DiscordWebhook, paper_embed
+from paper_radar.delivery.discord_webhook import DiscordWebhook, paper_embed, render_console
 from paper_radar.models import Rating
 from tests.conftest import make_paper
 
@@ -47,3 +47,11 @@ def test_three_category_webhooks_are_environment_only(monkeypatch):
         "https://example.test/ml",
         "https://example.test/frontier",
     ]
+
+
+def test_candidate_header_and_empty_more_message():
+    candidate = make_paper(score=5, rating=Rating.CANDIDATE)
+    rendered = render_console("bioinfo", date(2026, 8, 26), [candidate])
+    empty = render_console("bioinfo", date(2026, 8, 26), [], mode="more")
+    assert "0 Must Read · 0 Strong · 1 Candidate" in rendered
+    assert "No additional qualifying papers found." in empty

@@ -48,6 +48,15 @@ def load_config(root: Path | None = None) -> RadarConfig:
     root = (root or find_project_root()).resolve()
     config_dir = root / "config"
     common = _read_yaml(config_dir / "common.yaml")
+    search = common.get("search", {})
+    for mode in ("daily", "more"):
+        values = search.get(mode, {})
+        if int(values.get("lookback_days", 0)) <= 0:
+            raise ConfigError(f"config/common: {mode}.lookback_days must be positive")
+        if int(values.get("source_limit_multiplier", 0)) <= 0:
+            raise ConfigError(f"config/common: {mode}.source_limit_multiplier must be positive")
+    if int(search["more"].get("count", 0)) <= 0:
+        raise ConfigError("config/common: more.count must be positive")
     venues = _read_yaml(config_dir / "venues.yaml")
     seeds = _read_yaml(config_dir / "seeds.yaml")
     categories = {
