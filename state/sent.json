@@ -141,6 +141,76 @@
         "arxiv:2606.31227",
         "title:securingtheaiagentaunifiedframeworkformultilayeragentredteaming"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1073/pnas.2525359123",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:21:29.431261+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1073/pnas.2525359123",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "title_key": "canonenablescausalinferenceofdownstreamgenesinsinglecellcrisprstudiesviainstrumentalvariableanalysis",
+      "identity_keys": [
+        "doi:10.1073/pnas.2525359123",
+        "title:canonenablescausalinferenceofdownstreamgenesinsinglecellcrisprstudiesviainstrumentalvariableanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2026.101703",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:21:29.678361+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2026.101703",
+      "venue": "Cell Systems",
+      "title_key": "robustidentificationofcellcellcommunicationheterogeneityinsinglecells",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2026.101703",
+        "title:robustidentificationofcellcellcommunicationheterogeneityinsinglecells"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2025.12.18.695252",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:21:29.844792+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2025.12.18.695252",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "rnavelocityingrowingcells",
+      "identity_keys": [
+        "biorxiv:10.64898/2025.12.18.695252",
+        "title:rnavelocityingrowingcells"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.20.746112",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:21:30.014267+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.20.746112",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "multiflowcoupledflowmatchingforpredictingsinglecellmultiomicperturbationresponsesinunseencellularcontexts",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.20.746112",
+        "title:multiflowcoupledflowmatchingforpredictingsinglecellmultiomicperturbationresponsesinunseencellularcontexts"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.20.745960",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:21:30.192718+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.20.745960",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "bulk2scdiffapseudobulkconditioneddiffusionmodelforbulktosinglecellrnaseqgeneration",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.20.745960",
+        "title:bulk2scdiffapseudobulkconditioneddiffusionmodelforbulktosinglecellrnaseqgeneration"
+      ]
     }
   ]
 }
