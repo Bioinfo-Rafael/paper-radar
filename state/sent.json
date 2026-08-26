@@ -253,6 +253,76 @@
         "arxiv:2504.19413",
         "title:mem0buildingproductionreadyaiagentswithscalablelongtermmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2607.05391",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T13:23:51.412429+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "llmasaverifierageneralpurposeverificationframework",
+      "identity_keys": [
+        "arxiv:2607.05391",
+        "title:llmasaverifierageneralpurposeverificationframework"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2605.31264",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T13:23:51.697179+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "colleagueskillautomatedaiskillgenerationviaexpertknowledgedistillation",
+      "identity_keys": [
+        "arxiv:2605.31264",
+        "title:colleagueskillautomatedaiskillgenerationviaexpertknowledgedistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2605.03042",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T13:23:51.864000+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "arisautonomousresearchviaadversarialmultiagentcollaboration",
+      "identity_keys": [
+        "arxiv:2605.03042",
+        "title:arisautonomousresearchviaadversarialmultiagentcollaboration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2508.03680",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T13:23:51.968792+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentlightningtrainanyaiagentswithreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2508.03680",
+        "title:agentlightningtrainanyaiagentswithreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2606.23050",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T13:23:52.094881+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unlimitedocrworks",
+      "identity_keys": [
+        "arxiv:2606.23050",
+        "title:unlimitedocrworks"
+      ]
     }
   ]
 }
