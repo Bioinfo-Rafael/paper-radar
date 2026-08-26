@@ -1,5 +1,146 @@
 {
   "version": 1,
-  "records": []
+  "records": [
+    {
+      "canonical_id": "doi:10.1101/gr.281460.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:16:54.736535+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/gr.281460.125",
+      "published_doi": null,
+      "venue": "Genome research",
+      "title_key": "bayesianinferenceoflineagetreesbyjointanalysisofsinglecellmultimodallineagetracingdatawithbilint",
+      "identity_keys": [
+        "biorxiv:10.1101/gr.281460.125",
+        "doi:10.1101/gr.281460.125",
+        "title:bayesianinferenceoflineagetreesbyjointanalysisofsinglecellmultimodallineagetracingdatawithbilint"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.05.15.725379",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:16:55.032147+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.05.15.725379",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "crosscohortoptimaltransportmapsmacrophageplasticityandcompetingroutestoinflammationandfibrosisinhumanatheroscleroticplaques",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.05.15.725379",
+        "title:crosscohortoptimaltransportmapsmacrophageplasticityandcompetingroutestoinflammationandfibrosisinhumanatheroscleroticplaques"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.15.745056",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-26T12:16:55.292763+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.15.745056",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "boyuegrnzeroshotcausaldiscoveryofdirectedgeneregulatorynetworksfromsinglecelltranscriptomesviaamortizedinferenceoversyntheticstructuralcausalmodels",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.15.745056",
+        "title:boyuegrnzeroshotcausaldiscoveryofdirectedgeneregulatorynetworksfromsinglecelltranscriptomesviaamortizedinferenceoversyntheticstructuralcausalmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24068",
+      "category": "ml",
+      "first_sent_at": "2026-08-26T12:16:55.800347+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "representationlearningindiffusionandflowbasedmodelanapplicationaspect",
+      "identity_keys": [
+        "arxiv:2608.24068",
+        "title:representationlearningindiffusionandflowbasedmodelanapplicationaspect"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23911",
+      "category": "ml",
+      "first_sent_at": "2026-08-26T12:16:56.103177+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "proofgenfromoptimizeddatatobetterdistillation",
+      "identity_keys": [
+        "arxiv:2608.23911",
+        "title:proofgenfromoptimizeddatatobetterdistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09888",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:16:56.756043+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bdhcqincontextlearningwithrecurrentlatentreasoning",
+      "identity_keys": [
+        "arxiv:2608.09888",
+        "title:bdhcqincontextlearningwithrecurrentlatentreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23552",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:16:57.069664+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "primeagentaselfimprovingrlmharness",
+      "identity_keys": [
+        "arxiv:2608.23552",
+        "title:primeagentaselfimprovingrlmharness"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2605.12500",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:16:57.296131+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sensenovau1unifyingmultimodalunderstandingandgenerationwithneounifyarchitecture",
+      "identity_keys": [
+        "arxiv:2605.12500",
+        "title:sensenovau1unifyingmultimodalunderstandingandgenerationwithneounifyarchitecture"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16157",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:16:57.545299+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "freetokenefficientedgenativemoeservingwithbandwidthadaptiveexecution",
+      "identity_keys": [
+        "arxiv:2608.16157",
+        "title:freetokenefficientedgenativemoeservingwithbandwidthadaptiveexecution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2606.31227",
+      "category": "frontier",
+      "first_sent_at": "2026-08-26T12:16:57.837531+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "securingtheaiagentaunifiedframeworkformultilayeragentredteaming",
+      "identity_keys": [
+        "arxiv:2606.31227",
+        "title:securingtheaiagentaunifiedframeworkformultilayeragentredteaming"
+      ]
+    }
+  ]
 }
-
