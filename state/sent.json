@@ -323,6 +323,76 @@
         "arxiv:2606.23050",
         "title:unlimitedocrworks"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nargab/lqag087",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-27T03:06:14.443721+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nargab/lqag087",
+      "venue": "NAR genomics and bioinformatics",
+      "title_key": "cfmgpunifiedconditionalflowmatchingtolearngeneperturbationacrosscelltypes",
+      "identity_keys": [
+        "doi:10.1093/nargab/lqag087",
+        "title:cfmgpunifiedconditionalflowmatchingtolearngeneperturbationacrosscelltypes"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag414",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-27T03:06:14.725158+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag414",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "sctimebenchastreamlinedbenchmarkingplatformforsinglecelltimeseriesanalysis",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag414",
+        "title:sctimebenchastreamlinedbenchmarkingplatformforsinglecelltimeseriesanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fbinf.2026.1883130",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-27T03:06:14.951959+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fbinf.2026.1883130",
+      "venue": "Frontiers in bioinformatics",
+      "title_key": "multicausgrndirectedpriorguidedgraphattentionmodelformultiomicsgeneregulatorynetworkinference",
+      "identity_keys": [
+        "doi:10.3389/fbinf.2026.1883130",
+        "title:multicausgrndirectedpriorguidedgraphattentionmodelformultiomicsgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-026-03172-0",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-27T03:06:15.374877+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-026-03172-0",
+      "venue": "Nature methods",
+      "title_key": "inferenceofsecretedproteinsignalingactivitiesinintercellularcommunication",
+      "identity_keys": [
+        "doi:10.1038/s41592-026-03172-0",
+        "title:inferenceofsecretedproteinsignalingactivitiesinintercellularcommunication"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41588-026-02695-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-27T03:06:15.545550+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41588-026-02695-8",
+      "venue": "Nature genetics",
+      "title_key": "mappingenhancergeneregulatoryinteractionsfromsinglecelldata",
+      "identity_keys": [
+        "doi:10.1038/s41588-026-02695-8",
+        "title:mappingenhancergeneregulatoryinteractionsfromsinglecelldata"
+      ]
     }
   ]
 }
