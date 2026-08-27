@@ -681,6 +681,76 @@
         "s2:061c7c7b2587b9b88f3aa1cfe097da78592eafbb",
         "title:voicememstreamingdualbrainmemoryforrealtimeinteraction"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23014",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T23:44:54.962480+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anadiffusionanatomicallycompositionallatentdiffusionforcontrollable3dbrainmrigeneration",
+      "identity_keys": [
+        "arxiv:2608.23014",
+        "title:anadiffusionanatomicallycompositionallatentdiffusionforcontrollable3dbrainmrigeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23664",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T23:44:55.217085+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalingreinforcementlearningfordiffusionmodelsviavelocitymatching",
+      "identity_keys": [
+        "arxiv:2608.23664",
+        "title:scalingreinforcementlearningfordiffusionmodelsviavelocitymatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24366",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T23:44:55.848968+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "varianceguidedspatialattentionfusionforrobustendtoenddrivingunderasymmetricsensordegradation",
+      "identity_keys": [
+        "arxiv:2608.24366",
+        "title:varianceguidedspatialattentionfusionforrobustendtoenddrivingunderasymmetricsensordegradation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24859",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T23:44:56.561760+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "improvingcrossproblemvehicleroutingwithlocallyaugmentedpreferencesandrepresentationdisentanglement",
+      "identity_keys": [
+        "arxiv:2608.24859",
+        "title:improvingcrossproblemvehicleroutingwithlocallyaugmentedpreferencesandrepresentationdisentanglement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23353",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T23:44:56.940578+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "formuevollmguidedevolutionfordiscoveringsolverefficientmixedintegerprogrammingformulations",
+      "identity_keys": [
+        "arxiv:2608.23353",
+        "title:formuevollmguidedevolutionfordiscoveringsolverefficientmixedintegerprogrammingformulations"
+      ]
     }
   ]
 }
