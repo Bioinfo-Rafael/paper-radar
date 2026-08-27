@@ -651,6 +651,36 @@
         "s2:4ba72bcb0510a905480e79e318cda842d2b0bff1",
         "title:kimik3openfrontierintelligence"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26067",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T23:43:14.884465+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "streampistreamingmultimodaltemporalmodelingforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.26067",
+        "s2:5f05bc5e8a8c093b816168bc2a4feb6419854f2a",
+        "title:streampistreamingmultimodaltemporalmodelingforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26005",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T23:43:15.412475+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "voicememstreamingdualbrainmemoryforrealtimeinteraction",
+      "identity_keys": [
+        "arxiv:2608.26005",
+        "s2:061c7c7b2587b9b88f3aa1cfe097da78592eafbb",
+        "title:voicememstreamingdualbrainmemoryforrealtimeinteraction"
+      ]
     }
   ]
 }
