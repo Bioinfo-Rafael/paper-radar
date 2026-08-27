@@ -2,8 +2,11 @@ name: Daily Paper Radar
 
 on:
   schedule:
-    # 23:15 UTC = 08:15 JST on the following day.
-    - cron: "15 23 * * *"
+    # GitHub may delay scheduled jobs during periods of high Actions load.
+    - cron: "45 7 * * *"
+      timezone: Asia/Tokyo
+    - cron: "45 12 * * *"
+      timezone: Asia/Tokyo
   workflow_dispatch:
 
 permissions:

@@ -2,7 +2,14 @@ from __future__ import annotations
 
 from datetime import date
 
-from paper_radar.delivery.discord_webhook import DiscordWebhook, paper_embed, render_console
+import pytest
+
+from paper_radar.delivery.discord_webhook import (
+    DiscordWebhook,
+    paper_embed,
+    publication_line,
+    render_console,
+)
 from paper_radar.models import Rating
 from tests.conftest import make_paper
 
@@ -27,10 +34,40 @@ def test_embed_contains_only_compact_required_fields():
     embed = paper_embed(paper, 123)
     rendered = str(embed)
     assert paper.title in rendered
-    assert "2026 · Nature Methods" in rendered
+    assert "2026-08-24 · Nature Methods" in rendered
     assert "single-cell · formulation" in rendered
+    assert "⭐⭐⭐⭐⭐" in rendered
     assert paper.abstract not in rendered
-    assert set(embed) <= {"title", "url", "color", "fields", "footer"}
+    assert not {
+        "Publication",
+        "Rating",
+        "Matched",
+        "Paper",
+        "Open paper",
+        "Published",
+    }.intersection(rendered.split())
+    assert set(embed) == {"title", "url", "color", "description"}
+
+
+def test_publication_line_falls_back_to_year():
+    paper = make_paper(publication_date=None, year=2025, venue="ICML")
+    assert publication_line(paper) == "2025 · ICML"
+
+
+@pytest.mark.parametrize(
+    ("rating", "stars"),
+    [
+        (Rating.MUST_READ, "⭐⭐⭐⭐⭐"),
+        (Rating.STRONG, "⭐⭐⭐⭐"),
+        (Rating.CANDIDATE, "⭐⭐⭐"),
+    ],
+)
+def test_rating_is_rendered_as_stars_only(rating, stars):
+    rendered = paper_embed(make_paper(rating=rating), 123)["description"]
+    assert stars in rendered
+    assert "Must Read" not in rendered
+    assert "Strong" not in rendered
+    assert "Candidate" not in rendered
 
 
 def test_three_category_webhooks_are_environment_only(monkeypatch):
@@ -55,3 +92,13 @@ def test_candidate_header_and_empty_more_message():
     empty = render_console("bioinfo", date(2026, 8, 26), [], mode="more")
     assert "0 Must Read · 0 Strong · 1 Candidate" in rendered
     assert "No additional qualifying papers found." in empty
+
+
+def test_group_header_payload(monkeypatch):
+    from paper_radar.presentation import PaperGroup
+
+    client = FakeClient()
+    webhook = DiscordWebhook(client, "Paper Radar", {"bioinfo": 1})
+    monkeypatch.setenv("DISCORD_BIOINFO_WEBHOOK", "https://example.test/bioinfo")
+    webhook.send_group_header("bioinfo", PaperGroup("🌟 Major Journals", [make_paper()]))
+    assert client.calls[0][2]["json"]["content"] == "**🌟 Major Journals — 1 papers**"

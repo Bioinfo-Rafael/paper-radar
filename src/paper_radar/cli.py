@@ -4,15 +4,22 @@ import argparse
 import json
 import logging
 import sys
-from datetime import date
+from datetime import date, datetime
+from zoneinfo import ZoneInfo
 
 from paper_radar.config import load_config
 from paper_radar.delivery.discord_webhook import DiscordWebhook, render_console
 from paper_radar.pipeline import Pipeline, RunResult
+from paper_radar.presentation import group_papers
 from paper_radar.scoring.common import debug_score
 
 LOGGER = logging.getLogger(__name__)
 CATEGORIES = ("bioinfo", "ml", "frontier")
+JST = ZoneInfo("Asia/Tokyo")
+
+
+def jst_today() -> date:
+    return datetime.now(JST).date()
 
 
 def _date(value: str) -> date:
@@ -28,13 +35,13 @@ def parser() -> argparse.ArgumentParser:
     commands = root.add_subparsers(dest="command", required=True)
     daily = commands.add_parser("daily", help="Fetch, rank and deliver the daily radar")
     daily.add_argument("--category", choices=(*CATEGORIES, "all"), default="all")
-    daily.add_argument("--date", type=_date, default=date.today())
+    daily.add_argument("--date", type=_date, default=jst_today())
     daily.add_argument("--dry-run", action="store_true")
     daily.add_argument("--debug-scores", action="store_true")
     more = commands.add_parser("more", help="Run a fresh, broader search for additional papers")
     more.add_argument("--category", choices=CATEGORIES, required=True)
     more.add_argument("--count", type=int, default=None)
-    more.add_argument("--date", type=_date, default=date.today())
+    more.add_argument("--date", type=_date, default=jst_today())
     more.add_argument("--dry-run", action="store_true")
     more.add_argument("--debug-scores", action="store_true")
     return root
@@ -48,7 +55,14 @@ def _deliver(
     dry_run: bool,
     debug_scores: bool,
 ) -> None:
-    print(render_console(result.category, run_date, result.selected, mode=result.mode))
+    groups = group_papers(
+        result.category,
+        result.selected,
+        pipeline.config.venues.get(result.category),
+    )
+    print(
+        render_console(result.category, run_date, result.selected, mode=result.mode, groups=groups)
+    )
     print(f"Sources: {json.dumps(result.source_counts, sort_keys=True)}")
     if debug_scores:
         for paper in result.candidates:
@@ -56,9 +70,11 @@ def _deliver(
     if dry_run:
         return
     webhook.send_header(result.category, run_date, result.selected, mode=result.mode)
-    for paper in result.selected:
-        webhook.send_paper(result.category, paper)
-        pipeline.state.mark_sent(paper, result.category)
+    for group in groups:
+        webhook.send_group_header(result.category, group)
+        for paper in group.papers:
+            webhook.send_paper(result.category, paper)
+            pipeline.state.mark_sent(paper, result.category)
 
 
 def main(argv: list[str] | None = None) -> int:

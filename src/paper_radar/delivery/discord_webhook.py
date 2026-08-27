@@ -6,6 +6,7 @@ from typing import Any
 
 from paper_radar.http import HttpClient
 from paper_radar.models import Paper, Rating
+from paper_radar.presentation import PaperGroup
 
 WEBHOOK_ENV = {
     "bioinfo": "DISCORD_BIOINFO_WEBHOOK",
@@ -17,6 +18,20 @@ LABELS = {
     "ml": "🧠 ML Algorithms Radar",
     "frontier": "🚀 AI Frontier Radar",
 }
+RATING_STARS = {
+    Rating.MUST_READ: "⭐⭐⭐⭐⭐",
+    Rating.STRONG: "⭐⭐⭐⭐",
+    Rating.CANDIDATE: "⭐⭐⭐",
+}
+
+
+def publication_line(paper: Paper) -> str:
+    published = (
+        paper.publication_date.isoformat()
+        if paper.publication_date
+        else str(paper.year or "Unknown")
+    )
+    return f"{published} · {paper.venue or 'Unknown venue'}"
 
 
 def _rating_counts(papers: list[Paper]) -> tuple[int, int, int]:
@@ -31,6 +46,7 @@ def render_console(
     run_date: date,
     papers: list[Paper],
     mode: str = "daily",
+    groups: list[PaperGroup] | None = None,
 ) -> str:
     must, strong, candidate = _rating_counts(papers)
     lines = [
@@ -43,43 +59,38 @@ def render_console(
             if mode == "more"
             else "No new papers above the notification threshold."
         )
-    for paper in papers:
-        lines.extend(
-            [
-                "",
-                paper.rating.value,
-                paper.title,
-                f"{paper.year or 'Year unknown'} · {paper.venue or 'Venue unknown'}",
-                f"Matched: {' · '.join(paper.matched_criteria) or 'criteria unavailable'}",
-                paper.paper_url,
-            ]
-        )
+    presented = groups or ([PaperGroup("", papers)] if papers else [])
+    for group in presented:
+        if group.name:
+            lines.extend(["", f"{group.name} — {len(group.papers)} papers"])
+        for paper in group.papers:
+            lines.extend(
+                [
+                    "",
+                    paper.title,
+                    publication_line(paper),
+                    RATING_STARS.get(paper.rating, ""),
+                    " · ".join(paper.matched_criteria) or "—",
+                    paper.paper_url,
+                ]
+            )
     return "\n".join(lines)
 
 
 def paper_embed(paper: Paper, color: int) -> dict[str, Any]:
-    fields = [
-        {
-            "name": "Publication",
-            "value": f"{paper.year or 'Unknown'} · {paper.venue or 'Unknown venue'}",
-            "inline": False,
-        },
-        {"name": "Rating", "value": paper.rating.value, "inline": False},
-        {
-            "name": "Matched",
-            "value": " · ".join(paper.matched_criteria)[:1024] or "—",
-            "inline": False,
-        },
-        {"name": "Paper", "value": f"[Open paper]({paper.paper_url})", "inline": False},
-    ]
+    description = "\n\n".join(
+        (
+            f"**{publication_line(paper)}**",
+            RATING_STARS.get(paper.rating, ""),
+            (" · ".join(paper.matched_criteria) or "—"),
+        )
+    )
     embed: dict[str, Any] = {
         "title": paper.title[:256],
         "url": paper.paper_url,
         "color": color,
-        "fields": fields,
+        "description": description[:4096],
     }
-    if paper.publication_date:
-        embed["footer"] = {"text": f"Published {paper.publication_date.isoformat()}"}
     return embed
 
 
@@ -120,4 +131,11 @@ class DiscordWebhook:
 
     def send_paper(self, category: str, paper: Paper) -> None:
         payload = {"username": self.username, "embeds": [paper_embed(paper, self.colors[category])]}
+        self.client.request("POST", self.webhook_url(category), json=payload)
+
+    def send_group_header(self, category: str, group: PaperGroup) -> None:
+        payload = {
+            "username": self.username,
+            "content": f"**{group.name} — {len(group.papers)} papers**",
+        }
         self.client.request("POST", self.webhook_url(category), json=payload)

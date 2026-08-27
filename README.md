@@ -22,6 +22,8 @@ bioRxiv / PubMed / arXiv / Semantic Scholar / Hugging Face
                          │
        daily selection or fresh broader /more search
                          │
+              presentation grouping
+                         │
                 Discord webhooks + state
 ```
 
@@ -67,21 +69,21 @@ Add `--debug-scores` to print the full component breakdown. Dry-runs do not send
 
 ## 7. Discord webhook setup
 
-In each Discord channel, open **Edit Channel → Integrations → Webhooks**, create a webhook, and copy its URL into the corresponding local variable or GitHub Actions secret. A run sends one compact header, then one Embed per paper containing only rating, linked title, year, venue, matched criteria, and paper URL.
+In each Discord channel, open **Edit Channel → Integrations → Webhooks**, create a webhook, and copy its URL into the corresponding local variable or GitHub Actions secret. A run sends one radar header, then non-empty presentation group headers, followed by one compact Embed per paper. Each Embed contains a linked title, publication date (or year fallback) and venue, rating stars, and matched criteria. The abstract and redundant labels are not posted.
 
 Example:
 
 ```text
-★★★★★ Must Read
-A New Formulation for RNA Velocity
-2026 · Nature Methods
-Matched: single-cell · rna-velocity · dynamics · formulation · top-venue
-Paper
+🌟 Major Journals — 1 papers
+A New Formulation for RNA Velocity  (linked title)
+2026-08-21 · Nature Methods
+⭐⭐⭐⭐⭐
+single-cell · rna-velocity · dynamics · formulation · top-venue
 ```
 
 ## 8. GitHub Actions schedule
 
-`.github/workflows/daily.yml` runs at `15 23 * * *` (08:15 JST the following day) and supports `workflow_dispatch`. Change the UTC cron line to change the schedule. The workflow commits only `state/sent.json` and the compact qualified-candidate cache, and a state commit cannot retrigger the workflow.
+`.github/workflows/daily.yml` uses `timezone: Asia/Tokyo` and runs twice daily at 07:45 and 12:45 JST. It also supports `workflow_dispatch`. GitHub Actions scheduled workflows can be delayed during periods of high load, so these times are targets rather than strict execution guarantees. The workflow commits only `state/sent.json` and the compact qualified-candidate cache, and a state commit cannot retrigger the workflow.
 
 ## 9. How to edit Bioinfo criteria
 
