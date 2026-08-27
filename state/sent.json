@@ -575,6 +575,82 @@
         "arxiv:2605.20025",
         "title:autoresearchclawselfreinforcingautonomousresearchwithhumanaicollaboration"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23565",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T10:44:44.939140+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reworldaninteractiveworldmodelwithlonghorizonmemory",
+      "identity_keys": [
+        "arxiv:2608.23565",
+        "s2:ca17b66a7bfcf4967832e9115b97214c937275df",
+        "title:reworldaninteractiveworldmodelwithlonghorizonmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.13546",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T10:44:45.251456+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "alayaevokefromlinearscalingsupervisiontoendlessworld",
+      "identity_keys": [
+        "arxiv:2608.13546",
+        "s2:eb6717d44c9976af88a6e22e5111e9f430a617c4",
+        "title:alayaevokefromlinearscalingsupervisiontoendlessworld"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2606.16533",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T10:44:45.419490+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kairosanativeworldmodelstackforphysicalai",
+      "identity_keys": [
+        "arxiv:2606.16533",
+        "s2:d97d1a806b7c08861bed0a1a74bb0a98bd84c208",
+        "title:kairosanativeworldmodelstackforphysicalai"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2501.13956",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T10:44:45.793387+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv.org",
+      "title_key": "zepatemporalknowledgegrapharchitectureforagentmemory",
+      "identity_keys": [
+        "arxiv:2501.13956",
+        "doi:10.48550/arxiv.2501.13956",
+        "s2:12407be490a4e4633da7f25a93af000be573a288",
+        "title:zepatemporalknowledgegrapharchitectureforagentmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.24653",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T10:44:45.958355+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kimik3openfrontierintelligence",
+      "identity_keys": [
+        "arxiv:2607.24653",
+        "s2:4ba72bcb0510a905480e79e318cda842d2b0bff1",
+        "title:kimik3openfrontierintelligence"
+      ]
     }
   ]
 }
