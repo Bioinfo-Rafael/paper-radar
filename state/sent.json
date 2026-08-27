@@ -393,6 +393,188 @@
         "doi:10.1038/s41588-026-02695-8",
         "title:mappingenhancergeneregulatoryinteractionsfromsinglecelldata"
       ]
+    },
+    {
+      "canonical_id": "doi:10.3390/ijms27167300",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-27T10:26:16.548734+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/ijms27167300",
+      "venue": "International journal of molecular sciences",
+      "title_key": "iagrnaninterleavedattentiongraphneuralnetworkforgeneregulatorynetworkinference",
+      "identity_keys": [
+        "doi:10.3390/ijms27167300",
+        "title:iagrnaninterleavedattentiongraphneuralnetworkforgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pbio.3003953",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-27T10:26:16.764854+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pbio.3003953",
+      "venue": "PLoS biology",
+      "title_key": "dynamiclandscapeanalysisofcellfatedecisionsprovidespredictivemodelsofneuraldevelopmentfromsinglecelldata",
+      "identity_keys": [
+        "doi:10.1371/journal.pbio.3003953",
+        "title:dynamiclandscapeanalysisofcellfatedecisionsprovidespredictivemodelsofneuraldevelopmentfromsinglecelldata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25334",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:26:17.772842+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graftsrgraftingauthentictexturesforrealworldimagesuperresolutionviaidenticalinstanceguidance",
+      "identity_keys": [
+        "arxiv:2608.25334",
+        "title:graftsrgraftingauthentictexturesforrealworldimagesuperresolutionviaidenticalinstanceguidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25734",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:26:17.924841+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "interactgestureprogressivechunkguidanceforcontinuousstreamingcospeechgesturecontrol",
+      "identity_keys": [
+        "arxiv:2608.25734",
+        "title:interactgestureprogressivechunkguidanceforcontinuousstreamingcospeechgesturecontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25862",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:26:18.131585+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learninglateguidingearlytimestepdecoupledsemanticguidanceforfairfacegeneration",
+      "identity_keys": [
+        "arxiv:2608.25862",
+        "title:learninglateguidingearlytimestepdecoupledsemanticguidanceforfairfacegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25990",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:26:18.438222+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spectralallocationwhymuonoutperformsadamandhowtoimprovemuon",
+      "identity_keys": [
+        "arxiv:2608.25990",
+        "title:spectralallocationwhymuonoutperformsadamandhowtoimprovemuon"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25773",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:26:18.862804+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "driftawaremultimodaluserrepresentationlearningviamultiscaletemporalmodelingandsparsemixtureofexperts",
+      "identity_keys": [
+        "arxiv:2608.25773",
+        "title:driftawaremultimodaluserrepresentationlearningviamultiscaletemporalmodelingandsparsemixtureofexperts"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25329",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:27:04.361875+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningwhattoshareandwhattopersonalizehierarchicalstrategycoevolutionforagentmemory",
+      "identity_keys": [
+        "arxiv:2608.25329",
+        "title:learningwhattoshareandwhattopersonalizehierarchicalstrategycoevolutionforagentmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25873",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:27:04.965797+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howedgeofstabilityhindersscaffoldinfederatedoptimization",
+      "identity_keys": [
+        "arxiv:2608.25873",
+        "title:howedgeofstabilityhindersscaffoldinfederatedoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25449",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:27:05.143181+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mathadvwhattheoremproversknowreasonformalizeandgeneralize",
+      "identity_keys": [
+        "arxiv:2608.25449",
+        "title:mathadvwhattheoremproversknowreasonformalizeandgeneralize"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25775",
+      "category": "ml",
+      "first_sent_at": "2026-08-27T10:27:05.351514+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tostatreeofthoughtsocraticteachingframeworkformultipathguidanceandparallelthinking",
+      "identity_keys": [
+        "arxiv:2608.25775",
+        "title:tostatreeofthoughtsocraticteachingframeworkformultipathguidanceandparallelthinking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24876",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T10:27:06.164693+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recursiveexperientialworkingmemoryevolutionforlonghorizonagentharnesses",
+      "identity_keys": [
+        "arxiv:2608.24876",
+        "title:recursiveexperientialworkingmemoryevolutionforlonghorizonagentharnesses"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2605.20025",
+      "category": "frontier",
+      "first_sent_at": "2026-08-27T10:27:06.382087+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autoresearchclawselfreinforcingautonomousresearchwithhumanaicollaboration",
+      "identity_keys": [
+        "arxiv:2605.20025",
+        "title:autoresearchclawselfreinforcingautonomousresearchwithhumanaicollaboration"
+      ]
     }
   ]
 }
