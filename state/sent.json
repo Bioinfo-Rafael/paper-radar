@@ -826,6 +826,76 @@
         "s2:9cceb558dd38d9d8a2e6ee7d27a48d2329789a97",
         "title:causaldfmdiffusionbasedcausalinvariantdynamicfactormodelforstockreturnprediction"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag645",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:07:39.282727+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag645",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "st2trajdeconvolutioninformedtrajectoryinferenceformultitimepointspatialtranscriptomics",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag645",
+        "title:st2trajdeconvolutioninformedtrajectoryinferenceformultitimepointspatialtranscriptomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1014727",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:07:39.459680+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pcbi.1014727",
+      "venue": "PLoS computational biology",
+      "title_key": "idcfinterpretabledeconvolutionofcellfractionsviabiologicallyinformeddeeplearningusingscrnaseqdata",
+      "identity_keys": [
+        "doi:10.1371/journal.pcbi.1014727",
+        "title:idcfinterpretabledeconvolutionofcellfractionsviabiologicallyinformeddeeplearningusingscrnaseqdata"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.07.28.738702",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:07:39.606539+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.07.28.738702",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "jointmodelingofmultitimepointspatialobservationsfortimeresolvedspatialunitspecificgeneregulatorynetworkinference",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.07.28.738702",
+        "title:jointmodelingofmultitimepointspatialobservationsfortimeresolvedspatialunitspecificgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.tranon.2026.102948",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:07:39.747786+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.tranon.2026.102948",
+      "venue": "Translational oncology",
+      "title_key": "amultiomicsregulatedcelldeathframeworkdefinesimmunephenotypesandguidesprecisiontherapyincolorectalcancer",
+      "identity_keys": [
+        "doi:10.1016/j.tranon.2026.102948",
+        "title:amultiomicsregulatedcelldeathframeworkdefinesimmunephenotypesandguidesprecisiontherapyincolorectalcancer"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.03.01.708392",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:07:40.147525+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.03.01.708392",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "scunifyaunifiedframeworkfortrainingandinferenceacrossmultiplesinglecellfoundationmodels",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.03.01.708392",
+        "title:scunifyaunifiedframeworkfortrainingandinferenceacrossmultiplesinglecellfoundationmodels"
+      ]
     }
   ]
 }
