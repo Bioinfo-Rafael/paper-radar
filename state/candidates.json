@@ -652,48 +652,6 @@
         "excluded": false,
         "preprint_doi": null,
         "published_doi": null
-      },
-      {
-        "title": "Spatiotemporal 4D Whole-cell Modeling of a Minimal Autotroph Reveals Central Carbon Metabolism Regulated Locally by Protein Megacomplexes via Post-translational Modifications under Light Disturbance.",
-        "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42655912/",
-        "source": "pubmed",
-        "canonical_id": "doi:10.1016/j.bpj.2026.08.020",
-        "abstract": "Photosynthetic microorganisms rely on multiple central-carbon-metabolism pathways to adapt to fluctuating light and energy availability across diel cycles. Mechanistic insight into the regulatory dynamics of this adaptation requires integrating processes that operate across disparate timescales, from rapid redox-dependent post-translational modifications (PTMs) to slower changes in protein expression and metabolic pathway usage. Here, we develop a whole-cell four-dimensional (3D + time) model of the marine cyanobacterium Prochlorococcus marinus MED4 that explicitly represents the spatial, subcellular organization of key carbon fixation enzymes and genetic information processes coupled to a non-spatial genome-scale metabolic model (GSMM). We combine perturbative, time-resolved multi-omics measurements and cryo-ET derived 3D segmented volumes as constraints for this dynamic 4D framework. The integration of experiments and modeling across defined light regimes enables quantitative validation of system-level responses and forecasting under distinct light disturbances. We test the hypothesis that light-dependent redox PTMs regulate carbon fixation by controlling the structural assembly of a protein megacomplex, the \"dark complex,\" at a conserved regulatory node of the Calvin-Benson cycle (CBC) in cyanobacteria. Our model shows that subcellular spatial organization buffers rapid light-induced changes in thylakoid reaction rates, which are followed by redox-PTM-mediated sequestration or release of CBC enzymes in the dark complex, ultimately impacting carbon fixation dynamics within carboxysomes. Comparison with an equivalently parameterized well-mixed stochastic model demonstrates the importance of spatial heterogeneity in understanding phenotypic robustness. Spatiotemporal sequestration creates a timing hierarchy spanning seconds to hours and noise-buffering behavior that cannot be recovered from well-mixed phenomenological models or purely time-resolved descriptions. Constrained by spatial heterogeneity, local enzyme stoichiometry and diffusion-limited assembly/disassembly determine effective stochastically varying control kinetics. Diffusion-driven fluctuations amplify transcription of highly expressed genes, whereas PTM-dependent regulation on enzyme stoichiometry maintains perturbation-driven phenotypic outcomes. 4D whole cell modeling with perturbation-based multi-modal experiments unlocks the ability to probe adaptive, spatiotemporally resolved mechanisms in photosynthetic machinery and light-dependent central carbon metabolism. The outcome of this work addresses a critical gap in genotype-to-phenotype inference and expands modeling and design capabilities for understudied or genetically intractable autotrophs such as P. marinus MED4.",
-        "publication_date": "2026-08-26",
-        "year": 2026,
-        "venue": "Biophysical journal",
-        "publication_type": "Journal Article",
-        "doi": "10.1016/j.bpj.2026.08.020",
-        "arxiv_id": null,
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "mathematical-dynamics",
-          "multi-omics",
-          "method-development",
-          "inference"
-        ],
-        "penalties": [],
-        "score_components": {
-          "domain_relevance": 2.0,
-          "method_signal": 2.2,
-          "formulation_signal": 0.0,
-          "application_penalty": 0.0,
-          "low_priority_penalty": -0.0,
-          "venue_prior": 0.0,
-          "recency": 0.629,
-          "seed_bonus": 0.0
-        },
-        "score": 4.829,
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
       }
     ],
     "ml": [
@@ -1023,22 +981,22 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 10,
+        "hf_rank": 9,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
-          "HF Trending #10"
+          "HF Trending #9"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 4.082,
+          "hf_trending": 4.184,
           "core_topic": 2.2,
           "secondary_topic": 0.0,
           "qualitative_progress": 0.0,
           "citation_signal": 0.0,
           "recency": 0.0
         },
-        "score": 6.282,
+        "score": 6.384,
         "rating": "★★★★☆ Strong",
         "excluded": false,
         "preprint_doi": null,
@@ -1121,44 +1079,6 @@
         "published_doi": null
       },
       {
-        "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-        "paper_url": "https://huggingface.co/papers/2607.05391",
-        "source": "huggingface",
-        "canonical_id": "arxiv:2607.05391",
-        "abstract": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine the correctness of a solution, as a new scaling axis. To unlock this and demonstrate its effectiveness, we introduce LLM-as-a-Verifier, a general-purpose verification framework that provides fine-grained feedback for agentic tasks without requiring additional training. Unlike standard LM judges that prompt LLMs to produce discrete scores for candidate solutions, LLM-as-a-Verifier computes the expectation over the distribution of scoring token logits to generate continuous scores. This probabilistic formulation enables verification to scale along multiple dimensions: (1) score granularity, (2) repeated evaluation, and (3) criteria decomposition. In particular, we show that scaling the scoring granularity leads to better separation between positive and negative solutions, resulting in more calibrated comparisons. Moreover, scaling repeated evaluation and criteria decomposition consistently lead to additional gains in verification accuracy through variance and complexity reduction. We further introduce a cost-efficient ranking algorithm for selecting the best solution among candidates using the verifier's continuous scores. LLM-as-a-Verifier achieves state-of-the-art performance on Terminal-Bench V2 (86.5%), SWE-Bench Verified (78.2%), RoboRewardBench (87.4%), and MedAgentBench (73.3%). Beyond verification, the fine-grained signals from LLM-as-a-Verifier can also serve as a proxy for estimating task progress. We build an extension for Claude Code, enabling developers to monitor and improve their own agentic systems. Finally, we show that LLM-as-a-Verifier can provide dense feedback for RL, improving the sample efficiency of SAC and GRPO on robotics and mathematical reasoning benchmarks.",
-        "publication_date": "2026-07-06",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2607.05391",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": 15,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "reasoning",
-          "HF Trending #15"
-        ],
-        "penalties": [],
-        "score_components": {
-          "hf_trending": 3.571,
-          "core_topic": 0.0,
-          "secondary_topic": 1.0,
-          "qualitative_progress": 0.0,
-          "citation_signal": 0.0,
-          "recency": 0.0
-        },
-        "score": 4.571,
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
         "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
         "paper_url": "https://huggingface.co/papers/2504.19413",
         "source": "huggingface",
@@ -1175,23 +1095,23 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 17,
+        "hf_rank": 15,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "reasoning",
-          "HF Trending #17"
+          "HF Trending #15"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 3.367,
+          "hf_trending": 3.571,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
           "citation_signal": 0.0,
           "recency": 0.0
         },
-        "score": 6.567,
+        "score": 6.771,
         "rating": "★★★★☆ Strong",
         "excluded": false,
         "preprint_doi": null,
@@ -1352,45 +1272,6 @@
         "published_doi": null
       },
       {
-        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
-        "paper_url": "https://huggingface.co/papers/2608.01964",
-        "source": "huggingface",
-        "canonical_id": "arxiv:2608.01964",
-        "abstract": "Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.",
-        "publication_date": "2026-08-03",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.01964",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": 33,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "agent-capability",
-          "reasoning",
-          "HF Trending #33"
-        ],
-        "penalties": [],
-        "score_components": {
-          "hf_trending": 1.735,
-          "core_topic": 2.2,
-          "secondary_topic": 1.0,
-          "qualitative_progress": 0.0,
-          "citation_signal": 0.0,
-          "recency": 0.107
-        },
-        "score": 5.042,
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
         "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
         "paper_url": "https://huggingface.co/papers/2608.26067",
         "source": "huggingface",
@@ -1407,25 +1288,64 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 36,
+        "hf_rank": 35,
         "recommendation_rank": null,
         "matched_criteria": [
           "vla",
           "agent-capability",
           "reasoning",
-          "HF Trending #36"
+          "HF Trending #35"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 1.429,
+          "hf_trending": 1.531,
           "core_topic": 4.4,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
           "citation_signal": 0.0,
           "recency": 0.72
         },
-        "score": 7.549,
+        "score": 7.651,
         "rating": "★★★★☆ Strong",
+        "excluded": false,
+        "preprint_doi": null,
+        "published_doi": null
+      },
+      {
+        "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+        "paper_url": "https://huggingface.co/papers/2608.01964",
+        "source": "huggingface",
+        "canonical_id": "arxiv:2608.01964",
+        "abstract": "Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.",
+        "publication_date": "2026-08-03",
+        "year": 2026,
+        "venue": "arXiv",
+        "publication_type": "Preprint",
+        "doi": null,
+        "arxiv_id": "2608.01964",
+        "biorxiv_doi": null,
+        "semantic_scholar_id": null,
+        "categories": [],
+        "citation_count": null,
+        "influential_citation_count": null,
+        "hf_rank": 39,
+        "recommendation_rank": null,
+        "matched_criteria": [
+          "agent-capability",
+          "reasoning",
+          "HF Trending #39"
+        ],
+        "penalties": [],
+        "score_components": {
+          "hf_trending": 1.122,
+          "core_topic": 2.2,
+          "secondary_topic": 1.0,
+          "qualitative_progress": 0.0,
+          "citation_signal": 0.0,
+          "recency": 0.107
+        },
+        "score": 4.429,
+        "rating": "★★★☆☆ Candidate",
         "excluded": false,
         "preprint_doi": null,
         "published_doi": null
