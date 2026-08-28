@@ -980,6 +980,62 @@
         "doi:10.1016/j.bpj.2026.08.020",
         "title:spatiotemporal4dwholecellmodelingofaminimalautotrophrevealscentralcarbonmetabolismregulatedlocallybyproteinmegacomplexesviaposttranslationalmodificationsunderlightdisturbance"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27158",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T13:59:11.893399+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffusionpoliciesforshorthorizonplanninginrobotcrowdnavigation",
+      "identity_keys": [
+        "arxiv:2608.27158",
+        "title:diffusionpoliciesforshorthorizonplanninginrobotcrowdnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27395",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T13:59:12.271361+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "levjepaefficientscalablevideopretrainingwithouttheheuristics",
+      "identity_keys": [
+        "arxiv:2608.27395",
+        "title:levjepaefficientscalablevideopretrainingwithouttheheuristics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26658",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T13:59:12.461366+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pailitaogrlatentthinkwithimagesforgenerativeimageretrieval",
+      "identity_keys": [
+        "arxiv:2608.26658",
+        "title:pailitaogrlatentthinkwithimagesforgenerativeimageretrieval"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27165",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T13:59:12.671174+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "predictionofpredictionpopinterlayeractivationfusionforsinglepasshallucinationdetectioninlargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2608.27165",
+        "title:predictionofpredictionpopinterlayeractivationfusionforsinglepasshallucinationdetectioninlargelanguagemodels"
+      ]
     }
   ]
 }

@@ -381,17 +381,17 @@
     ],
     "ml": [
       {
-        "title": "How Edge of Stability Hinders SCAFFOLD in Federated Optimization",
-        "paper_url": "https://arxiv.org/abs/2608.25873",
+        "title": "Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation",
+        "paper_url": "https://arxiv.org/abs/2608.27158",
         "source": "arxiv",
-        "canonical_id": "arxiv:2608.25873",
-        "abstract": "In federated learning, it is well known that heterogeneous data can (in theory) slow down optimization, and much effort has been directed at designing optimization algorithms that are unaffected by data heterogeneity, such as the SCAFFOLD algorithm. Yet, despite strong theoretical guarantees, SCAFFOLD does not usually outperform the much simpler FedAvg in practice. In this work, we propose that this gap is due to the presence of Edge of Stability (EoS) and progressive sharpening in federated optimization, supported by extensive empirical probing. First, we find that EoS-like dynamics occur with both FedAvg and SCAFFOLD under a variety of architectures and hyperparameters. We observe that the equilibrium value of the sharpness is inversely proportional to the learning rate (as in GD), and interestingly, the degree of data heterogeneity (but not the number of local steps) also affects the equilibrium value. Most importantly, we observe that SCAFFOLD's ability to estimate the gradient of the global objective is severely degraded at the EoS, as measured by the correlation between sharpness and SCAFFOLD's error in estimating the global gradient along the optimization trajectory. This suggests a mechanism for SCAFFOLD's lackluster performance in deep learning: with high sharpness at the EoS, SCAFFOLD cannot reliably estimate the global gradient.",
-        "publication_date": "2026-08-26",
+        "canonical_id": "arxiv:2608.27158",
+        "abstract": "Robot crowd navigation requires safe and efficient decision-making under dense, dynamic, and multimodal human--robot interactions. Existing reinforcement-learning methods typically output a single reactive action at each timestep, which limits their ability to represent diverse short-term avoidance strategies. We propose Planning Diffusion Policy Optimization (PDPO), an offline-to-online reinforcement-learning framework that uses a diffusion policy to generate short-horizon action chunks for crowd navigation. PDPO is first pretrained on collision-avoidance demonstrations and then fine-tuned online with PPO by treating the denoising process as an internal decision process. During execution, the policy generates a five-step action chunk and applies it in a receding-horizon manner. Furthermore, we observe an evaluation artifact in common crowd-navigation benchmarks: without explicit boundary constraints, learned agents may leave the valid domain and bypass dense crowds. To address this, we introduce a setting in which boundary violations are treated as collisions. Experiments show that PDPO obtains an improved success rate over strong baselines, and ablations demonstrate that action chunks are especially important for the modified bounded benchmark.",
+        "publication_date": "2026-08-27",
         "year": 2026,
         "venue": "arXiv",
         "publication_type": "Preprint",
         "doi": null,
-        "arxiv_id": "2608.25873",
+        "arxiv_id": "2608.27158",
         "biorxiv_doi": null,
         "semantic_scholar_id": null,
         "categories": [
@@ -402,236 +402,47 @@
         "hf_rank": null,
         "recommendation_rank": null,
         "matched_criteria": [
+          "generative-modeling",
           "training",
           "actionable-design",
-          "understanding",
           "observed-explained"
         ],
         "penalties": [
           "arXiv-strict-threshold"
         ],
         "score_components": {
-          "domain_relevance": 1.4,
-          "actionable_method_signal": 2.4,
+          "domain_relevance": 2.3,
+          "actionable_method_signal": 1.2,
           "conceptual_formulation_signal": 1.2,
-          "model_understanding_synergy": 2.2,
+          "model_understanding_synergy": 0.0,
           "actionable_design_synergy": 0.0,
           "application_incremental_penalty": -0.0,
           "venue_prior": -0.3,
           "recency": 0.65,
           "seed_bonus": 0.0
         },
-        "score": 7.55,
-        "rating": "★★★★☆ Strong",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
-        "title": "GraftSR: Grafting Authentic Textures for Real-World Image Super-Resolution via Identical-Instance Guidance",
-        "paper_url": "https://arxiv.org/abs/2608.25334",
-        "source": "arxiv",
-        "canonical_id": "arxiv:2608.25334",
-        "abstract": "Diffusion-based real-world image super-resolution (SR) achieves impressive perceptual quality but inherently suffers from severe texture hallucination. To overcome this limitation, we propose GraftSR, a texture-reference-guided generative SR framework that leverages reference images of the identical instance to anchor the restoration of authentic textures. However, severe spatial misalignment between low-quality inputs and their references poses significant challenges, often leading to ambiguous transfer targets and background feature leakage. To address these issues, GraftSR employs a novel dual-mask reference guidance mechanism that systematically decouples the cross-view texture injection process. By explicitly isolating what authentic textures to extract from the reference and precisely localizing where to apply them within the target, GraftSR achieves robust texture transfer without relying on brittle spatial alignment. Furthermore, to bridge the critical gap in appropriate training data, we construct TexRefSR-141K, the first large-scale dataset providing high-quality reference tuples equipped with complementary spatial masks. Extensive experiments on our newly established benchmark, TexRefSR-Eval, demonstrate that GraftSR sets a new state-of-the-art. Notably, it reduces LPIPS by 20.2\\% over top-performing baselines, achieving superior reference-faithful restoration.",
-        "publication_date": "2026-08-26",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.25334",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [
-          "cs.CV"
-        ],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "training",
-          "generative-modeling",
-          "actionable-design",
-          "understanding"
-        ],
-        "penalties": [
-          "arXiv-strict-threshold"
-        ],
-        "score_components": {
-          "domain_relevance": 2.3,
-          "actionable_method_signal": 2.4,
-          "conceptual_formulation_signal": 0.0,
-          "model_understanding_synergy": 0.0,
-          "actionable_design_synergy": 0.7,
-          "application_incremental_penalty": -0.0,
-          "venue_prior": -0.3,
-          "recency": 0.65,
-          "seed_bonus": 0.0
-        },
-        "score": 5.75,
+        "score": 5.05,
         "rating": "★★★☆☆ Candidate",
         "excluded": false,
         "preprint_doi": null,
         "published_doi": null
       },
       {
-        "title": "InteractGesture: Progressive Chunk Guidance for Continuous Streaming Co-Speech Gesture Control",
-        "paper_url": "https://arxiv.org/abs/2608.25734",
+        "title": "LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics",
+        "paper_url": "https://arxiv.org/abs/2608.27395",
         "source": "arxiv",
-        "canonical_id": "arxiv:2608.25734",
-        "abstract": "Co-speech gesture generation has made significant progress toward realistic full-body motion from speaker audio, yet existing models lack fine-grained spatial controllability of individual joints. To address this, we introduce \\emph{InteractGesture}, a model-agnostic, inference-time method for spatially controllable gesture generation. \\emph{InteractGesture} guides target latent estimates of a diffusion sampler through a differentiable RVQ-VAE decoder, backpropagating spatial control gradients to adjust motion latents during sampling. A primary challenge in streaming co-speech generation is chunk-wise dependency: standard sequential inference freezes prior chunks, preventing spatial constraints in future chunks from adjusting preceding trajectories and causing boundary inconsistencies. To overcome this limitation, we propose \\emph{Progressive Chunk Guidance}, a chunk-window strategy that maintains an active set of editable chunk latents with staggered delays, enabling spatial constraints to propagate gradients backward across chunk boundaries during streaming generation. Experiments on the BEAT2 dataset show that \\emph{InteractGesture} improves multi-joint spatial control while preserving overall gesture quality. Furthermore, our approach supports diverse applications, including sparse joint positioning, dense joint trajectory control, and directional pointing. Our project page is available at https://exitudio.github.io/interactgesture-page .",
-        "publication_date": "2026-08-26",
+        "canonical_id": "arxiv:2608.27395",
+        "abstract": "Video carries the temporal structure of the physical world, yet learning representations from it has remained computationally expensive: prevailing self-supervised methods either prevent representation collapse through architectural asymmetries, coupling an exponential-moving-average target encoder, a stop-gradient, and a capacity-limited predictor, or circumvent it by reconstructing masked content in pixel space. We introduce LeVJEPA, the first video encoder trained under LeJEPA's collapse-free objective, which dispenses with both. A single encoder is trained with an invariance loss over global and local views of a clip, regularized by SIGReg, which excludes collapse with a provable guarantee. The architecture reduces to an encoder and a projector, and the objective to a single hyperparameter. This formulation admits two properties. First, the cost of pretraining is governed by the number of tokens the encoder observes; uniform random token dropping renders this number small while simultaneously improving downstream accuracy. At matched epochs on identical data, LeVJEPA matches or surpasses V-JEPA 2 across ViT-S/B/L at 5.6 to 20.8x less pretraining compute, and at matched total FLOPs it exceeds the strongest video baseline by 7.6 points on ImageNet-1K while remaining competitive on motion-centric benchmarks. Second, since no asymmetry between branches is required, the encoder can be trained with block-causal attention at no measurable accuracy cost: temporal ordering becomes a property of the encoder itself. Against a compute-matched DINOv2 trained on frames of the same videos, LeVJEPA approaches the image-pretrained encoder on appearance-centric evaluation while nearly doubling its motion-centric accuracy. These results indicate that, once its computational overhead is removed, video becomes a viable and in several respects preferable substrate for general-purpose visual pretraining.",
+        "publication_date": "2026-08-27",
         "year": 2026,
         "venue": "arXiv",
         "publication_type": "Preprint",
         "doi": null,
-        "arxiv_id": "2608.25734",
+        "arxiv_id": "2608.27395",
         "biorxiv_doi": null,
         "semantic_scholar_id": null,
         "categories": [
-          "cs.CV"
-        ],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "training",
-          "generative-modeling",
-          "actionable-design",
-          "broad-improvement"
-        ],
-        "penalties": [
-          "arXiv-strict-threshold"
-        ],
-        "score_components": {
-          "domain_relevance": 2.3,
-          "actionable_method_signal": 2.4,
-          "conceptual_formulation_signal": 0.0,
-          "model_understanding_synergy": 0.0,
-          "actionable_design_synergy": 0.7,
-          "application_incremental_penalty": -0.0,
-          "venue_prior": -0.3,
-          "recency": 0.65,
-          "seed_bonus": 0.0
-        },
-        "score": 5.75,
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
-        "title": "Learning Late, Guiding Early: Timestep-Decoupled Semantic Guidance for Fair Face Generation",
-        "paper_url": "https://arxiv.org/abs/2608.25862",
-        "source": "arxiv",
-        "canonical_id": "arxiv:2608.25862",
-        "abstract": "Demographic imbalance in synthetic face generation can propagate to downstream face recognition systems, making fairness an important consideration when diffusion models are used for data generation. Existing fairness-aware generation approaches often require model retraining, architectural modifications, or repeated guidance throughout the reverse diffusion process. In this work, we introduce Semantic Boundary Predictor (SBP), an inference-time framework that performs demographic guidance through a one-shot intervention during reverse denoising. Our approach is motivated by the observation that latent representations at different diffusion timesteps play distinct semantic roles: late-stage latents provide stronger demographic separability, whereas early-stage latents offer greater flexibility for semantic intervention. SBP leverages this timestep decoupling by learning linear semantic boundaries from late-stage latent representations while applying them only once at the initial noisy latent, allowing the remainder of the reverse denoising process to proceed unchanged. The method requires neither retraining nor fine-tuning of the underlying Latent Diffusion Model and operates without external balanced datasets. Experiments on CelebA-HQ demonstrate substantial improvements in demographic fairness, reducing fairness disparity by 98% for gender, 95% for binary race, and 15% for four-class race, while maintaining perceptual image quality across demographic groups. Owing to its one-shot inference strategy and model-agnostic design, SBP introduces only a small computational overhead and can be readily integrated with existing pre-trained latent diffusion models.",
-        "publication_date": "2026-08-26",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.25862",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [
-          "cs.CV"
-        ],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "training",
-          "generative-modeling",
-          "actionable-design",
-          "broad-improvement"
-        ],
-        "penalties": [
-          "arXiv-strict-threshold"
-        ],
-        "score_components": {
-          "domain_relevance": 2.3,
-          "actionable_method_signal": 2.4,
-          "conceptual_formulation_signal": 0.0,
-          "model_understanding_synergy": 0.0,
-          "actionable_design_synergy": 0.7,
-          "application_incremental_penalty": -0.0,
-          "venue_prior": -0.3,
-          "recency": 0.65,
-          "seed_bonus": 0.0
-        },
-        "score": 5.75,
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
-        "title": "MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize",
-        "paper_url": "https://arxiv.org/abs/2608.25449",
-        "source": "arxiv",
-        "canonical_id": "arxiv:2608.25449",
-        "abstract": "Formal theorem proving enables machine-verifiable evaluation of mathematical reasoning, yet existing benchmarks often emphasize aggregate proof accuracy, concentrate on a narrow range of mathematics, and provide limited evidence of robustness to equivalent reformulations. We introduce MathAdv, a diagnostic benchmark spanning 13 domains across undergraduate- and graduate-level mathematics. Alongside Lean 4 theorem proving, MathAdv provides up to three auxiliary tasks: multiple-choice questions that probe mathematical knowledge, fill-in-the-blank problems that isolate informal reasoning, and expert-crafted transformations that test robustness to problem presentation. Our evaluation of contemporary theorem provers yields four findings: formalization remains a major bottleneck; performance varies substantially across mathematical domains; natural-language guidance helps general-purpose LLMs but can hinder proof-specialized models; and mathematically equivalent reformulations expose substantial robustness limitations. Together, these results show how component-wise evaluation can reveal model capabilities and failure modes that aggregate theorem-proving accuracy obscures. The dataset and evaluation scripts are available at https://github.com/margotyjx/MathAdv.git.",
-        "publication_date": "2026-08-26",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.25449",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [
-          "cs.CL",
-          "cs.AI",
-          "cs.LO"
-        ],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "theory",
-          "training",
-          "actionable-design",
-          "broad-improvement"
-        ],
-        "penalties": [
-          "arXiv-strict-threshold"
-        ],
-        "score_components": {
-          "domain_relevance": 2.3,
-          "actionable_method_signal": 2.4,
-          "conceptual_formulation_signal": 0.0,
-          "model_understanding_synergy": 0.0,
-          "actionable_design_synergy": 0.7,
-          "application_incremental_penalty": -0.0,
-          "venue_prior": -0.3,
-          "recency": 0.65,
-          "seed_bonus": 0.0
-        },
-        "score": 5.75,
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
-        "title": "ToST: A Tree-of-Thought Socratic Teaching Framework for Multi-Path Guidance and Parallel Thinking",
-        "paper_url": "https://arxiv.org/abs/2608.25775",
-        "source": "arxiv",
-        "canonical_id": "arxiv:2608.25775",
-        "abstract": "Large Language Models (LLMs) exhibit strong problem-solving abilities, positioning them as promising agents for Socratic teaching to guide students through step-by-step heuristic questioning. However, existing approaches typically adopt a one-problem-one-solution paradigm, restricting the teaching guidance to a single linear reasoning path. This design limits instructional flexibility, weakens error recovery, and restricts students' ability to engage in parallel thinking to explore multiple valid solutions. To overcome these, we propose ToST, a Tree-of-Thought Socratic Teaching framework that explicitly supports multi-path guidance under a one-problem-multiple-solutions paradigm. ToST employs Parallel Sowing, a parallel-thinking-oriented questioning strategy to encourage students to approach problems from diverse perspectives, and a Multi-Path Adaptive Guidance mechanism to provide more robust and non-linear instructions across alternative solution trajectories. Concurrently, to fill the void in systematically evaluating such non-linear instructional capabilities, we advance the task of multi-path Socratic guidance by establishing MPSG-Bench, a comprehensive benchmark that includes a dataset of 31K multi-path teaching dialogues and a five-dimensional evaluation framework grounded in the SOLO (Structure of Observed Learning Outcomes) theory to assess parallel-thinking guidance. Experimental results demonstrate that ToST significantly enhances guidance success rates while empowering students to navigate and explore multiple solution paths more effectively under both automatic and human metrics.",
-        "publication_date": "2026-08-26",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.25775",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [
+          "cs.CV",
           "cs.AI"
         ],
         "citation_count": null,
@@ -639,65 +450,18 @@
         "hf_rank": null,
         "recommendation_rank": null,
         "matched_criteria": [
-          "training",
-          "evaluation",
-          "actionable-design",
-          "understanding"
-        ],
-        "penalties": [
-          "arXiv-strict-threshold"
-        ],
-        "score_components": {
-          "domain_relevance": 2.3,
-          "actionable_method_signal": 2.4,
-          "conceptual_formulation_signal": 0.0,
-          "model_understanding_synergy": 0.0,
-          "actionable_design_synergy": 0.7,
-          "application_incremental_penalty": -0.0,
-          "venue_prior": -0.3,
-          "recency": 0.65,
-          "seed_bonus": 0.0
-        },
-        "score": 5.75,
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
-        "title": "Drift-Aware Multimodal User Representation Learning via Multi-Scale Temporal Modeling and Sparse Mixture-of-Experts",
-        "paper_url": "https://arxiv.org/abs/2608.25773",
-        "source": "arxiv",
-        "canonical_id": "arxiv:2608.25773",
-        "abstract": "Understanding user preferences from noisy and temporally evolving social media behaviors is fundamentally challenging due to interest drift, where user preferences shift across time and exhibit both multi-scale temporal patterns and diverse co-existing interests. To address this, we propose DUMoE, a unified framework for drift-aware multimodal user representation learning. Our model consists of (i) a temporal dynamics-aware backbone that captures and integrates static profiles, short-term behavioral signals, and long-term dependencies into a coherent representation, and (ii) a sparse mixture-of-experts (MoE) interest adapter that disentangles multiple latent interests via expert specialization and adaptive routing. Each expert models a distinct interest subspace, while a gating network dynamically selects and aggregates a sparse subset of relevant experts for each user. To enable stable and effective optimization, we further introduce a three-stage training strategy that decouples backbone learning, expert specialization, and gating optimization. Extensive experiments on real-world social media datasets show that DUMoE consistently outperforms state-of-the-art methods on both user interest prediction and interaction prediction tasks.",
-        "publication_date": "2026-08-26",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.25773",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [
-          "cs.LG"
-        ],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "representation",
           "architecture",
-          "training",
-          "actionable-design"
+          "actionable-design",
+          "broad-improvement",
+          "formulation"
         ],
         "penalties": [
           "arXiv-strict-threshold"
         ],
         "score_components": {
-          "domain_relevance": 3.2,
-          "actionable_method_signal": 1.2,
-          "conceptual_formulation_signal": 0.0,
+          "domain_relevance": 0.9,
+          "actionable_method_signal": 2.4,
+          "conceptual_formulation_signal": 1.2,
           "model_understanding_synergy": 0.0,
           "actionable_design_synergy": 0.0,
           "application_incremental_penalty": -0.0,
@@ -705,29 +469,30 @@
           "recency": 0.65,
           "seed_bonus": 0.0
         },
-        "score": 4.75,
+        "score": 4.85,
         "rating": "★★★☆☆ Candidate",
         "excluded": false,
         "preprint_doi": null,
         "published_doi": null
       },
       {
-        "title": "Learning What to Share and What to Personalize: Hierarchical Strategy Co-Evolution for Agent Memory",
-        "paper_url": "https://arxiv.org/abs/2608.25329",
+        "title": "PailitaoGR: Latent Think-with-Images for Generative Image Retrieval",
+        "paper_url": "https://arxiv.org/abs/2608.26658",
         "source": "arxiv",
-        "canonical_id": "arxiv:2608.25329",
-        "abstract": "Memory-augmented agents maintain compact user profiles throughout extended conversations, enabling personalized and consistent responses without the need to process the entire dialogue history. The quality of these user profiles relies on the underlying memory management strategy: at each step, the agent must determine what to retain, compress, or discard. However, existing methods typically employ a static, one-size-fits-all strategy established before training. In practice, the optimal memory decision is inherently user-specific and dynamically evolves alongside policy optimization. To address this, we propose \\textbf{HiPS} (\\textbf{Hi}erarchical \\textbf{P}ersonalized \\textbf{S}trategy), a framework that decouples memory management into a globally shared foundation and a user-specific adaptive tier. Specifically, HiPS employs \\textbf{Universal Strategy} to extract shared principles from cross-persona trajectories, alongside \\textbf{Persona Delta Distillation} to generate tailored rules for users whose behaviors diverge from general patterns. \\textbf{Cross-Level Rule Flow} dynamically calibrates their boundary by promoting broadly validated personal rules and demoting contradicted global ones. The architecture establishes a co-evolution loop where a mechanism guarantees that all strategy refinements are anchored to task outcomes. Extensive experiments demonstrate consistent improvements over memory-augmented baselines.",
-        "publication_date": "2026-08-26",
+        "canonical_id": "arxiv:2608.26658",
+        "abstract": "Generative retrieval has demonstrated strong performance by directly generating product semantic identifiers (SIDs). Extending this paradigm to image search, however, is nontrivial because real-world query images contain diverse information, including the search target, useful auxiliary evidence, and irrelevant visual content. This requires the model to identify and focus on the search target while selectively utilizing auxiliary evidence. In this paper, we propose \\textbf{PailitaoGR}, a \\emph{Latent Think-with-Images} method for generative image retrieval, which internalizes target-focused perception and selective auxiliary-evidence utilization into a the generative retrieval model, enabling \\textit{Zooming without Cropping} and \\textit{Reading without OCR}. Specifically, we design a target-focused perception mechanism that identifies and enhances visual tokens of the search target, consisting of a target Enhancer and a learning strategy based on on-policy distillation and attention guidance loss, enabling the model to focus on search-target regions. We also design a selective auxiliary-evidence utilization mechanism that identifies and enhances visual tokens of auxiliary evidence, including an auxiliary enhancer and an in-capacity incremental contrastive distillation strategy, enabling the model to exploit auxiliary evidence. We construct training and validation sets sampled from real-world online image-search logs. Experiments show that our method outperforms existing baselines by an average of 13.8\\%, validating its effectiveness.",
+        "publication_date": "2026-08-27",
         "year": 2026,
         "venue": "arXiv",
         "publication_type": "Preprint",
         "doi": null,
-        "arxiv_id": "2608.25329",
+        "arxiv_id": "2608.26658",
         "biorxiv_doi": null,
         "semantic_scholar_id": null,
         "categories": [
+          "cs.CV",
           "cs.AI",
-          "cs.CL"
+          "cs.IR"
         ],
         "citation_count": null,
         "influential_citation_count": null,
@@ -760,29 +525,29 @@
         "published_doi": null
       },
       {
-        "title": "Spectral Allocation: Why Muon Outperforms Adam, and How to Improve Muon",
-        "paper_url": "https://arxiv.org/abs/2608.25990",
+        "title": "Prediction of Prediction (PoP): Inter-Layer Activation Fusion for Single-Pass Hallucination Detection in Large Language Models",
+        "paper_url": "https://arxiv.org/abs/2608.27165",
         "source": "arxiv",
-        "canonical_id": "arxiv:2608.25990",
-        "abstract": "Orthogonal optimisers such as Muon can substantially accelerate large language model pretraining relative to Adam, yet the mechanism remains incompletely understood. We investigate this through an out-of-sample spectral probing analysis of Transformer loss landscapes. At checkpoints along real training trajectories, we decompose each momentum buffer into its singular directions and estimate the loss-optimal step size along each direction on held-out data. The resulting spectral profile is anisotropic yet stable across batches and training stages, and consistent across the optimisers and model scales: a volatile head operating at the Edge-of-Stability supports a much smaller step size than the tolerant bulk, which permits substantially larger steps. This profile provides a unified spectral allocation account of why Muon outperforms Adam, which outperforms SGD. It also exposes a limitation of Muon's uniform scaling: it still underutilises the bulk. Guided by this finding, we introduce Spectral-Aware Muon (SAMuon), which holds the head at the Muon scale and amplifies the bulk using a static spectral prior. We provide two variants: the complete SAMuon follows the measured profile using a low-rank randomised SVD and the simplified SAMuon-lite uses a two-level approximation via rank-one power iteration. Neither method adds persistent optimiser state or notable extra FLOPs beyond Muon at scale, and the idealised exact-whitening versions of both retain Muon's asymptotic convergence rate under standard assumptions. Across \"modded-nanogpt\" models from 124M to 1B parameters, both variants outperform tuned AdamW and Muon (Scion implementation) baselines in all evaluated model-scale and batch-size configurations. SAMuon requires 13.3% to 24.0% fewer training tokens to reach the same validation loss as Muon, while SAMuon-lite retains most of this gain with near-zero wall-clock overhead.",
-        "publication_date": "2026-08-26",
+        "canonical_id": "arxiv:2608.27165",
+        "abstract": "Autoregressive large language models (LLMs) routinely generate factually incorrect outputs with high decoding confidence, limiting their deployment in high-stakes workflows. Existing output-stage uncertainty metrics can fail when models are overconfident on false assertions, while multi-sample verification pipelines introduce substantial memory and latency overhead. This work evaluates whether internal hidden-state transition dynamics during generation can signal factual errors without auxiliary decoding calls. We introduce Prediction of Prediction (PoP), a mechanism that captures layer-transition uncertainty by fusing intermediate hidden representations across depth during a single forward pass. Evaluated on the TruthfulQA benchmark using autoregressive transformer backbones, PoP achieves an area under the receiver operating characteristic curve (AUROC) of 75.5% for factual-correctness classification. The mechanism operates within the base forward pass, adding less than 1.2% runtime latency and requiring zero additional generation passes. The numerical results are reported from the author-verified experimental implementation and are bounded by the evaluation scope described below.",
+        "publication_date": "2026-08-27",
         "year": 2026,
         "venue": "arXiv",
         "publication_type": "Preprint",
         "doi": null,
-        "arxiv_id": "2608.25990",
+        "arxiv_id": "2608.27165",
         "biorxiv_doi": null,
         "semantic_scholar_id": null,
         "categories": [
-          "cs.LG"
+          "cs.CL"
         ],
         "citation_count": null,
         "influential_citation_count": null,
         "hf_rank": null,
         "recommendation_rank": null,
         "matched_criteria": [
+          "generative-modeling",
           "architecture",
-          "theory",
           "actionable-design",
           "understanding"
         ],
