@@ -896,6 +896,76 @@
         "biorxiv:10.64898/2026.03.01.708392",
         "title:scunifyaunifiedframeworkfortrainingandinferenceacrossmultiplesinglecellfoundationmodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-026-04226-4",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:20:29.670303+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-026-04226-4",
+      "venue": "Genome Biology",
+      "title_key": "gametemapsthegeneticarchitectureofchromatinaccessibilityinricepollenatsinglenucleusresolution",
+      "identity_keys": [
+        "doi:10.1186/s13059-026-04226-4",
+        "title:gametemapsthegeneticarchitectureofchromatinaccessibilityinricepollenatsinglenucleusresolution"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.07.27.741070",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:20:30.104205+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.07.27.741070",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "quantitativeassessmentofcellfatecommitmentinsinglecelltranscriptomicsusingsccs",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.07.27.741070",
+        "title:quantitativeassessmentofcellfatecommitmentinsinglecelltranscriptomicsusingsccs"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.18.745447",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:20:30.368891+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.18.745447",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "implicithierarchicaltensordecompositionofsinglecellfouromicsdatarevealscelltypeassociatedenhancerpromoterregulatoryprograms",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.18.745447",
+        "title:implicithierarchicaltensordecompositionofsinglecellfouromicsdatarevealscelltypeassociatedenhancerpromoterregulatoryprograms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.7554/elife.87710",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:20:30.656328+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.7554/elife.87710",
+      "venue": "eLife",
+      "title_key": "systematicanalysisofnetworkdrivenadaptiveresistancetocdk46andoestrogenreceptorinhibitionusingmetadynamicnetworkmodelling",
+      "identity_keys": [
+        "doi:10.7554/elife.87710",
+        "title:systematicanalysisofnetworkdrivenadaptiveresistancetocdk46andoestrogenreceptorinhibitionusingmetadynamicnetworkmodelling"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.07.743516",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:20:30.912454+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.07.743516",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "scromabatchawarepathwayactivityinferenceandagroundtruthsimulationframeworkforsinglecelltranscriptomics",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.07.743516",
+        "title:scromabatchawarepathwayactivityinferenceandagroundtruthsimulationframeworkforsinglecelltranscriptomics"
+      ]
     }
   ]
 }
