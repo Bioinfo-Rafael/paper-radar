@@ -3,11 +3,19 @@ name: Daily Paper Radar
 on:
   schedule:
     # GitHub may delay scheduled jobs during periods of high Actions load.
-    - cron: "45 7 * * *"
-      timezone: Asia/Tokyo
-    - cron: "45 12 * * *"
-      timezone: Asia/Tokyo
+    - cron: "0 21 * * *" # 06:00 JST on the following day
+    - cron: "0 0 * * *" # 09:00 JST
+    - cron: "0 3 * * *" # 12:00 JST
+    - cron: "0 6 * * *" # 15:00 JST
+    - cron: "0 9 * * *" # 18:00 JST
   workflow_dispatch:
+    inputs:
+      category:
+        description: Radar category (all is used for a full manual run)
+        required: false
+        default: all
+        type: choice
+        options: [all, bioinfo, ml, frontier]
 
 permissions:
   contents: write
@@ -35,7 +43,9 @@ jobs:
           S2_API_KEY: ${{ secrets.S2_API_KEY }}
           NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-        run: python -m paper_radar.cli daily --category all
+        run: >-
+          python -m paper_radar.cli daily
+          --category "${{ github.event.inputs.category || 'all' }}"
       - name: Persist deduplication state and audit candidates
         run: |
           if git diff --quiet -- state/sent.json state/candidates.json; then

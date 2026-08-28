@@ -9,6 +9,8 @@ preview_urls = false
 GITHUB_OWNER = "Bioinfo-Rafael"
 GITHUB_REPO = "paper-radar"
 GITHUB_REF = "main"
+# JSON object mapping Discord channel IDs to categories. Replace the example IDs.
+CHANNEL_CATEGORY_MAP = '{"111111111111111111":"bioinfo","222222222222222222":"ml","333333333333333333":"frontier"}'
 
 [secrets]
 required = ["DISCORD_PUBLIC_KEY", "GITHUB_TOKEN"]

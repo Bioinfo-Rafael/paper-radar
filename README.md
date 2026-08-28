@@ -83,7 +83,7 @@ single-cell · rna-velocity · dynamics · formulation · top-venue
 
 ## 8. GitHub Actions schedule
 
-`.github/workflows/daily.yml` uses `timezone: Asia/Tokyo` and runs twice daily at 07:45 and 12:45 JST. It also supports `workflow_dispatch`. GitHub Actions scheduled workflows can be delayed during periods of high load, so these times are targets rather than strict execution guarantees. The workflow commits only `state/sent.json` and the compact qualified-candidate cache, and a state commit cannot retrigger the workflow.
+`.github/workflows/daily.yml` runs at 06:00, 09:00, 12:00, 15:00, and 18:00 JST using UTC cron expressions. It also supports category-aware `workflow_dispatch`; scheduled runs default to all categories. GitHub Actions scheduled workflows can be delayed during periods of high load, so these times are targets rather than strict execution guarantees. The workflow commits only `state/sent.json` and the compact qualified-candidate cache, and a state commit cannot retrigger the workflow.
 
 ## 9. How to edit Bioinfo criteria
 
@@ -125,11 +125,11 @@ Papers at or above Must Read and Strong thresholds receive those ratings. Papers
 
 Edit `config/seeds.yaml`. A seed may supply a `paper_id` directly or only a title. Missing Semantic Scholar IDs are resolved and cached locally in ignored `config/seeds.resolved.yaml`. Bioinfo starts with scDiffusion, RegVelo, and CellFlow. ML may remain empty. Negative seed slots are reserved for future feedback and do not affect v1 until explicit rules are added.
 
-## 14. `/more` setup
+## 14. `/daily` and `/more` setup
 
 `python -m paper_radar.cli more` performs fresh network acquisition; it never uses `state/candidates.json` as its candidate source. Explore mode defaults to a 30-day lookback and 3× source limits, while reusing the exact daily scorer, thresholds, and hard exclusions. It removes every paper already present in `state/sent.json` and returns up to five qualifying results. Repeated calls therefore return different unsent papers when enough results exist. `.github/workflows/more.yml` exposes the same operation through `workflow_dispatch`.
 
-Daily and `/more` share the `paper-radar-state` GitHub Actions concurrency group, preventing simultaneous state writers. The daily candidate cache remains available only for debugging, score inspection, and audit.
+Daily and `/more` share the `paper-radar-state` GitHub Actions concurrency group, preventing simultaneous state writers. Both Discord commands derive their category from the current Discord channel, so they use the same deduplication state without a category selector. The daily candidate cache remains available only for debugging, score inspection, and audit.
 
 ## 15. Cloudflare Worker deployment
 
@@ -138,24 +138,25 @@ The optional bridge is isolated in `extensions/discord_more`.
 1. Copy `wrangler.toml.example` to `wrangler.toml` and set `GITHUB_OWNER`/`GITHUB_REPO`.
 2. Run `npx wrangler secret put DISCORD_PUBLIC_KEY` using the Discord application's public key.
 3. Create a fine-grained GitHub token limited to this repository with **Actions: write**, then run `npx wrangler secret put GITHUB_TOKEN`.
-4. Optionally set `GITHUB_REF` as a Worker variable (defaults to `main`).
-5. Run `npx wrangler deploy` and use the deployed HTTPS URL as the Discord Interactions Endpoint URL.
+4. Set `CHANNEL_CATEGORY_MAP` to one JSON object mapping Discord channel IDs to `bioinfo`, `ml`, or `frontier`. This is the single source of truth shared by both commands.
+5. Optionally set `GITHUB_REF` as a Worker variable (defaults to `main`).
+6. Run `npx wrangler deploy` and use the deployed HTTPS URL as the Discord Interactions Endpoint URL.
 
-The Worker verifies Discord's Ed25519 signature, parses `/more`, and dispatches GitHub Actions. It contains no selection logic.
+The Worker verifies Discord's Ed25519 signature, maps the current channel to a category, parses `/daily` and `/more`, and dispatches the corresponding GitHub Actions workflow. It contains no selection logic.
 
 ## 16. Discord Slash Command registration
 
-Register `extensions/discord_more/register-command.json` with Discord's application-command API (replace IDs and token):
+Bulk-register `extensions/discord_more/register-command.json` as guild commands (replace IDs and token):
 
 ```bash
-curl -X POST \
+curl -X PUT \
   -H "Authorization: Bot $DISCORD_BOT_TOKEN" \
   -H "Content-Type: application/json" \
   --data @extensions/discord_more/register-command.json \
-  "https://discord.com/api/v10/applications/$DISCORD_APPLICATION_ID/commands"
+  "https://discord.com/api/v10/applications/$DISCORD_APPLICATION_ID/guilds/$DISCORD_GUILD_ID/commands"
 ```
 
-This creates `/more category:<bioinfo|ml|frontier>`. The GitHub token and Discord bot token are additional only when enabling the slash-command bridge; daily needs neither.
+This creates `/daily` and `/more` without category options. The fine-grained GitHub token needs only repository **Actions: write**; the Discord bot token is used only to register commands and is not stored in the Worker.
 
 ## 17. Experimental extensions
 
