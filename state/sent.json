@@ -966,6 +966,20 @@
         "biorxiv:10.64898/2026.08.07.743516",
         "title:scromabatchawarepathwayactivityinferenceandagroundtruthsimulationframeworkforsinglecelltranscriptomics"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.bpj.2026.08.020",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T06:25:50.624741+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.bpj.2026.08.020",
+      "venue": "Biophysical journal",
+      "title_key": "spatiotemporal4dwholecellmodelingofaminimalautotrophrevealscentralcarbonmetabolismregulatedlocallybyproteinmegacomplexesviaposttranslationalmodificationsunderlightdisturbance",
+      "identity_keys": [
+        "doi:10.1016/j.bpj.2026.08.020",
+        "title:spatiotemporal4dwholecellmodelingofaminimalautotrophrevealscentralcarbonmetabolismregulatedlocallybyproteinmegacomplexesviaposttranslationalmodificationsunderlightdisturbance"
+      ]
     }
   ]
 }
