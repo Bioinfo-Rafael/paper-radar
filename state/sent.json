@@ -751,6 +751,81 @@
         "arxiv:2608.23353",
         "title:formuevollmguidedevolutionfordiscoveringsolverefficientmixedintegerprogrammingformulations"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag586",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T05:57:08.541937+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag586",
+      "venue": "Bioinformatics",
+      "title_key": "mardmolahybridautoregressivediffusionparadigmforcoarsegrainedmolecularmodeling",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag586",
+        "s2:2922677b495f50a2c222c96d81f2eb9010939926",
+        "title:mardmolahybridautoregressivediffusionparadigmforcoarsegrainedmolecularmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04887",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T05:57:08.812140+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stepopdrethinkingoutputtargetsandinternaldynamicsinonpolicydistillationfordiffusionmodels",
+      "identity_keys": [
+        "arxiv:2608.04887",
+        "s2:b3bbe8f2f4ffa00b0e8f170b15600027fa319df4",
+        "title:stepopdrethinkingoutputtargetsandinternaldynamicsinonpolicydistillationfordiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tevc.2025.3617343",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T05:57:09.108076+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tevc.2025.3617343",
+      "venue": "IEEE Transactions on Evolutionary Computation",
+      "title_key": "metalearninginspiredsinglestepgenerativemodelforexpensivemultitaskoptimizationproblems",
+      "identity_keys": [
+        "doi:10.1109/tevc.2025.3617343",
+        "s2:27642689fbde971b74f0b29a647687a2b3bceb27",
+        "title:metalearninginspiredsinglestepgenerativemodelforexpensivemultitaskoptimizationproblems"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.08.11.744092",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T05:57:09.323113+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "sidiffdenovosirnadesignviaefficacyguideddiscretemaskeddiffusion",
+      "identity_keys": [
+        "doi:10.64898/2026.08.11.744092",
+        "s2:c193573668106c873ba4859e858a813ae3e56c82",
+        "title:sidiffdenovosirnadesignviaefficacyguideddiscretemaskeddiffusion"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3770855.3818050",
+      "category": "ml",
+      "first_sent_at": "2026-08-28T05:57:09.656853+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3770855.3818050",
+      "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+      "title_key": "causaldfmdiffusionbasedcausalinvariantdynamicfactormodelforstockreturnprediction",
+      "identity_keys": [
+        "doi:10.1145/3770855.3818050",
+        "s2:9cceb558dd38d9d8a2e6ee7d27a48d2329789a97",
+        "title:causaldfmdiffusionbasedcausalinvariantdynamicfactormodelforstockreturnprediction"
+      ]
     }
   ]
 }
