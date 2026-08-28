@@ -1036,6 +1036,20 @@
         "arxiv:2608.27165",
         "title:predictionofpredictionpopinterlayeractivationfusionforsinglepasshallucinationdetectioninlargelanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.placenta.2026.06.006",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-28T14:05:18.898138+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.placenta.2026.06.006",
+      "venue": "Placenta",
+      "title_key": "evaluationofadeepgenerativecomputationalframeworkunderconstrainedconditionsformultiregionalplacentalsinglecelltranscriptomicinference",
+      "identity_keys": [
+        "doi:10.1016/j.placenta.2026.06.006",
+        "title:evaluationofadeepgenerativecomputationalframeworkunderconstrainedconditionsformultiregionalplacentalsinglecelltranscriptomicinference"
+      ]
     }
   ]
 }
