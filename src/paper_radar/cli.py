@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import sys
 from datetime import date, datetime
 from zoneinfo import ZoneInfo
@@ -12,6 +13,7 @@ from paper_radar.delivery.discord_webhook import DiscordWebhook, render_console
 from paper_radar.pipeline import Pipeline, RunResult
 from paper_radar.presentation import group_papers
 from paper_radar.scoring.common import debug_score
+from paper_radar.tuning import TuneService
 
 LOGGER = logging.getLogger(__name__)
 CATEGORIES = ("bioinfo", "ml", "frontier")
@@ -44,6 +46,9 @@ def parser() -> argparse.ArgumentParser:
     more.add_argument("--date", type=_date, default=jst_today())
     more.add_argument("--dry-run", action="store_true")
     more.add_argument("--debug-scores", action="store_true")
+    tune = commands.add_parser("tune", help="Apply natural-language preference tuning")
+    tune.add_argument("--category", choices=CATEGORIES, required=True)
+    tune.add_argument("--feedback", default=None)
     return root
 
 
@@ -89,6 +94,25 @@ def main(argv: list[str] | None = None) -> int:
         pipeline.client, config.common["discord"]["username"], config.common["discord"]["colors"]
     )
     try:
+        if args.command == "tune":
+            feedback = args.feedback or os.getenv("TUNE_FEEDBACK", "")
+            try:
+                result = TuneService(config, client=pipeline.client).tune(feedback, args.category)
+            except Exception:
+                LOGGER.exception("Paper Radar tuning failed; rules were not changed")
+                try:
+                    webhook.send_message(
+                        args.category,
+                        "⚠️ Paper Radarの調整に失敗しました。ルールは変更されていません。",
+                    )
+                except Exception:
+                    LOGGER.exception("Could not send tuning failure message to Discord")
+                return 1
+            try:
+                webhook.send_message(args.category, result.discord_message())
+            except Exception:
+                LOGGER.exception("Rules were updated, but Discord confirmation failed")
+            return 0
         if args.command == "daily":
             categories = CATEGORIES if args.category == "all" else (args.category,)
             results = [pipeline.run_daily(category, args.date) for category in categories]

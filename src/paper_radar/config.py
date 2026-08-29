@@ -17,6 +17,7 @@ class RadarConfig:
     common: dict[str, Any]
     venues: dict[str, Any]
     seeds: dict[str, Any]
+    tuning: dict[str, Any]
     categories: dict[str, dict[str, Any]]
 
     def category(self, name: str) -> dict[str, Any]:
@@ -59,6 +60,7 @@ def load_config(root: Path | None = None) -> RadarConfig:
         raise ConfigError("config/common: more.count must be positive")
     venues = _read_yaml(config_dir / "venues.yaml")
     seeds = _read_yaml(config_dir / "seeds.yaml")
+    tuning = _read_yaml(config_dir / "tuning.yaml")
     categories = {
         "bioinfo": _read_yaml(config_dir / "bioinfo.yaml"),
         "ml": _read_yaml(config_dir / "ml_algorithms.yaml"),
@@ -73,4 +75,4 @@ def load_config(root: Path | None = None) -> RadarConfig:
             raise ConfigError(f"config/{name}: must_read must exceed strong")
         if thresholds["strong"] <= thresholds["more_min_score"]:
             raise ConfigError(f"config/{name}: strong must exceed more_min_score")
-    return RadarConfig(root, common, venues, seeds, categories)
+    return RadarConfig(root, common, venues, seeds, tuning, categories)

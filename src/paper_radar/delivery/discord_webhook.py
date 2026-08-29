@@ -139,3 +139,7 @@ class DiscordWebhook:
             "content": f"**{group.name} — {len(group.papers)} papers**",
         }
         self.client.request("POST", self.webhook_url(category), json=payload)
+
+    def send_message(self, category: str, content: str) -> None:
+        payload = {"username": self.username, "content": content[:2000]}
+        self.client.request("POST", self.webhook_url(category), json=payload)

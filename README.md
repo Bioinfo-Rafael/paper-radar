@@ -158,17 +158,30 @@ curl -X PUT \
 
 This creates `/daily` and `/more` without category options. The fine-grained GitHub token needs only repository **Actions: write**; the Discord bot token is used only to register commands and is not stored in the Worker.
 
-## 17. Experimental extensions
+## 17. `/tune` preference learning
+
+`/tune feedback:<natural language>` interprets preference feedback with one Groq structured-output call, validates a finite action set, and updates deterministic scoring overlays. It does not ask an LLM to rank the daily paper pool or write executable code.
+
+Validated rules are stored in `config/tuning.yaml`. Each successful interpretation appends its timestamp, original message, before/after rules, summary, warnings, and applied actions to `state/tuning_history.json`. The dedicated `tune.yml` workflow commits both files, so later scheduled and `/more` runs load the same rules. Daily, More, and Tune share the `paper-radar-state` concurrency group.
+
+Supported tuning operations cover positive/negative concepts, concept weights, method/formulation/phenomenon/benchmark/application signals, journal priority, freshness, top-journal backfill, channel routing, notification thresholds, and paper-type preferences. Values are bounded and unknown operations are rejected. Feedback and paper abstracts are treated as untrusted text; tuning cannot change secrets, paths, commands, Python code, environment variables, or workflows.
+
+Set `GROQ_API_KEY` as a GitHub Actions repository secret. It is used only by `tune.yml`; it is not required by the Cloudflare Worker and must not be placed in YAML or source files. The production model is `openai/gpt-oss-20b` with strict JSON Schema output.
+
+The command resolves references from the recent candidate cache by URL or distinctive title terms. For arXiv, bioRxiv, DOI, and Semantic Scholar URLs not found in the cache, it reuses Semantic Scholar metadata retrieval before the Groq call. Explicitly stated reasons take precedence over inferred paper characteristics in the tuning prompt.
+
+## 18. Experimental extensions
 
 `extensions/more_like_this` and `extensions/feedback` are disabled placeholders. They are deliberately not imported by daily or `/more` and can be deleted safely.
 
-## 18. Troubleshooting
+## 19. Troubleshooting
 
 - **429 / timeouts:** retries use exponential backoff. Add `S2_API_KEY`; transient failure of one source is logged while the other sources continue.
 - **No Discord post:** verify the category-specific webhook environment variable. A zero-result live run still sends the daily header.
 - **Too many/few papers:** first inspect `--debug-scores`, then tune weights and thresholds in YAML.
 - **Repeated paper:** inspect `state/sent.json`. Identity priority is DOI → arXiv → bioRxiv DOI → Semantic Scholar ID → normalized title. A formal journal publication after a sent bioRxiv preprint is intentionally allowed once.
 - **`/more` is slower than daily:** explore mode intentionally performs fresh 30-day acquisition with larger source limits. It does not depend on the daily candidate cache.
+- **`/tune` fails safely:** inspect the Tune Paper Radar workflow log. Groq/API/schema failures leave `config/tuning.yaml` unchanged and post a short failure notice when Discord is available.
 - **Tests:** run `pytest`; all scoring tests are deterministic and use no network.
 
 External APIs used: official bioRxiv details/publication mapping endpoints, NCBI PubMed E-utilities, arXiv Atom API, Semantic Scholar Academic Graph and Recommendations APIs, and `huggingface_hub.HfApi.list_daily_papers`.

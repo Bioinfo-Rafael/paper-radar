@@ -6,5 +6,18 @@
   {
     "name": "more",
     "description": "Search again for additional Paper Radar recommendations"
+  },
+  {
+    "name": "tune",
+    "description": "Tune Paper Radar from natural-language feedback",
+    "options": [
+      {
+        "name": "feedback",
+        "description": "What should Paper Radar recommend more or less often?",
+        "type": 3,
+        "required": true,
+        "max_length": 3500
+      }
+    ]
   }
 ]

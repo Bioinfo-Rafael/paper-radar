@@ -20,6 +20,7 @@ from paper_radar.sources import (
     SemanticScholarSource,
 )
 from paper_radar.state import StateStore, load_candidate_cache, save_candidate_cache
+from paper_radar.tuning.rules import apply_tuning, tuning_lookback_days
 
 LOGGER = logging.getLogger(__name__)
 
@@ -94,7 +95,8 @@ class Pipeline:
         mode: Literal["daily", "more"] = "daily",
     ) -> tuple[list[Paper], dict[str, int]]:
         search = self.search_settings(mode)
-        start = today - timedelta(days=search.lookback_days)
+        lookback_days = tuning_lookback_days(self.config.tuning, category, search.lookback_days)
+        start = today - timedelta(days=lookback_days)
         limits = self.config.common["source_limits"]
         cfg = self.config.category(category)
         groups: dict[str, list[Paper]] = {}
@@ -151,6 +153,18 @@ class Pipeline:
             scored = [score_ml(p, cfg, self.config.venues["ml"], today) for p in papers]
         else:
             scored = [score_frontier(p, cfg, today) for p in papers]
+        venue_config = self.config.venues.get(category, {})
+        scored = [
+            apply_tuning(
+                paper,
+                category,
+                self.config.tuning,
+                cfg["thresholds"],
+                venue_config,
+                today,
+            )
+            for paper in scored
+        ]
         if category == "frontier":
             return sorted(
                 scored,
@@ -172,7 +186,7 @@ class Pipeline:
         )
 
     def select_daily(self, category: str, ranked: list[Paper]) -> list[Paper]:
-        minimum = self.config.category(category)["thresholds"]["more_min_score"]
+        minimum = self._notification_threshold(category)
         return [
             paper
             for paper in ranked
@@ -195,7 +209,7 @@ class Pipeline:
         return RunResult(category, ranked, selected, source_counts, mode="more")
 
     def select_more(self, category: str, ranked: list[Paper], count: int) -> list[Paper]:
-        minimum = self.config.category(category)["thresholds"]["more_min_score"]
+        minimum = self._notification_threshold(category)
         return [
             paper
             for paper in ranked
@@ -204,12 +218,24 @@ class Pipeline:
             and not self.state.was_sent(paper, category)
         ][:count]
 
+    def _notification_threshold(self, category: str) -> float:
+        base = float(self.config.category(category)["thresholds"]["more_min_score"])
+        override = next(
+            (
+                rule
+                for rule in self.config.tuning.get("thresholds", [])
+                if rule.get("channel") == category
+            ),
+            None,
+        )
+        return float(override["value"]) if override else base
+
     def cache_results(self, today: date, results: list[RunResult]) -> None:
         existing: dict[str, list[Paper]] = {}
         for name in ("bioinfo", "ml", "frontier"):
             existing[name] = load_candidate_cache(self.cache_path, name)
         for result in results:
-            minimum = self.config.category(result.category)["thresholds"]["more_min_score"]
+            minimum = self._notification_threshold(result.category)
             existing[result.category] = [
                 paper
                 for paper in result.candidates

@@ -3,6 +3,7 @@ const CATEGORIES = new Set(["bioinfo", "ml", "frontier"]);
 const COMMANDS = {
   daily: { workflow: "daily.yml", acknowledgement: (category) => `Started ${category} Daily Paper Radar.` },
   more: { workflow: "more.yml", acknowledgement: (category) => `Searching for 5 more ${category} papers…` },
+  tune: { workflow: "tune.yml", acknowledgement: () => "Paper Radarの調整を受け付けました。" },
 };
 
 function hexToBytes(hex) {
@@ -40,10 +41,12 @@ function categoryForChannel(env, channelId) {
   return CATEGORIES.has(category) ? category : null;
 }
 
-async function dispatchWorkflow(env, commandName, category) {
+async function dispatchWorkflow(env, commandName, category, feedback) {
   const command = COMMANDS[commandName];
   const endpoint = `https://api.github.com/repos/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/actions/workflows/${command.workflow}/dispatches`;
-  const inputs = commandName === "more" ? { category, count: "5" } : { category };
+  let inputs = { category };
+  if (commandName === "more") inputs = { category, count: "5" };
+  if (commandName === "tune") inputs = { category, feedback: feedback.trim() };
   const response = await fetch(endpoint, {
     method: "POST",
     headers: {
@@ -74,10 +77,10 @@ async function updateInteraction(interaction, content) {
   }
 }
 
-async function runCommand(env, interaction, commandName, category) {
+async function runCommand(env, interaction, commandName, category, feedback) {
   let content;
   try {
-    await dispatchWorkflow(env, commandName, category);
+    await dispatchWorkflow(env, commandName, category, feedback);
     content = COMMANDS[commandName].acknowledgement(category);
   } catch (error) {
     console.error("GitHub workflow dispatch failed", {
@@ -125,7 +128,17 @@ export default {
           },
         });
       }
-      ctx.waitUntil(runCommand(env, interaction, commandName, category));
+      const feedback = interaction.data?.options?.find((item) => item.name === "feedback")?.value;
+      if (
+        commandName === "tune" &&
+        (typeof feedback !== "string" || !feedback.trim() || feedback.length > 3500)
+      ) {
+        return Response.json({
+          type: 4,
+          data: { content: "調整内容を1〜3500文字で入力してください。", flags: 64 },
+        });
+      }
+      ctx.waitUntil(runCommand(env, interaction, commandName, category, feedback));
       return Response.json({ type: 5, data: { flags: 64 } });
     } catch (error) {
       console.error("Paper Radar command failed", {

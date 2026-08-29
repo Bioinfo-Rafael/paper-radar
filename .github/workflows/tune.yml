@@ -1,0 +1,52 @@
+name: Tune Paper Radar
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: Radar category inferred from the Discord channel
+        required: true
+        type: choice
+        options: [bioinfo, ml, frontier]
+      feedback:
+        description: Natural-language tuning feedback
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paper-radar-state
+  cancel-in-progress: false
+
+jobs:
+  tune:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install .
+      - name: Interpret and apply tuning
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TUNE_FEEDBACK: ${{ inputs.feedback }}
+          DISCORD_BIOINFO_WEBHOOK: ${{ secrets.DISCORD_BIOINFO_WEBHOOK }}
+          DISCORD_ML_WEBHOOK: ${{ secrets.DISCORD_ML_WEBHOOK }}
+          DISCORD_FRONTIER_WEBHOOK: ${{ secrets.DISCORD_FRONTIER_WEBHOOK }}
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+        run: python -m paper_radar.cli tune --category "${{ inputs.category }}"
+      - name: Persist validated rules and audit history
+        run: |
+          if git diff --quiet -- config/tuning.yaml state/tuning_history.json; then
+            exit 0
+          fi
+          git config user.name "paper-radar[bot]"
+          git config user.email "paper-radar[bot]@users.noreply.github.com"
+          git add config/tuning.yaml state/tuning_history.json
+          git commit -m "chore(tuning): apply Discord feedback"
+          git push
