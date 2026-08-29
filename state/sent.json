@@ -1487,6 +1487,118 @@
         "arxiv:2607.28624",
         "title:phizeroaworldmodelbuiltaroundphysicallanguage"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.04.08.717080",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T11:59:27.836277+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.04.08.717080",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "scmultipredictasinglecellpredictiveframeworkwithtranscriptomicandepigeneticsignatures",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.04.08.717080",
+        "title:scmultipredictasinglecellpredictiveframeworkwithtranscriptomicandepigeneticsignatures"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.02.19.706743",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T11:59:28.046417+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.02.19.706743",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "otknnaneighborhoodawareoptimaltransportframeworkforaligningspatialtranscriptomicsdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.02.19.706743",
+        "title:otknnaneighborhoodawareoptimaltransportframeworkforaligningspatialtranscriptomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.07.20.739670",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T11:59:28.265617+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.07.20.739670",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "sclembascontextawaremodelingofsignalingpathwayactivityatsinglecellresolution",
+      "identity_keys": [
+        "doi:10.64898/2026.07.20.739670",
+        "title:sclembascontextawaremodelingofsignalingpathwayactivityatsinglecellresolution"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.16.676533",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T11:59:28.613858+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.16.676533",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "lieotmapadifferentiableapproachtocryoemfittingvialietheoreticoptimaltransport",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.16.676533",
+        "title:lieotmapadifferentiableapproachtocryoemfittingvialietheoreticoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.01.24.701517",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T11:59:28.882868+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.01.24.701517",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "contextawareproteinrepresentationsusingproteinlanguagemodelsandoptimaltransport",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.01.24.701517",
+        "title:contextawareproteinrepresentationsusingproteinlanguagemodelsandoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27292",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T11:59:30.918602+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vetotowardsprotectingimagesfromfrontieraiediting",
+      "identity_keys": [
+        "arxiv:2607.27292",
+        "title:vetotowardsprotectingimagesfromfrontieraiediting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27271",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T11:59:31.454113+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rlpfreinforcementlearningfromperformancefeedbackforcodegeneration",
+      "identity_keys": [
+        "arxiv:2607.27271",
+        "title:rlpfreinforcementlearningfromperformancefeedbackforcodegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27273",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T11:59:31.632592+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sdostructureawaredataorganizationforefficientllmposttraining",
+      "identity_keys": [
+        "arxiv:2607.27273",
+        "title:sdostructureawaredataorganizationforefficientllmposttraining"
+      ]
     }
   ]
 }
