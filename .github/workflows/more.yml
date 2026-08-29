@@ -12,6 +12,10 @@ on:
         description: Number of papers
         required: false
         default: "5"
+      focus:
+        description: Optional one-run retrieval and ranking focus
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -39,10 +43,12 @@ jobs:
           S2_API_KEY: ${{ secrets.S2_API_KEY }}
           NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          MORE_FOCUS: ${{ inputs.focus }}
         run: >-
           python -m paper_radar.cli more
           --category "${{ inputs.category }}"
           --count "${{ inputs.count }}"
+          --focus "$MORE_FOCUS"
       - name: Persist deduplication state
         run: |
           if git diff --quiet -- state/sent.json; then

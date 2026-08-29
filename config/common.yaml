@@ -7,7 +7,11 @@ search:
     archive_days: 730
     archive_max_days: 1095
     target_count: 5
-    fresh_target: 5
+    fresh_target: 3
+  focus:
+    title_bonus: 2.0
+    abstract_bonus: 1.2
+    max_bonus: 2.0
   daily:
     lookback_days: 30
     source_limit_multiplier: 1

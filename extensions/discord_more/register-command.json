@@ -5,7 +5,16 @@
   },
   {
     "name": "more",
-    "description": "Search again for additional Paper Radar recommendations"
+    "description": "Search again for additional Paper Radar recommendations",
+    "options": [
+      {
+        "name": "focus",
+        "description": "Optional topic focus for this search only",
+        "type": 3,
+        "required": false,
+        "max_length": 200
+      }
+    ]
   },
   {
     "name": "tune",

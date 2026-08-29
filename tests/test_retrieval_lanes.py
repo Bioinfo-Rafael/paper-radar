@@ -122,6 +122,68 @@ def test_archive_lane_is_bounded_and_only_used_for_top_journals(config, today):
     assert pipeline.select_more("bioinfo", [archive], 5) == [archive]
 
 
+def test_frontier_has_archive_lane(config, today):
+    lanes = Pipeline(config).retrieval_lanes("frontier", today)
+    assert [lane.name for lane in lanes] == ["fresh", "backfill", "archive"]
+    assert (today - lanes[-1].start).days == 730
+
+
+def test_frontier_archive_keeps_top_venue_candidate(config, today, monkeypatch):
+    pipeline = Pipeline(config)
+    top = make_paper(title="Archived embodied agent", venue="NeurIPS")
+    ordinary = make_paper(title="Archived embodied agent preprint", venue="arXiv")
+    monkeypatch.setattr(pipeline.s2, "search", lambda *args, **kwargs: [top, ordinary])
+    lane = next(
+        lane for lane in pipeline.retrieval_lanes("frontier", today) if lane.name == "archive"
+    )
+    groups = pipeline._acquire_lane("frontier", lane, pipeline.search_settings("daily"))
+    assert groups["semantic_scholar"] == [top]
+    assert top.retrieval_lane == "archive"
+
+
+def test_frontier_tuned_archive_can_extend_to_1095_days(config, today, monkeypatch):
+    monkeypatch.setitem(
+        config.tuning,
+        "backfill",
+        [
+            {
+                "channel": "frontier",
+                "journal_group": "top_journals",
+                "journal": None,
+                "days": 1095,
+                "priority": 1.0,
+            }
+        ],
+    )
+    lanes = Pipeline(config).retrieval_lanes("frontier", today)
+    assert (today - lanes[-1].start).days == 1095
+
+
+def test_selection_reserves_space_for_important_history(config, tmp_path, monkeypatch):
+    monkeypatch.setitem(config.common["state"], "path", str(tmp_path / "sent.json"))
+    pipeline = Pipeline(config)
+    fresh = [
+        make_paper(
+            title=f"Fresh {index}",
+            score=10 - index,
+            importance_score=10 - index,
+            retrieval_lane="fresh",
+        )
+        for index in range(5)
+    ]
+    history = [
+        make_paper(
+            title=f"History {index}",
+            score=5 - index,
+            importance_score=5 - index,
+            retrieval_lane="backfill" if index == 0 else "archive",
+        )
+        for index in range(2)
+    ]
+    selected = pipeline.select_daily("bioinfo", [*fresh, *history])
+    assert selected == [*fresh[:3], *history]
+
+
 def test_e_five_star_is_reachable_without_freshness(config, today):
     paper = score_bioinfo(
         make_paper(

@@ -65,6 +65,8 @@ class Paper:
     score: float = 0.0
     importance_score: float | None = None
     freshness_bonus: float = 0.0
+    discovery_bonus: float = 0.0
+    focus_bonus: float = 0.0
     retrieval_lane: str | None = None
     rating: Rating = Rating.BELOW
     excluded: bool = False

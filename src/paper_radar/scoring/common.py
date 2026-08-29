@@ -54,15 +54,54 @@ def seed_component(rank: int | None, max_weight: float) -> float:
 
 
 def apply_rating(paper: Paper, thresholds: dict[str, float]) -> None:
-    freshness_keys = {"recency", "freshness_bonus"}
+    def component_kind(name: str) -> str:
+        if name in {"recency", "freshness_bonus"} or name == "tuned_signal:freshness":
+            return "freshness"
+        if name in {"hf_trending", "discovery_bonus"}:
+            return "discovery"
+        if name == "focus_bonus":
+            return "focus"
+        return "importance"
+
     paper.importance_score = round(
-        sum(value for name, value in paper.score_components.items() if name not in freshness_keys),
+        sum(
+            value
+            for name, value in paper.score_components.items()
+            if component_kind(name) == "importance"
+        ),
         3,
     )
     paper.freshness_bonus = round(
-        sum(value for name, value in paper.score_components.items() if name in freshness_keys), 3
+        sum(
+            value
+            for name, value in paper.score_components.items()
+            if component_kind(name) == "freshness"
+        ),
+        3,
     )
-    paper.score = round(paper.importance_score + paper.freshness_bonus, 3)
+    paper.discovery_bonus = round(
+        sum(
+            value
+            for name, value in paper.score_components.items()
+            if component_kind(name) == "discovery"
+        ),
+        3,
+    )
+    paper.focus_bonus = round(
+        sum(
+            value
+            for name, value in paper.score_components.items()
+            if component_kind(name) == "focus"
+        ),
+        3,
+    )
+    paper.score = round(
+        paper.importance_score
+        + paper.freshness_bonus
+        + paper.discovery_bonus
+        + paper.focus_bonus,
+        3,
+    )
     rating_score = paper.importance_score
     if paper.excluded:
         paper.rating = Rating.EXCLUDED
@@ -87,6 +126,8 @@ def debug_score(paper: Paper) -> dict[str, Any]:
         "total": paper.score,
         "scientific_importance": paper.importance_score,
         "freshness_bonus": paper.freshness_bonus,
+        "discovery_bonus": paper.discovery_bonus,
+        "focus_bonus": paper.focus_bonus,
         "retrieval_lane": paper.retrieval_lane,
         "rating": paper.rating.value,
         "matched_criteria": paper.matched_criteria,

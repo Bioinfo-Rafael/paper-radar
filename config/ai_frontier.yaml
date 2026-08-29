@@ -4,6 +4,13 @@ queries:
     - world model physical AI robotics
     - vision language action robot foundation model
     - reasoning test time compute reinforcement learning
+  semantic_scholar_archive:
+    - NeurIPS autonomous agent world model
+    - ICML self improving agent reasoning
+    - ICLR world model reinforcement learning
+    - CoRL RSS ICRA robot learning embodied AI
+    - Science Robotics vision language action
+    - Nature Machine Intelligence AI agent
 families:
   core:
     physical-ai: [physical AI, embodied AI, embodied intelligence]
@@ -19,7 +26,7 @@ families:
     foundation-model: [foundation model, multimodal model]
   breakthrough:
     qualitative-change: [previously impossible, first demonstration, new paradigm, qualitative capability]
-    generalization: [unseen task, unseen environment, unseen robot, unseen embodiment, zero-shot transfer]
+    generalization: [unseen task, unseen tasks, unseen environment, unseen environments, unseen robot, unseen robots, unseen embodiment, unseen embodiments, zero-shot transfer]
     durable-learning: [persistent improvement, improves from experience, transfer of self-improvement]
     discovery: [scientific discovery, discovered algorithm, novel discovery]
     negative-result: [negative result, breaks the assumption, fundamental limitation]
@@ -29,17 +36,21 @@ families:
     shallow-agent: [prompt refinement, reflection loop, retry loop]
     pure-generation: [image generation, video generation, 3D reconstruction]
 weights:
-  hf_rank_max: 5.0
+  hf_discovery_max: 1.2
   core_topic: 2.2
+  core_topic_max: 4.0
   secondary_topic: 1.0
+  secondary_topic_max: 1.5
   breakthrough: 2.0
   recency: 0.8
-  citation_bonus_max: 1.0
+  citation_bonus_max: 1.5
+  venue_top: 1.5
+  venue_strong: 0.8
   negative_penalty: -3.5
 thresholds:
-  must_read: 7.2
-  strong: 5.0
-  more_min_score: 3.8
+  must_read: 6.0
+  strong: 4.6
+  more_min_score: 3.0
 ranking:
   core_max_rank: 100
   hf_rank_score_window: 50
@@ -48,4 +59,4 @@ ranking:
   resurfaced_max_rank: 5
   legendary_min_citations: 1000
   legendary_min_influential_citations: 100
-  old_after_days: 730
+  old_after_days: 1095

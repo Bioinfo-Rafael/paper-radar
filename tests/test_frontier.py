@@ -8,7 +8,8 @@ from tests.conftest import make_paper
 
 
 def scored(config, today, **values):
-    return score_frontier(make_paper(venue="arXiv", **values), config.category("frontier"), today)
+    values.setdefault("venue", "arXiv")
+    return score_frontier(make_paper(**values), config.category("frontier"), today)
 
 
 def test_high_rank_world_model_and_agent(config, today):
@@ -34,6 +35,20 @@ def test_high_rank_world_model_and_agent(config, today):
     )
     assert world.rating is Rating.MUST_READ
     assert agent.rating is Rating.MUST_READ
+
+
+def test_hf_rank_is_discovery_not_scientific_importance(config, today):
+    paper = scored(
+        config,
+        today,
+        hf_rank=1,
+        title="A world model",
+        abstract="A world model for robot control.",
+    )
+    assert paper.score_components["hf_trending"] == 1.2
+    assert paper.discovery_bonus == 1.2
+    assert paper.importance_score == 2.2
+    assert paper.rating is Rating.BELOW
 
 
 def test_pure_generation_excluded(config, today):
@@ -65,7 +80,7 @@ def test_secondary_low_rank_excluded_and_top_breakthrough_included(config, today
         ),
     )
     assert low.excluded
-    assert high.rating is Rating.MUST_READ
+    assert high.rating is Rating.STRONG
 
 
 def test_old_paper_legendary_path(config, today):
@@ -92,3 +107,15 @@ def test_old_paper_legendary_path(config, today):
     assert ordinary.excluded
     assert not legendary.excluded
     assert "resurfaced/legendary" in legendary.matched_criteria
+
+
+def test_frontier_archive_age_is_not_hard_excluded(config, today):
+    paper = scored(
+        config,
+        today,
+        publication_date=date(2024, 3, 1),
+        title="A world model for embodied AI",
+        abstract="A new paradigm with generalization to unseen environments.",
+        venue="NeurIPS",
+    )
+    assert not paper.excluded

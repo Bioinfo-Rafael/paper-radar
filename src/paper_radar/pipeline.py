@@ -9,6 +9,7 @@ import yaml
 
 from paper_radar.config import RadarConfig
 from paper_radar.dedup import deduplicate
+from paper_radar.focus import FocusSpec, apply_focus_bonus, resolve_focus
 from paper_radar.http import HttpClient
 from paper_radar.models import Paper
 from paper_radar.scoring import score_bioinfo, score_frontier, score_ml
@@ -133,6 +134,7 @@ class Pipeline:
         category: str,
         lane: RetrievalLane,
         search: SearchSettings,
+        focus: FocusSpec | None = None,
     ) -> dict[str, list[Paper]]:
         limits = self.config.common["source_limits"]
         cfg = self.config.category(category)
@@ -146,17 +148,22 @@ class Pipeline:
                     cfg["queries"]["biorxiv_categories"],
                     biorxiv_limit,
                 )
+                retrieval_queries = list(cfg["queries"]["semantic_scholar"])
+                if focus:
+                    retrieval_queries.extend(focus.queries)
                 groups["crossref_preprints"] = CrossrefPreprintSource(self.client).fetch(
                     lane.start,
                     lane.end,
                     search.scaled_limit(limits["crossref_preprints"]),
-                    queries=tuple(cfg["queries"]["semantic_scholar"]),
+                    queries=tuple(dict.fromkeys(retrieval_queries)),
                 )
                 pubmed_queries = cfg["queries"]["pubmed"]
                 s2_queries = cfg["queries"]["semantic_scholar"]
             else:
                 pubmed_queries = cfg["queries"]["top_journal_archive"]
                 s2_queries = cfg["queries"]["semantic_scholar_archive"]
+            if focus:
+                s2_queries = list(dict.fromkeys([*s2_queries, *focus.queries]))
             groups["pubmed"] = PubMedSource(self.client).fetch(
                 pubmed_queries,
                 lane.start,
@@ -180,6 +187,8 @@ class Pipeline:
                 s2_queries = cfg["queries"]["semantic_scholar"]
             else:
                 s2_queries = cfg["queries"]["semantic_scholar_archive"]
+            if focus:
+                s2_queries = list(dict.fromkeys([*s2_queries, *focus.queries]))
             groups["semantic_scholar"] = self.s2.search(
                 s2_queries,
                 lane.start,
@@ -189,13 +198,25 @@ class Pipeline:
         else:
             if lane.name == "fresh":
                 hf_limit = search.scaled_limit(limits["huggingface"], limits.get("huggingface_max"))
-                groups["huggingface"] = HuggingFaceSource().fetch(lane.end, hf_limit)
+                groups["huggingface"] = [
+                    paper
+                    for paper in HuggingFaceSource().fetch(lane.end, hf_limit)
+                    if not paper.publication_date
+                    or lane.start <= paper.publication_date <= lane.end
+                ]
                 identifiers = [
                     f"ARXIV:{paper.arxiv_id}" for paper in groups["huggingface"] if paper.arxiv_id
                 ]
                 groups["semantic_scholar_enrichment"] = self.s2.fetch_batch(identifiers)
+            s2_queries = (
+                cfg["queries"]["semantic_scholar_archive"]
+                if lane.name == "archive"
+                else cfg["queries"]["semantic_scholar"]
+            )
+            if focus:
+                s2_queries = list(dict.fromkeys([*s2_queries, *focus.queries]))
             groups["semantic_scholar"] = self.s2.search(
-                cfg["queries"]["semantic_scholar"],
+                s2_queries,
                 lane.start,
                 lane.end,
                 search.scaled_limit(limits["semantic_scholar_per_query"]),
@@ -216,11 +237,12 @@ class Pipeline:
         category: str,
         today: date,
         mode: Literal["daily", "more"] = "daily",
+        focus: FocusSpec | None = None,
     ) -> tuple[list[Paper], dict[str, int]]:
         search = self.search_settings(mode)
         groups: dict[str, list[Paper]] = {}
         for lane in self.retrieval_lanes(category, today):
-            for source, papers in self._acquire_lane(category, lane, search).items():
+            for source, papers in self._acquire_lane(category, lane, search, focus).items():
                 groups[f"{lane.name}:{source}"] = papers
         if category in {"bioinfo", "ml"}:
             limits = self.config.common["source_limits"]
@@ -247,14 +269,22 @@ class Pipeline:
         source_counts = {name: len(values) for name, values in groups.items()}
         return deduplicate(paper for values in groups.values() for paper in values), source_counts
 
-    def rank(self, category: str, papers: list[Paper], today: date) -> list[Paper]:
+    def rank(
+        self,
+        category: str,
+        papers: list[Paper],
+        today: date,
+        focus: FocusSpec | None = None,
+    ) -> list[Paper]:
         cfg = self.config.category(category)
         if category == "bioinfo":
             scored = [score_bioinfo(p, cfg, self.config.venues["bioinfo"], today) for p in papers]
         elif category == "ml":
             scored = [score_ml(p, cfg, self.config.venues["ml"], today) for p in papers]
         else:
-            scored = [score_frontier(p, cfg, today) for p in papers]
+            scored = [
+                score_frontier(p, cfg, today, self.config.venues["frontier"]) for p in papers
+            ]
         venue_config = self.config.venues.get(category, {})
         scored = [
             apply_tuning(
@@ -267,6 +297,16 @@ class Pipeline:
             )
             for paper in scored
         ]
+        if focus:
+            scored = [
+                apply_focus_bonus(
+                    paper,
+                    focus,
+                    cfg["thresholds"],
+                    self.config.common["search"]["focus"],
+                )
+                for paper in scored
+            ]
         return sorted(
             scored,
             key=lambda p: (
@@ -318,24 +358,22 @@ class Pipeline:
             and not self.state.was_sent(paper, category)
         ]
         selected: list[Paper] = []
-        limits = {"fresh": fresh_limit if fresh_limit is not None else count}
-        for lane in ("fresh", "backfill", "archive"):
-            lane_count = 0
-            for paper in eligible:
-                paper_lane = paper.retrieval_lane or "fresh"
-                if paper_lane == lane and paper not in selected:
-                    if lane_count >= limits.get(lane, count):
-                        break
-                    selected.append(paper)
-                    lane_count += 1
-                    if len(selected) >= count:
-                        return selected
-        if len(selected) < count:
-            for paper in eligible:
-                if paper not in selected:
-                    selected.append(paper)
-                    if len(selected) >= count:
-                        break
+        deferred_fresh: list[Paper] = []
+        fresh_count = 0
+        maximum_fresh = fresh_limit if fresh_limit is not None else count
+        for paper in eligible:
+            if (paper.retrieval_lane or "fresh") == "fresh":
+                if fresh_count >= maximum_fresh:
+                    deferred_fresh.append(paper)
+                    continue
+                fresh_count += 1
+            selected.append(paper)
+            if len(selected) >= count:
+                return selected
+        for paper in deferred_fresh:
+            selected.append(paper)
+            if len(selected) >= count:
+                break
         return selected
 
     def run_daily(self, category: str, today: date) -> RunResult:
@@ -345,9 +383,22 @@ class Pipeline:
             category, ranked, self.select_daily(category, ranked), source_counts, mode="daily"
         )
 
-    def run_more(self, category: str, today: date, count: int) -> RunResult:
-        candidates, source_counts = self.acquire(category, today, mode="more")
-        ranked = self.rank(category, candidates, today)
+    def run_more(
+        self,
+        category: str,
+        today: date,
+        count: int,
+        focus: str | None = None,
+    ) -> RunResult:
+        focus_spec = resolve_focus(focus, self.config.category(category))
+        if focus_spec:
+            candidates, source_counts = self.acquire(
+                category, today, mode="more", focus=focus_spec
+            )
+            ranked = self.rank(category, candidates, today, focus=focus_spec)
+        else:
+            candidates, source_counts = self.acquire(category, today, mode="more")
+            ranked = self.rank(category, candidates, today)
         selected = self.select_more(category, ranked, count)
         return RunResult(category, ranked, selected, source_counts, mode="more")
 

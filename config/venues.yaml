@@ -38,3 +38,32 @@ bioinfo:
 ml:
   top: [NeurIPS, ICML, ICLR]
   strong: [CVPR, ICCV, ECCV, AISTATS, JMLR, TMLR]
+frontier:
+  top:
+    - NeurIPS
+    - Neural Information Processing Systems
+    - ICML
+    - International Conference on Machine Learning
+    - ICLR
+    - International Conference on Learning Representations
+    - CoRL
+    - Conference on Robot Learning
+    - RSS
+    - Robotics Science and Systems
+    - Science Robotics
+    - Nature Machine Intelligence
+    - Nature
+    - Science
+  strong:
+    - ICRA
+    - IEEE International Conference on Robotics and Automation
+    - IROS
+    - IEEE/RSJ International Conference on Intelligent Robots and Systems
+    - CVPR
+    - Computer Vision and Pattern Recognition
+    - ICCV
+    - ECCV
+    - ACL
+    - Annual Meeting of the Association for Computational Linguistics
+    - EMNLP
+    - Empirical Methods in Natural Language Processing

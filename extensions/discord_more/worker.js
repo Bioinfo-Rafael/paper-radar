@@ -2,7 +2,12 @@ const encoder = new TextEncoder();
 const CATEGORIES = new Set(["bioinfo", "ml", "frontier"]);
 const COMMANDS = {
   daily: { workflow: "daily.yml", acknowledgement: (category) => `Started ${category} Daily Paper Radar.` },
-  more: { workflow: "more.yml", acknowledgement: (category) => `Searching for 5 more ${category} papers…` },
+  more: {
+    workflow: "more.yml",
+    acknowledgement: (category, values) => values.focus
+      ? `Searching for 5 more ${category} papers with a temporary focus…`
+      : `Searching for 5 more ${category} papers…`,
+  },
   tune: { workflow: "tune.yml", acknowledgement: () => "Paper Radarの調整を受け付けました。" },
 };
 
@@ -41,12 +46,12 @@ function categoryForChannel(env, channelId) {
   return CATEGORIES.has(category) ? category : null;
 }
 
-async function dispatchWorkflow(env, commandName, category, feedback) {
+async function dispatchWorkflow(env, commandName, category, values) {
   const command = COMMANDS[commandName];
   const endpoint = `https://api.github.com/repos/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/actions/workflows/${command.workflow}/dispatches`;
   let inputs = { category };
-  if (commandName === "more") inputs = { category, count: "5" };
-  if (commandName === "tune") inputs = { category, feedback: feedback.trim() };
+  if (commandName === "more") inputs = { category, count: "5", focus: values.focus };
+  if (commandName === "tune") inputs = { category, feedback: values.feedback.trim() };
   const response = await fetch(endpoint, {
     method: "POST",
     headers: {
@@ -77,11 +82,11 @@ async function updateInteraction(interaction, content) {
   }
 }
 
-async function runCommand(env, interaction, commandName, category, feedback) {
+async function runCommand(env, interaction, commandName, category, values) {
   let content;
   try {
-    await dispatchWorkflow(env, commandName, category, feedback);
-    content = COMMANDS[commandName].acknowledgement(category);
+    await dispatchWorkflow(env, commandName, category, values);
+    content = COMMANDS[commandName].acknowledgement(category, values);
   } catch (error) {
     console.error("GitHub workflow dispatch failed", {
       command: commandName,
@@ -129,6 +134,7 @@ export default {
         });
       }
       const feedback = interaction.data?.options?.find((item) => item.name === "feedback")?.value;
+      const focusValue = interaction.data?.options?.find((item) => item.name === "focus")?.value;
       if (
         commandName === "tune" &&
         (typeof feedback !== "string" || !feedback.trim() || feedback.length > 3500)
@@ -138,7 +144,21 @@ export default {
           data: { content: "調整内容を1〜3500文字で入力してください。", flags: 64 },
         });
       }
-      ctx.waitUntil(runCommand(env, interaction, commandName, category, feedback));
+      if (
+        commandName === "more" &&
+        focusValue !== undefined &&
+        (typeof focusValue !== "string" || focusValue.length > 200)
+      ) {
+        return Response.json({
+          type: 4,
+          data: { content: "focusは200文字以内で入力してください。", flags: 64 },
+        });
+      }
+      const values = {
+        feedback: typeof feedback === "string" ? feedback : "",
+        focus: typeof focusValue === "string" ? focusValue.trim() : "",
+      };
+      ctx.waitUntil(runCommand(env, interaction, commandName, category, values));
       return Response.json({ type: 5, data: { flags: 64 } });
     } catch (error) {
       console.error("Paper Radar command failed", {

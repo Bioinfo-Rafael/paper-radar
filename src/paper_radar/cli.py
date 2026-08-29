@@ -43,6 +43,7 @@ def parser() -> argparse.ArgumentParser:
     more = commands.add_parser("more", help="Run a fresh, broader search for additional papers")
     more.add_argument("--category", choices=CATEGORIES, required=True)
     more.add_argument("--count", type=int, default=None)
+    more.add_argument("--focus", default=None)
     more.add_argument("--date", type=_date, default=jst_today())
     more.add_argument("--dry-run", action="store_true")
     more.add_argument("--debug-scores", action="store_true")
@@ -124,7 +125,8 @@ def main(argv: list[str] | None = None) -> int:
         else:
             configured_count = config.common["search"]["more"]["count"]
             count = max(1, args.count if args.count is not None else configured_count)
-            result = pipeline.run_more(args.category, args.date, count)
+            focus = args.focus.strip()[:200] if args.focus and args.focus.strip() else None
+            result = pipeline.run_more(args.category, args.date, count, focus=focus)
             _deliver(pipeline, webhook, result, args.date, args.dry_run, args.debug_scores)
             if not args.dry_run:
                 pipeline.persist_state(args.date)

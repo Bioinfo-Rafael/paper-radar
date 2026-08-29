@@ -7,7 +7,16 @@ def test_discord_commands_use_channel_category_and_tune_has_feedback(config):
     path = config.root / "extensions/discord_more/register-command.json"
     commands = json.loads(path.read_text(encoding="utf-8"))
     assert [command["name"] for command in commands] == ["daily", "more", "tune"]
-    assert all("options" not in command for command in commands[:2])
+    assert "options" not in commands[0]
+    assert commands[1]["options"] == [
+        {
+            "name": "focus",
+            "description": "Optional topic focus for this search only",
+            "type": 3,
+            "required": False,
+            "max_length": 200,
+        }
+    ]
     assert commands[2]["options"] == [
         {
             "name": "feedback",
@@ -23,10 +32,18 @@ def test_worker_uses_one_channel_mapping_for_both_commands(config):
     worker = (config.root / "extensions/discord_more/worker.js").read_text(encoding="utf-8")
     assert worker.count("env.CHANNEL_CATEGORY_MAP") == 1
     assert 'daily: { workflow: "daily.yml"' in worker
-    assert 'more: { workflow: "more.yml"' in worker
+    assert 'workflow: "more.yml"' in worker
     assert 'tune: { workflow: "tune.yml"' in worker
     assert "interaction.channel_id" in worker
     assert "ctx.waitUntil(runCommand" in worker
+    assert 'focus: values.focus' in worker
+
+
+def test_more_workflow_passes_focus_without_shell_interpolation(config):
+    workflow = (config.root / ".github/workflows/more.yml").read_text(encoding="utf-8")
+    assert "MORE_FOCUS: ${{ inputs.focus }}" in workflow
+    assert '--focus "$MORE_FOCUS"' in workflow
+    assert '--focus "${{ inputs.focus }}"' not in workflow
 
 
 def test_daily_dispatch_accepts_category_and_schedule_defaults_to_all(config):

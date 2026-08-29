@@ -6,7 +6,7 @@ Paper Radar is a personal research monitor whose scheduled retrieval and ranking
 
 - **Bioinfo:** prioritizes computational method development for scRNA-seq, dynamics, GRNs, perturbation, generative models, multi-omics, spatial methods, and single-cell foundation models.
 - **ML Algorithms:** prioritizes actionable changes to model design, training, formulation, understanding, diagnosis, or evaluation.
-- **AI Frontier:** starts from the current ISO week's Hugging Face Daily Papers Trending Top 50 and tracks Physical AI, VLA, world models, agents, self-improvement, and AI scientists.
+- **AI Frontier:** combines current Hugging Face Daily Papers discovery with Semantic Scholar Fresh/Backfill/top-venue Archive retrieval for Physical AI, VLA, world models, agents, self-improvement, and AI scientists.
 - Selects up to five unsent papers at or above the category's `more_min_score`, preferring Fresh and filling shortages from Backfill and top-journal Archive lanes.
 - Keeps `matched_criteria`, `penalties`, and every numeric score component for inspection with `--debug-scores`.
 - Does not use OpenAI, Anthropic, Gemini, or any other LLM API.
@@ -94,7 +94,7 @@ Default ranking score:
 ```text
 scientific importance (domain relevance + method-development + formulation/conceptual
 + scientific-value signals + small venue prior + capped seed bonus)
-+ separate freshness bonus
++ separate freshness/discovery/focus bonuses used only for ordering
 - application/low-priority/subdomain penalties
 ```
 
@@ -106,7 +106,7 @@ Edit `config/ml_algorithms.yaml`. The principal components are domain relevance,
 
 ## 11. How to edit AI Frontier criteria
 
-Edit `config/ai_frontier.yaml`. HF Trending rank is the dominant component, followed by core/secondary topic relevance, exclusions, recency/legendary handling, then citations. Secondary topics default to Top 15. Ordinary papers older than two years are rejected; very highly cited Top-5 resurfacing papers may take the legendary path.
+Edit `config/ai_frontier.yaml`. Core/secondary relevance, qualitative progress, venue, citations, and negative signals determine scientific importance and therefore the star rating. HF Trending is only a small discovery bonus in the selection score; it cannot raise the star rating. arXiv has no penalty. Frontier uses the same 30/365/730-day lanes, with top venues configured under `frontier` in `config/venues.yaml`; the hard age boundary is aligned with the tunable 1095-day archive maximum.
 
 ## 12. How to edit thresholds
 
@@ -118,7 +118,7 @@ Retrieval lane boundaries and the five-paper target are configured in `config/co
 |---|---:|---:|---:|
 | Bioinfo | 7.5 | 5.4 | 4.0 |
 | ML | 7.5 | 5.2 | 3.8 |
-| Frontier | 7.2 | 5.0 | 3.8 |
+| Frontier | 6.0 | 4.6 | 3.0 |
 
 Papers at or above Must Read and Strong thresholds receive those ratings. Papers from `more_min_score` up to the Strong threshold receive `★★★☆☆ Candidate`. Daily sends up to five qualifying unsent papers.
 
@@ -128,7 +128,9 @@ Edit `config/seeds.yaml`. A seed may supply a `paper_id` directly or only a titl
 
 ## 14. `/daily` and `/more` setup
 
-Both commands perform fresh network acquisition; neither uses `state/candidates.json` as its candidate source. Fresh covers 0–30 days, Backfill covers 31–365 days, and top-journal Archive covers 366–730 days by default, with a hard configurable maximum of 1095 days. Fresh is selected first, then shortages are filled from Backfill and Archive without lowering the quality threshold. Explore mode (`/more`) uses 3× source limits while reusing the exact daily scorer, thresholds, hard exclusions, and `state/sent.json` deduplication. `.github/workflows/more.yml` exposes the same operation through `workflow_dispatch`.
+Both commands perform fresh network acquisition; neither uses `state/candidates.json` as its candidate source. Fresh covers 0–30 days, Backfill covers 31–365 days, and top-journal Archive covers 366–730 days by default, with a hard configurable maximum of 1095 days. Selection is ordered by importance-led selection score, with Fresh normally capped at three of five slots so qualifying Backfill/Archive papers can compete; unused historical slots fall back to Fresh. Explore mode (`/more`) uses 3× source limits while reusing the exact daily scorer, thresholds, hard exclusions, and `state/sent.json` deduplication. `.github/workflows/more.yml` exposes the same operation through `workflow_dispatch`.
+
+`/more focus:<phrase>` adds one-run Semantic Scholar/Crossref queries and a separate focus-ordering bonus. Known family names and aliases are normalized across case, hyphens, and punctuation; unknown phrases use best-effort query and token matching. Focus never changes scientific importance, star ratings, quality thresholds, persisted tuning, or deduplication state. An empty focus is identical to `/more` without the option, and no LLM is called.
 
 Daily and `/more` share the `paper-radar-state` GitHub Actions concurrency group, preventing simultaneous state writers. Both Discord commands derive their category from the current Discord channel, so they use the same deduplication state without a category selector. The daily candidate cache remains available only for debugging, score inspection, and audit.
 

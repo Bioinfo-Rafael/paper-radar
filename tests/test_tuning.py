@@ -181,6 +181,7 @@ def test_tuned_rules_change_scoring_and_rating(config, today):
         rating=Rating.BELOW,
     )
     tuning = copy.deepcopy(config.tuning)
+    tuning["signal_adjustments"] = []
     tuning["concepts"] = [
         {
             "channel": "bioinfo",
