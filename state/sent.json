@@ -1107,6 +1107,76 @@
         "doi:10.1016/j.cels.2026.101710",
         "title:profetpredictscontinuousgeneexpressiondynamicsfromscrnaseqdatatoelucidateheterogeneityofcancertreatmentresponses"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag610",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T06:41:52.053930+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag610",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "scdauadisentangledrepresentationlearningmethodforcrossmodaltranslationinsinglecellmultiomicsdata",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag610",
+        "title:scdauadisentangledrepresentationlearningmethodforcrossmodaltranslationinsinglecellmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.17.744355",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T06:41:52.253922+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.17.744355",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "regfmaninterpretablecontextawarefoundationmodelforhumantranscriptionalregulation",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.17.744355",
+        "title:regfmaninterpretablecontextawarefoundationmodelforhumantranscriptionalregulation"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.04.732812",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T06:41:52.465917+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.04.732812",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "aconfounddiagnostictoolkitforinsilicoperturbationwithsinglecellfoundationmodels",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.04.732812",
+        "title:aconfounddiagnostictoolkitforinsilicoperturbationwithsinglecellfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.patter.2026.101621",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T06:41:52.650781+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.patter.2026.101621",
+      "venue": "Patterns (New York, N.Y.)",
+      "title_key": "uncoveringsmoothstructuresinsinglecelldatawithneighborembeddingsguidedbypredictabilitycomputabilitystability",
+      "identity_keys": [
+        "doi:10.1016/j.patter.2026.101621",
+        "title:uncoveringsmoothstructuresinsinglecelldatawithneighborembeddingsguidedbypredictabilitycomputabilitystability"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.05.742709",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T06:41:53.055148+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.05.742709",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "moiraisinglecelltrajectoryinferencegroundedingenelevelexpressiondynamics",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.05.742709",
+        "title:moiraisinglecelltrajectoryinferencegroundedingenelevelexpressiondynamics"
+      ]
     }
   ]
 }
