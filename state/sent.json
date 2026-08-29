@@ -1318,6 +1318,21 @@
         "doi:10.3389/fgene.2026.1838613",
         "title:laiorahyperbolicneuralodevariationalframeworkforinterpretablesinglecellmanifoldlearningandtrajectoryinference"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25593",
+      "category": "frontier",
+      "first_sent_at": "2026-08-29T07:19:19.085448+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jitagentscalingharnessintelligenceviajustintimeharnessevolution",
+      "identity_keys": [
+        "arxiv:2608.25593",
+        "s2:128749c752a55ad19f939b1ec65309c4126a54c4",
+        "title:jitagentscalingharnessintelligenceviajustintimeharnessevolution"
+      ]
     }
   ]
 }
