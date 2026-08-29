@@ -1599,6 +1599,76 @@
         "arxiv:2607.27273",
         "title:sdostructureawaredataorganizationforefficientllmposttraining"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.08.21.671434",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T14:18:16.091585+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.08.21.671434",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "starnetenablesspatiallyresolvedinferenceofgeneregulatorynetworksfromspatialmultiomicsdata",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.08.21.671434",
+        "title:starnetenablesspatiallyresolvedinferenceofgeneregulatorynetworksfromspatialmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/gpbjnl/qzag072",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T14:18:16.322052+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/gpbjnl/qzag072",
+      "venue": "Genomics, proteomics & bioinformatics",
+      "title_key": "scregatleveragingknowledgeofregulatoryinteractionstopredictlongrangegeneregulationatsinglecellresolution",
+      "identity_keys": [
+        "doi:10.1093/gpbjnl/qzag072",
+        "title:scregatleveragingknowledgeofregulatoryinteractionstopredictlongrangegeneregulationatsinglecellresolution"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.06.18.733146",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T14:18:16.628657+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.06.18.733146",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "vcbenchamultidimensionalbenchmarkforsinglecellfoundationmodels",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.06.18.733146",
+        "title:vcbenchamultidimensionalbenchmarkforsinglecellfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.21.677676",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T14:18:16.913362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.21.677676",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "otmalignafastandrobusttmscoredrivenproteinstructurealignmentalgorithmusingoptimaltransport",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.21.677676",
+        "title:otmalignafastandrobusttmscoredrivenproteinstructurealignmentalgorithmusingoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.04.674197",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T14:18:17.139753+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.04.674197",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "lieotdockaproteindockingframeworkvialiegroupoptimizationandoptimaltransport",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.04.674197",
+        "title:lieotdockaproteindockingframeworkvialiegroupoptimizationandoptimaltransport"
+      ]
     }
   ]
 }
