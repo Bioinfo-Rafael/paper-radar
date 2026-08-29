@@ -1333,6 +1333,160 @@
         "s2:128749c752a55ad19f939b1ec65309c4126a54c4",
         "title:jitagentscalingharnessintelligenceviajustintimeharnessevolution"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.19.676870",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T09:39:16.535602+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.19.676870",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "dynamicgeneregulatorynetworkinferencewithinterpretablebiophysicallymotivatedneuralodes",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.19.676870",
+        "title:dynamicgeneregulatorynetworkinferencewithinterpretablebiophysicallymotivatedneuralodes"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.12.675662",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T09:39:16.754892+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.12.675662",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "predictingtheunseenadiffusionbaseddebiasingframeworkfortranscriptionalresponsepredictionatsinglecellresolution",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.12.675662",
+        "title:predictingtheunseenadiffusionbaseddebiasingframeworkfortranscriptionalresponsepredictionatsinglecellresolution"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2024.12.19.629561",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T09:39:16.927238+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2024.12.19.629561",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "multimodalfoundationmodelpredictszeroshotfunctionalperturbationsandcellfatedynamics",
+      "identity_keys": [
+        "biorxiv:10.1101/2024.12.19.629561",
+        "title:multimodalfoundationmodelpredictszeroshotfunctionalperturbationsandcellfatedynamics"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.04.28.721317",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T09:39:17.448623+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.04.28.721317",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "champollionrobustmultiomicsintegrationviainverseoptimaltransportusingpairedcells",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.04.28.721317",
+        "title:champollionrobustmultiomicsintegrationviainverseoptimaltransportusingpairedcells"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.7150/jca.135548",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T09:39:17.688227+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.7150/jca.135548",
+      "venue": "Journal of Cancer",
+      "title_key": "singlecellderivedmalignantepithelialprogramsdefineprognosticriskandtherapeuticvulnerabilityinovariancancer",
+      "identity_keys": [
+        "doi:10.7150/jca.135548",
+        "title:singlecellderivedmalignantepithelialprogramsdefineprognosticriskandtherapeuticvulnerabilityinovariancancer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.26860",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T09:39:18.228436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "amortizedmomentmatchingforvisualgeneration",
+      "identity_keys": [
+        "arxiv:2607.26860",
+        "title:amortizedmomentmatchingforvisualgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27110",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T09:39:18.437610+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "freqforcingautoregressivelongvideogenerationviaspectralselfanchoring",
+      "identity_keys": [
+        "arxiv:2607.27110",
+        "title:freqforcingautoregressivelongvideogenerationviaspectralselfanchoring"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.00079",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T09:39:18.589316+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "leaptalkbreakingthelatencyqualitytradeoffintalkingheadgeneration",
+      "identity_keys": [
+        "arxiv:2608.00079",
+        "title:leaptalkbreakingthelatencyqualitytradeoffintalkingheadgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.26818",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T09:39:18.992855+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ripplerealtimestreamingaudiovideogenerationwithcrossmodalrecurrentmemory",
+      "identity_keys": [
+        "arxiv:2607.26818",
+        "title:ripplerealtimestreamingaudiovideogenerationwithcrossmodalrecurrentmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27523",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T09:39:19.483613+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalrerankingforscalablefinancialragsystem",
+      "identity_keys": [
+        "arxiv:2607.27523",
+        "title:hierarchicalrerankingforscalablefinancialragsystem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.28624",
+      "category": "frontier",
+      "first_sent_at": "2026-08-29T09:39:20.025122+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phizeroaworldmodelbuiltaroundphysicallanguage",
+      "identity_keys": [
+        "arxiv:2607.28624",
+        "title:phizeroaworldmodelbuiltaroundphysicallanguage"
+      ]
     }
   ]
 }
