@@ -1,25 +1,27 @@
 queries:
   semantic_scholar:
-    - single cell computational methods
-    - scRNA seq modeling
-    - RNA velocity
-    - gene regulatory network single cell
-    - cellular dynamics single cell
-    - trajectory inference single cell
-    - perturbation prediction single cell
-    - in silico perturbation single cell
-    - single cell generative model
-    - single cell diffusion
-    - optimal transport single cell
-    - differential equation single cell
-    - single cell foundation model
-    - spatial transcriptomics method
+    - single cell computational framework
+    - transcriptomics multiomics perturbation
+    - gene regulation cellular dynamics lineage
+    - flow matching diffusion single cell
+    - optimal transport differential equation dynamical model
+    - foundation model representation learning transcriptomics
+    - formulation mechanism generalization unseen cellular
+    - systematic evaluation benchmark single cell
+  semantic_scholar_archive:
+    - Nature Methods single cell computational method
+    - Nature Biotechnology perturbation model
+    - Cell Systems cellular dynamics framework
+    - Genome Biology single cell model
   pubmed:
     - '(single-cell OR scRNA-seq) AND (computational method OR model OR algorithm)'
     - '(RNA velocity OR trajectory inference OR cell fate) AND single-cell'
     - '(gene regulatory network OR perturbation prediction OR Perturb-seq) AND single-cell'
     - '(generative model OR diffusion OR optimal transport OR differential equation) AND single-cell'
     - '(spatial transcriptomics OR multimodal single-cell) AND (method OR model)'
+    - '(single-cell OR transcriptomics OR multiomics OR perturbation OR gene regulation OR cell dynamics OR lineage) AND (framework OR model OR dynamics OR mechanism OR generalization)'
+  top_journal_archive:
+    - '("Nature Methods"[Journal] OR "Nature Biotechnology"[Journal] OR "Nature Genetics"[Journal] OR "Nature Machine Intelligence"[Journal] OR "Nature Communications"[Journal] OR "Cell Systems"[Journal] OR "Genome Biology"[Journal]) AND (method OR model OR framework OR mechanism OR dynamics OR benchmark)'
   biorxiv_categories: [bioinformatics, genomics, systems biology]
 families:
   domain:
@@ -30,9 +32,10 @@ families:
     perturbation: [perturbation prediction, in-silico perturbation, in silico perturbation, Perturb-seq, intervention]
     generative-modeling: [generative model, diffusion model, flow matching]
     mathematical-dynamics: [ordinary differential equation, stochastic differential equation, ODE, SDE, optimal transport, mechanistic model, stochastic model]
-    multi-omics: [multi-omics, multiomics, multimodal single-cell, RNA and ATAC, RNA + ATAC]
+    multi-omics: [multi-omics, multiomics, multiomic, multimodal single-cell, RNA and ATAC, RNA + ATAC]
     spatial: [spatial transcriptomics, spatial omics]
     foundation-model: [foundation model, pretrained model, pre-trained model]
+    cellular-response: [cellular response, cellular responses, response prediction]
   method:
     method-development: [we propose, we introduce, novel method, new method, algorithm, framework, methodology]
     inference: [inference, estimator, estimation, learnable, training procedure]
@@ -40,6 +43,12 @@ families:
     formulation: [formulation, mathematical model, probabilistic model, dynamical model, latent variable, latent state]
     objective: [objective function, loss function, parameterization, conditional model]
     process: [stochastic process, differential equation, optimal transport, vector field, causal model, mechanistic model]
+  scientific_value:
+    generalization: [generalization, generalize, unseen condition, unseen conditions, unseen context, unseen contexts, unseen cellular context, unseen cellular contexts, unseen perturbation, unseen perturbations, out-of-distribution, zero-shot]
+    methodological-novelty: [new formulation, novel formulation, unified framework, coupled flow matching, coupled flow-matching, new objective, new problem formulation]
+    mechanistic-insight: [mechanistic interpretation, mechanistic insight, mechanism discovery, causal mechanism]
+    broad-validation: [broad validation, across datasets, multiple datasets, large-scale benchmark, systematic evaluation]
+    stochastic-dynamics: [stochasticity, stochastic dynamics, dynamical system, coupled dynamics]
   application_only:
     application-only: [applied to, case study, patient cohort, tumor microenvironment, cancer dataset, clinical samples]
     atlas: [cell atlas, atlas construction, reference atlas]
@@ -60,6 +69,8 @@ weights:
   method_abstract: 1.1
   formulation_title: 1.8
   formulation_abstract: 1.2
+  scientific_value_title: 1.5
+  scientific_value_abstract: 1.0
   venue_s: 1.0
   venue_a: 0.7
   venue_specialist: 0.35
@@ -71,11 +82,10 @@ weights:
   spatial_low_venue_penalty: -2.0
   foundation_low_venue_penalty: -1.5
 thresholds:
-  must_read: 9.0
-  strong: 6.2
-  more_min_score: 4.8
+  must_read: 7.5
+  strong: 5.4
+  more_min_score: 4.0
 requirements:
   application_exclude_if_method_below: 1.5
   spatial_min_method: 1.5
   foundation_preprint_strong_min_formulation: 3.0
-

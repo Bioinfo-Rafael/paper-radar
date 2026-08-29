@@ -1,8 +1,15 @@
 request_timeout_seconds: 25
 request_retries: 4
 search:
+  lanes:
+    fresh_days: 30
+    backfill_days: 365
+    archive_days: 730
+    archive_max_days: 1095
+    target_count: 5
+    fresh_target: 5
   daily:
-    lookback_days: 14
+    lookback_days: 30
     source_limit_multiplier: 1
   more:
     lookback_days: 30
@@ -15,6 +22,7 @@ source_limits:
   arxiv_total: 350
   huggingface: 50
   huggingface_max: 100
+  crossref_preprints: 200
 state:
   path: state/sent.json
   candidate_cache: state/candidates.json

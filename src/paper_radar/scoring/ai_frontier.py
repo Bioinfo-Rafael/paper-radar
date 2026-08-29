@@ -24,14 +24,20 @@ def score_frontier(paper: Paper, config: dict[str, Any], today: date) -> Paper:
     negative_hits = family_matches(text, families["negative"])
     add_matches(paper, core_hits, secondary_hits, breakthrough_hits)
 
+    is_hf_candidate = paper.hf_rank is not None
     rank = paper.hf_rank or 999
-    if rank > ranking["core_max_rank"]:
+    if is_hf_candidate and rank > ranking["core_max_rank"]:
         paper.excluded = True
         paper.penalties.append("outside-HF-candidate-pool")
     score_window = ranking.get("hf_rank_score_window", ranking["core_max_rank"])
-    hf_score = weights["hf_rank_max"] * max(0.0, 1 - (rank - 1) / max(1, score_window - 1))
+    hf_score = (
+        weights["hf_rank_max"] * max(0.0, 1 - (rank - 1) / max(1, score_window - 1))
+        if is_hf_candidate
+        else 0.0
+    )
     paper.score_components["hf_trending"] = round(hf_score, 3)
-    paper.matched_criteria.append(f"HF Trending #{rank}")
+    if is_hf_candidate:
+        paper.matched_criteria.append(f"HF Trending #{rank}")
     paper.score_components["core_topic"] = round(weights["core_topic"] * len(core_hits), 3)
     paper.score_components["secondary_topic"] = round(
         weights["secondary_topic"] * len(secondary_hits), 3
@@ -43,7 +49,12 @@ def score_frontier(paper: Paper, config: dict[str, Any], today: date) -> Paper:
     if not core_hits and not secondary_hits:
         paper.excluded = True
         paper.penalties.append("no-frontier-topic")
-    if secondary_hits and not core_hits and rank > ranking["secondary_max_rank"]:
+    if (
+        is_hf_candidate
+        and secondary_hits
+        and not core_hits
+        and rank > ranking["secondary_max_rank"]
+    ):
         paper.excluded = True
         paper.penalties.append("secondary-topic-below-HF-rank-threshold")
     if negative_hits:

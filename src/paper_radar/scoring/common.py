@@ -54,14 +54,23 @@ def seed_component(rank: int | None, max_weight: float) -> float:
 
 
 def apply_rating(paper: Paper, thresholds: dict[str, float]) -> None:
-    paper.score = round(sum(paper.score_components.values()), 3)
+    freshness_keys = {"recency", "freshness_bonus"}
+    paper.importance_score = round(
+        sum(value for name, value in paper.score_components.items() if name not in freshness_keys),
+        3,
+    )
+    paper.freshness_bonus = round(
+        sum(value for name, value in paper.score_components.items() if name in freshness_keys), 3
+    )
+    paper.score = round(paper.importance_score + paper.freshness_bonus, 3)
+    rating_score = paper.importance_score
     if paper.excluded:
         paper.rating = Rating.EXCLUDED
-    elif paper.score >= thresholds["must_read"]:
+    elif rating_score >= thresholds["must_read"]:
         paper.rating = Rating.MUST_READ
-    elif paper.score >= thresholds["strong"]:
+    elif rating_score >= thresholds["strong"]:
         paper.rating = Rating.STRONG
-    elif paper.score >= thresholds["more_min_score"]:
+    elif rating_score >= thresholds["more_min_score"]:
         paper.rating = Rating.CANDIDATE
     else:
         paper.rating = Rating.BELOW
@@ -76,6 +85,9 @@ def debug_score(paper: Paper) -> dict[str, Any]:
         "canonical_id": paper.canonical_id,
         "components": paper.score_components,
         "total": paper.score,
+        "scientific_importance": paper.importance_score,
+        "freshness_bonus": paper.freshness_bonus,
+        "retrieval_lane": paper.retrieval_lane,
         "rating": paper.rating.value,
         "matched_criteria": paper.matched_criteria,
         "penalties": paper.penalties,

@@ -1,3 +1,9 @@
+queries:
+  semantic_scholar:
+    - AI agent self improvement autonomous research
+    - world model physical AI robotics
+    - vision language action robot foundation model
+    - reasoning test time compute reinforcement learning
 families:
   core:
     physical-ai: [physical AI, embodied AI, embodied intelligence]
@@ -31,9 +37,9 @@ weights:
   citation_bonus_max: 1.0
   negative_penalty: -3.5
 thresholds:
-  must_read: 8.0
-  strong: 5.7
-  more_min_score: 4.4
+  must_read: 7.2
+  strong: 5.0
+  more_min_score: 3.8
 ranking:
   core_max_rank: 100
   hf_rank_score_window: 50

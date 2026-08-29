@@ -63,6 +63,9 @@ class Paper:
     penalties: list[str] = field(default_factory=list)
     score_components: dict[str, float] = field(default_factory=dict)
     score: float = 0.0
+    importance_score: float | None = None
+    freshness_bonus: float = 0.0
+    retrieval_lane: str | None = None
     rating: Rating = Rating.BELOW
     excluded: bool = False
     preprint_doi: str | None = None

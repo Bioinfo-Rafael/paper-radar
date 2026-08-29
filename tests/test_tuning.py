@@ -199,7 +199,7 @@ def test_tuned_rules_change_scoring_and_rating(config, today):
         today,
     )
     assert paper.score == 6.0
-    assert paper.rating is Rating.CANDIDATE
+    assert paper.rating is Rating.STRONG
     assert "tuned:coupled perturbation formulation" in paper.matched_criteria
 
 
@@ -270,3 +270,23 @@ def test_tune_workflow_uses_secret_and_environment_feedback(config):
     assert "TUNE_FEEDBACK: ${{ inputs.feedback }}" in workflow
     assert "paper-radar-state" in workflow
     assert "config/tuning.yaml state/tuning_history.json" in workflow
+
+
+def test_tune_can_change_fresh_backfill_mix(config, tmp_path):
+    change = action(
+        "set_retrieval_mix",
+        channel="bioinfo",
+        fresh_count=2,
+        target_count=5,
+    )
+    service, _ = tune_service(config, tmp_path, proposal(change))
+    service.tune("最近の論文ばかりなのでBackfillを増やして", "bioinfo")
+    assert load_rules(tmp_path)["retrieval_mix"] == [
+        {"channel": "bioinfo", "fresh_count": 2, "target_count": 5}
+    ]
+
+
+def test_tune_recognizes_new_openrxiv_biorxiv_doi(config, tmp_path):
+    service, _ = tune_service(config, tmp_path, proposal())
+    url = "https://www.biorxiv.org/content/10.64898/2026.08.20.746112v1"
+    assert service._identifier(url) == "DOI:10.64898/2026.08.20.746112"

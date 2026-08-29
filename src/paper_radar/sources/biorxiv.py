@@ -24,6 +24,7 @@ class BiorxivSource:
         end: date,
         page_size: int,
         category: str | None = None,
+        max_records: int | None = None,
     ) -> list[dict[str, Any]]:
         base = f"{BASE_URL}/{endpoint}/biorxiv/{start.isoformat()}/{end.isoformat()}"
         params = {"category": category.replace(" ", "_")} if category else None
@@ -35,20 +36,29 @@ class BiorxivSource:
         records = list(first.get("collection", []))
         messages = first.get("messages") or []
         total = int(messages[0].get("total", len(records))) if messages else len(records)
-        cursors = list(range(page_size, total, page_size))
+        wanted_total = min(total, max_records) if max_records else total
+        cursors = list(range(page_size, wanted_total, page_size))
         # bioRxiv pages are independent; a small pool keeps the 14-day overlap practical.
         with ThreadPoolExecutor(max_workers=2) as executor:
             for payload in executor.map(fetch, cursors):
                 records.extend(payload.get("collection", []))
-        return records
+        return records[:max_records] if max_records else records
 
-    def fetch(self, start: date, end: date, categories: list[str]) -> list[Paper]:
+    def fetch(
+        self,
+        start: date,
+        end: date,
+        categories: list[str],
+        limit_per_category: int | None = None,
+    ) -> list[Paper]:
         wanted = {value.casefold() for value in categories}
         papers: list[Paper] = []
         try:
             with ThreadPoolExecutor(max_workers=3) as executor:
                 category_pages = executor.map(
-                    lambda category: self._page("details", start, end, 30, category),
+                    lambda category: self._page(
+                        "details", start, end, 30, category, limit_per_category
+                    ),
                     categories,
                 )
                 details = [item for page in category_pages for item in page]
@@ -82,7 +92,10 @@ class BiorxivSource:
 
         # Formal-publication events are intentionally distinct from their preprint identity.
         try:
-            for item in self._page("pubs", start, end, 100):
+            publication_limit = (
+                limit_per_category * max(1, len(categories)) if limit_per_category else None
+            )
+            for item in self._page("pubs", start, end, 100, max_records=publication_limit):
                 preprint_doi = item.get("biorxiv_doi")
                 published_doi = item.get("published_doi")
                 category = str(item.get("preprint_category", "")).casefold()

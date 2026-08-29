@@ -3,6 +3,7 @@ bioinfo:
     - Nature Methods
     - Nature Biotechnology
     - Nature Genetics
+    - Nature Machine Intelligence
     - Nature
     - Science
     - Cell
@@ -11,6 +12,7 @@ bioinfo:
     - Cell Systems
     - Cell Genomics
     - Genome Research
+    - Nature Communications
   specialist:
     - Bioinformatics
     - PLOS Computational Biology
@@ -36,4 +38,3 @@ bioinfo:
 ml:
   top: [NeurIPS, ICML, ICLR]
   strong: [CVPR, ICCV, ECCV, AISTATS, JMLR, TMLR]
-

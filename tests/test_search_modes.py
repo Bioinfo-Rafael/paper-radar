@@ -28,13 +28,12 @@ def eligible_paper(number: int, score: float = 5.0, rating=Rating.CANDIDATE):
     )
 
 
-def test_daily_sends_every_paper_at_more_min_score_without_cap(pipeline):
+def test_daily_uses_five_paper_target_and_quality_threshold(pipeline):
     strong = [eligible_paper(i, 6.5, Rating.STRONG) for i in range(8)]
     candidates = [eligible_paper(i + 20, 4.8, Rating.CANDIDATE) for i in range(4)]
-    below = eligible_paper(99, 4.799, Rating.BELOW)
+    below = eligible_paper(99, 3.999, Rating.BELOW)
     selected = pipeline.select_daily("bioinfo", strong + candidates + [below])
-    assert selected == strong + candidates
-    assert len([paper for paper in selected if paper.rating is Rating.STRONG]) == 8
+    assert selected == strong[:5]
 
 
 def test_candidate_rating_boundaries(config):
@@ -98,10 +97,15 @@ def test_more_uses_wider_lookback_and_larger_source_limits(pipeline, today, monk
     pipeline.acquire("ml", today, mode="daily")
     pipeline.acquire("ml", today, mode="more")
 
-    assert arxiv_calls[0] == (today - timedelta(days=14), today, 350)
-    assert arxiv_calls[1] == (today - timedelta(days=30), today, 1050)
+    assert arxiv_calls[0] == (today - timedelta(days=30), today, 350)
+    assert arxiv_calls[1] == (
+        today - timedelta(days=365),
+        today - timedelta(days=31),
+        350,
+    )
+    assert arxiv_calls[2] == (today - timedelta(days=30), today, 1050)
     assert s2_calls[0][2] == 35
-    assert s2_calls[1][2] == 105
+    assert s2_calls[3][2] == 105
     assert recommendation_limits == [50, 150]
 
 
@@ -121,7 +125,7 @@ def test_more_count_shortage_zero_and_hard_exclusions(pipeline):
     excluded = eligible_paper(10)
     excluded.excluded = True
     excluded.rating = Rating.EXCLUDED
-    low = eligible_paper(11, 4.7, Rating.BELOW)
+    low = eligible_paper(11, 3.7, Rating.BELOW)
     ranked = allowed + [excluded, low]
     assert pipeline.select_more("bioinfo", ranked, 2) == allowed[:2]
     assert pipeline.select_more("bioinfo", ranked, 5) == allowed

@@ -1,33 +1,33 @@
 # Paper Radar
 
-Paper Radar is a personal, LLM-free research monitor. Every run gathers a deliberately broad candidate pool, normalizes metadata, applies deterministic and explainable rules, and sends only high-scoring papers to three Discord channels. It never posts abstracts or generated summaries.
+Paper Radar is a personal research monitor whose scheduled retrieval and ranking are LLM-free. Every run gathers a deliberately broad candidate pool, normalizes metadata, applies deterministic and explainable rules, and sends only high-scoring papers to three Discord channels. Groq is called only when a user invokes `/tune`; abstracts and generated summaries are never posted.
 
 ## 1. What this bot does
 
 - **Bioinfo:** prioritizes computational method development for scRNA-seq, dynamics, GRNs, perturbation, generative models, multi-omics, spatial methods, and single-cell foundation models.
 - **ML Algorithms:** prioritizes actionable changes to model design, training, formulation, understanding, diagnosis, or evaluation.
 - **AI Frontier:** starts from the current ISO week's Hugging Face Daily Papers Trending Top 50 and tracks Physical AI, VLA, world models, agents, self-improvement, and AI scientists.
-- Sends every unsent paper at or above the category's `more_min_score`; there is no daily paper cap.
+- Selects up to five unsent papers at or above the category's `more_min_score`, preferring Fresh and filling shortages from Backfill and top-journal Archive lanes.
 - Keeps `matched_criteria`, `penalties`, and every numeric score component for inspection with `--debug-scores`.
 - Does not use OpenAI, Anthropic, Gemini, or any other LLM API.
 
 ## 2. Architecture
 
 ```text
-bioRxiv / PubMed / arXiv / Semantic Scholar / Hugging Face
+bioRxiv / Crossref / PubMed / arXiv / Semantic Scholar / Hugging Face
                          │
                   high-recall union
                          │
              normalize → deduplicate → score
                          │
-       daily selection or fresh broader /more search
+        Fresh → Backfill → top-journal Archive fill
                          │
               presentation grouping
                          │
                 Discord webhooks + state
 ```
 
-Candidate generation and ranking are separate. Semantic Scholar recommendations add candidates and at most a small score bonus; they are never a hard filter. Daily sends all unsent papers at or above `more_min_score`. `/more` performs a fresh, broader search using the same ranking criteria, excludes already-sent papers, and returns up to five additional results. The `src/paper_radar` core never imports `extensions`, so deleting experimental extensions cannot break daily or `/more`.
+Candidate generation and ranking are separate. Semantic Scholar recommendations add candidates and at most a small score bonus; they are never a hard filter. Daily and `/more` search all applicable retrieval lanes, use the same rule-based scorer, exclude already-sent papers, and return up to five results. `/more` increases source limits to explore more candidates. The `src/paper_radar` core never imports `extensions`, so deleting experimental extensions cannot break daily or `/more`.
 
 ## 3. Local setup
 
@@ -89,11 +89,12 @@ single-cell · rna-velocity · dynamics · formulation · top-venue
 
 Edit `config/bioinfo.yaml`. Keyword families are separated into domain, method, formulation, application-only, low-priority, and review signals. Spatial and foundation-model venue requirements are independent. Bioinfo's intended order is formulation > relevance >> venue.
 
-Default weighted score:
+Default ranking score:
 
 ```text
-domain relevance + method-development + formulation/conceptual
-+ small venue prior + recency + capped seed bonus
+scientific importance (domain relevance + method-development + formulation/conceptual
++ scientific-value signals + small venue prior + capped seed bonus)
++ separate freshness bonus
 - application/low-priority/subdomain penalties
 ```
 
@@ -109,17 +110,17 @@ Edit `config/ai_frontier.yaml`. HF Trending rank is the dominant component, foll
 
 ## 12. How to edit thresholds
 
-Each category YAML contains `thresholds.must_read`, `thresholds.strong`, and `thresholds.more_min_score`. Defaults are:
+Each category YAML contains `thresholds.must_read`, `thresholds.strong`, and `thresholds.more_min_score`. Ratings use scientific importance only; recency is a small ranking bonus and a separate Discord freshness label. Defaults are:
 
-Daily/explore acquisition breadth is configured independently in `config/common.yaml` under `search.daily` and `search.more`. The defaults are 14 days/1× for daily and 30 days/3× for `/more`; changing these does not duplicate or alter scoring rules.
+Retrieval lane boundaries and the five-paper target are configured in `config/common.yaml` under `search.lanes`. Daily uses 1× source limits and `/more` uses 3× source limits; changing acquisition breadth does not duplicate or alter scoring rules.
 
 | Category | Must Read | Strong | Candidate / `/more` minimum |
 |---|---:|---:|---:|
-| Bioinfo | 9.0 | 6.2 | 4.8 |
-| ML | 8.5 | 5.8 | 4.5 |
-| Frontier | 8.0 | 5.7 | 4.4 |
+| Bioinfo | 7.5 | 5.4 | 4.0 |
+| ML | 7.5 | 5.2 | 3.8 |
+| Frontier | 7.2 | 5.0 | 3.8 |
 
-Papers at or above Must Read and Strong thresholds receive those ratings. Papers from `more_min_score` up to the Strong threshold receive `★★★☆☆ Candidate`. Daily sends every unsent Must Read, Strong, and Candidate paper without an artificial cap.
+Papers at or above Must Read and Strong thresholds receive those ratings. Papers from `more_min_score` up to the Strong threshold receive `★★★☆☆ Candidate`. Daily sends up to five qualifying unsent papers.
 
 ## 13. How to add positive/negative seeds
 
@@ -127,7 +128,7 @@ Edit `config/seeds.yaml`. A seed may supply a `paper_id` directly or only a titl
 
 ## 14. `/daily` and `/more` setup
 
-`python -m paper_radar.cli more` performs fresh network acquisition; it never uses `state/candidates.json` as its candidate source. Explore mode defaults to a 30-day lookback and 3× source limits, while reusing the exact daily scorer, thresholds, and hard exclusions. It removes every paper already present in `state/sent.json` and returns up to five qualifying results. Repeated calls therefore return different unsent papers when enough results exist. `.github/workflows/more.yml` exposes the same operation through `workflow_dispatch`.
+Both commands perform fresh network acquisition; neither uses `state/candidates.json` as its candidate source. Fresh covers 0–30 days, Backfill covers 31–365 days, and top-journal Archive covers 366–730 days by default, with a hard configurable maximum of 1095 days. Fresh is selected first, then shortages are filled from Backfill and Archive without lowering the quality threshold. Explore mode (`/more`) uses 3× source limits while reusing the exact daily scorer, thresholds, hard exclusions, and `state/sent.json` deduplication. `.github/workflows/more.yml` exposes the same operation through `workflow_dispatch`.
 
 Daily and `/more` share the `paper-radar-state` GitHub Actions concurrency group, preventing simultaneous state writers. Both Discord commands derive their category from the current Discord channel, so they use the same deduplication state without a category selector. The daily candidate cache remains available only for debugging, score inspection, and audit.
 
@@ -164,7 +165,7 @@ This creates `/daily` and `/more` without category options. The fine-grained Git
 
 Validated rules are stored in `config/tuning.yaml`. Each successful interpretation appends its timestamp, original message, before/after rules, summary, warnings, and applied actions to `state/tuning_history.json`. The dedicated `tune.yml` workflow commits both files, so later scheduled and `/more` runs load the same rules. Daily, More, and Tune share the `paper-radar-state` concurrency group.
 
-Supported tuning operations cover positive/negative concepts, concept weights, method/formulation/phenomenon/benchmark/application signals, journal priority, freshness, top-journal backfill, channel routing, notification thresholds, and paper-type preferences. Values are bounded and unknown operations are rejected. Feedback and paper abstracts are treated as untrusted text; tuning cannot change secrets, paths, commands, Python code, environment variables, or workflows.
+Supported tuning operations cover positive/negative concepts, concept weights, method/formulation/phenomenon/benchmark/application signals, journal priority, freshness bonus/window, top-journal archive duration, Fresh/Backfill result ratio, channel routing, notification thresholds, and paper-type preferences. Values are bounded and unknown operations are rejected. Feedback and paper abstracts are treated as untrusted text; tuning cannot change secrets, paths, commands, Python code, environment variables, or workflows.
 
 Set `GROQ_API_KEY` as a GitHub Actions repository secret. It is used only by `tune.yml`; it is not required by the Cloudflare Worker and must not be placed in YAML or source files. The production model is `openai/gpt-oss-20b` with strict JSON Schema output.
 
@@ -180,8 +181,8 @@ The command resolves references from the recent candidate cache by URL or distin
 - **No Discord post:** verify the category-specific webhook environment variable. A zero-result live run still sends the daily header.
 - **Too many/few papers:** first inspect `--debug-scores`, then tune weights and thresholds in YAML.
 - **Repeated paper:** inspect `state/sent.json`. Identity priority is DOI → arXiv → bioRxiv DOI → Semantic Scholar ID → normalized title. A formal journal publication after a sent bioRxiv preprint is intentionally allowed once.
-- **`/more` is slower than daily:** explore mode intentionally performs fresh 30-day acquisition with larger source limits. It does not depend on the daily candidate cache.
+- **`/more` is slower than daily:** explore mode intentionally searches the same three lanes with larger source limits. It does not depend on the daily candidate cache.
 - **`/tune` fails safely:** inspect the Tune Paper Radar workflow log. Groq/API/schema failures leave `config/tuning.yaml` unchanged and post a short failure notice when Discord is available.
 - **Tests:** run `pytest`; all scoring tests are deterministic and use no network.
 
-External APIs used: official bioRxiv details/publication mapping endpoints, NCBI PubMed E-utilities, arXiv Atom API, Semantic Scholar Academic Graph and Recommendations APIs, and `huggingface_hub.HfApi.list_daily_papers`.
+External APIs used: official bioRxiv details/publication mapping endpoints, Crossref Works, NCBI PubMed E-utilities, arXiv Atom API, Semantic Scholar Academic Graph and Recommendations APIs, and `huggingface_hub.HfApi.list_daily_papers`.

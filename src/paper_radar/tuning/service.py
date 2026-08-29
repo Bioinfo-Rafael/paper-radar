@@ -145,6 +145,14 @@ def validate_action(action: Any, config: RadarConfig) -> dict[str, Any]:
             paper_type=_clean_text(action.get("paper_type"), "paper_type"),
             weight=_number(action.get("amount"), "amount", -3, 3),
         )
+    elif action_type == "set_retrieval_mix":
+        target_count = int(_number(action.get("target_count"), "target_count", 1, 10))
+        fresh_count = int(_number(action.get("fresh_count"), "fresh_count", 0, target_count))
+        clean.update(
+            channel=channel,
+            fresh_count=fresh_count,
+            target_count=target_count,
+        )
     return clean
 
 
@@ -159,6 +167,7 @@ COLLECTION_KEYS = {
     "set_routing": "routing",
     "set_notification_threshold": "thresholds",
     "set_type_preference": "type_preferences",
+    "set_retrieval_mix": "retrieval_mix",
 }
 
 
@@ -170,7 +179,7 @@ def _identity(action: dict[str, Any]) -> tuple[Any, ...]:
         return action["channel"], action["target"]
     if kind in {"set_journal_priority", "set_backfill"}:
         return action["channel"], action.get("journal_group"), action.get("journal")
-    if kind in {"set_freshness", "set_notification_threshold"}:
+    if kind in {"set_freshness", "set_notification_threshold", "set_retrieval_mix"}:
         return (action["channel"],)
     if kind == "set_routing":
         return (action["concept"].casefold(),)
@@ -235,8 +244,9 @@ class TuneService:
         if "doi.org/" in lower:
             return f"DOI:{url.split('doi.org/', 1)[1].split('?', 1)[0]}"
         if "biorxiv.org/content/" in lower:
-            match = re.search(r"(10\.1101/[^/?#]+)", url, re.I)
-            return f"DOI:{match.group(1)}" if match else None
+            match = re.search(r"(10\.(?:1101|64898)/[^/?#]+)", url, re.I)
+            doi = re.sub(r"v\d+$", "", match.group(1), flags=re.I) if match else None
+            return f"DOI:{doi}" if doi else None
         if "semanticscholar.org/paper/" in lower:
             paper_id = url.rstrip("/").split("/")[-1].split("?")[0]
             return paper_id if re.fullmatch(r"[a-fA-F0-9]{40}", paper_id) else None

@@ -20,6 +20,7 @@ ACTION_TYPES = [
     "set_routing",
     "set_notification_threshold",
     "set_type_preference",
+    "set_retrieval_mix",
 ]
 CATEGORIES = ["bioinfo", "ml", "frontier"]
 SIGNAL_TARGETS = [
@@ -65,6 +66,8 @@ TUNE_SCHEMA: dict[str, Any] = {
                     "preferred_channel": _nullable_enum(CATEGORIES),
                     "threshold": {"type": ["number", "null"]},
                     "paper_type": {"type": ["string", "null"]},
+                    "fresh_count": {"type": ["integer", "null"]},
+                    "target_count": {"type": ["integer", "null"]},
                 },
                 "required": [
                     "type",
@@ -80,6 +83,8 @@ TUNE_SCHEMA: dict[str, Any] = {
                     "preferred_channel",
                     "threshold",
                     "paper_type",
+                    "fresh_count",
+                    "target_count",
                 ],
             },
         },
@@ -97,7 +102,12 @@ into scientific concepts; do not add a paper title as a keyword unless the user 
 for that exact title. Prefer the user's stated reason over inferred paper characteristics. Use
 channel names bioinfo, ml, or frontier. Use set_routing when the user wants a topic moved between
 channels. Keep changes small and reversible. If a request cannot be represented by the allowed
-actions, omit it and explain it in warnings. Write the summary and warnings in concise Japanese."""
+actions, omit it and explain it in warnings. Field conventions: concept actions use amount as
+weight; signal actions use target and amount; journal/backfill actions use journal or
+journal_group plus amount and days; freshness uses days and amount; routing uses concept,
+keywords, and preferred_channel; threshold uses threshold; retrieval mix uses channel,
+fresh_count, and target_count. Set irrelevant nullable fields to null and keywords to an empty
+array. Write the summary and warnings in concise Japanese."""
 
 
 class GroqTuneClient:

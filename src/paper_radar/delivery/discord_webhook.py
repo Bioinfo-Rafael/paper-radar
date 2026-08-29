@@ -1,8 +1,9 @@
 from __future__ import annotations
 
 import os
-from datetime import date
+from datetime import date, datetime
 from typing import Any
+from zoneinfo import ZoneInfo
 
 from paper_radar.http import HttpClient
 from paper_radar.models import Paper, Rating
@@ -32,6 +33,18 @@ def publication_line(paper: Paper) -> str:
         else str(paper.year or "Unknown")
     )
     return f"{published} · {paper.venue or 'Unknown venue'}"
+
+
+def freshness_line(paper: Paper, today: date | None = None) -> str:
+    if not paper.publication_date:
+        return "📚 Publication date unknown"
+    current = today or datetime.now(ZoneInfo("Asia/Tokyo")).date()
+    age = max(0, (current - paper.publication_date).days)
+    if paper.retrieval_lane == "archive":
+        return f"🏛 Archive · {age} days ago"
+    if paper.retrieval_lane == "backfill":
+        return f"📚 Backfill · {age} days ago"
+    return f"🆕 {age} days ago"
 
 
 def _rating_counts(papers: list[Paper]) -> tuple[int, int, int]:
@@ -69,6 +82,7 @@ def render_console(
                     "",
                     paper.title,
                     publication_line(paper),
+                    freshness_line(paper, run_date),
                     RATING_STARS.get(paper.rating, ""),
                     " · ".join(paper.matched_criteria) or "—",
                     paper.paper_url,
@@ -81,6 +95,7 @@ def paper_embed(paper: Paper, color: int) -> dict[str, Any]:
     description = "\n\n".join(
         (
             f"**{publication_line(paper)}**",
+            freshness_line(paper),
             RATING_STARS.get(paper.rating, ""),
             (" · ".join(paper.matched_criteria) or "—"),
         )

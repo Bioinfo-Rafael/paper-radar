@@ -47,16 +47,23 @@ def score_bioinfo(
         weights["formulation_title"],
         weights["formulation_abstract"],
     )
+    scientific_value, scientific_value_hits = weighted_family_component(
+        paper,
+        families["scientific_value"],
+        weights["scientific_value_title"],
+        weights["scientific_value_abstract"],
+    )
     application_hits = family_matches(
         f"{paper.title} {paper.abstract}", families["application_only"]
     )
     low_hits = family_matches(f"{paper.title} {paper.abstract}", families["low_priority"])
-    add_matches(paper, domain_hits, method_hits, formulation_hits)
+    add_matches(paper, domain_hits, method_hits, formulation_hits, scientific_value_hits)
 
     paper.score_components.update(
         domain_relevance=round(domain, 3),
         method_signal=round(method, 3),
         formulation_signal=round(formulation, 3),
+        scientific_value=round(scientific_value, 3),
     )
     application_penalty = 0.0
     if application_hits:
@@ -123,12 +130,13 @@ def score_bioinfo(
         not paper.excluded
         and foundation_restricted
         and formulation < requirements["foundation_preprint_strong_min_formulation"]
-        and paper.score >= config["thresholds"]["strong"]
+        and (paper.importance_score or 0) >= config["thresholds"]["strong"]
     ):
-        paper.score = config["thresholds"]["strong"] - 0.001
+        paper.importance_score = config["thresholds"]["strong"] - 0.001
+        paper.score = paper.importance_score + paper.freshness_bonus
         paper.rating = (
             Rating.CANDIDATE
-            if paper.score >= config["thresholds"]["more_min_score"]
+            if paper.importance_score >= config["thresholds"]["more_min_score"]
             else Rating.BELOW
         )
     return paper

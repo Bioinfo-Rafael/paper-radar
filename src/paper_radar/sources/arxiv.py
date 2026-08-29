@@ -20,7 +20,11 @@ class ArxivSource:
         self.client = client
 
     def fetch(self, categories: list[str], start: date, end: date, limit: int) -> list[Paper]:
-        query = " OR ".join(f"cat:{category}" for category in categories)
+        categories_query = " OR ".join(f"cat:{category}" for category in categories)
+        date_query = (
+            f"submittedDate:[{start.strftime('%Y%m%d')}0000 TO {end.strftime('%Y%m%d')}2359]"
+        )
+        query = f"({categories_query}) AND {date_query}"
         params = {
             "search_query": query,
             "start": 0,

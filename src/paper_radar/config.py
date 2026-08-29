@@ -50,6 +50,21 @@ def load_config(root: Path | None = None) -> RadarConfig:
     config_dir = root / "config"
     common = _read_yaml(config_dir / "common.yaml")
     search = common.get("search", {})
+    lanes = search.get("lanes", {})
+    lane_values = [
+        int(lanes.get(name, 0))
+        for name in ("fresh_days", "backfill_days", "archive_days", "archive_max_days")
+    ]
+    if not (0 < lane_values[0] < lane_values[1] < lane_values[2] <= lane_values[3]):
+        raise ConfigError(
+            "config/common: lane days must satisfy 0 < fresh < backfill < archive <= maximum"
+        )
+    target = int(lanes.get("target_count", 0))
+    fresh_target = int(lanes.get("fresh_target", -1))
+    if target <= 0 or not 0 <= fresh_target <= target:
+        raise ConfigError(
+            "config/common: target_count must be positive and fresh_target within the target"
+        )
     for mode in ("daily", "more"):
         values = search.get(mode, {})
         if int(values.get("lookback_days", 0)) <= 0:
