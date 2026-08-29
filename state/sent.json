@@ -1177,6 +1177,76 @@
         "biorxiv:10.64898/2026.08.05.742709",
         "title:moiraisinglecelltrajectoryinferencegroundedingenelevelexpressiondynamics"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27036",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T06:53:20.480020+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mitigatingcompoundingerrorviavideorepresentationregularization",
+      "identity_keys": [
+        "arxiv:2607.27036",
+        "title:mitigatingcompoundingerrorviavideorepresentationregularization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24688",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T06:53:20.860852+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "amultimodalfoundationmodelforlongitudinalpatientrepresentationandscalableinsightgenerationinoncology",
+      "identity_keys": [
+        "arxiv:2608.24688",
+        "title:amultimodalfoundationmodelforlongitudinalpatientrepresentationandscalableinsightgenerationinoncology"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25897",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T06:53:21.054085+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsaunifiedinformationbottleneckframeworkfortimeseriesexplanations",
+      "identity_keys": [
+        "arxiv:2608.25897",
+        "title:towardsaunifiedinformationbottleneckframeworkfortimeseriesexplanations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24858",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T06:53:21.607682+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bellmancalibrationformarginalizedimportanceweightinginofflinereinforcementlearning",
+      "identity_keys": [
+        "arxiv:2608.24858",
+        "title:bellmancalibrationformarginalizedimportanceweightinginofflinereinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27113",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T06:53:21.802480+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "veritasvalueawareonpolicydistillationforperceptionenhancedaigidetection",
+      "identity_keys": [
+        "arxiv:2607.27113",
+        "title:veritasvalueawareonpolicydistillationforperceptionenhancedaigidetection"
+      ]
     }
   ]
 }
