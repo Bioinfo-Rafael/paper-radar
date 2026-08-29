@@ -1247,6 +1247,77 @@
         "arxiv:2607.27113",
         "title:veritasvalueawareonpolicydistillationforperceptionenhancedaigidetection"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-026-04182-z",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T07:18:30.888649+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-026-04182-z",
+      "venue": "Genome biology",
+      "title_key": "comprehensivebenchmarkingofrnavelocitymethodsacrosssinglecelldatasets",
+      "identity_keys": [
+        "doi:10.1186/s13059-026-04182-z",
+        "title:comprehensivebenchmarkingofrnavelocitymethodsacrosssinglecelldatasets"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.03.31.715390",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T07:18:31.301916+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.03.31.715390",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "cardamomotamechanisticoptimaltransportbasedframeworkforgeneregulatorynetworkinferencetrajectoryreconstructionandgenerativemodeling",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.03.31.715390",
+        "title:cardamomotamechanisticoptimaltransportbasedframeworkforgeneregulatorynetworkinferencetrajectoryreconstructionandgenerativemodeling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1101/2025.04.24.650458",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T07:18:31.498133+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.04.24.650458",
+      "published_doi": null,
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "deepdynamicalmodelsofsinglecellmultiomicvelocitiespredictlossoffunctionandrescueperturbationsinbcells",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.04.24.650458",
+        "doi:10.1101/2025.04.24.650458",
+        "title:deepdynamicalmodelsofsinglecellmultiomicvelocitiespredictlossoffunctionandrescueperturbationsinbcells"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.12.688126",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T07:18:31.777984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.12.688126",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "cyclegrninferringgeneregulatorynetworksfromcyclicflowdynamicsinsinglecellrnaseq",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.12.688126",
+        "title:cyclegrninferringgeneregulatorynetworksfromcyclicflowdynamicsinsinglecellrnaseq"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fgene.2026.1838613",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T07:18:31.923516+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fgene.2026.1838613",
+      "venue": "Frontiers in genetics",
+      "title_key": "laiorahyperbolicneuralodevariationalframeworkforinterpretablesinglecellmanifoldlearningandtrajectoryinference",
+      "identity_keys": [
+        "doi:10.3389/fgene.2026.1838613",
+        "title:laiorahyperbolicneuralodevariationalframeworkforinterpretablesinglecellmanifoldlearningandtrajectoryinference"
+      ]
     }
   ]
 }
