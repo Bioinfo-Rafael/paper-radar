@@ -1050,6 +1050,49 @@
         "doi:10.1016/j.placenta.2026.06.006",
         "title:evaluationofadeepgenerativecomputationalframeworkunderconstrainedconditionsformultiregionalplacentalsinglecelltranscriptomicinference"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21070",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T02:57:37.328052+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tracingflowasimulationfreetrajectoryinferenceframeworkbasedonsecondorderdynamics",
+      "identity_keys": [
+        "arxiv:2608.21070",
+        "s2:c088074eb8110144abba1cc4475bd5e28da911d3",
+        "title:tracingflowasimulationfreetrajectoryinferenceframeworkbasedonsecondorderdynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s11357-026-02491-6",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T02:57:37.538013+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s11357-026-02491-6",
+      "venue": "GeroScience",
+      "title_key": "identifyingnoveldruggabletargetsandrepurposabledrugsforprematureovarianinsufficiencybyintegratedmultiomicsandcausalinferenceanalysis",
+      "identity_keys": [
+        "doi:10.1007/s11357-026-02491-6",
+        "title:identifyingnoveldruggabletargetsandrepurposabledrugsforprematureovarianinsufficiencybyintegratedmultiomicsandcausalinferenceanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26200",
+      "category": "frontier",
+      "first_sent_at": "2026-08-29T02:57:38.785082+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gamewamaworldactionmodelforvideogames",
+      "identity_keys": [
+        "arxiv:2608.26200",
+        "title:gamewamaworldactionmodelforvideogames"
+      ]
     }
   ]
 }
