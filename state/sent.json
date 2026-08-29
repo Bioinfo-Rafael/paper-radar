@@ -1669,6 +1669,132 @@
         "biorxiv:10.1101/2025.09.04.674197",
         "title:lieotdockaproteindockingframeworkvialiegroupoptimizationandoptimaltransport"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-61337-5",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T22:55:49.089878+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-61337-5",
+      "venue": "Nature communications",
+      "title_key": "unveilingcausalregulatorymechanismsthroughcellstateparallax",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-61337-5",
+        "title:unveilingcausalregulatorymechanismsthroughcellstateparallax"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1002/advs.77461",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T22:55:49.516464+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1002/advs.77461",
+      "venue": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "title_key": "predictingsinglecellperturbationresponsesacrossbiologicalcontextswithadeepgenerativemodelintegratingoptimaltransport",
+      "identity_keys": [
+        "doi:10.1002/advs.77461",
+        "title:predictingsinglecellperturbationresponsesacrossbiologicalcontextswithadeepgenerativemodelintegratingoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/genes17080846",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T22:55:49.770838+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/genes17080846",
+      "venue": "Genes",
+      "title_key": "acontextawaregraphtransformerframeworkformicrornageneregulatoryinferenceacrossbulktumorandsinglecellcancerdata",
+      "identity_keys": [
+        "doi:10.3390/genes17080846",
+        "title:acontextawaregraphtransformerframeworkformicrornageneregulatoryinferenceacrossbulktumorandsinglecellcancerdata"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.06.26.734559",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T22:55:49.961691+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.06.26.734559",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "mintcnaaunifiedframeworkforintegrativecopynumberprofilingwithsinglecellmultiomicsdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.06.26.734559",
+        "title:mintcnaaunifiedframeworkforintegrativecopynumberprofilingwithsinglecellmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.05.05.722992",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T22:55:50.183791+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.05.05.722992",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "longalleleajointinferenceframeworkforallelespecificanalysisonlongreadbulkandsinglecellrnasequencing",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.05.05.722992",
+        "title:longalleleajointinferenceframeworkforallelespecificanalysisonlongreadbulkandsinglecellrnasequencing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27952",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T22:55:50.825193+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lastthelastquerytokenguidesvisualtokenpruningforedgecloudcollaborativemllminference",
+      "identity_keys": [
+        "arxiv:2607.27952",
+        "title:lastthelastquerytokenguidesvisualtokenpruningforedgecloudcollaborativemllminference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.27966",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T22:55:51.046014+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatmakesgraphunifiedprinciplesandgenerativeslidingwindowtransformerforgraphfoundationmodels",
+      "identity_keys": [
+        "arxiv:2607.27966",
+        "title:whatmakesgraphunifiedprinciplesandgenerativeslidingwindowtransformerforgraphfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.28580",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T22:55:51.435408+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dualgmragdecouplingmacroreasoningandmicromatchingformultimodalretrievalaugmentedgeneration",
+      "identity_keys": [
+        "arxiv:2607.28580",
+        "title:dualgmragdecouplingmacroreasoningandmicromatchingformultimodalretrievalaugmentedgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.28156",
+      "category": "ml",
+      "first_sent_at": "2026-08-29T22:55:51.934790+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rrmexperiencedrivenreflectiveretrievalmemoryforlonghorizonmultimodalreasoning",
+      "identity_keys": [
+        "arxiv:2607.28156",
+        "title:rrmexperiencedrivenreflectiveretrievalmemoryforlonghorizonmultimodalreasoning"
+      ]
     }
   ]
 }
