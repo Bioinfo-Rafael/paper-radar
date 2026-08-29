@@ -1,4 +1,61 @@
 {
   "version": 1,
-  "entries": []
+  "entries": [
+    {
+      "timestamp": "2026-08-29T06:56:40.340853+00:00",
+      "channel": "ml",
+      "original_tune_message": "https://arxiv.org/pdf/2608.24688　これあんま興味ない。これただ既存のモデルを別のデータで学習しましたってだけだから新規性薄くね？",
+      "before": {
+        "version": 1,
+        "concepts": [],
+        "signal_adjustments": [],
+        "journal_priorities": [],
+        "freshness": [],
+        "backfill": [],
+        "routing": [],
+        "thresholds": [],
+        "type_preferences": [],
+        "retrieval_mix": []
+      },
+      "after": {
+        "version": 1,
+        "concepts": [],
+        "signal_adjustments": [
+          {
+            "channel": "bioinfo",
+            "target": "method",
+            "amount": -0.5
+          },
+          {
+            "channel": "bioinfo",
+            "target": "formulation",
+            "amount": -0.3
+          }
+        ],
+        "journal_priorities": [],
+        "freshness": [],
+        "backfill": [],
+        "routing": [],
+        "thresholds": [],
+        "type_preferences": [],
+        "retrieval_mix": []
+      },
+      "summary": "既存モデルを別データで再学習しただけで新規性が薄いと判断したため、メソッドとフォーミュレーションの信号重みを軽減しました。",
+      "warnings": [],
+      "actions": [
+        {
+          "type": "adjust_signal_weight",
+          "channel": "bioinfo",
+          "target": "method",
+          "amount": -0.5
+        },
+        {
+          "type": "adjust_signal_weight",
+          "channel": "bioinfo",
+          "target": "formulation",
+          "amount": -0.3
+        }
+      ]
+    }
+  ]
 }

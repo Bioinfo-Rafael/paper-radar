@@ -1,6 +1,12 @@
 version: 1
 concepts: []
-signal_adjustments: []
+signal_adjustments:
+- channel: bioinfo
+  target: method
+  amount: -0.5
+- channel: bioinfo
+  target: formulation
+  amount: -0.3
 journal_priorities: []
 freshness: []
 backfill: []
