@@ -1093,6 +1093,20 @@
         "arxiv:2608.26200",
         "title:gamewamaworldactionmodelforvideogames"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2026.101710",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-29T06:26:06.893303+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2026.101710",
+      "venue": "Cell systems",
+      "title_key": "profetpredictscontinuousgeneexpressiondynamicsfromscrnaseqdatatoelucidateheterogeneityofcancertreatmentresponses",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2026.101710",
+        "title:profetpredictscontinuousgeneexpressiondynamicsfromscrnaseqdatatoelucidateheterogeneityofcancertreatmentresponses"
+      ]
     }
   ]
 }
