@@ -1795,6 +1795,48 @@
         "arxiv:2607.28156",
         "title:rrmexperiencedrivenreflectiveretrievalmemoryforlonghorizonmultimodalreasoning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.07.21.739795",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-30T04:37:21.545047+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.07.21.739795",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "ferretframeworktoevaluaterobustnessinregulatorynetworksusingheterogeneouscelltypes",
+      "identity_keys": [
+        "doi:10.64898/2026.07.21.739795",
+        "title:ferretframeworktoevaluaterobustnessinregulatorynetworksusingheterogeneouscelltypes"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.06.13.732013",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-30T04:37:21.823923+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.06.13.732013",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "pertdiffbenchbenchmarkingdiffusionmodelsforsinglecellperturbationresponseprediction",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.06.13.732013",
+        "title:pertdiffbenchbenchmarkingdiffusionmodelsforsinglecellperturbationresponseprediction"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.08.26.672448",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-30T04:37:22.796938+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.08.26.672448",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "atransparentandgeneralizabledeeplearningframeworkforgenomicancestryprediction",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.08.26.672448",
+        "title:atransparentandgeneralizabledeeplearningframeworkforgenomicancestryprediction"
+      ]
     }
   ]
 }
