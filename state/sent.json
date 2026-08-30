@@ -1837,6 +1837,49 @@
         "biorxiv:10.1101/2025.08.26.672448",
         "title:atransparentandgeneralizabledeeplearningframeworkforgenomicancestryprediction"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3770855.3818921",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-30T23:03:34.032265+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3770855.3818921",
+      "venue": "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2",
+      "title_key": "sccotagpriorinformedcooptimaltransportforrobustsinglecellmultiomicsintegration",
+      "identity_keys": [
+        "doi:10.1145/3770855.3818921",
+        "s2:da8f377b93a14b66ffac9bf8f13719d62faf7c73",
+        "title:sccotagpriorinformedcooptimaltransportforrobustsinglecellmultiomicsintegration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.29135",
+      "category": "ml",
+      "first_sent_at": "2026-08-30T23:03:35.230180+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "herohistoryenrichedrollouttrainingforlonghorizonautoregressiveneuraloperators",
+      "identity_keys": [
+        "arxiv:2607.29135",
+        "title:herohistoryenrichedrollouttrainingforlonghorizonautoregressiveneuraloperators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.00237",
+      "category": "ml",
+      "first_sent_at": "2026-08-30T23:03:35.756257+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latentcentroidsteeringsinglepassclassifierfreeguidanceforcommandalignedautonomousdriving",
+      "identity_keys": [
+        "arxiv:2608.00237",
+        "title:latentcentroidsteeringsinglepassclassifierfreeguidanceforcommandalignedautonomousdriving"
+      ]
     }
   ]
 }
