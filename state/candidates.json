@@ -3075,16 +3075,16 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 38,
+        "hf_rank": 27,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "foundation-model",
-          "HF Trending #38"
+          "HF Trending #27"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.294,
+          "hf_trending": 0.563,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -3092,10 +3092,10 @@
           "venue_prior": 0.0,
           "recency": 0.693
         },
-        "score": 4.187,
+        "score": 4.456,
         "importance_score": 3.2,
         "freshness_bonus": 0.693,
-        "discovery_bonus": 0.294,
+        "discovery_bonus": 0.563,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",
@@ -3120,16 +3120,16 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 43,
+        "hf_rank": 44,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "reasoning",
-          "HF Trending #43"
+          "HF Trending #44"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.171,
+          "hf_trending": 0.147,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -3137,10 +3137,10 @@
           "venue_prior": 0.0,
           "recency": 0.08
         },
-        "score": 3.451,
+        "score": 3.427,
         "importance_score": 3.2,
         "freshness_bonus": 0.08,
-        "discovery_bonus": 0.171,
+        "discovery_bonus": 0.147,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",
