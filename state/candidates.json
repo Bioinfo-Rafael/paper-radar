@@ -2829,7 +2829,7 @@
       {
         "title": "StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models",
         "paper_url": "https://huggingface.co/papers/2608.26067",
-        "source": "huggingface",
+        "source": "huggingface+semantic_scholar",
         "canonical_id": "arxiv:2608.26067",
         "abstract": "Vision-Language-Action (VLA) models have demonstrated effectiveness in robot manipulation, yet state-of-the-art models such as pi0.5 operate under a single-frame paradigm, limiting their ability to retain past observations and develop precise spatial perception. In this paper, we propose StreamPI, a streaming multimodal temporal modeling framework that equips single-frame VLA with temporal reasoning capability without introducing any additional parameters. One core design is instruction-anchored temporal modeling. It treats each (visual observation, language instruction) pair as an atomic temporal unit: bidirectional attention within each pair enables cross-modal fusion, while causal attention across pairs preserves autoregressive streaming inference. This ensures the language instruction serves as a persistent semantic anchor throughout task execution. To bridge the gap between synchronous training and asynchronous real-robot deployment, we introduce a andom-interval streaming training strategy: a proper inter-frame interval (e.g., every 3 frames) enables faster and smoother action execution. Beyond this, randomizing the interval further improves robustness to frame-timing perturbations, supporting asynchronous deployment in practice. Furthermore, by leveraging the length extrapolation capability of the LLM backbone, StreamPI seamlessly inherits pretrained single-frame weights and supports flexible single-frame and multi-frame inference. Experiments on real-robot tasks spanning memory-dependent and precise perception scenarios, as well as the simulation benchmark LIBERO, demonstrate that StreamPI outperforms pi0.5 across diverse tasks.",
         "publication_date": "2026-08-26",
@@ -2839,10 +2839,12 @@
         "doi": null,
         "arxiv_id": "2608.26067",
         "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
+        "semantic_scholar_id": "5f05bc5e8a8c093b816168bc2a4feb6419854f2a",
+        "categories": [
+          "Computer Science"
+        ],
+        "citation_count": 0,
+        "influential_citation_count": 0,
         "hf_rank": 32,
         "recommendation_rank": null,
         "matched_criteria": [
@@ -2874,8 +2876,8 @@
       },
       {
         "title": "Prime Agent: A Self-Improving RLM Harness",
-        "paper_url": "https://huggingface.co/papers/2608.23552",
-        "source": "huggingface",
+        "paper_url": "https://www.semanticscholar.org/paper/43b10220cb2ae6429d54da13616c175734bedc47",
+        "source": "huggingface+semantic_scholar",
         "canonical_id": "arxiv:2608.23552",
         "abstract": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectories. Recursive subagents coordinate through direct agent-to-agent communication, and the Agents View lets humans inspect and manage daemon-backed sessions. Prime Agent standardizes execution, recovery, verification, and resource accounting while leaving strategy construction to the model. This low-friction, expressive membrane prevents harness failures from becoming model failures and pushes measurement toward the model's true maximal underlying capability. Prime Agent raises ARC-AGI-3 RHAE Best@1 from 30% to 95.5% and matches or exceeds native and popular harnesses across long-context coding, GPU-kernel generation, emulator construction, and autonomous nanoGPT speedruns. On Factorio, we find refinement allows for continuous technology progression and dedicated subagents enable parallelized work. Code is available at https://github.com/PrimeIntellect-ai/prime-agent.",
         "publication_date": "2026-08-24",
@@ -2885,10 +2887,12 @@
         "doi": null,
         "arxiv_id": "2608.23552",
         "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
+        "semantic_scholar_id": "43b10220cb2ae6429d54da13616c175734bedc47",
+        "categories": [
+          "Computer Science"
+        ],
+        "citation_count": 2,
+        "influential_citation_count": 1,
         "hf_rank": 4,
         "recommendation_rank": null,
         "matched_criteria": [
@@ -2902,12 +2906,12 @@
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
-          "citation_signal": 0.0,
+          "citation_signal": 0.3386587451219788,
           "venue_prior": 0.0,
           "recency": 0.613
         },
-        "score": 4.94,
-        "importance_score": 3.2,
+        "score": 5.279,
+        "importance_score": 3.539,
         "freshness_bonus": 0.613,
         "discovery_bonus": 1.127,
         "focus_bonus": 0,
@@ -2920,7 +2924,7 @@
       {
         "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
         "paper_url": "https://huggingface.co/papers/2608.09888",
-        "source": "huggingface",
+        "source": "huggingface+semantic_scholar",
         "canonical_id": "arxiv:2608.09888",
         "abstract": "We introduce BDH-CQ, a reasoning model that combines in-context learning with recurrent latent reasoning. Inputs presented at inference time continuously update the model's recurrent memory; the model then solves a query through iterative computation in a high-dimensional latent space, without verbalizing its intermediate reasoning. We evaluate the model on the public ARC-AGI-1 evaluation set and use controlled ARC-like interventions to study what it learns from demonstrations, how consistently it applies an inferred transformation, and which concepts remain difficult. A 150M-parameter configuration reaches 29.5% pass@2 at a computed inference cost of \\$0.0007 per task. This operating point breaks through the previously reported ARC-AGI-1 cost-accuracy Pareto frontier, establishing a new state of the art in benchmark cost efficiency.",
         "publication_date": "2026-08-10",
@@ -2930,10 +2934,13 @@
         "doi": null,
         "arxiv_id": "2608.09888",
         "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
+        "semantic_scholar_id": "e02ff1ae61669248c3ec959a4de7e2e1deaa9d47",
+        "categories": [
+          "Computer Science",
+          "Mathematics"
+        ],
+        "citation_count": 0,
+        "influential_citation_count": 0,
         "hf_rank": 1,
         "recommendation_rank": null,
         "matched_criteria": [
@@ -2965,7 +2972,7 @@
       {
         "title": "JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution",
         "paper_url": "https://huggingface.co/papers/2608.25593",
-        "source": "huggingface",
+        "source": "huggingface+semantic_scholar",
         "canonical_id": "arxiv:2608.25593",
         "abstract": "Agent capability is not determined by the model alone. The agent harness, encompassing memory management, planning strategy, action protocol, and tool/skill orchestration, can dominate the contribution of the underlying foundation model. Yet harness design remains manual, task-specific, and fundamentally unscalable. We present JIT-Agent, a harness intelligence model trained to synthesize task-adaptive agent harnesses on the fly for arbitrary off-the-shelf agentic LLMs. We formalize the agent harness as a composable, machine-generatable artifact governed by a fixed four-module protocol, and train JIT-Agent to customize harnesses for a given task at hand, repair harnesses for stable and reliable execution, and self-evolve by distilling performance signals from an expanding archive of prior harness configurations. Equipped with JIT-Agent as a harness helper, DeepSeek-V4-Flash surpasses GPT-5.6 on DeepSearchQA (+9.1) and OdysseyBench (+4.3), while the already strong GLM-5.2 gains up to +20.2 points. Across controlled evaluations, JIT-Agent-generated harnesses are performance-competitive with mature agent runtimes such as OpenCode and Claude Code and consistently improve multi-scale model families of DeepSeek V4, Mimo-V2.5, and Qwen3.6. To our knowledge, JIT-Agent is the first model purpose-built for just-in-time harness generation, establishing harness intelligence as a trainable, transferable, and compounding dimension of agent capability orthogonal to model scaling.",
         "publication_date": "2026-08-26",
@@ -2975,10 +2982,12 @@
         "doi": null,
         "arxiv_id": "2608.25593",
         "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
+        "semantic_scholar_id": "128749c752a55ad19f939b1ec65309c4126a54c4",
+        "categories": [
+          "Computer Science"
+        ],
+        "citation_count": 0,
+        "influential_citation_count": 0,
         "hf_rank": 27,
         "recommendation_rank": null,
         "matched_criteria": [
@@ -3009,8 +3018,8 @@
       },
       {
         "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
-        "paper_url": "https://huggingface.co/papers/2608.01964",
-        "source": "huggingface",
+        "paper_url": "https://www.semanticscholar.org/paper/7ae4028f076db710c914364124527469cb54289e",
+        "source": "huggingface+semantic_scholar",
         "canonical_id": "arxiv:2608.01964",
         "abstract": "Large language model (LLM) agents increasingly undertake long-horizon tasks that require sustained reasoning, tool use, and revision across many interdependent steps. However, existing agent harnesses maintain task execution, task state, and completion assessment within a growing context, making the state difficult to track and allowing incorrect self-assessments to propagate into later decisions. We reformulate long-horizon execution as a task-state management problem and propose LongHorizon-Harness, which maintains the task state explicitly outside execution and updates it only with facts independently verified from the environment. Its Manage-Execute-Audit(MEA) loop uses a manager to maintain the task state and determine the next subtask, a fresh-context executor to perform it, and a read-only auditor to verify the resulting environment state before the next round. A lightweight AgentAdapter supports interchangeable model and harness backends without modifying their native agent loops. LongHorizon-Harness improves Qwen~3.7-Plus from 51.8% to 80.7% on WeaveBench, from 69.7% to 77.2% on Terminal-Bench~2.1, and from 2.8% to 8.3% on OSWorld~2.0. It also raises Claude Opus~4.7 from 20.0% to 34.3% on an OSWorld2.0 subset, demonstrating consistent gains across models, harnesses, and interaction domains.",
         "publication_date": "2026-08-03",
@@ -3020,31 +3029,33 @@
         "doi": null,
         "arxiv_id": "2608.01964",
         "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": 38,
+        "semantic_scholar_id": "7ae4028f076db710c914364124527469cb54289e",
+        "categories": [
+          "Computer Science"
+        ],
+        "citation_count": 1,
+        "influential_citation_count": 0,
+        "hf_rank": 44,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "reasoning",
-          "HF Trending #38"
+          "HF Trending #44"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.294,
+          "hf_trending": 0.147,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
-          "citation_signal": 0.0,
+          "citation_signal": 0.11288624837399294,
           "venue_prior": 0.0,
           "recency": 0.053
         },
-        "score": 3.547,
-        "importance_score": 3.2,
+        "score": 3.513,
+        "importance_score": 3.313,
         "freshness_bonus": 0.053,
-        "discovery_bonus": 0.294,
+        "discovery_bonus": 0.147,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",
