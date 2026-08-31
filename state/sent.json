@@ -1880,6 +1880,48 @@
         "arxiv:2608.00237",
         "title:latentcentroidsteeringsinglepassclassifierfreeguidanceforcommandalignedautonomousdriving"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27429",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T04:42:47.819232+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mechanisticreactionpredictionviadiscreteflowmatchingongraphstructuredelectronoccupation",
+      "identity_keys": [
+        "arxiv:2608.27429",
+        "title:mechanisticreactionpredictionviadiscreteflowmatchingongraphstructuredelectronoccupation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28058",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T04:42:48.140724+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dynamicalignmentcompensationforhallucinationmitigationinlargevisionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2608.28058",
+        "title:dynamicalignmentcompensationforhallucinationmitigationinlargevisionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27715",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T04:42:48.498332+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondnoniidlearnerclientdistributionmismatchinfederatedlearning",
+      "identity_keys": [
+        "arxiv:2608.27715",
+        "title:beyondnoniidlearnerclientdistributionmismatchinfederatedlearning"
+      ]
     }
   ]
 }

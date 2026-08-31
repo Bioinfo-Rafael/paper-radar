@@ -2505,6 +2505,114 @@
     ],
     "ml": [
       {
+        "title": "Dynamic Alignment Compensation for Hallucination Mitigation in Large Vision-Language Models",
+        "paper_url": "https://arxiv.org/abs/2608.28058",
+        "source": "arxiv",
+        "canonical_id": "arxiv:2608.28058",
+        "abstract": "Large Vision-Language Models (LVLMs) remain prone to hallucinations, producing responses that are irrelevant or inconsistent with the multimodal input. Existing mitigation methods mainly rely on external supervision, output calibration, or attention regulation, leaving the internal representation dynamics of autoregressive generation underexplored. We identify an inference-time failure mode in which cross-modal representations degrade across decoder layers and drift across generation steps, destabilizing token prediction and increasing hallucination risk. We propose \\emph{Dynamic Alignment Compensation} (DAC), a training-free inference-time method that detects representation divergence and selectively applies lightweight residual compensation. DAC combines Layer-wise Semantic Compensation to mitigate inter-layer degradation with Sequential Semantic Correction to constrain temporal drift. Experiments on nine hallucination-focused and general-purpose multimodal benchmarks across multiple LVLM backbones show that DAC consistently reduces hallucinations while maintaining strong overall performance.",
+        "publication_date": "2026-08-28",
+        "year": 2026,
+        "venue": "arXiv",
+        "publication_type": "Preprint",
+        "doi": null,
+        "arxiv_id": "2608.28058",
+        "biorxiv_doi": null,
+        "semantic_scholar_id": null,
+        "categories": [
+          "cs.CV",
+          "cs.AI"
+        ],
+        "citation_count": null,
+        "influential_citation_count": null,
+        "hf_rank": null,
+        "recommendation_rank": null,
+        "matched_criteria": [
+          "generative-modeling",
+          "architecture",
+          "representation",
+          "evaluation",
+          "actionable-design",
+          "broad-improvement"
+        ],
+        "penalties": [
+          "arXiv-strict-threshold"
+        ],
+        "score_components": {
+          "domain_relevance": 3.6,
+          "actionable_method_signal": 2.4,
+          "conceptual_formulation_signal": 0.0,
+          "model_understanding_synergy": 0.0,
+          "actionable_design_synergy": 0.7,
+          "application_incremental_penalty": -0.0,
+          "venue_prior": -0.3,
+          "recency": 0.55,
+          "seed_bonus": 0.0
+        },
+        "score": 6.95,
+        "importance_score": 6.4,
+        "freshness_bonus": 0.55,
+        "discovery_bonus": 0,
+        "focus_bonus": 0,
+        "retrieval_lane": "fresh",
+        "rating": "★★★★☆ Strong",
+        "excluded": false,
+        "preprint_doi": null,
+        "published_doi": null
+      },
+      {
+        "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+        "paper_url": "https://arxiv.org/abs/2608.27429",
+        "source": "arxiv",
+        "canonical_id": "arxiv:2608.27429",
+        "abstract": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through de novo generation of product molecules or through heuristic graph edits that operate directly on molecular topology. We introduce MAELLE (MechAnistic Edit fLow-matching on eLectron rEarrangements), which instead models reactions as discrete flow matching over electron occupation vectors. Concretely, we formulate the reactant-to-product mapping as a Continuous-time Markov Chain (CTMC) over the graph-structured integer-valued electron occupation space defined on all bonding, non-bonding, and hydrogen sites. To construct the interpolants between the reactants and products, we generalize the discrete flow matching mixture path to an edit-based formulation, where the electron moves are interpolated using Optimal Transport, yielding a mechanism-like set of moves without elementary step annotations. MAELLE achieves competitive performance on the USPTO-480K benchmark compared with leading reaction prediction models. Beyond in-distribution learning, we evaluate robustness across two out-of-distribution settings - structural complexity and reaction type - and find that MAELLE maintains strong performance where existing methods degrade. Finally, because the learned flow operates over the full electron redistribution, MAELLE naturally recovers mechanistic trajectories that align with known chemistry and can predict side products of a reaction.",
+        "publication_date": "2026-08-27",
+        "year": 2026,
+        "venue": "arXiv",
+        "publication_type": "Preprint",
+        "doi": null,
+        "arxiv_id": "2608.27429",
+        "biorxiv_doi": null,
+        "semantic_scholar_id": null,
+        "categories": [
+          "cs.AI"
+        ],
+        "citation_count": null,
+        "influential_citation_count": null,
+        "hf_rank": null,
+        "recommendation_rank": null,
+        "matched_criteria": [
+          "generative-modeling",
+          "actionable-design",
+          "broad-improvement",
+          "understanding",
+          "formulation"
+        ],
+        "penalties": [
+          "arXiv-strict-threshold"
+        ],
+        "score_components": {
+          "domain_relevance": 1.4,
+          "actionable_method_signal": 3.6,
+          "conceptual_formulation_signal": 1.2,
+          "model_understanding_synergy": 0.0,
+          "actionable_design_synergy": 0.0,
+          "application_incremental_penalty": -0.0,
+          "venue_prior": -0.3,
+          "recency": 0.5,
+          "seed_bonus": 0.0
+        },
+        "score": 6.4,
+        "importance_score": 5.9,
+        "freshness_bonus": 0.5,
+        "discovery_bonus": 0,
+        "focus_bonus": 0,
+        "retrieval_lane": "fresh",
+        "rating": "★★★★☆ Strong",
+        "excluded": false,
+        "preprint_doi": null,
+        "published_doi": null
+      },
+      {
         "title": "HERO: History-Enriched Rollout Training for Long-Horizon Autoregressive Neural Operators",
         "paper_url": "https://arxiv.org/abs/2607.29135",
         "source": "arxiv",
@@ -2554,58 +2662,6 @@
         "focus_bonus": 0,
         "retrieval_lane": "backfill",
         "rating": "★★★★☆ Strong",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
-        "title": "Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation",
-        "paper_url": "https://arxiv.org/abs/2608.27158",
-        "source": "arxiv",
-        "canonical_id": "arxiv:2608.27158",
-        "abstract": "Robot crowd navigation requires safe and efficient decision-making under dense, dynamic, and multimodal human--robot interactions. Existing reinforcement-learning methods typically output a single reactive action at each timestep, which limits their ability to represent diverse short-term avoidance strategies. We propose Planning Diffusion Policy Optimization (PDPO), an offline-to-online reinforcement-learning framework that uses a diffusion policy to generate short-horizon action chunks for crowd navigation. PDPO is first pretrained on collision-avoidance demonstrations and then fine-tuned online with PPO by treating the denoising process as an internal decision process. During execution, the policy generates a five-step action chunk and applies it in a receding-horizon manner. Furthermore, we observe an evaluation artifact in common crowd-navigation benchmarks: without explicit boundary constraints, learned agents may leave the valid domain and bypass dense crowds. To address this, we introduce a setting in which boundary violations are treated as collisions. Experiments show that PDPO obtains an improved success rate over strong baselines, and ablations demonstrate that action chunks are especially important for the modified bounded benchmark.",
-        "publication_date": "2026-08-27",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.27158",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [
-          "cs.LG"
-        ],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "generative-modeling",
-          "training",
-          "actionable-design",
-          "observed-explained"
-        ],
-        "penalties": [
-          "arXiv-strict-threshold"
-        ],
-        "score_components": {
-          "domain_relevance": 2.3,
-          "actionable_method_signal": 1.2,
-          "conceptual_formulation_signal": 1.2,
-          "model_understanding_synergy": 0.0,
-          "actionable_design_synergy": 0.0,
-          "application_incremental_penalty": -0.0,
-          "venue_prior": -0.3,
-          "recency": 0.5,
-          "seed_bonus": 0.0
-        },
-        "score": 4.9,
-        "importance_score": 4.4,
-        "freshness_bonus": 0.5,
-        "discovery_bonus": 0,
-        "focus_bonus": 0,
-        "retrieval_lane": "fresh",
-        "rating": "★★★☆☆ Candidate",
         "excluded": false,
         "preprint_doi": null,
         "published_doi": null
@@ -2717,93 +2773,39 @@
         "published_doi": null
       },
       {
-        "title": "PailitaoGR: Latent Think-with-Images for Generative Image Retrieval",
-        "paper_url": "https://arxiv.org/abs/2608.26658",
+        "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+        "paper_url": "https://arxiv.org/abs/2608.27715",
         "source": "arxiv",
-        "canonical_id": "arxiv:2608.26658",
-        "abstract": "Generative retrieval has demonstrated strong performance by directly generating product semantic identifiers (SIDs). Extending this paradigm to image search, however, is nontrivial because real-world query images contain diverse information, including the search target, useful auxiliary evidence, and irrelevant visual content. This requires the model to identify and focus on the search target while selectively utilizing auxiliary evidence. In this paper, we propose \\textbf{PailitaoGR}, a \\emph{Latent Think-with-Images} method for generative image retrieval, which internalizes target-focused perception and selective auxiliary-evidence utilization into a the generative retrieval model, enabling \\textit{Zooming without Cropping} and \\textit{Reading without OCR}. Specifically, we design a target-focused perception mechanism that identifies and enhances visual tokens of the search target, consisting of a target Enhancer and a learning strategy based on on-policy distillation and attention guidance loss, enabling the model to focus on search-target regions. We also design a selective auxiliary-evidence utilization mechanism that identifies and enhances visual tokens of auxiliary evidence, including an auxiliary enhancer and an in-capacity incremental contrastive distillation strategy, enabling the model to exploit auxiliary evidence. We construct training and validation sets sampled from real-world online image-search logs. Experiments show that our method outperforms existing baselines by an average of 13.8\\%, validating its effectiveness.",
+        "canonical_id": "arxiv:2608.27715",
+        "abstract": "Federated learning systems are increasingly deployed to facilitate collaborative model training across a heterogeneous client population. Existing practice mostly implicitly assumes that the aggregated client data distribution is representative of the learner's target distribution or that learning from all available clients is uniformly beneficial for the learner distribution. However, such an assumption often does not hold in reality. Traditional client selection strategies in FL literature largely overlook such misalignment, while most existing work on multi-source transfer learning either requires direct access to local data or uses one-shot model/feature aggregation. In this paper, we take the initiative to understand and mitigate the impacts of such learner-client population misalignment. In particular, we consider the practical setting where the learner keeps a small proxy dataset. We observe that client contributions vary significantly across training rounds, and traditional technology is insufficient to identify beneficial sources under multi-source transfer diversity. Then, we propose a dynamic, influence-aware client selection framework that estimates each client's potential utility to the learner's optimization objective using proxy influence signals on a learner-specific proxy set. Via using leave-one-out evaluations, we prioritize the most informative sources of knowledge while controlling the negative impacts of statistical noise and data heterogeneity. Experiments on CIFAR-10 under heterogeneous data partitions demonstrate that our approach consistently outperforms static and dynamic baselines, achieving faster convergence and higher accuracy.",
         "publication_date": "2026-08-27",
         "year": 2026,
         "venue": "arXiv",
         "publication_type": "Preprint",
         "doi": null,
-        "arxiv_id": "2608.26658",
+        "arxiv_id": "2608.27715",
         "biorxiv_doi": null,
         "semantic_scholar_id": null,
         "categories": [
-          "cs.CV",
-          "cs.AI",
-          "cs.IR"
+          "cs.LG"
         ],
         "citation_count": null,
         "influential_citation_count": null,
         "hf_rank": null,
         "recommendation_rank": null,
         "matched_criteria": [
-          "architecture",
           "training",
+          "theory",
           "actionable-design",
-          "understanding"
+          "observed-explained"
         ],
         "penalties": [
           "arXiv-strict-threshold"
         ],
         "score_components": {
           "domain_relevance": 1.8,
-          "actionable_method_signal": 2.4,
-          "conceptual_formulation_signal": 0.0,
-          "model_understanding_synergy": 0.0,
-          "actionable_design_synergy": 0.0,
-          "application_incremental_penalty": -0.0,
-          "venue_prior": -0.3,
-          "recency": 0.5,
-          "seed_bonus": 0.0
-        },
-        "score": 4.4,
-        "importance_score": 3.9,
-        "freshness_bonus": 0.5,
-        "discovery_bonus": 0,
-        "focus_bonus": 0,
-        "retrieval_lane": "fresh",
-        "rating": "★★★☆☆ Candidate",
-        "excluded": false,
-        "preprint_doi": null,
-        "published_doi": null
-      },
-      {
-        "title": "Prediction of Prediction (PoP): Inter-Layer Activation Fusion for Single-Pass Hallucination Detection in Large Language Models",
-        "paper_url": "https://arxiv.org/abs/2608.27165",
-        "source": "arxiv",
-        "canonical_id": "arxiv:2608.27165",
-        "abstract": "Autoregressive large language models (LLMs) routinely generate factually incorrect outputs with high decoding confidence, limiting their deployment in high-stakes workflows. Existing output-stage uncertainty metrics can fail when models are overconfident on false assertions, while multi-sample verification pipelines introduce substantial memory and latency overhead. This work evaluates whether internal hidden-state transition dynamics during generation can signal factual errors without auxiliary decoding calls. We introduce Prediction of Prediction (PoP), a mechanism that captures layer-transition uncertainty by fusing intermediate hidden representations across depth during a single forward pass. Evaluated on the TruthfulQA benchmark using autoregressive transformer backbones, PoP achieves an area under the receiver operating characteristic curve (AUROC) of 75.5% for factual-correctness classification. The mechanism operates within the base forward pass, adding less than 1.2% runtime latency and requiring zero additional generation passes. The numerical results are reported from the author-verified experimental implementation and are bounded by the evaluation scope described below.",
-        "publication_date": "2026-08-27",
-        "year": 2026,
-        "venue": "arXiv",
-        "publication_type": "Preprint",
-        "doi": null,
-        "arxiv_id": "2608.27165",
-        "biorxiv_doi": null,
-        "semantic_scholar_id": null,
-        "categories": [
-          "cs.CL"
-        ],
-        "citation_count": null,
-        "influential_citation_count": null,
-        "hf_rank": null,
-        "recommendation_rank": null,
-        "matched_criteria": [
-          "generative-modeling",
-          "architecture",
-          "actionable-design",
-          "understanding"
-        ],
-        "penalties": [
-          "arXiv-strict-threshold"
-        ],
-        "score_components": {
-          "domain_relevance": 1.8,
-          "actionable_method_signal": 2.4,
-          "conceptual_formulation_signal": 0.0,
+          "actionable_method_signal": 1.2,
+          "conceptual_formulation_signal": 1.2,
           "model_understanding_synergy": 0.0,
           "actionable_design_synergy": 0.0,
           "application_incremental_penalty": -0.0,
@@ -2841,17 +2843,17 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 29,
+        "hf_rank": 32,
         "recommendation_rank": null,
         "matched_criteria": [
           "vla",
           "agent-capability",
           "reasoning",
-          "HF Trending #29"
+          "HF Trending #32"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.514,
+          "hf_trending": 0.441,
           "core_topic": 4.0,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -2859,10 +2861,10 @@
           "venue_prior": 0.0,
           "recency": 0.667
         },
-        "score": 6.181,
+        "score": 6.108,
         "importance_score": 5.0,
         "freshness_bonus": 0.667,
-        "discovery_bonus": 0.514,
+        "discovery_bonus": 0.441,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★★☆ Strong",
@@ -2932,16 +2934,16 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 2,
+        "hf_rank": 1,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "reasoning",
-          "HF Trending #2"
+          "HF Trending #1"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 1.176,
+          "hf_trending": 1.2,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -2949,10 +2951,10 @@
           "venue_prior": 0.0,
           "recency": 0.24
         },
-        "score": 4.616,
+        "score": 4.64,
         "importance_score": 3.2,
         "freshness_bonus": 0.24,
-        "discovery_bonus": 1.176,
+        "discovery_bonus": 1.2,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",
@@ -3022,16 +3024,16 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 41,
+        "hf_rank": 38,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "reasoning",
-          "HF Trending #41"
+          "HF Trending #38"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.22,
+          "hf_trending": 0.294,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -3039,10 +3041,10 @@
           "venue_prior": 0.0,
           "recency": 0.053
         },
-        "score": 3.473,
+        "score": 3.547,
         "importance_score": 3.2,
         "freshness_bonus": 0.053,
-        "discovery_bonus": 0.22,
+        "discovery_bonus": 0.294,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",
