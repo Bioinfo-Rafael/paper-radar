@@ -1964,6 +1964,76 @@
         "biorxiv:10.64898/2026.03.26.714633",
         "title:beyondviralloadamechanisticmodelofvirusimmunedynamicsandagedependentinfluenzaseverity"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.07.743481",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-31T16:56:15.407159+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.07.743481",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "slimasmalllinearmodelwithstringembeddingsforsinglecellgeneticperturbationprediction",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.07.743481",
+        "title:slimasmalllinearmodelwithstringembeddingsforsinglecellgeneticperturbationprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.00531",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T16:56:16.286062+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "curelocaluncertaintyrepairforblockparallelspeculativedecoding",
+      "identity_keys": [
+        "arxiv:2608.00531",
+        "title:curelocaluncertaintyrepairforblockparallelspeculativedecoding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.00642",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T16:56:16.681925+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wifuseanattentionmechanismforhumanactivityrecognitionusingfusedcsiamplitudeanddelaydopplerchannelfeatures",
+      "identity_keys": [
+        "arxiv:2608.00642",
+        "title:wifuseanattentionmechanismforhumanactivityrecognitionusingfusedcsiamplitudeanddelaydopplerchannelfeatures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.00610",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T16:56:17.319032+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "slides2mindmapreconstructingcognitivelyefficientknowledgehierarchiesfromlectureslides",
+      "identity_keys": [
+        "arxiv:2608.00610",
+        "title:slides2mindmapreconstructingcognitivelyefficientknowledgehierarchiesfromlectureslides"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.14665",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T16:56:17.670368+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whendoesthebestsamplingtemperaturerisewiththebudgetsufficientconditionsforpassk",
+      "identity_keys": [
+        "arxiv:2608.14665",
+        "title:whendoesthebestsamplingtemperaturerisewiththebudgetsufficientconditionsforpassk"
+      ]
     }
   ]
 }
