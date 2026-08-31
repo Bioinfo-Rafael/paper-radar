@@ -1922,6 +1922,34 @@
         "arxiv:2608.27715",
         "title:beyondnoniidlearnerclientdistributionmismatchinfederatedlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.crmeth.2026.101539",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-31T09:12:07.511297+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.crmeth.2026.101539",
+      "venue": "Cell reports methods",
+      "title_key": "trajectoryinformedgenefeatureselectioninsinglecellanalysiswithseekvfi",
+      "identity_keys": [
+        "doi:10.1016/j.crmeth.2026.101539",
+        "title:trajectoryinformedgenefeatureselectioninsinglecellanalysiswithseekvfi"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22636",
+      "category": "ml",
+      "first_sent_at": "2026-08-31T09:12:08.425897+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "qlearningwithstableinfinitedimensionallinearfunctionapproximation",
+      "identity_keys": [
+        "arxiv:2608.22636",
+        "title:qlearningwithstableinfinitedimensionallinearfunctionapproximation"
+      ]
     }
   ]
 }
