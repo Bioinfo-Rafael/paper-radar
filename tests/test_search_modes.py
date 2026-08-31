@@ -99,14 +99,47 @@ def test_more_uses_wider_lookback_and_larger_source_limits(pipeline, today, monk
 
     assert arxiv_calls[0] == (today - timedelta(days=30), today, 350)
     assert arxiv_calls[1] == (
+        today - timedelta(days=30), today, 120
+    )
+    assert arxiv_calls[2] == (
         today - timedelta(days=365),
         today - timedelta(days=31),
         350,
     )
-    assert arxiv_calls[2] == (today - timedelta(days=30), today, 1050)
+    assert arxiv_calls[3] == (
+        today - timedelta(days=365),
+        today - timedelta(days=31),
+        120,
+    )
+    assert arxiv_calls[4] == (today - timedelta(days=30), today, 1050)
+    assert arxiv_calls[5] == (today - timedelta(days=30), today, 360)
     assert s2_calls[0][2] == 35
-    assert s2_calls[3][2] == 105
+    assert s2_calls[4][2] == 105
     assert recommendation_limits == [50, 150]
+
+
+def test_ml_has_dedicated_stat_ml_retrieval_and_deduplicates(pipeline, today, monkeypatch):
+    calls = []
+    paper = eligible_paper(101)
+    paper.arxiv_id = "2608.12345"
+
+    class FakeArxiv:
+        def __init__(self, client):
+            pass
+
+        def fetch(self, categories, start, end, limit):
+            calls.append((categories, limit))
+            return [paper]
+
+    monkeypatch.setattr("paper_radar.pipeline.ArxivSource", FakeArxiv)
+    monkeypatch.setattr(pipeline.s2, "search", lambda *args, **kwargs: [])
+    monkeypatch.setattr(pipeline.s2, "recommendations", lambda *args, **kwargs: [])
+    candidates, _ = pipeline.acquire("ml", today, mode="daily")
+    assert calls[:2] == [
+        (["cs.LG", "stat.ML", "cs.AI", "cs.CL", "cs.CV"], 350),
+        (["stat.ML"], 120),
+    ]
+    assert len([candidate for candidate in candidates if candidate.arxiv_id == "2608.12345"]) == 1
 
 
 def test_more_excludes_sent_and_consecutive_calls_return_different_papers(pipeline):

@@ -1,5 +1,6 @@
 import logging
 
+import pytest
 import requests
 
 from paper_radar.http import MAX_RETRY_SLEEP_SECONDS, HttpClient
@@ -29,3 +30,15 @@ def test_huge_retry_after_is_capped(monkeypatch, caplog):
     assert "status=429" in caplog.text
     assert "Retry-After=99999" in caplog.text
     assert "sleep=45.00s" in caplog.text
+    assert client.source_health() == {"http": "healthy"}
+
+
+def test_final_rate_limit_is_degraded(monkeypatch):
+    response = requests.Response()
+    response.status_code = 429
+    response.url = "https://api.semanticscholar.org/graph/v1/paper/search"
+    client = HttpClient(retries=0)
+    monkeypatch.setattr(client.session, "request", lambda *args, **kwargs: response)
+    with pytest.raises(requests.HTTPError):
+        client.request("GET", response.url)
+    assert client.source_health() == {"semantic_scholar": "rate_limit"}

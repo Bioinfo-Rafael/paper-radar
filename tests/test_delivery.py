@@ -1,9 +1,11 @@
 from __future__ import annotations
 
 from datetime import date
+from types import SimpleNamespace
 
 import pytest
 
+from paper_radar.cli import _deliver
 from paper_radar.delivery.discord_webhook import (
     DiscordWebhook,
     paper_embed,
@@ -11,6 +13,7 @@ from paper_radar.delivery.discord_webhook import (
     render_console,
 )
 from paper_radar.models import Rating
+from paper_radar.pipeline import RunResult
 from tests.conftest import make_paper
 
 
@@ -102,3 +105,25 @@ def test_group_header_payload(monkeypatch):
     monkeypatch.setenv("DISCORD_BIOINFO_WEBHOOK", "https://example.test/bioinfo")
     webhook.send_group_header("bioinfo", PaperGroup("🌟 Major Journals", [make_paper()]))
     assert client.calls[0][2]["json"]["content"] == "**🌟 Major Journals — 1 papers**"
+
+
+@pytest.mark.parametrize(
+    ("health", "warning"),
+    [
+        ({"semantic_scholar": "healthy"}, False),
+        ({"semantic_scholar": "rate_limit", "pubmed": "timeout"}, True),
+    ],
+)
+def test_retrieval_warning_only_for_degraded_sources(monkeypatch, health, warning):
+    webhook = DiscordWebhook(
+        FakeClient(), "Paper Radar", {"bioinfo": 1, "ml": 2, "frontier": 3}
+    )
+    monkeypatch.setenv("DISCORD_BIOINFO_WEBHOOK", "https://example.test/bioinfo")
+    messages = []
+    monkeypatch.setattr(webhook, "send_message", lambda category, content: messages.append(content))
+    pipeline = SimpleNamespace(config=SimpleNamespace(venues={}), state=SimpleNamespace())
+    result = RunResult("bioinfo", [], [], {}, source_health=health)
+    _deliver(pipeline, webhook, result, date(2026, 8, 26), False, False)
+    assert bool(messages) is warning
+    if warning:
+        assert messages == ["⚠️ Retrieval degraded: Semantic Scholar / PubMed"]

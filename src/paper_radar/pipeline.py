@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import logging
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import date, timedelta
 from typing import Any, Literal
 
@@ -35,6 +35,7 @@ class RunResult:
     selected: list[Paper]
     source_counts: dict[str, int]
     mode: Literal["daily", "more"] = "daily"
+    source_health: dict[str, str] = field(default_factory=dict)
 
 
 @dataclass(frozen=True, slots=True)
@@ -61,6 +62,7 @@ class Pipeline:
         common = config.common
         self.client = HttpClient(common["request_timeout_seconds"], common["request_retries"])
         self.s2 = SemanticScholarSource(self.client)
+        self._external_source_health: dict[str, str] = {}
         state_path = config.root / common["state"]["path"]
         self.state = StateStore(state_path, common["state"]["retention_days"])
         self.cache_path = config.root / common["state"]["candidate_cache"]
@@ -184,6 +186,12 @@ class Pipeline:
                     lane.end,
                     search.scaled_limit(limits["arxiv_total"]),
                 )
+                groups["arxiv_stat_ml"] = ArxivSource(self.client).fetch(
+                    ["stat.ML"],
+                    lane.start,
+                    lane.end,
+                    search.scaled_limit(limits["arxiv_stat_ml"]),
+                )
                 s2_queries = cfg["queries"]["semantic_scholar"]
             else:
                 s2_queries = cfg["queries"]["semantic_scholar_archive"]
@@ -198,12 +206,14 @@ class Pipeline:
         else:
             if lane.name == "fresh":
                 hf_limit = search.scaled_limit(limits["huggingface"], limits.get("huggingface_max"))
+                hf_source = HuggingFaceSource()
                 groups["huggingface"] = [
                     paper
-                    for paper in HuggingFaceSource().fetch(lane.end, hf_limit)
+                    for paper in hf_source.fetch(lane.end, hf_limit)
                     if not paper.publication_date
                     or lane.start <= paper.publication_date <= lane.end
                 ]
+                self._external_source_health["huggingface"] = hf_source.health
                 identifiers = [
                     f"ARXIV:{paper.arxiv_id}" for paper in groups["huggingface"] if paper.arxiv_id
                 ]
@@ -240,6 +250,8 @@ class Pipeline:
         focus: FocusSpec | None = None,
     ) -> tuple[list[Paper], dict[str, int]]:
         search = self.search_settings(mode)
+        self.client.reset_source_health()
+        self._external_source_health = {}
         groups: dict[str, list[Paper]] = {}
         for lane in self.retrieval_lanes(category, today):
             for source, papers in self._acquire_lane(category, lane, search, focus).items():
@@ -268,6 +280,9 @@ class Pipeline:
             groups["recommendations"] = kept
         source_counts = {name: len(values) for name, values in groups.items()}
         return deduplicate(paper for values in groups.values() for paper in values), source_counts
+
+    def source_health(self) -> dict[str, str]:
+        return self.client.source_health() | self._external_source_health
 
     def rank(
         self,
@@ -380,7 +395,12 @@ class Pipeline:
         candidates, source_counts = self.acquire(category, today, mode="daily")
         ranked = self.rank(category, candidates, today)
         return RunResult(
-            category, ranked, self.select_daily(category, ranked), source_counts, mode="daily"
+            category,
+            ranked,
+            self.select_daily(category, ranked),
+            source_counts,
+            mode="daily",
+            source_health=self.source_health(),
         )
 
     def run_more(
@@ -400,7 +420,14 @@ class Pipeline:
             candidates, source_counts = self.acquire(category, today, mode="more")
             ranked = self.rank(category, candidates, today)
         selected = self.select_more(category, ranked, count)
-        return RunResult(category, ranked, selected, source_counts, mode="more")
+        return RunResult(
+            category,
+            ranked,
+            selected,
+            source_counts,
+            mode="more",
+            source_health=self.source_health(),
+        )
 
     def select_more(self, category: str, ranked: list[Paper], count: int) -> list[Paper]:
         fresh_target, configured_target = self._retrieval_mix(category)

@@ -24,6 +24,7 @@ source_limits:
   semantic_scholar_recommendations: 50
   pubmed_per_query: 80
   arxiv_total: 350
+  arxiv_stat_ml: 120
   huggingface: 50
   huggingface_max: 100
   crossref_preprints: 200

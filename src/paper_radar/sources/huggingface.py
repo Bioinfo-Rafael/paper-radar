@@ -25,6 +25,7 @@ def _value(item: Any, *names: str, default: Any = None) -> Any:
 class HuggingFaceSource:
     def __init__(self) -> None:
         self.api = HfApi()
+        self.health = "healthy"
 
     def fetch(self, today: date, limit: int = 50) -> list[Paper]:
         iso = today.isocalendar()
@@ -34,8 +35,10 @@ class HuggingFaceSource:
                 self.api.list_daily_papers(week=week, sort="trending", limit=limit, token=False)
             )
         except Exception:
+            self.health = "request_error"
             LOGGER.exception("Hugging Face Daily Papers fetch failed")
             return []
+        self.health = "healthy"
         papers: list[Paper] = []
         for rank, item in enumerate(items, 1):
             identifier = str(_value(item, "id", "paper_id", default=""))

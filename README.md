@@ -5,7 +5,7 @@ Paper Radar is a personal research monitor whose scheduled retrieval and ranking
 ## 1. What this bot does
 
 - **Bioinfo:** prioritizes computational method development for scRNA-seq, dynamics, GRNs, perturbation, generative models, multi-omics, spatial methods, and single-cell foundation models.
-- **ML Algorithms:** prioritizes actionable changes to model design, training, formulation, understanding, diagnosis, or evaluation.
+- **ML Algorithms:** prioritizes actionable changes to model design, training, formulation, understanding, diagnosis, or evaluation. Broad arXiv retrieval is supplemented by an independent `stat.ML` query in Fresh and Backfill lanes, then deduplicated by paper identity.
 - **AI Frontier:** combines current Hugging Face Daily Papers discovery with Semantic Scholar Fresh/Backfill/top-venue Archive retrieval for Physical AI, VLA, world models, agents, self-improvement, and AI scientists.
 - Selects up to five unsent papers at or above the category's `more_min_score`, preferring Fresh and filling shortages from Backfill and top-journal Archive lanes.
 - Keeps `matched_criteria`, `penalties`, and every numeric score component for inspection with `--debug-scores`.
@@ -159,7 +159,7 @@ curl -X PUT \
   "https://discord.com/api/v10/applications/$DISCORD_APPLICATION_ID/guilds/$DISCORD_GUILD_ID/commands"
 ```
 
-This creates `/daily` and `/more` without category options. The fine-grained GitHub token needs only repository **Actions: write**; the Discord bot token is used only to register commands and is not stored in the Worker.
+This creates `/daily` and `/more` (with optional `focus`) without category options. The fine-grained GitHub token needs only repository **Actions: write**; the Discord bot token is used only to register commands and is not stored in the Worker.
 
 ## 17. `/tune` preference learning
 
@@ -172,6 +172,8 @@ Supported tuning operations cover positive/negative concepts, concept weights, m
 Set `GROQ_API_KEY` as a GitHub Actions repository secret. It is used only by `tune.yml`; it is not required by the Cloudflare Worker and must not be placed in YAML or source files. The production model is `openai/gpt-oss-20b` with strict JSON Schema output.
 
 The command resolves references from the recent candidate cache by URL or distinctive title terms. For arXiv, bioRxiv, DOI, and Semantic Scholar URLs not found in the cache, it reuses Semantic Scholar metadata retrieval before the Groq call. Explicitly stated reasons take precedence over inferred paper characteristics in the tuning prompt.
+
+Each run prints a compact `Source health` summary in addition to per-source candidate counts. A source is marked degraded only when all of its final attempts fail (for example `rate_limit`, `timeout`, or `request_error`); a retry that eventually succeeds remains healthy. When a category has degraded sources, its Discord channel receives one compact `⚠️ Retrieval degraded: ...` message. A zero-result run alone does not trigger this warning.
 
 ## 18. Experimental extensions
 

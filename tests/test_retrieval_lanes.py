@@ -159,6 +159,16 @@ def test_frontier_tuned_archive_can_extend_to_1095_days(config, today, monkeypat
     assert (today - lanes[-1].start).days == 1095
 
 
+def test_new_venue_tiers_are_configured(config):
+    assert "Nature Computational Science" in config.venues["bioinfo"]["tier_s"]
+    assert "Nucleic Acids Research" in config.venues["bioinfo"]["tier_a"]
+    assert "COLT" in config.venues["ml"]["top"]
+    assert "UAI" in config.venues["ml"]["top"]
+    assert "AAMAS" in config.venues["frontier"]["top"]
+    assert "IEEE Transactions on Robotics" in config.venues["frontier"]["top"]
+    assert "AAAI" in config.venues["frontier"]["strong"]
+
+
 def test_selection_reserves_space_for_important_history(config, tmp_path, monkeypatch):
     monkeypatch.setitem(config.common["state"], "path", str(tmp_path / "sent.json"))
     pipeline = Pipeline(config)

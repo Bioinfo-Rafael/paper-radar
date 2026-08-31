@@ -70,12 +70,31 @@ def _deliver(
         render_console(result.category, run_date, result.selected, mode=result.mode, groups=groups)
     )
     print(f"Sources: {json.dumps(result.source_counts, sort_keys=True)}")
+    print(f"Source health: {json.dumps(result.source_health, sort_keys=True)}")
     if debug_scores:
         for paper in result.candidates:
             print(json.dumps(debug_score(paper), ensure_ascii=False, sort_keys=True))
     if dry_run:
         return
     webhook.send_header(result.category, run_date, result.selected, mode=result.mode)
+    degraded = [name for name, status in result.source_health.items() if status != "healthy"]
+    if degraded:
+        labels = {
+            "semantic_scholar": "Semantic Scholar",
+            "huggingface": "Hugging Face",
+            "crossref": "Crossref",
+            "biorxiv": "bioRxiv",
+            "pubmed": "PubMed",
+            "arxiv": "arXiv",
+        }
+        try:
+            webhook.send_message(
+                result.category,
+                "⚠️ Retrieval degraded: "
+                + " / ".join(labels.get(name, name) for name in degraded),
+            )
+        except Exception:
+            LOGGER.exception("Could not send retrieval health warning to Discord")
     for group in groups:
         webhook.send_group_header(result.category, group)
         for paper in group.papers:
