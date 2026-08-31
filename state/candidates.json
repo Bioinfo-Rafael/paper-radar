@@ -781,6 +781,59 @@
         "published_doi": null
       },
       {
+        "title": "Beyond Viral Load: A Mechanistic Model of Virus-Immune Dynamics and Age-Dependent Influenza Severity",
+        "paper_url": "https://doi.org/10.64898/2026.03.26.714633",
+        "source": "biorxiv",
+        "canonical_id": "biorxiv:10.64898/2026.03.26.714633",
+        "abstract": "Influenza infection results from tightly coupled interactions between viral replication, host immune responses, and the emergence of clinical symptoms. While mathematical models have extensively characterized viral and immune dynamics, the mechanistic link between immune activity and disease severity remains poorly understood. Here, we develop an integrative, within-host modeling framework that explicitly connects infection dynamics, immune responses, and symptom manifestation through a unified dynamical system. Using murine influenza data, we incorporate key immune components alongside a mechanistic representation of symptom progression, quantified via host weight loss.Our analysis identifies inflammatory signaling, particularly TNF- mediated pathways, as a central driver linking immune activity to symptom severity. Importantly, we demonstrate that age-dependent alterations in immune regulation reshape this coupling: aged hosts exhibit prolonged inflammatory responses that amplify and sustain symptom burden despite comparable viral kinetics. These results highlight that disease severity cannot be inferred from viral load alone, but instead emerges from the dynamical interplay between immune regulation and host physiology. This framework provides a quantitative basis for understanding age-specific morbidity and offers a foundation for designing interventions that target immune-mediated pathology rather than viral replication alone.",
+        "publication_date": "2026-08-31",
+        "year": 2026,
+        "venue": "bioRxiv",
+        "publication_type": "Preprint",
+        "doi": null,
+        "arxiv_id": null,
+        "biorxiv_doi": "10.64898/2026.03.26.714633",
+        "semantic_scholar_id": null,
+        "categories": [
+          "systems biology"
+        ],
+        "citation_count": null,
+        "influential_citation_count": null,
+        "hf_rank": null,
+        "recommendation_rank": null,
+        "matched_criteria": [
+          "mathematical-dynamics",
+          "method-development",
+          "process",
+          "stochastic-dynamics",
+          "preprint"
+        ],
+        "penalties": [],
+        "score_components": {
+          "domain_relevance": 1.5,
+          "method_signal": 1.1,
+          "formulation_signal": 1.8,
+          "scientific_value": 1.0,
+          "application_penalty": 0.0,
+          "low_priority_penalty": -0.0,
+          "venue_prior": 0.0,
+          "recency": 0.8,
+          "seed_bonus": 0.0,
+          "tuned_signal:method": -0.5,
+          "tuned_signal:formulation": -0.3
+        },
+        "score": 5.4,
+        "importance_score": 4.6,
+        "freshness_bonus": 0.8,
+        "discovery_bonus": 0,
+        "focus_bonus": 0,
+        "retrieval_lane": "fresh",
+        "rating": "★★★☆☆ Candidate",
+        "excluded": false,
+        "preprint_doi": "10.64898/2026.03.26.714633",
+        "published_doi": null
+      },
+      {
         "title": "scDAU: a disentangled representation learning method for cross-modal translation in single-cell multi-omics data.",
         "paper_url": "https://pubmed.ncbi.nlm.nih.gov/42605072/",
         "source": "pubmed",
@@ -2944,17 +2997,17 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 32,
+        "hf_rank": 36,
         "recommendation_rank": null,
         "matched_criteria": [
           "vla",
           "agent-capability",
           "reasoning",
-          "HF Trending #32"
+          "HF Trending #36"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.441,
+          "hf_trending": 0.343,
           "core_topic": 4.0,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -2962,10 +3015,10 @@
           "venue_prior": 0.0,
           "recency": 0.667
         },
-        "score": 6.108,
+        "score": 6.01,
         "importance_score": 5.0,
         "freshness_bonus": 0.667,
-        "discovery_bonus": 0.441,
+        "discovery_bonus": 0.343,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★★☆ Strong",
@@ -3035,16 +3088,16 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 1,
+        "hf_rank": 2,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "reasoning",
-          "HF Trending #1"
+          "HF Trending #2"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 1.2,
+          "hf_trending": 1.176,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -3052,10 +3105,10 @@
           "venue_prior": 0.0,
           "recency": 0.24
         },
-        "score": 4.64,
+        "score": 4.616,
         "importance_score": 3.2,
         "freshness_bonus": 0.24,
-        "discovery_bonus": 1.2,
+        "discovery_bonus": 1.176,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",
@@ -3080,16 +3133,16 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 27,
+        "hf_rank": 28,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "foundation-model",
-          "HF Trending #27"
+          "HF Trending #28"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.563,
+          "hf_trending": 0.539,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -3097,10 +3150,10 @@
           "venue_prior": 0.0,
           "recency": 0.667
         },
-        "score": 4.43,
+        "score": 4.406,
         "importance_score": 3.2,
         "freshness_bonus": 0.667,
-        "discovery_bonus": 0.563,
+        "discovery_bonus": 0.539,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",
@@ -3125,16 +3178,16 @@
         "categories": [],
         "citation_count": null,
         "influential_citation_count": null,
-        "hf_rank": 44,
+        "hf_rank": 43,
         "recommendation_rank": null,
         "matched_criteria": [
           "agent-capability",
           "reasoning",
-          "HF Trending #44"
+          "HF Trending #43"
         ],
         "penalties": [],
         "score_components": {
-          "hf_trending": 0.147,
+          "hf_trending": 0.171,
           "core_topic": 2.2,
           "secondary_topic": 1.0,
           "qualitative_progress": 0.0,
@@ -3142,10 +3195,10 @@
           "venue_prior": 0.0,
           "recency": 0.053
         },
-        "score": 3.4,
+        "score": 3.424,
         "importance_score": 3.2,
         "freshness_bonus": 0.053,
-        "discovery_bonus": 0.147,
+        "discovery_bonus": 0.171,
         "focus_bonus": 0,
         "retrieval_lane": "fresh",
         "rating": "★★★☆☆ Candidate",

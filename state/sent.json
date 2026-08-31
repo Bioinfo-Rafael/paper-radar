@@ -1950,6 +1950,20 @@
         "arxiv:2608.22636",
         "title:qlearningwithstableinfinitedimensionallinearfunctionapproximation"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.03.26.714633",
+      "category": "bioinfo",
+      "first_sent_at": "2026-08-31T12:11:07.337419+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.03.26.714633",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "beyondviralloadamechanisticmodelofvirusimmunedynamicsandagedependentinfluenzaseverity",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.03.26.714633",
+        "title:beyondviralloadamechanisticmodelofvirusimmunedynamicsandagedependentinfluenzaseverity"
+      ]
     }
   ]
 }
