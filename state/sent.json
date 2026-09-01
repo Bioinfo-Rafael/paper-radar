@@ -2342,6 +2342,221 @@
         "doi:10.1126/science.ael2482",
         "title:ademocracytaxinsupportofscience"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1013194",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T08:17:51.971686+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pcbi.1013194",
+      "venue": null,
+      "title_key": "learninggeneticperturbationeffectswithvariationalcausalinference",
+      "identity_keys": [
+        "doi:10.1371/journal.pcbi.1013194",
+        "pubmed:41628222",
+        "title:learninggeneticperturbationeffectswithvariationalcausalinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cell.2026.04.022",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T08:17:52.128216+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cell.2026.04.022",
+      "venue": null,
+      "title_key": "regvelogeneregulatoryinformeddynamicsofsinglecells",
+      "identity_keys": [
+        "doi:10.1016/j.cell.2026.04.022",
+        "pubmed:42119563",
+        "title:regvelogeneregulatoryinformeddynamicsofsinglecells"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1073/pnas.2525268122",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T08:17:52.367088+00:00",
+      "publication_status": "published",
+      "preprint_doi": "10.1101/2025.09.12.675662",
+      "published_doi": "10.1073/pnas.2525268122",
+      "venue": "bioRxiv",
+      "title_key": "predictingtheunseenadiffusionbaseddebiasingframeworkfortranscriptionalresponsepredictionatsinglecellresolution",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.12.675662",
+        "doi:10.1073/pnas.2525268122",
+        "openalex:w4414375986",
+        "pubmed:41452988",
+        "title:predictingtheunseenadiffusionbaseddebiasingframeworkfortranscriptionalresponsepredictionatsinglecellresolution"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag143",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T08:17:53.641463+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag143",
+      "venue": null,
+      "title_key": "autogernsinglecellrnaseqgeneregulatorynetworkinferenceviaexplicitlinkmodelingandadaptivearchitectures",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag143",
+        "pubmed:41871930",
+        "title:autogernsinglecellrnaseqgeneregulatorynetworkinferenceviaexplicitlinkmodelingandadaptivearchitectures"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.06.08.730880",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T08:17:53.827345+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.06.08.730880",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "tmoasymmetriccrossmodalattentionforlearningcellstatedependentregulatorylagsfromsinglecellmultiomicdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.06.08.730880",
+        "doi:10.64898/2026.06.08.730880",
+        "title:tmoasymmetriccrossmodalattentionforlearningcellstatedependentregulatorylagsfromsinglecellmultiomicdata"
+      ]
+    },
+    {
+      "canonical_id": "title:modelingtemporaldataascontinuousfunctionswithstochasticprocessdiffusion",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T08:17:54.379654+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICML",
+      "title_key": "modelingtemporaldataascontinuousfunctionswithstochasticprocessdiffusion",
+      "identity_keys": [
+        "title:modelingtemporaldataascontinuousfunctionswithstochasticprocessdiffusion"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1137/23m161077x",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T08:17:54.633412+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/23m161077x",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "generativemodelingoflvyareaforhighordersdesimulation",
+      "identity_keys": [
+        "doi:10.1137/23m161077x",
+        "title:generativemodelingoflvyareaforhighordersdesimulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29107",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T08:17:55.089394+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pathguidedynamicclassifierfreeguidanceviaonpolicytransportalignment",
+      "identity_keys": [
+        "arxiv:2608.29107",
+        "title:pathguidedynamicclassifierfreeguidanceviaonpolicytransportalignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.31133",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T08:17:55.306730+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "implementingneuralnetworkmixedeffectsmodelsintemplatemodelbuildertmb",
+      "identity_keys": [
+        "arxiv:2608.31133",
+        "title:implementingneuralnetworkmixedeffectsmodelsintemplatemodelbuildertmb"
+      ]
+    },
+    {
+      "canonical_id": "title:samoperatesfarfromhomeeigenvalueregularizationasadynamicalphenomenon",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T08:18:40.521164+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICML",
+      "title_key": "samoperatesfarfromhomeeigenvalueregularizationasadynamicalphenomenon",
+      "identity_keys": [
+        "title:samoperatesfarfromhomeeigenvalueregularizationasadynamicalphenomenon"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.31028",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T08:18:41.179877+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningthegeometryofadmissiblehypothesesthroughinductivebiasintrainingdistributions",
+      "identity_keys": [
+        "arxiv:2608.31028",
+        "title:learningthegeometryofadmissiblehypothesesthroughinductivebiasintrainingdistributions"
+      ]
+    },
+    {
+      "canonical_id": "title:discoveryworldavirtualenvironmentfordevelopingandevaluatingautomatedscientificdiscoveryagents",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T08:18:41.498491+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "discoveryworldavirtualenvironmentfordevelopingandevaluatingautomatedscientificdiscoveryagents",
+      "identity_keys": [
+        "title:discoveryworldavirtualenvironmentfordevelopingandevaluatingautomatedscientificdiscoveryagents"
+      ]
+    },
+    {
+      "canonical_id": "title:selfimprovingrobotpolicywithcompositionalworldmodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T08:18:41.819426+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "selfimprovingrobotpolicywithcompositionalworldmodel",
+      "identity_keys": [
+        "title:selfimprovingrobotpolicywithcompositionalworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.22099965",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T08:18:41.974122+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.22099965",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "luigiusaiselfimprovingaiagentkissmyass",
+      "identity_keys": [
+        "doi:10.5281/zenodo.22099965",
+        "openalex:w7204168462",
+        "title:luigiusaiselfimprovingaiagentkissmyass"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.jmsy.2026.04.002",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T08:18:42.290380+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.jmsy.2026.04.002",
+      "venue": "Journal of Manufacturing Systems",
+      "title_key": "hybridagenticaiandmultiagentsystemsinsmartmanufacturing",
+      "identity_keys": [
+        "doi:10.1016/j.jmsy.2026.04.002",
+        "openalex:w7150912933",
+        "title:hybridagenticaiandmultiagentsystemsinsmartmanufacturing"
+      ]
     }
   ]
 }
