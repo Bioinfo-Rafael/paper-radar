@@ -2122,6 +2122,226 @@
         "pubmed:41186507",
         "title:integratedmultiomicsandcausalinferenceframeworkwithexperimentalvalidationrevealskeydriversofairpollutioninducedacutekidneyinjury"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-025-03780-7",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T04:26:02.657104+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-025-03780-7",
+      "venue": "Genome Biology",
+      "title_key": "kegniknowledgegraphenhancedframeworkforgeneregulatorynetworkinference",
+      "identity_keys": [
+        "doi:10.1186/s13059-025-03780-7",
+        "title:kegniknowledgegraphenhancedframeworkforgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cell.2026.07.052",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T04:26:02.830101+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cell.2026.07.052",
+      "venue": "Cell",
+      "title_key": "predictingcellularresponsestoperturbationacrossdiversecontextswithstate",
+      "identity_keys": [
+        "doi:10.1016/j.cell.2026.07.052",
+        "pubmed:42673963",
+        "title:predictingcellularresponsestoperturbationacrossdiversecontextswithstate"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-024-08453-2",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T04:26:03.034227+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-024-08453-2",
+      "venue": "Nature",
+      "title_key": "mappingcellsthroughtimeandspacewithmoscot",
+      "identity_keys": [
+        "doi:10.1038/s41586-024-08453-2",
+        "openalex:w4406715779",
+        "pubmed:39843746",
+        "title:mappingcellsthroughtimeandspacewithmoscot"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-63921-1",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T04:26:03.286268+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-63921-1",
+      "venue": "Nature Communications",
+      "title_key": "halohierarchicalcausalmodelingforsinglecellmultiomicsdata",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-63921-1",
+        "openalex:w4414891545",
+        "pubmed:41057364",
+        "title:halohierarchicalcausalmodelingforsinglecellmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.279997.124",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T04:26:03.429716+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.279997.124",
+      "venue": "Genome Research",
+      "title_key": "multiconditionandmultimodaltemporalprofileinferenceduringmouseembryonicdevelopment",
+      "identity_keys": [
+        "doi:10.1101/gr.279997.124",
+        "title:multiconditionandmultimodaltemporalprofileinferenceduringmouseembryonicdevelopment"
+      ]
+    },
+    {
+      "canonical_id": "title:uniguidelearningguidancepoliciesformultiobjectivediffusionsampling",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T04:26:04.911025+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ReALM-GEN 2026 - ICLR 2026 Workshop",
+      "title_key": "uniguidelearningguidancepoliciesformultiobjectivediffusionsampling",
+      "identity_keys": [
+        "title:uniguidelearningguidancepoliciesformultiobjectivediffusionsampling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tifs.2026.3654380",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T04:26:05.078940+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tifs.2026.3654380",
+      "venue": "IEEE Transactions on Information Forensics and Security",
+      "title_key": "apegadaptivephysicallayerauthenticationwithchannelextrapolationandgenerativeai",
+      "identity_keys": [
+        "doi:10.1109/tifs.2026.3654380",
+        "openalex:w7124425475",
+        "title:apegadaptivephysicallayerauthenticationwithchannelextrapolationandgenerativeai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.30695",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T04:26:05.417336+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liquidgatedattention",
+      "identity_keys": [
+        "arxiv:2608.30695",
+        "title:liquidgatedattention"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.30553",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T04:26:05.619213+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "preferenceshapesrelevancecrosscomponenthierarchicalsemanticalignmentforpersonalizedgenerativeretrieval",
+      "identity_keys": [
+        "arxiv:2608.30553",
+        "title:preferenceshapesrelevancecrosscomponenthierarchicalsemanticalignmentforpersonalizedgenerativeretrieval"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.30726",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T04:26:06.573536+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multimodaladaptiveexpertselectionwithtextroutingandordinalprototypeoptimizationforsentimentanalysis",
+      "identity_keys": [
+        "arxiv:2608.30726",
+        "title:multimodaladaptiveexpertselectionwithtextroutingandordinalprototypeoptimizationforsentimentanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-10265-5",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T04:26:08.093556+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-10265-5",
+      "venue": "Nature",
+      "title_key": "towardsendtoendautomationofairesearch",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-10265-5",
+        "openalex:w7140287209",
+        "pubmed:41882133",
+        "title:towardsendtoendautomationofairesearch"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.20517/aiagent.2025.04",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T04:26:08.281613+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.20517/aiagent.2025.04",
+      "venue": "AI Agent",
+      "title_key": "knowledgeextractoraselfevolvingscientificframeworkforhydrogenenergyresearchdrivenbyaiagents",
+      "identity_keys": [
+        "doi:10.20517/aiagent.2025.04",
+        "openalex:w7118920140",
+        "title:knowledgeextractoraselfevolvingscientificframeworkforhydrogenenergyresearchdrivenbyaiagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.65649/ukh4n33x",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T04:26:08.566909+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.65649/ukh4n33x",
+      "venue": "Longevity Horizon",
+      "title_key": "anewparadigmagenticaiforscientificdiscovery",
+      "identity_keys": [
+        "doi:10.65649/ukh4n33x",
+        "openalex:w7172222066",
+        "title:anewparadigmagenticaiforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/access.2026.3698694",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T04:26:08.762362+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/access.2026.3698694",
+      "venue": "IEEE Access",
+      "title_key": "fromllmreasoningtoautonomousaiagentsacomprehensivereview",
+      "identity_keys": [
+        "doi:10.1109/access.2026.3698694",
+        "openalex:w4416982487",
+        "title:fromllmreasoningtoautonomousaiagentsacomprehensivereview"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.ael2482",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T04:26:09.005162+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.ael2482",
+      "venue": "Science",
+      "title_key": "ademocracytaxinsupportofscience",
+      "identity_keys": [
+        "doi:10.1126/science.ael2482",
+        "title:ademocracytaxinsupportofscience"
+      ]
     }
   ]
 }
