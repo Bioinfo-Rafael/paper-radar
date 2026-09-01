@@ -2048,6 +2048,80 @@
         "arxiv:2608.28476",
         "title:contextpilotteachingagentsforproactivecontextmanagementviafinegrainedrl"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s43588-026-00998-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T03:28:57.093077+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s43588-026-00998-8",
+      "venue": "Nature Computational Science",
+      "title_key": "flowrflowmatchingforstructureawaredenovointeractionandfragmentbasedligandgeneration",
+      "identity_keys": [
+        "doi:10.1038/s43588-026-00998-8",
+        "title:flowrflowmatchingforstructureawaredenovointeractionandfragmentbasedligandgeneration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-026-04104-z",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T03:28:57.234796+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-026-04104-z",
+      "venue": "Genome Biology",
+      "title_key": "scarchonascalablebenchmarkingframeworkforassessingsinglecellperturbationmodels",
+      "identity_keys": [
+        "doi:10.1186/s13059-026-04104-z",
+        "title:scarchonascalablebenchmarkingframeworkforassessingsinglecellperturbationmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioadv/vbaf314",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T03:28:57.497523+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioadv/vbaf314",
+      "venue": null,
+      "title_key": "scotacomprehensivesoftwaresuiteforsinglecellalignmentusingoptimaltransport",
+      "identity_keys": [
+        "doi:10.1093/bioadv/vbaf314",
+        "pubmed:42180428",
+        "title:scotacomprehensivesoftwaresuiteforsinglecellalignmentusingoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag324",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T03:28:57.623807+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag324",
+      "venue": null,
+      "title_key": "cespgrninferringcellspecificgeneregulatorynetworksfromsinglecellmultiomicsandspatialdata",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag324",
+        "pubmed:42225598",
+        "title:cespgrninferringcellspecificgeneregulatorynetworksfromsinglecellmultiomicsandspatialdata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1097/js9.0000000000003742",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T03:29:42.827558+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1097/js9.0000000000003742",
+      "venue": "International Journal of Surgery",
+      "title_key": "integratedmultiomicsandcausalinferenceframeworkwithexperimentalvalidationrevealskeydriversofairpollutioninducedacutekidneyinjury",
+      "identity_keys": [
+        "doi:10.1097/js9.0000000000003742",
+        "openalex:w4415879792",
+        "pubmed:41186507",
+        "title:integratedmultiomicsandcausalinferenceframeworkwithexperimentalvalidationrevealskeydriversofairpollutioninducedacutekidneyinjury"
+      ]
     }
   ]
 }
