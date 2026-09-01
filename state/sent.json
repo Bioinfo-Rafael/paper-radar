@@ -2034,6 +2034,20 @@
         "arxiv:2608.14665",
         "title:whendoesthebestsamplingtemperaturerisewiththebudgetsufficientconditionsforpassk"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28476",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T00:17:59.690026+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "contextpilotteachingagentsforproactivecontextmanagementviafinegrainedrl",
+      "identity_keys": [
+        "arxiv:2608.28476",
+        "title:contextpilotteachingagentsforproactivecontextmanagementviafinegrainedrl"
+      ]
     }
   ]
 }
