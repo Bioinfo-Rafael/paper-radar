@@ -2557,6 +2557,219 @@
         "openalex:w7150912933",
         "title:hybridagenticaiandmultiagentsystemsinsmartmanufacturing"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00964-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T10:49:44.249406+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00964-x",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "causalchambersasarealworldphysicaltestbedforaimethodology",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00964-x",
+        "title:causalchambersasarealworldphysicaltestbedforaimethodology"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01235-7",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T10:49:44.420778+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01235-7",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "platonicrepresentationoffoundationmachinelearninginteratomicpotentials",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01235-7",
+        "title:platonicrepresentationoffoundationmachinelearninginteratomicpotentials"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.20935/acadmolbiogen8483",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T10:49:44.816710+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.20935/acadmolbiogen8483",
+      "venue": "Academia molecular biology and genomics.",
+      "title_key": "amultilayerframeworkforcomputationalcancerepigenomics",
+      "identity_keys": [
+        "doi:10.20935/acadmolbiogen8483",
+        "openalex:w7204594408",
+        "title:amultilayerframeworkforcomputationalcancerepigenomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.25772/wnck-g578",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T10:49:45.012721+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.25772/wnck-g578",
+      "venue": "VCU Scholars Compass (Virginia Commonwealth University)",
+      "title_key": "adaptiveframeworkforintegratingregulatorypathwaysandcellularsignalinginsinglecellbiology",
+      "identity_keys": [
+        "doi:10.25772/wnck-g578",
+        "openalex:w7161098252",
+        "title:adaptiveframeworkforintegratingregulatorypathwaysandcellularsignalinginsinglecellbiology"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.alit.2025.08.005",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T10:49:45.152555+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.alit.2025.08.005",
+      "venue": "Allergology International",
+      "title_key": "rnavelocityandbeyondcurrentadvancesinmodelingsinglecelltranscriptionaldynamics",
+      "identity_keys": [
+        "doi:10.1016/j.alit.2025.08.005",
+        "openalex:w4414380203",
+        "pubmed:40973591",
+        "title:rnavelocityandbeyondcurrentadvancesinmodelingsinglecelltranscriptionaldynamics"
+      ]
+    },
+    {
+      "canonical_id": "title:aversatilediffusiontransformerwithmixtureofnoiselevelsforaudiovisualgeneration",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T10:49:45.565642+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "aversatilediffusiontransformerwithmixtureofnoiselevelsforaudiovisualgeneration",
+      "identity_keys": [
+        "title:aversatilediffusiontransformerwithmixtureofnoiselevelsforaudiovisualgeneration"
+      ]
+    },
+    {
+      "canonical_id": "title:diffusionmodelsdemandcontrastiveguidanceforadversarialpurificationtoadvance",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T10:49:45.847493+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICML",
+      "title_key": "diffusionmodelsdemandcontrastiveguidanceforadversarialpurificationtoadvance",
+      "identity_keys": [
+        "title:diffusionmodelsdemandcontrastiveguidanceforadversarialpurificationtoadvance"
+      ]
+    },
+    {
+      "canonical_id": "title:concentrateattentiontowardsdomaingeneralizablepromptoptimizationforlanguagemodels",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T10:49:46.226459+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "concentrateattentiontowardsdomaingeneralizablepromptoptimizationforlanguagemodels",
+      "identity_keys": [
+        "title:concentrateattentiontowardsdomaingeneralizablepromptoptimizationforlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1137/25m1733409",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T10:49:46.510601+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/25m1733409",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "gradientisallyouneedhowconsensusbasedoptimizationcanbeinterpretedasastochasticrelaxationofgradientdescent",
+      "identity_keys": [
+        "doi:10.1137/25m1733409",
+        "title:gradientisallyouneedhowconsensusbasedoptimizationcanbeinterpretedasastochasticrelaxationofgradientdescent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.30040",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T10:50:31.876418+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adeeplatentvariableframeworkforjointlymodelingmissingnessmeasurementerrorandheterogeneity",
+      "identity_keys": [
+        "arxiv:2608.30040",
+        "title:adeeplatentvariableframeworkforjointlymodelingmissingnessmeasurementerrorandheterogeneity"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.08.16.745122",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T10:50:32.265395+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.08.16.745122",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "title_key": "apersistentfleetofaiscientistsexhibitscooperativeandautopoieticbehavior",
+      "identity_keys": [
+        "doi:10.64898/2026.08.16.745122",
+        "openalex:w7203771330",
+        "title:apersistentfleetofaiscientistsexhibitscooperativeandautopoieticbehavior"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.167",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T10:50:32.405374+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.167",
+      "venue": "ACL",
+      "title_key": "retrievetoexplainevidencedrivenpredictionsforexplainabledrugtargetidentification",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.167",
+        "title:retrievetoexplainevidencedrivenpredictionsforexplainabledrugtargetidentification"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3716133",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T10:50:32.887806+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3716133",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "embodiedtreeofthoughtsdeliberatemanipulationplanningwithembodiedworldmodel",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3716133",
+        "title:embodiedtreeofthoughtsdeliberatemanipulationplanningwithembodiedworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.29600",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T10:51:18.228485+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hamvlnharnessinghierarchicalagenticmemoryforzeroshotvisionandlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2607.29600",
+        "title:hamvlnharnessinghierarchicalagenticmemoryforzeroshotvisionandlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2608.13900",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T10:51:18.584411+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2608.13900",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "agentictransactiontowardsacidcompliantagentsystems",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2608.13900",
+        "openalex:w7203634968",
+        "title:agentictransactiontowardsacidcompliantagentsystems"
+      ]
     }
   ]
 }
