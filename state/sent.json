@@ -2770,6 +2770,214 @@
         "openalex:w7203634968",
         "title:agentictransactiontowardsacidcompliantagentsystems"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2024.09.003",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T14:15:13.721992+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2024.09.003",
+      "venue": "Cell Systems",
+      "title_key": "automatedsinglecellomicsendtoendframeworkwithdatadrivenbatchinference",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2024.09.003",
+        "title:automatedsinglecellomicsendtoendframeworkwithdatadrivenbatchinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-66272-z",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T14:15:13.891616+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-66272-z",
+      "venue": "Nature Communications",
+      "title_key": "fastcccapermutationfreeframeworkforscalablerobustandreferencebasedcellcellcommunicationanalysisinsinglecelltranscriptomicsstudies",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-66272-z",
+        "openalex:w4417298734",
+        "pubmed:41390348",
+        "title:fastcccapermutationfreeframeworkforscalablerobustandreferencebasedcellcellcommunicationanalysisinsinglecelltranscriptomicsstudies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01052-4",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T14:15:14.027915+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01052-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "integratingmultimodalcancerdatausingdeeplatentvariablepathmodelling",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01052-4",
+        "title:integratingmultimodalcancerdatausingdeeplatentvariablepathmodelling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13040-026-00582-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T14:15:14.263981+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13040-026-00582-w",
+      "venue": null,
+      "title_key": "cliftigptprivacypreservingfederatedfinetuningandtransferableinferenceoffoundationmodelsonclinicalsinglecelldata",
+      "identity_keys": [
+        "doi:10.1186/s13040-026-00582-w",
+        "pubmed:42557585",
+        "title:cliftigptprivacypreservingfederatedfinetuningandtransferableinferenceoffoundationmodelsonclinicalsinglecelldata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s12874-026-02849-6",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T14:15:14.523861+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s12874-026-02849-6",
+      "venue": null,
+      "title_key": "thecartesiangaussianadditivenoisemodelfordirectednetworkinferenceinomicsdata",
+      "identity_keys": [
+        "doi:10.1186/s12874-026-02849-6",
+        "pubmed:42021132",
+        "title:thecartesiangaussianadditivenoisemodelfordirectednetworkinferenceinomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "title:difuscographbaseddiffusionsolversforcombinatorialoptimization",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T14:15:15.138457+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "difuscographbaseddiffusionsolversforcombinatorialoptimization",
+      "identity_keys": [
+        "title:difuscographbaseddiffusionsolversforcombinatorialoptimization"
+      ]
+    },
+    {
+      "canonical_id": "title:ditfastattnattentioncompressionfordiffusiontransformermodels",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T14:15:15.284181+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "ditfastattnattentioncompressionfordiffusiontransformermodels",
+      "identity_keys": [
+        "title:ditfastattnattentioncompressionfordiffusiontransformermodels"
+      ]
+    },
+    {
+      "canonical_id": "title:graphdiffusionpolicyoptimization",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T14:15:15.469813+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "graphdiffusionpolicyoptimization",
+      "identity_keys": [
+        "title:graphdiffusionpolicyoptimization"
+      ]
+    },
+    {
+      "canonical_id": "title:linguisticbindingindiffusionmodelsenhancingattributecorrespondencethroughattentionmapalignment",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T14:15:15.658935+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "linguisticbindingindiffusionmodelsenhancingattributecorrespondencethroughattentionmapalignment",
+      "identity_keys": [
+        "title:linguisticbindingindiffusionmodelsenhancingattributecorrespondencethroughattentionmapalignment"
+      ]
+    },
+    {
+      "canonical_id": "title:geomformerageneralarchitectureforgeometricmolecularrepresentationlearning",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T14:15:15.949588+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICML",
+      "title_key": "geomformerageneralarchitectureforgeometricmolecularrepresentationlearning",
+      "identity_keys": [
+        "title:geomformerageneralarchitectureforgeometricmolecularrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aed1152",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T14:15:16.573506+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aed1152",
+      "venue": "Science Robotics",
+      "title_key": "learningvisiondrivenreactivesoccerskillsforhumanoidrobots",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aed1152",
+        "title:learningvisiondrivenreactivesoccerskillsforhumanoidrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2607.29596",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T14:15:16.788705+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fibvlaanefficienttemporalvisionlanguageactionmodelwithfibonaccisampling",
+      "identity_keys": [
+        "arxiv:2607.29596",
+        "title:fibvlaanefficienttemporalvisionlanguageactionmodelwithfibonaccisampling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aed4592",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T14:15:17.897737+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aed4592",
+      "venue": "Science Robotics",
+      "title_key": "sonicsupersizingmotiontrackingfornaturalhumanoidwholebodycontrol",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aed4592",
+        "title:sonicsupersizingmotiontrackingfornaturalhumanoidwholebodycontrol"
+      ]
+    },
+    {
+      "canonical_id": "title:recurrentdepthvlaimplicittesttimecomputescalingofvisionlanguageactionmodelsvialatentiterativereasoning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T14:15:18.160082+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ES-Reasoning @ ICLR 2026",
+      "title_key": "recurrentdepthvlaimplicittesttimecomputescalingofvisionlanguageactionmodelsvialatentiterativereasoning",
+      "identity_keys": [
+        "title:recurrentdepthvlaimplicittesttimecomputescalingofvisionlanguageactionmodelsvialatentiterativereasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01149-w",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T14:15:18.635143+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01149-w",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "actorcriticnetworkswithanaloguememristorsmimickingrewardbasedlearning",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01149-w",
+        "title:actorcriticnetworkswithanaloguememristorsmimickingrewardbasedlearning"
+      ]
     }
   ]
 }
