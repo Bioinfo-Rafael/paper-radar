@@ -13,6 +13,13 @@ LOGGER = logging.getLogger(__name__)
 BASE_URL = "https://api.biorxiv.org"
 
 
+def _split_authors(value: str | None) -> list[str]:
+    if not value:
+        return []
+    separator = ";" if ";" in value else ","
+    return [name.strip() for name in value.split(separator) if name.strip()]
+
+
 class BiorxivSource:
     def __init__(self, client: HttpClient) -> None:
         self.client = client
@@ -82,6 +89,7 @@ class BiorxivSource:
                         doi=None,
                         biorxiv_doi=doi,
                         preprint_doi=doi,
+                        authors=_split_authors(item.get("authors")),
                         paper_url=f"https://doi.org/{doi}",
                         source="biorxiv",
                         categories=[item.get("category")] if item.get("category") else [],
@@ -112,6 +120,7 @@ class BiorxivSource:
                         biorxiv_doi=preprint_doi,
                         preprint_doi=preprint_doi,
                         published_doi=published_doi,
+                        authors=_split_authors(item.get("preprint_authors")),
                         paper_url=f"https://doi.org/{published_doi}",
                         source="biorxiv_publication",
                         categories=[item.get("preprint_category")]

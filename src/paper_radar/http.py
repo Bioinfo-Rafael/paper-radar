@@ -53,16 +53,43 @@ class HttpClient:
 
     def source_health(self) -> dict[str, str]:
         names = set(self._source_successes) | set(self._source_failures)
-        return {
-            name: "healthy" if self._source_successes.get(name, 0) else self._source_failures[name]
-            for name in sorted(names)
-        }
+        fine: dict[str, str] = {}
+        for name in sorted(names):
+            has_success = self._source_successes.get(name, 0) > 0
+            has_failure = name in self._source_failures
+            if has_success and has_failure:
+                # Even the same operation succeeding on one call (e.g. one
+                # lane) and failing on another must not report healthy: a
+                # partial failure within a single tracked key is degraded,
+                # never silently overwritten by an unrelated success.
+                fine[name] = "degraded"
+            elif has_success:
+                fine[name] = "healthy"
+            else:
+                fine[name] = self._source_failures[name]
+        rollups: dict[str, set[str]] = {}
+        for name, status in fine.items():
+            base = name.split(".", 1)[0]
+            rollups.setdefault(base, set()).add(status)
+        result = dict(fine)
+        for base, statuses in rollups.items():
+            if statuses == {"healthy"}:
+                result[base] = "healthy"
+            elif len(statuses) == 1:
+                result[base] = next(iter(statuses))
+            elif "healthy" in statuses:
+                result[base] = "degraded"
+            else:
+                result[base] = "degraded"
+        return dict(sorted(result.items()))
 
     def reset_source_health(self) -> None:
         self._source_successes.clear()
         self._source_failures.clear()
 
-    def request(self, method: str, url: str, **kwargs: Any) -> requests.Response:
+    def request(
+        self, method: str, url: str, health_key: str | None = None, **kwargs: Any
+    ) -> requests.Response:
         retry_statuses = {429, 500, 502, 503, 504}
         last_error: Exception | None = None
         for attempt in range(self.retries + 1):
@@ -73,7 +100,7 @@ class HttpClient:
                 status = response.status_code
                 if response.status_code not in retry_statuses:
                     response.raise_for_status()
-                    source = self.source_name(url)
+                    source = health_key or self.source_name(url)
                     self._source_successes[source] = self._source_successes.get(source, 0) + 1
                     return response
                 last_error = requests.HTTPError(f"HTTP {response.status_code}", response=response)
@@ -81,7 +108,7 @@ class HttpClient:
                 retry_after = _retry_after_seconds(retry_after_value)
                 delay = retry_after if retry_after is not None else 2**attempt
             except requests.HTTPError as exc:
-                source = self.source_name(url)
+                source = health_key or self.source_name(url)
                 self._source_failures[source] = (
                     "rate_limit"
                     if getattr(exc.response, "status_code", None) == 429
@@ -111,7 +138,7 @@ class HttpClient:
                 )
                 time.sleep(sleep_seconds)
         assert last_error is not None
-        source = self.source_name(url)
+        source = health_key or self.source_name(url)
         if isinstance(last_error, requests.Timeout):
             reason = "timeout"
         elif isinstance(last_error, requests.HTTPError) and getattr(

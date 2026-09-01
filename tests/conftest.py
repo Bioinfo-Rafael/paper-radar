@@ -29,3 +29,32 @@ def make_paper(**overrides: object) -> Paper:
     }
     values.update(overrides)
     return Paper(**values)  # type: ignore[arg-type]
+
+
+def stub_broad_sources(monkeypatch: pytest.MonkeyPatch) -> None:
+    """Stub every source class other than Semantic Scholar to return no
+    results, so tests exercising `Pipeline.acquire`/`_acquire_lane` without
+    mocking every individual source stay network-free. Semantic Scholar is
+    left alone since most such tests mock `pipeline.s2` directly.
+    """
+    import paper_radar.pipeline as pipeline_module
+
+    for class_name, method in (
+        ("ArxivSource", "fetch"),
+        ("HuggingFaceSource", "fetch"),
+        ("EuropePMCSource", "fetch"),
+        ("OpenAlexSource", "search"),
+        ("OpenReviewSource", "search"),
+        ("CrossrefWorksSource", "fetch"),
+        ("CrossrefPreprintSource", "fetch"),
+        ("BiorxivSource", "fetch"),
+        ("PubMedSource", "fetch"),
+        ("PMLRSource", "fetch"),
+        ("NeurIPSProceedingsSource", "fetch"),
+        ("CVFSource", "fetch"),
+        ("ACLAnthologySource", "fetch"),
+        ("RSSProceedingsSource", "fetch"),
+    ):
+        monkeypatch.setattr(
+            getattr(pipeline_module, class_name), method, lambda self, *a, **kw: []
+        )

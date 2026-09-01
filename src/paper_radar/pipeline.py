@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import logging
+from collections.abc import Callable
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
 from datetime import date, timedelta
 from typing import Any, Literal
@@ -15,11 +17,20 @@ from paper_radar.models import Paper
 from paper_radar.scoring import score_bioinfo, score_frontier, score_ml
 from paper_radar.scoring.common import venue_in
 from paper_radar.sources import (
+    ACLAnthologySource,
     ArxivSource,
     BiorxivSource,
     CrossrefPreprintSource,
+    CrossrefWorksSource,
+    CVFSource,
+    EuropePMCSource,
     HuggingFaceSource,
+    NeurIPSProceedingsSource,
+    OpenAlexSource,
+    OpenReviewSource,
+    PMLRSource,
     PubMedSource,
+    RSSProceedingsSource,
     SemanticScholarSource,
 )
 from paper_radar.state import StateStore, load_candidate_cache, save_candidate_cache
@@ -131,6 +142,43 @@ class Pipeline:
             return venues.get("tier_s", []) + venues.get("tier_a", [])
         return venues.get("top", []) + venues.get("strong", [])
 
+    def _safe_call(self, name: str, fn: Callable[[], list[Paper]]) -> list[Paper]:
+        """Sequential defense-in-depth backstop for a single source call.
+
+        Every adapter already self-catches, so this should never trigger in
+        practice; it exists so a source's failure can never propagate and
+        take other, unrelated sources down with it, even a bug that slips
+        past an adapter's own error handling.
+        """
+        try:
+            return fn()
+        except Exception:
+            LOGGER.exception("Source call failed", extra={"source": name})
+            self._external_source_health[name] = "request_error"
+            return []
+
+    def _run_parallel(
+        self, tasks: dict[str, Callable[[], list[Paper]]]
+    ) -> dict[str, list[Paper]]:
+        """Run independent source fetches concurrently.
+
+        Each task's failure is isolated: it never raises out of this method,
+        it just contributes no candidates and marks that source degraded.
+        """
+        if not tasks:
+            return {}
+        results: dict[str, list[Paper]] = {}
+        with ThreadPoolExecutor(max_workers=min(8, len(tasks))) as executor:
+            futures = {name: executor.submit(task) for name, task in tasks.items()}
+            for name, future in futures.items():
+                try:
+                    results[name] = future.result()
+                except Exception:
+                    LOGGER.exception("Source task failed", extra={"source": name})
+                    self._external_source_health[name] = "request_error"
+                    results[name] = []
+        return results
+
     def _acquire_lane(
         self,
         category: str,
@@ -139,25 +187,33 @@ class Pipeline:
         focus: FocusSpec | None = None,
     ) -> dict[str, list[Paper]]:
         limits = self.config.common["source_limits"]
+        proceedings = self.config.common.get("proceedings", {})
         cfg = self.config.category(category)
         groups: dict[str, list[Paper]] = {}
+        new_tasks: dict[str, Callable[[], list[Paper]]] = {}
         if category == "bioinfo":
             if lane.name != "archive":
                 biorxiv_limit = 120 * search.source_limit_multiplier
-                groups["biorxiv"] = BiorxivSource(self.client).fetch(
-                    lane.start,
-                    lane.end,
-                    cfg["queries"]["biorxiv_categories"],
-                    biorxiv_limit,
+                groups["biorxiv"] = self._safe_call(
+                    "biorxiv",
+                    lambda: BiorxivSource(self.client).fetch(
+                        lane.start,
+                        lane.end,
+                        cfg["queries"]["biorxiv_categories"],
+                        biorxiv_limit,
+                    ),
                 )
                 retrieval_queries = list(cfg["queries"]["semantic_scholar"])
                 if focus:
                     retrieval_queries.extend(focus.queries)
-                groups["crossref_preprints"] = CrossrefPreprintSource(self.client).fetch(
-                    lane.start,
-                    lane.end,
-                    search.scaled_limit(limits["crossref_preprints"]),
-                    queries=tuple(dict.fromkeys(retrieval_queries)),
+                groups["crossref_preprints"] = self._safe_call(
+                    "crossref",
+                    lambda: CrossrefPreprintSource(self.client).fetch(
+                        lane.start,
+                        lane.end,
+                        search.scaled_limit(limits["crossref_preprints"]),
+                        queries=tuple(dict.fromkeys(retrieval_queries)),
+                    ),
                 )
                 pubmed_queries = cfg["queries"]["pubmed"]
                 s2_queries = cfg["queries"]["semantic_scholar"]
@@ -166,43 +222,105 @@ class Pipeline:
                 s2_queries = cfg["queries"]["semantic_scholar_archive"]
             if focus:
                 s2_queries = list(dict.fromkeys([*s2_queries, *focus.queries]))
-            groups["pubmed"] = PubMedSource(self.client).fetch(
-                pubmed_queries,
-                lane.start,
-                lane.end,
-                search.scaled_limit(limits["pubmed_per_query"]),
+            groups["pubmed"] = self._safe_call(
+                "pubmed",
+                lambda: PubMedSource(self.client).fetch(
+                    pubmed_queries,
+                    lane.start,
+                    lane.end,
+                    search.scaled_limit(limits["pubmed_per_query"]),
+                ),
             )
-            groups["semantic_scholar"] = self.s2.search(
-                s2_queries,
+            groups["semantic_scholar"] = self._safe_call(
+                "semantic_scholar",
+                lambda: self.s2.search(
+                    s2_queries,
+                    lane.start,
+                    lane.end,
+                    search.scaled_limit(limits["semantic_scholar_per_query"]),
+                ),
+            )
+            europepmc_queries = pubmed_queries
+            new_tasks["europepmc"] = lambda queries=europepmc_queries: EuropePMCSource(
+                self.client
+            ).fetch(
+                queries, lane.start, lane.end, search.scaled_limit(limits["europepmc_per_query"])
+            )
+            new_tasks["openalex"] = lambda queries=s2_queries: OpenAlexSource(self.client).search(
+                queries, lane.start, lane.end, search.scaled_limit(limits["openalex_per_query"])
+            )
+            new_tasks["crossref_works"] = lambda: CrossrefWorksSource(self.client).fetch(
+                self._top_venues(category),
                 lane.start,
                 lane.end,
-                search.scaled_limit(limits["semantic_scholar_per_query"]),
+                search.scaled_limit(limits["crossref_works_per_venue"]),
             )
         elif category == "ml":
             if lane.name != "archive":
-                groups["arxiv"] = ArxivSource(self.client).fetch(
-                    cfg["queries"]["arxiv_categories"],
-                    lane.start,
-                    lane.end,
-                    search.scaled_limit(limits["arxiv_total"]),
+                groups["arxiv"] = self._safe_call(
+                    "arxiv",
+                    lambda: ArxivSource(self.client).fetch(
+                        cfg["queries"]["arxiv_categories"],
+                        lane.start,
+                        lane.end,
+                        search.scaled_limit(limits["arxiv_total"]),
+                    ),
                 )
-                groups["arxiv_stat_ml"] = ArxivSource(self.client).fetch(
-                    ["stat.ML"],
-                    lane.start,
-                    lane.end,
-                    search.scaled_limit(limits["arxiv_stat_ml"]),
+                groups["arxiv_stat_ml"] = self._safe_call(
+                    "arxiv",
+                    lambda: ArxivSource(self.client).fetch(
+                        ["stat.ML"],
+                        lane.start,
+                        lane.end,
+                        search.scaled_limit(limits["arxiv_stat_ml"]),
+                    ),
                 )
                 s2_queries = cfg["queries"]["semantic_scholar"]
             else:
                 s2_queries = cfg["queries"]["semantic_scholar_archive"]
             if focus:
                 s2_queries = list(dict.fromkeys([*s2_queries, *focus.queries]))
-            groups["semantic_scholar"] = self.s2.search(
-                s2_queries,
+            groups["semantic_scholar"] = self._safe_call(
+                "semantic_scholar",
+                lambda: self.s2.search(
+                    s2_queries,
+                    lane.start,
+                    lane.end,
+                    search.scaled_limit(limits["semantic_scholar_per_query"]),
+                ),
+            )
+            new_tasks["openalex"] = lambda queries=s2_queries: OpenAlexSource(self.client).search(
+                queries, lane.start, lane.end, search.scaled_limit(limits["openalex_per_query"])
+            )
+            new_tasks["crossref_works"] = lambda: CrossrefWorksSource(self.client).fetch(
+                self._top_venues(category),
                 lane.start,
                 lane.end,
-                search.scaled_limit(limits["semantic_scholar_per_query"]),
+                search.scaled_limit(limits["crossref_works_per_venue"]),
             )
+            if lane.name != "archive":
+                new_tasks["openreview"] = (
+                    lambda queries=s2_queries: OpenReviewSource(self.client).search(
+                        queries,
+                        lane.start,
+                        lane.end,
+                        search.scaled_limit(limits["openreview_per_query"]),
+                        venues=tuple(self._top_venues(category)),
+                    )
+                )
+            else:
+                for entry in proceedings.get("pmlr", {}).get("ml", []):
+                    new_tasks[f"pmlr_v{entry['volume']}"] = (
+                        lambda e=entry: PMLRSource(self.client).fetch(
+                            e["volume"], e["venue"], e["year"], limits["pmlr_per_volume"]
+                        )
+                    )
+                for year in proceedings.get("neurips_years", []):
+                    new_tasks[f"neurips_{year}"] = (
+                        lambda y=year: NeurIPSProceedingsSource(self.client).fetch(
+                            y, limits["neurips_proceedings_per_year"]
+                        )
+                    )
         else:
             if lane.name == "fresh":
                 hf_limit = search.scaled_limit(limits["huggingface"], limits.get("huggingface_max"))
@@ -225,12 +343,73 @@ class Pipeline:
             )
             if focus:
                 s2_queries = list(dict.fromkeys([*s2_queries, *focus.queries]))
-            groups["semantic_scholar"] = self.s2.search(
-                s2_queries,
+            groups["semantic_scholar"] = self._safe_call(
+                "semantic_scholar",
+                lambda: self.s2.search(
+                    s2_queries,
+                    lane.start,
+                    lane.end,
+                    search.scaled_limit(limits["semantic_scholar_per_query"]),
+                ),
+            )
+            new_tasks["openalex"] = lambda queries=s2_queries: OpenAlexSource(self.client).search(
+                queries, lane.start, lane.end, search.scaled_limit(limits["openalex_per_query"])
+            )
+            new_tasks["crossref_works"] = lambda: CrossrefWorksSource(self.client).fetch(
+                self._top_venues(category),
                 lane.start,
                 lane.end,
-                search.scaled_limit(limits["semantic_scholar_per_query"]),
+                search.scaled_limit(limits["crossref_works_per_venue"]),
             )
+            if lane.name != "archive":
+                new_tasks["arxiv"] = lambda: ArxivSource(self.client).fetch(
+                    cfg["queries"]["arxiv_categories"],
+                    lane.start,
+                    lane.end,
+                    search.scaled_limit(limits["arxiv_total"]),
+                )
+                new_tasks["openreview"] = (
+                    lambda queries=s2_queries: OpenReviewSource(self.client).search(
+                        queries,
+                        lane.start,
+                        lane.end,
+                        search.scaled_limit(limits["openreview_per_query"]),
+                        venues=tuple(self._top_venues(category)),
+                    )
+                )
+            if lane.name == "fresh":
+                new_tasks["rss_proceedings"] = lambda: RSSProceedingsSource(self.client).fetch(
+                    proceedings.get("rss_year"), limits["rss_proceedings"]
+                )
+            if lane.name == "archive":
+                for entry in proceedings.get("pmlr", {}).get("frontier", []):
+                    new_tasks[f"pmlr_v{entry['volume']}"] = (
+                        lambda e=entry: PMLRSource(self.client).fetch(
+                            e["volume"], e["venue"], e["year"], limits["pmlr_per_volume"]
+                        )
+                    )
+                for year in proceedings.get("neurips_years", []):
+                    new_tasks[f"neurips_{year}"] = (
+                        lambda y=year: NeurIPSProceedingsSource(self.client).fetch(
+                            y, limits["neurips_proceedings_per_year"]
+                        )
+                    )
+                for entry in proceedings.get("cvf", []):
+                    new_tasks[f"cvf_{entry['conference']}{entry['year']}"] = (
+                        lambda e=entry: CVFSource(self.client).fetch(
+                            e["conference"], e["year"], limits["cvf_per_conference"]
+                        )
+                    )
+                for entry in proceedings.get("acl_anthology", []):
+                    new_tasks[f"acl_{entry['venue_code']}{entry['year']}"] = (
+                        lambda e=entry: ACLAnthologySource(self.client).fetch(
+                            e["venue_code"],
+                            e["venue_label"],
+                            e["year"],
+                            limits["acl_anthology_per_venue"],
+                        )
+                    )
+        groups.update(self._run_parallel(new_tasks))
         if lane.name == "archive":
             top_venues = self._top_venues(category)
             groups = {
@@ -258,9 +437,12 @@ class Pipeline:
                 groups[f"{lane.name}:{source}"] = papers
         if category in {"bioinfo", "ml"}:
             limits = self.config.common["source_limits"]
-            recommendations = self.s2.recommendations(
-                self._seed_ids(category),
-                search.scaled_limit(limits["semantic_scholar_recommendations"]),
+            recommendations = self._safe_call(
+                "semantic_scholar",
+                lambda: self.s2.recommendations(
+                    self._seed_ids(category),
+                    search.scaled_limit(limits["semantic_scholar_recommendations"]),
+                ),
             )
             lane_values = self.config.common["search"]["lanes"]
             fresh_cutoff = today - timedelta(days=int(lane_values["fresh_days"]))

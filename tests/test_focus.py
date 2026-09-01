@@ -3,7 +3,7 @@ from __future__ import annotations
 from paper_radar.focus import apply_focus_bonus, resolve_focus
 from paper_radar.pipeline import Pipeline
 from paper_radar.scoring.ai_frontier import score_frontier
-from tests.conftest import make_paper
+from tests.conftest import make_paper, stub_broad_sources
 
 
 def test_physical_ai_focus_resolves_family_and_aliases(config):
@@ -66,6 +66,7 @@ def test_unknown_focus_is_added_as_best_effort_query(config, today, monkeypatch)
         "search",
         lambda queries, start, end, limit: calls.append(list(queries)) or [],
     )
+    stub_broad_sources(monkeypatch)
     spec = resolve_focus(
         "robot learning from interventions", config.category("frontier")
     )

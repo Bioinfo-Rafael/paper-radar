@@ -107,23 +107,64 @@ def test_group_header_payload(monkeypatch):
     assert client.calls[0][2]["json"]["content"] == "**🌟 Major Journals — 1 papers**"
 
 
+def _fake_pipeline() -> SimpleNamespace:
+    return SimpleNamespace(
+        config=SimpleNamespace(
+            venues={}, common={"search": {"warning_coverage_floor": 10}}
+        ),
+        state=SimpleNamespace(),
+    )
+
+
 @pytest.mark.parametrize(
-    ("health", "warning"),
+    ("health", "candidate_count", "warning"),
     [
-        ({"semantic_scholar": "healthy"}, False),
-        ({"semantic_scholar": "rate_limit", "pubmed": "timeout"}, True),
+        ({"semantic_scholar": "healthy"}, 0, False),
+        ({"semantic_scholar": "rate_limit", "pubmed": "timeout"}, 0, True),
+        ({"semantic_scholar": "rate_limit", "pubmed": "timeout"}, 20, False),
     ],
 )
-def test_retrieval_warning_only_for_degraded_sources(monkeypatch, health, warning):
+def test_retrieval_warning_only_for_degraded_sources_with_thin_coverage(
+    monkeypatch, health, candidate_count, warning
+):
     webhook = DiscordWebhook(
         FakeClient(), "Paper Radar", {"bioinfo": 1, "ml": 2, "frontier": 3}
     )
     monkeypatch.setenv("DISCORD_BIOINFO_WEBHOOK", "https://example.test/bioinfo")
     messages = []
     monkeypatch.setattr(webhook, "send_message", lambda category, content: messages.append(content))
-    pipeline = SimpleNamespace(config=SimpleNamespace(venues={}), state=SimpleNamespace())
-    result = RunResult("bioinfo", [], [], {}, source_health=health)
+    pipeline = _fake_pipeline()
+    candidates = [make_paper(title=f"Candidate {i}") for i in range(candidate_count)]
+    result = RunResult("bioinfo", candidates, [], {}, source_health=health)
     _deliver(pipeline, webhook, result, date(2026, 8, 26), False, False)
     assert bool(messages) is warning
     if warning:
         assert messages == ["⚠️ Retrieval degraded: Semantic Scholar / PubMed"]
+
+
+def test_zero_selected_papers_alone_does_not_warn(monkeypatch):
+    webhook = DiscordWebhook(FakeClient(), "Paper Radar", {"bioinfo": 1, "ml": 2, "frontier": 3})
+    monkeypatch.setenv("DISCORD_BIOINFO_WEBHOOK", "https://example.test/bioinfo")
+    messages = []
+    monkeypatch.setattr(webhook, "send_message", lambda category, content: messages.append(content))
+    pipeline = _fake_pipeline()
+    candidates = [make_paper(title=f"Candidate {i}") for i in range(20)]
+    result = RunResult("bioinfo", candidates, [], {}, source_health={"semantic_scholar": "healthy"})
+    _deliver(pipeline, webhook, result, date(2026, 8, 26), False, False)
+    assert messages == []
+
+
+def test_dotted_health_subkeys_never_trigger_their_own_warning_entry(monkeypatch):
+    webhook = DiscordWebhook(FakeClient(), "Paper Radar", {"bioinfo": 1, "ml": 2, "frontier": 3})
+    monkeypatch.setenv("DISCORD_BIOINFO_WEBHOOK", "https://example.test/bioinfo")
+    messages = []
+    monkeypatch.setattr(webhook, "send_message", lambda category, content: messages.append(content))
+    pipeline = _fake_pipeline()
+    health = {
+        "semantic_scholar": "degraded",
+        "semantic_scholar.search": "rate_limit",
+        "semantic_scholar.enrichment": "healthy",
+    }
+    result = RunResult("bioinfo", [], [], {}, source_health=health)
+    _deliver(pipeline, webhook, result, date(2026, 8, 26), False, False)
+    assert messages == ["⚠️ Retrieval degraded: Semantic Scholar"]

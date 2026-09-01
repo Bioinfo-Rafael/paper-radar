@@ -6,7 +6,7 @@ from paper_radar.models import Rating
 from paper_radar.pipeline import Pipeline
 from paper_radar.scoring.bioinfo import score_bioinfo
 from paper_radar.sources.crossref import CrossrefPreprintSource
-from tests.conftest import make_paper
+from tests.conftest import make_paper, stub_broad_sources
 
 
 class FakeCrossrefClient:
@@ -130,6 +130,7 @@ def test_frontier_has_archive_lane(config, today):
 
 def test_frontier_archive_keeps_top_venue_candidate(config, today, monkeypatch):
     pipeline = Pipeline(config)
+    stub_broad_sources(monkeypatch)
     top = make_paper(title="Archived embodied agent", venue="NeurIPS")
     ordinary = make_paper(title="Archived embodied agent preprint", venue="arXiv")
     monkeypatch.setattr(pipeline.s2, "search", lambda *args, **kwargs: [top, ordinary])

@@ -51,6 +51,9 @@ class ArxivSource:
             doi = getattr(entry, "arxiv_doi", None)
             if journal_ref:
                 venue = clean_text(journal_ref)
+            authors = [
+                clean_text(author.get("name", "")) for author in getattr(entry, "authors", [])
+            ]
             papers.append(
                 Paper(
                     title=clean_text(entry.title),
@@ -60,6 +63,7 @@ class ArxivSource:
                     publication_type="Preprint",
                     doi=doi,
                     arxiv_id=identifier,
+                    authors=[name for name in authors if name],
                     paper_url=f"https://arxiv.org/abs/{identifier}",
                     source="arxiv",
                     categories=category_values,

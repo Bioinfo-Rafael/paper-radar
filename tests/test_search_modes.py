@@ -7,7 +7,7 @@ import pytest
 from paper_radar.models import Rating
 from paper_radar.pipeline import Pipeline
 from paper_radar.scoring.common import apply_rating
-from tests.conftest import make_paper
+from tests.conftest import make_paper, stub_broad_sources
 
 
 @pytest.fixture
@@ -70,6 +70,7 @@ def test_more_runs_fresh_acquisition_without_candidate_cache(pipeline, today, mo
 
 
 def test_more_uses_wider_lookback_and_larger_source_limits(pipeline, today, monkeypatch):
+    stub_broad_sources(monkeypatch)
     arxiv_calls = []
     s2_calls = []
     recommendation_limits = []
@@ -119,6 +120,7 @@ def test_more_uses_wider_lookback_and_larger_source_limits(pipeline, today, monk
 
 
 def test_ml_has_dedicated_stat_ml_retrieval_and_deduplicates(pipeline, today, monkeypatch):
+    stub_broad_sources(monkeypatch)
     calls = []
     paper = eligible_paper(101)
     paper.arxiv_id = "2608.12345"

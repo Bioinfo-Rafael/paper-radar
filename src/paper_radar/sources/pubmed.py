@@ -42,7 +42,9 @@ class PubMedSource:
                 "maxdate": end.strftime("%Y/%m/%d"),
             }
             try:
-                data = self.client.get_json(f"{BASE_URL}/esearch.fcgi", params=params)
+                data = self.client.get_json(
+                    f"{BASE_URL}/esearch.fcgi", params=params, health_key="pubmed.search"
+                )
                 ids.update(data.get("esearchresult", {}).get("idlist", []))
             except Exception:
                 LOGGER.exception("PubMed query failed", extra={"query": query})
@@ -57,7 +59,9 @@ class PubMedSource:
                 "id": ",".join(id_list[offset : offset + 100]),
             }
             try:
-                response = self.client.request("GET", f"{BASE_URL}/efetch.fcgi", params=params)
+                response = self.client.request(
+                    "GET", f"{BASE_URL}/efetch.fcgi", params=params, health_key="pubmed.fetch"
+                )
                 root = ET.fromstring(response.content)
             except Exception:
                 LOGGER.exception("PubMed metadata fetch failed")
@@ -94,6 +98,18 @@ class PubMedSource:
                     medline_date
                 )
                 doi = article_ids.get("doi")
+                authors = [
+                    " ".join(
+                        filter(
+                            None,
+                            (
+                                self._text(author.find("ForeName")),
+                                self._text(author.find("LastName")),
+                            ),
+                        )
+                    )
+                    for author in journal_article.findall("AuthorList/Author")
+                ]
                 papers.append(
                     Paper(
                         title=title,
@@ -103,6 +119,8 @@ class PubMedSource:
                         publication_type=", ".join(types),
                         doi=doi,
                         biorxiv_doi=doi if doi and doi.lower().startswith("10.1101/") else None,
+                        pubmed_id=pmid or None,
+                        authors=[name for name in authors if name],
                         paper_url=f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
                         source="pubmed",
                         categories=[

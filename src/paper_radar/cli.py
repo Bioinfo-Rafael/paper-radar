@@ -77,8 +77,13 @@ def _deliver(
     if dry_run:
         return
     webhook.send_header(result.category, run_date, result.selected, mode=result.mode)
-    degraded = [name for name, status in result.source_health.items() if status != "healthy"]
-    if degraded:
+    degraded = [
+        name
+        for name, status in result.source_health.items()
+        if "." not in name and status != "healthy"
+    ]
+    coverage_floor = int(pipeline.config.common["search"]["warning_coverage_floor"])
+    if degraded and len(result.candidates) < coverage_floor:
         labels = {
             "semantic_scholar": "Semantic Scholar",
             "huggingface": "Hugging Face",
@@ -86,6 +91,15 @@ def _deliver(
             "biorxiv": "bioRxiv",
             "pubmed": "PubMed",
             "arxiv": "arXiv",
+            "europepmc": "Europe PMC",
+            "openalex": "OpenAlex",
+            "openreview": "OpenReview",
+            "crossref_works": "Crossref",
+            "pmlr": "PMLR",
+            "neurips_proceedings": "NeurIPS Proceedings",
+            "cvf": "CVF Open Access",
+            "acl_anthology": "ACL Anthology",
+            "rss_proceedings": "RSS Proceedings",
         }
         try:
             webhook.send_message(

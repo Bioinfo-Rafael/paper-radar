@@ -1,37 +1,20 @@
 from __future__ import annotations
 
-import html
 import logging
 import math
-import re
 from datetime import date
-from typing import Any
 
 from paper_radar.http import HttpClient
 from paper_radar.models import Paper
-from paper_radar.sources.utils import clean_text
+from paper_radar.sources.utils import (
+    clean_text,
+    crossref_abstract,
+    crossref_authors,
+    crossref_date_parts,
+)
 
 LOGGER = logging.getLogger(__name__)
 BASE_URL = "https://api.crossref.org/prefixes/{prefix}/works"
-
-
-def _date_parts(item: dict[str, Any]) -> date | None:
-    parts = (item.get("published") or item.get("created") or {}).get("date-parts", [[]])[0]
-    if not parts:
-        return None
-    values = [int(value) for value in parts[:3]]
-    while len(values) < 3:
-        values.append(1)
-    try:
-        return date(*values)
-    except ValueError:
-        return None
-
-
-def _abstract(value: str | None) -> str:
-    if not value:
-        return ""
-    return clean_text(html.unescape(re.sub(r"<[^>]+>", " ", value)))
 
 
 class CrossrefPreprintSource:
@@ -71,6 +54,7 @@ class CrossrefPreprintSource:
                             "order": "desc",
                             "mailto": "paper-radar@example.invalid",
                         },
+                        health_key="crossref.preprint",
                     )
                 except Exception:
                     LOGGER.exception(
@@ -80,7 +64,7 @@ class CrossrefPreprintSource:
                 for item in payload.get("message", {}).get("items", []):
                     doi = item.get("DOI")
                     title_values = item.get("title") or []
-                    published = _date_parts(item)
+                    published = crossref_date_parts(item)
                     identity = str(doi).casefold()
                     if (
                         not doi
@@ -93,12 +77,13 @@ class CrossrefPreprintSource:
                     papers.append(
                         Paper(
                             title=clean_text(title_values[0]),
-                            abstract=_abstract(item.get("abstract")),
+                            abstract=crossref_abstract(item.get("abstract")),
                             publication_date=published,
                             venue="bioRxiv",
                             publication_type="Preprint",
                             biorxiv_doi=doi,
                             preprint_doi=doi,
+                            authors=crossref_authors(item),
                             paper_url=item.get("URL") or f"https://doi.org/{doi}",
                             source="crossref_preprint",
                         )

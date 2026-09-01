@@ -49,6 +49,7 @@ weights:
   actionable_synergy: 0.7
   venue_top: 1.2
   venue_strong: 0.7
+  venue_watch: 0.4
   recency: 0.7
   seed_max: 0.6
   negative_penalty: -3.2

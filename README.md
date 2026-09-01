@@ -4,9 +4,9 @@ Paper Radar is a personal research monitor whose scheduled retrieval and ranking
 
 ## 1. What this bot does
 
-- **Bioinfo:** prioritizes computational method development for scRNA-seq, dynamics, GRNs, perturbation, generative models, multi-omics, spatial methods, and single-cell foundation models.
-- **ML Algorithms:** prioritizes actionable changes to model design, training, formulation, understanding, diagnosis, or evaluation. Broad arXiv retrieval is supplemented by an independent `stat.ML` query in Fresh and Backfill lanes, then deduplicated by paper identity.
-- **AI Frontier:** combines current Hugging Face Daily Papers discovery with Semantic Scholar Fresh/Backfill/top-venue Archive retrieval for Physical AI, VLA, world models, agents, self-improvement, and AI scientists.
+- **Bioinfo:** prioritizes computational method development for scRNA-seq, dynamics, GRNs, perturbation, generative models, multi-omics, spatial methods, and single-cell foundation models. Retrieves from bioRxiv, Crossref (preprints and general works), PubMed, Europe PMC, Semantic Scholar, and OpenAlex.
+- **ML Algorithms:** prioritizes actionable changes to model design, training, formulation, understanding, diagnosis, or evaluation. Broad arXiv retrieval is supplemented by an independent `stat.ML` query in Fresh and Backfill lanes, then deduplicated by paper identity. Also retrieves from PMLR (ICML/AISTATS/UAI proceedings), OpenReview, NeurIPS Proceedings, Crossref works, Semantic Scholar, and OpenAlex.
+- **AI Frontier:** no longer depends on Semantic Scholar as its backbone. Retrieves from arXiv (`cs.RO`/`cs.AI`/`cs.LG`/`cs.CV`/`cs.CL`), Hugging Face Daily Papers, OpenReview, PMLR (CoRL), NeurIPS Proceedings, CVF Open Access (CVPR/ICCV), ACL Anthology (ACL/EMNLP), RSS Proceedings, Crossref works, Semantic Scholar, and OpenAlex, for Physical AI, VLA, world models, agents, self-improvement, and AI scientists.
 - Selects up to five unsent papers at or above the category's `more_min_score`, preferring Fresh and filling shortages from Backfill and top-journal Archive lanes.
 - Keeps `matched_criteria`, `penalties`, and every numeric score component for inspection with `--debug-scores`.
 - Does not use OpenAI, Anthropic, Gemini, or any other LLM API.
@@ -14,9 +14,13 @@ Paper Radar is a personal research monitor whose scheduled retrieval and ranking
 ## 2. Architecture
 
 ```text
-bioRxiv / Crossref / PubMed / arXiv / Semantic Scholar / Hugging Face
+many independent sources, fetched in parallel per lane
+(bioRxiv · Crossref · PubMed · Europe PMC · arXiv · OpenReview · PMLR ·
+ NeurIPS Proceedings · CVF · ACL Anthology · RSS Proceedings ·
+ Hugging Face · OpenAlex · Semantic Scholar)
                          │
-                  high-recall union
+        each source is isolated: a 429/timeout/failure in one
+           never stops or degrades acquisition from the rest
                          │
              normalize → deduplicate → score
                          │
@@ -27,7 +31,7 @@ bioRxiv / Crossref / PubMed / arXiv / Semantic Scholar / Hugging Face
                 Discord webhooks + state
 ```
 
-Candidate generation and ranking are separate. Semantic Scholar recommendations add candidates and at most a small score bonus; they are never a hard filter. Daily and `/more` search all applicable retrieval lanes, use the same rule-based scorer, exclude already-sent papers, and return up to five results. `/more` increases source limits to explore more candidates. The `src/paper_radar` core never imports `extensions`, so deleting experimental extensions cannot break daily or `/more`.
+Candidate generation and ranking are separate. No single source is load-bearing: every source is fetched independently (new sources fan out concurrently per lane; a source's failure is caught at both the adapter level and the orchestration level, and never blocks the others), then everything is normalized into one `Paper` schema, deduplicated, and scored together. Semantic Scholar is a supplemental source, used for recommendations, citation/influential-citation metadata, and as one of several search sources — it is never required for discovery, ranking, or delivery to keep working (see §5). OpenAlex is similarly optional/best-effort and requires no API key. Daily and `/more` search all applicable retrieval lanes, use the same rule-based scorer, exclude already-sent papers, and return up to five results. `/more` increases source limits to explore more candidates. The `src/paper_radar` core never imports `extensions`, so deleting experimental extensions cannot break daily or `/more`.
 
 ## 3. Local setup
 
@@ -53,7 +57,9 @@ Webhook URLs are read only from the environment and are never logged or stored i
 
 ## 5. Optional Semantic Scholar API key
 
-Set `S2_API_KEY` to improve Semantic Scholar limits. Public endpoints are used when it is absent. `NCBI_EMAIL` and `NCBI_API_KEY` are also optional and identify/rate-limit PubMed E-utilities requests politely.
+Set `S2_API_KEY` to improve Semantic Scholar limits. Public endpoints are used when it is absent. `NCBI_EMAIL` and `NCBI_API_KEY` are also optional and identify/rate-limit PubMed E-utilities requests politely. No key is configured or required for Europe PMC, OpenAlex, OpenReview, Crossref, PMLR, NeurIPS Proceedings, CVF Open Access, ACL Anthology, or RSS Proceedings — every newly added source works fully unauthenticated, and none of them gate any pipeline behavior on a missing key.
+
+Semantic Scholar is intentionally not a required source. It contributes to Fresh/Backfill/Archive search alongside every other source, plus three supplemental roles that no other source replaces: resolving/expanding seed-paper recommendations, citation and influential-citation counts, and metadata enrichment for Hugging Face Daily Papers results. If Semantic Scholar is completely unreachable for an entire run, paper discovery, ranking, and Discord delivery all continue normally from the remaining sources — see §17.
 
 ## 6. Dry-run
 
@@ -102,7 +108,7 @@ Title matches receive more weight than abstract-only matches. Venue never rescue
 
 ## 10. How to edit ML criteria
 
-Edit `config/ml_algorithms.yaml`. The principal components are domain relevance, actionable method signal, conceptual/formulation signal, venue prior, recency, and the capped seed bonus. Task applications, benchmark-only work, incremental gains, systems work, and disconnected theory receive independent penalties. NeurIPS/ICML/ICLR get only a modest prior.
+Edit `config/ml_algorithms.yaml`. The principal components are domain relevance, actionable method signal, conceptual/formulation signal, venue prior, recency, and the capped seed bonus. Task applications, benchmark-only work, incremental gains, systems work, and disconnected theory receive independent penalties. NeurIPS/ICML/ICLR get only a modest prior. Watch venues (Annals of Statistics, JRSS-B, Biometrika, configured under `ml.watch` in `config/venues.yaml`) never get a bare venue bonus by themselves — they only score a small `venue_watch` bonus when the paper already has a non-trivial domain- or method-relevance signal (learning, generative models, diffusion/flow matching, optimization, representation, generalization, and similar), so a pure-statistics paper with no ML connection is not pulled in by venue alone.
 
 ## 11. How to edit AI Frontier criteria
 
@@ -173,20 +179,25 @@ Set `GROQ_API_KEY` as a GitHub Actions repository secret. It is used only by `tu
 
 The command resolves references from the recent candidate cache by URL or distinctive title terms. For arXiv, bioRxiv, DOI, and Semantic Scholar URLs not found in the cache, it reuses Semantic Scholar metadata retrieval before the Groq call. Explicitly stated reasons take precedence over inferred paper characteristics in the tuning prompt.
 
-Each run prints a compact `Source health` summary in addition to per-source candidate counts. A source is marked degraded only when all of its final attempts fail (for example `rate_limit`, `timeout`, or `request_error`); a retry that eventually succeeds remains healthy. When a category has degraded sources, its Discord channel receives one compact `⚠️ Retrieval degraded: ...` message. A zero-result run alone does not trigger this warning.
+Each run prints a compact `Source health` summary in addition to per-source candidate counts. A source is marked degraded only when all of its final attempts fail (for example `rate_limit`, `timeout`, or `request_error`); a retry that eventually succeeds remains healthy. Multi-operation sources (currently Semantic Scholar: `.search` / `.enrichment` / `.recommendations`, PubMed: `.search` / `.fetch`, and Crossref: `.preprint` / `.works`) are tracked per operation, printed as separate `source.operation` entries, and rolled up into one status for the bare source name: healthy only if every operation succeeded, the shared failure reason if every operation failed, and `degraded` for any mix — including the same operation succeeding in one lane and failing in another within the same run. A success is never allowed to silently overwrite a failure. When a category has degraded sources **and** its post-dedup candidate pool falls below `search.warning_coverage_floor` (`config/common.yaml`, default 10), its Discord channel receives one compact `⚠️ Retrieval degraded: ...` message, naming the affected sources by their rollup status — never the per-operation sub-keys. A zero-result run alone does not trigger this warning, and neither does a degraded source when enough other sources still produced adequate coverage.
 
-## 18. Experimental extensions
+## 18. Retrieval resilience
+
+Every source is fetched independently and its failure is isolated at two layers: each adapter (`src/paper_radar/sources/*.py`) catches its own network/parse errors internally and returns an empty list rather than raising, and `Pipeline._safe_call`/`Pipeline._run_parallel` (`src/paper_radar/pipeline.py`) provide a second, orchestration-level backstop so a bug that slips past an adapter's own handling still can't take other sources down with it. The broader batch of newer sources (Europe PMC, OpenAlex, OpenReview, Crossref works, PMLR, NeurIPS Proceedings, CVF Open Access, ACL Anthology, RSS Proceedings) is fanned out concurrently per lane via a thread pool; the original sources (bioRxiv, Crossref preprints, PubMed, arXiv, Semantic Scholar) stay sequential within a lane to keep their acquisition order deterministic. No single source is required: Semantic Scholar or any other one source going fully down for an entire run still leaves discovery, ranking, and delivery working from everything else (see §17 for how that shows up in Source health).
+
+## 19. Experimental extensions
 
 `extensions/more_like_this` and `extensions/feedback` are disabled placeholders. They are deliberately not imported by daily or `/more` and can be deleted safely.
 
-## 19. Troubleshooting
+## 20. Troubleshooting
 
-- **429 / timeouts:** retries use exponential backoff. Add `S2_API_KEY`; transient failure of one source is logged while the other sources continue.
+- **429 / timeouts:** retries use exponential backoff. Add `S2_API_KEY` for Semantic Scholar; a transient failure of any one source is logged while every other source continues, and the run still completes.
 - **No Discord post:** verify the category-specific webhook environment variable. A zero-result live run still sends the daily header.
 - **Too many/few papers:** first inspect `--debug-scores`, then tune weights and thresholds in YAML.
-- **Repeated paper:** inspect `state/sent.json`. Identity priority is DOI → arXiv → bioRxiv DOI → Semantic Scholar ID → normalized title. A formal journal publication after a sent bioRxiv preprint is intentionally allowed once.
-- **`/more` is slower than daily:** explore mode intentionally searches the same three lanes with larger source limits. It does not depend on the daily candidate cache.
+- **Repeated paper:** inspect `state/sent.json`. Identity priority is DOI → arXiv → bioRxiv DOI → PubMed ID → OpenAlex ID → Semantic Scholar ID → normalized title, with a fuzzy title+author fallback pass for near-duplicates across sources that share none of those identifiers. A formal journal publication after a sent bioRxiv preprint is intentionally allowed once.
+- **`/more` is slower than daily:** explore mode intentionally searches the same three lanes with larger source limits, across every source. It does not depend on the daily candidate cache.
 - **`/tune` fails safely:** inspect the Tune Paper Radar workflow log. Groq/API/schema failures leave `config/tuning.yaml` unchanged and post a short failure notice when Discord is available.
-- **Tests:** run `pytest`; all scoring tests are deterministic and use no network.
+- **A specific new source is quiet:** check `Source health` in the run log for that source's name; PMLR, NeurIPS Proceedings, CVF Open Access, and RSS Proceedings only cover the volumes/years/conferences listed under `proceedings` in `config/common.yaml`, so a missing recent one may just need adding there.
+- **Tests:** run `pytest`; every test is deterministic and uses no network — `tests/conftest.py`'s `stub_broad_sources` stubs every source class other than Semantic Scholar for tests that exercise `Pipeline.acquire`/`_acquire_lane` without mocking each source individually.
 
-External APIs used: official bioRxiv details/publication mapping endpoints, Crossref Works, NCBI PubMed E-utilities, arXiv Atom API, Semantic Scholar Academic Graph and Recommendations APIs, and `huggingface_hub.HfApi.list_daily_papers`.
+External APIs used: official bioRxiv details/publication mapping endpoints, Crossref Works (preprints and general works search), NCBI PubMed E-utilities, Europe PMC REST API, arXiv Atom API, OpenAlex Works API, OpenReview API v2, PMLR volume pages, NeurIPS Proceedings, CVF Open Access, the ACL Anthology's canonical per-venue-year XML data, RSS (Robotics: Science and Systems) accepted-papers listing, Semantic Scholar Academic Graph and Recommendations APIs, and `huggingface_hub.HfApi.list_daily_papers`. CVF Open Access hosts CVPR and ICCV but not ECCV (ECCV proceedings live on a separate site, `ecva.net`, with a different page structure) — ECCV coverage for AI Frontier currently comes from arXiv, OpenAlex, and Crossref works instead of a dedicated CVF scrape.

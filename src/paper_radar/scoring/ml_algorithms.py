@@ -87,6 +87,9 @@ def score_ml(paper: Paper, config: dict[str, Any], venues: dict[str, Any], today
     elif venue_in(paper.venue, venues["strong"]):
         venue_score = weights["venue_strong"]
         paper.matched_criteria.append("strong-venue")
+    elif venue_in(paper.venue, venues.get("watch", [])) and (domain > 0 or method > 0):
+        venue_score = weights["venue_watch"]
+        paper.matched_criteria.append("watch-venue")
     elif (paper.venue or "").casefold() == "arxiv":
         venue_score = weights["arxiv_penalty"]
         paper.penalties.append("arXiv-strict-threshold")

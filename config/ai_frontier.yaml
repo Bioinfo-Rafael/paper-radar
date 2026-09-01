@@ -1,4 +1,5 @@
 queries:
+  arxiv_categories: [cs.RO, cs.AI, cs.LG, cs.CV, cs.CL]
   semantic_scholar:
     - AI agent self improvement autonomous research
     - world model physical AI robotics

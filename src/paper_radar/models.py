@@ -54,6 +54,9 @@ class Paper:
     arxiv_id: str | None = None
     biorxiv_doi: str | None = None
     semantic_scholar_id: str | None = None
+    pubmed_id: str | None = None
+    openalex_id: str | None = None
+    authors: list[str] = field(default_factory=list)
     categories: list[str] = field(default_factory=list)
     citation_count: int | None = None
     influential_citation_count: int | None = None
@@ -89,6 +92,10 @@ class Paper:
             return f"arxiv:{self.arxiv_id}"
         if self.biorxiv_doi:
             return f"biorxiv:{self.biorxiv_doi}"
+        if self.pubmed_id:
+            return f"pubmed:{self.pubmed_id}"
+        if self.openalex_id:
+            return f"openalex:{self.openalex_id.lower()}"
         if self.semantic_scholar_id:
             return f"s2:{self.semantic_scholar_id.lower()}"
         return f"title:{normalize_title(self.title)}"

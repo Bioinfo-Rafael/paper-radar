@@ -48,6 +48,10 @@ class HuggingFaceSource:
             if hasattr(published, "date"):
                 published = published.date().isoformat()
             arxiv_id = identifier if identifier and identifier[0].isdigit() else None
+            raw_authors = _value(item, "authors", default=[]) or []
+            authors = [
+                clean_text(_value(author, "name", "user", default="")) for author in raw_authors
+            ]
             papers.append(
                 Paper(
                     title=title,
@@ -56,6 +60,7 @@ class HuggingFaceSource:
                     venue="arXiv",
                     publication_type="Preprint",
                     arxiv_id=arxiv_id,
+                    authors=[name for name in authors if name],
                     paper_url=f"https://huggingface.co/papers/{identifier}",
                     source="huggingface",
                     hf_rank=rank,

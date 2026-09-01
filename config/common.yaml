@@ -12,6 +12,7 @@ search:
     title_bonus: 2.0
     abstract_bonus: 1.2
     max_bonus: 2.0
+  warning_coverage_floor: 10
   daily:
     lookback_days: 30
     source_limit_multiplier: 1
@@ -28,6 +29,35 @@ source_limits:
   huggingface: 50
   huggingface_max: 100
   crossref_preprints: 200
+  europepmc_per_query: 60
+  openalex_per_query: 60
+  openreview_per_query: 60
+  crossref_works_per_venue: 30
+  pmlr_per_volume: 300
+  neurips_proceedings_per_year: 400
+  cvf_per_conference: 800
+  acl_anthology_per_venue: 300
+  rss_proceedings: 300
+proceedings:
+  pmlr:
+    ml:
+      - {volume: 202, venue: ICML, year: 2023}
+      - {volume: 235, venue: ICML, year: 2024}
+      - {volume: 238, venue: AISTATS, year: 2024}
+      - {volume: 258, venue: AISTATS, year: 2025}
+      - {volume: 244, venue: UAI, year: 2024}
+    frontier:
+      - {volume: 229, venue: CoRL, year: 2023}
+      - {volume: 270, venue: CoRL, year: 2024}
+  neurips_years: [2023, 2024]
+  cvf:
+    - {conference: CVPR, year: 2024}
+    - {conference: ICCV, year: 2023}
+  acl_anthology:
+    - {venue_code: acl, venue_label: ACL, year: 2024}
+    - {venue_code: acl, venue_label: ACL, year: 2025}
+    - {venue_code: emnlp, venue_label: EMNLP, year: 2024}
+  rss_year: 2026
 state:
   path: state/sent.json
   candidate_cache: state/candidates.json

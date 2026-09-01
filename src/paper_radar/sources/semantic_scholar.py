@@ -27,6 +27,7 @@ FIELDS = ",".join(
         "citationCount",
         "influentialCitationCount",
         "journal",
+        "authors",
     ]
 )
 
@@ -78,6 +79,7 @@ class SemanticScholarSource:
             arxiv_id=arxiv_id,
             biorxiv_doi=doi if doi and str(doi).lower().startswith("10.1101/") else None,
             semantic_scholar_id=item.get("paperId"),
+            authors=[a.get("name", "") for a in item.get("authors") or [] if a.get("name")],
             paper_url=item.get("url") or (f"https://doi.org/{doi}" if doi else ""),
             source=source,
             categories=list(item.get("fieldsOfStudy") or []),
@@ -101,6 +103,7 @@ class SemanticScholarSource:
                         "fields": FIELDS,
                     },
                     headers=self.headers,
+                    health_key="semantic_scholar.search",
                 )
                 papers.extend(self._paper(item) for item in payload.get("data", []))
             except Exception as exc:
@@ -118,6 +121,7 @@ class SemanticScholarSource:
                 f"{GRAPH_URL}/paper/search",
                 params={"query": title, "limit": 5, "fields": "title"},
                 headers=self.headers,
+                health_key="semantic_scholar.search",
             )
         except Exception as exc:
             LOGGER.exception("Could not resolve seed", extra={"title": title})
@@ -146,6 +150,7 @@ class SemanticScholarSource:
                     f"{RECOMMEND_URL}/papers/forpaper/{seed_id}",
                     params={"from": "recent", "limit": min(limit_per_seed, 500), "fields": FIELDS},
                     headers=self.headers,
+                    health_key="semantic_scholar.recommendations",
                 )
                 for rank, item in enumerate(payload.get("recommendedPapers", []), 1):
                     paper = self._paper(item, source="semantic_scholar_recommendation")
@@ -167,7 +172,10 @@ class SemanticScholarSource:
         try:
             self._throttle()
             item = self.client.get_json(
-                f"{GRAPH_URL}/paper/{identifier}", params={"fields": FIELDS}, headers=self.headers
+                f"{GRAPH_URL}/paper/{identifier}",
+                params={"fields": FIELDS},
+                headers=self.headers,
+                health_key="semantic_scholar.enrichment",
             )
             return self._paper(item)
         except Exception as exc:
@@ -191,6 +199,7 @@ class SemanticScholarSource:
                     params={"fields": FIELDS},
                     json={"ids": batch},
                     headers=self.headers,
+                    health_key="semantic_scholar.enrichment",
                 )
                 papers.extend(self._paper(item) for item in response.json() if item)
             except Exception as exc:
