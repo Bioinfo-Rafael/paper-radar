@@ -2978,6 +2978,215 @@
         "doi:10.1038/s42256-025-01149-w",
         "title:actorcriticnetworkswithanaloguememristorsmimickingrewardbasedlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.crmeth.2026.101423",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T22:57:06.811483+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.crmeth.2026.101423",
+      "venue": "Cell Reports Methods",
+      "title_key": "inferringcellspecificgeneregulatorynetworksbasedoncausalgraphembedding",
+      "identity_keys": [
+        "doi:10.1016/j.crmeth.2026.101423",
+        "pubmed:42061403",
+        "title:inferringcellspecificgeneregulatorynetworksbasedoncausalgraphembedding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.281661.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T22:57:07.151439+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.281661.125",
+      "venue": "Genome Research",
+      "title_key": "comicgtninfersdiseaseassociatedrarecellstatesfromsinglecellmultiomicdatausingdnasequenceaugmentedgraphtransformernetworks",
+      "identity_keys": [
+        "doi:10.1101/gr.281661.125",
+        "title:comicgtninfersdiseaseassociatedrarecellstatesfromsinglecellmultiomicdatausingdnasequenceaugmentedgraphtransformernetworks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s00285-026-02458-3",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T22:57:07.662318+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s00285-026-02458-3",
+      "venue": "Journal of mathematical biology",
+      "title_key": "modellingtheeffectsofbiologicalinterventioninadynamicalgenenetwork",
+      "identity_keys": [
+        "doi:10.1007/s00285-026-02458-3",
+        "pubmed:42678575",
+        "title:modellingtheeffectsofbiologicalinterventioninadynamicalgenenetwork"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tcbbio.2026.3729857",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T22:57:07.915093+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tcbbio.2026.3729857",
+      "venue": "IEEE transactions on computational biology and bioinformatics",
+      "title_key": "sccmiamutualinformationguideddecoupledlearningforrobustsinglecellcrossmodalintegration",
+      "identity_keys": [
+        "doi:10.1109/tcbbio.2026.3729857",
+        "pubmed:42678848",
+        "title:sccmiamutualinformationguideddecoupledlearningforrobustsinglecellcrossmodalintegration"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.10.01.679743",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-01T22:57:08.158098+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.10.01.679743",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "anovelapproachtoquantifyoutofdistributionuncertaintyinneuralanduniversaldifferentialequations",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.10.01.679743",
+        "title:anovelapproachtoquantifyoutofdistributionuncertaintyinneuralanduniversaldifferentialequations"
+      ]
+    },
+    {
+      "canonical_id": "title:onetransformerfitsalldistributionsinmultimodaldiffusionatscale",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T22:57:09.068987+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICML",
+      "title_key": "onetransformerfitsalldistributionsinmultimodaldiffusionatscale",
+      "identity_keys": [
+        "title:onetransformerfitsalldistributionsinmultimodaldiffusionatscale"
+      ]
+    },
+    {
+      "canonical_id": "title:robinrobustandinvisiblewatermarksfordiffusionmodelswithadversarialoptimization",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T22:57:09.334210+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "robinrobustandinvisiblewatermarksfordiffusionmodelswithadversarialoptimization",
+      "identity_keys": [
+        "title:robinrobustandinvisiblewatermarksfordiffusionmodelswithadversarialoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/978-3-031-70352-2_9",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T22:57:09.923272+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Proceedings of the European Conference on Machine Learning and Knowledge Discovery in Databases. pp. 143-160 (2024)",
+      "title_key": "adahatadaptivehardattentiontothetaskintaskincrementallearning",
+      "identity_keys": [
+        "arxiv:2608.01252",
+        "doi:10.1007/978-3-031-70352-2_9",
+        "title:adahatadaptivehardattentiontothetaskintaskincrementallearning"
+      ]
+    },
+    {
+      "canonical_id": "title:neuralarchitecturesearchfindsrobustmodelsbyknowledgedistillation",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T22:57:10.567494+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "UAI",
+      "title_key": "neuralarchitecturesearchfindsrobustmodelsbyknowledgedistillation",
+      "identity_keys": [
+        "title:neuralarchitecturesearchfindsrobustmodelsbyknowledgedistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.01407",
+      "category": "ml",
+      "first_sent_at": "2026-09-01T22:57:11.154760+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingfreeoutofdistributiondetectionforpathologywholeslideimages",
+      "identity_keys": [
+        "arxiv:2608.01407",
+        "title:trainingfreeoutofdistributiondetectionforpathologywholeslideimages"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2608.10915",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T22:57:11.911062+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2608.10915",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "combodiedagentsanewparadigmofhumancentricagenticai",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2608.10915",
+        "openalex:w7202285053",
+        "title:combodiedagentsanewparadigmofhumancentricagenticai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.01035",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T22:57:12.556907+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wamdiff2hierarchicalartodiffusiondistillationforhighlyefficientautonomousdrivingvla",
+      "identity_keys": [
+        "arxiv:2608.01035",
+        "title:wamdiff2hierarchicalartodiffusiondistillationforhighlyefficientautonomousdrivingvla"
+      ]
+    },
+    {
+      "canonical_id": "title:improvingpretrainedvisionlanguageactionpolicieswithmodelbasedsearch",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T22:57:12.815275+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL 2025 Workshop LEAP (Early-bird)",
+      "title_key": "improvingpretrainedvisionlanguageactionpolicieswithmodelbasedsearch",
+      "identity_keys": [
+        "title:improvingpretrainedvisionlanguageactionpolicieswithmodelbasedsearch"
+      ]
+    },
+    {
+      "canonical_id": "title:onetwovlaaunifiedvisionlanguageactionmodelwithadaptivereasoning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T22:57:13.117784+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL 2025 Robot Data Workshop",
+      "title_key": "onetwovlaaunifiedvisionlanguageactionmodelwithadaptivereasoning",
+      "identity_keys": [
+        "title:onetwovlaaunifiedvisionlanguageactionmodelwithadaptivereasoning"
+      ]
+    },
+    {
+      "canonical_id": "title:expansivelatentplanningforsparserewardofflinereinforcementlearning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-01T22:57:13.866658+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "expansivelatentplanningforsparserewardofflinereinforcementlearning",
+      "identity_keys": [
+        "title:expansivelatentplanningforsparserewardofflinereinforcementlearning"
+      ]
     }
   ]
 }
