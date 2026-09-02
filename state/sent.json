@@ -3586,6 +3586,78 @@
       "identity_keys": [
         "title:workarenatowardscompositionalplanningandreasoningbasedcommonknowledgeworktasks"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2608.26530",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T13:31:35.584836+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2608.26530",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "pilotintheloopliveselfimprovementforlonghorizonagents",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2608.26530",
+        "openalex:w7204601596",
+        "title:pilotintheloopliveselfimprovementforlonghorizonagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01215",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T13:31:36.013890+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "refactorvlaunsupervisedlibrarylearningoftypedmotorprograms",
+      "identity_keys": [
+        "arxiv:2609.01215",
+        "title:refactorvlaunsupervisedlibrarylearningoftypedmotorprograms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/jsac.2026.3660010",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T13:31:36.526539+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/jsac.2026.3660010",
+      "venue": "IEEE Journal on Selected Areas in Communications",
+      "title_key": "fromlargeaimodelstoagenticaiatutorialonfutureintelligentcommunications",
+      "identity_keys": [
+        "doi:10.1109/jsac.2026.3660010",
+        "openalex:w7127083419",
+        "title:fromlargeaimodelstoagenticaiatutorialonfutureintelligentcommunications"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3686265",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T13:31:37.150596+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3686265",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "largescalemultirobottaskplanningusingefficienthierarchicalreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3686265",
+        "title:largescalemultirobottaskplanningusingefficienthierarchicalreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.82",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T13:31:37.587668+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.82",
+      "venue": "ACL",
+      "title_key": "probingthemultiturnplanningcapabilitiesofllmsvia20questiongames",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.82",
+        "title:probingthemultiturnplanningcapabilitiesofllmsvia20questiongames"
+      ]
     }
   ]
 }
