@@ -3187,6 +3187,173 @@
       "identity_keys": [
         "title:expansivelatentplanningforsparserewardofflinereinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "pubmed:42680482",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-02T03:52:18.265926+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "BMB reports",
+      "title_key": "singlecellmultimodalanalysisrevealsenhancerandtranscriptionfactorregulatorydynamicsduringhumanipscderivedcardiomyocytedifferentiation",
+      "identity_keys": [
+        "pubmed:42680482",
+        "title:singlecellmultimodalanalysisrevealsenhancerandtranscriptionfactorregulatorydynamicsduringhumanipscderivedcardiomyocytedifferentiation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.phymed.2026.158750",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-02T03:52:18.556839+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.phymed.2026.158750",
+      "venue": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "title_key": "preclinicalevidenceandmultiomicsinsightsintotheprotectiveeffectsofepigallocatechin3gallateagainsthighfatdietinducedadversehealthoutcomes",
+      "identity_keys": [
+        "doi:10.1016/j.phymed.2026.158750",
+        "pubmed:42679470",
+        "title:preclinicalevidenceandmultiomicsinsightsintotheprotectiveeffectsofepigallocatechin3gallateagainsthighfatdietinducedadversehealthoutcomes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00873",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T03:52:19.519371+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "membershipinferenceinfinetuneddiffusionlanguagemodelsviatokenlevelmemorizationasymmetry",
+      "identity_keys": [
+        "arxiv:2609.00873",
+        "title:membershipinferenceinfinetuneddiffusionlanguagemodelsviatokenlevelmemorizationasymmetry"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3767308.3835398",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T03:52:19.858550+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cameraeditorcameracontrolledimageeditingviavideopriorsequentialmodeling",
+      "identity_keys": [
+        "arxiv:2609.01479",
+        "doi:10.1145/3767308.3835398",
+        "title:cameraeditorcameracontrolledimageeditingviavideopriorsequentialmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01491",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T03:52:21.223225+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "glossogenemergentlanguageincomplexmultiagentllminteractions",
+      "identity_keys": [
+        "arxiv:2609.01491",
+        "title:glossogenemergentlanguageincomplexmultiagentllminteractions"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1137/24m1652167",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T03:52:21.776270+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/24m1652167",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "stochasticgradientdescentforstreaminglinearandrectifiedlinearsystemswithadversarialcorruptions",
+      "identity_keys": [
+        "doi:10.1137/24m1652167",
+        "title:stochasticgradientdescentforstreaminglinearandrectifiedlinearsystemswithadversarialcorruptions"
+      ]
+    },
+    {
+      "canonical_id": "title:minimaxoptimaldensityestimationusingashallowgenerativemodelwithaonedimensionallatentvariable",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T03:52:22.284810+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "AISTATS",
+      "title_key": "minimaxoptimaldensityestimationusingashallowgenerativemodelwithaonedimensionallatentvariable",
+      "identity_keys": [
+        "title:minimaxoptimaldensityestimationusingashallowgenerativemodelwithaonedimensionallatentvariable"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00731",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T03:52:23.042483+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticempiricalassetpricingmethodologicalfoundations",
+      "identity_keys": [
+        "arxiv:2609.00731",
+        "title:agenticempiricalassetpricingmethodologicalfoundations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01552",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T03:52:23.259022+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canllmsdiscoverscientificlawsinrealandparallelworlds",
+      "identity_keys": [
+        "arxiv:2609.01552",
+        "title:canllmsdiscoverscientificlawsinrealandparallelworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00776",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T03:52:23.905008+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "solaristowardsinterfacesthataregeneratednotcoded",
+      "identity_keys": [
+        "arxiv:2609.00776",
+        "title:solaristowardsinterfacesthataregeneratednotcoded"
+      ]
+    },
+    {
+      "canonical_id": "title:intentawareplanninginheterogeneoustrafficviadistributedmultiagentreinforcementlearning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T03:52:24.895784+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "intentawareplanninginheterogeneoustrafficviadistributedmultiagentreinforcementlearning",
+      "identity_keys": [
+        "title:intentawareplanninginheterogeneoustrafficviadistributedmultiagentreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "title:multiagentreinforcementlearningwithhybridactionspaceforfreegaitmotionplanningofhexapodrobots",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T03:52:25.180083+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "multiagentreinforcementlearningwithhybridactionspaceforfreegaitmotionplanningofhexapodrobots",
+      "identity_keys": [
+        "title:multiagentreinforcementlearningwithhybridactionspaceforfreegaitmotionplanningofhexapodrobots"
+      ]
     }
   ]
 }
