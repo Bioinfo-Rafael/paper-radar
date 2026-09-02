@@ -3490,6 +3490,102 @@
       "identity_keys": [
         "title:rluxvlaaunifiedandefficientframeworkforreinforcementlearningofvisionlanguageactionmodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2608.23696",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T10:18:02.309461+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2608.23696",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "renormalizationgroupflowmatchingforscalablelocalgenerativemodeling",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2608.23696",
+        "openalex:w7204241573",
+        "title:renormalizationgroupflowmatchingforscalablelocalgenerativemodeling"
+      ]
+    },
+    {
+      "canonical_id": "openalex:w7172557719",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T10:18:02.635312+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv (Cornell University)",
+      "title_key": "geocore9btowardsgeoawaregenerativefoundationmodelsinearthobservation",
+      "identity_keys": [
+        "openalex:w7172557719",
+        "title:geocore9btowardsgeoawaregenerativefoundationmodelsinearthobservation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adt3093",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T10:18:03.484247+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adt3093",
+      "venue": "Science Robotics",
+      "title_key": "surgicalembodiedintelligenceforgeneralizedtaskautonomyinlaparoscopicrobotassistedsurgery",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adt3093",
+        "title:surgicalembodiedintelligenceforgeneralizedtaskautonomyinlaparoscopicrobotassistedsurgery"
+      ]
+    },
+    {
+      "canonical_id": "title:steerablevisionlanguageactionpoliciesforembodiedreasoningandhierarchicalcontrol",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T10:18:04.211365+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "steerablevisionlanguageactionpoliciesforembodiedreasoningandhierarchicalcontrol",
+      "identity_keys": [
+        "title:steerablevisionlanguageactionpoliciesforembodiedreasoningandhierarchicalcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01281",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T10:18:04.458498+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedskillsaunifiedframeworkfororchestratingtraininganddeployingvlaagents",
+      "identity_keys": [
+        "arxiv:2609.01281",
+        "title:embodiedskillsaunifiedframeworkfororchestratingtraininganddeployingvlaagents"
+      ]
+    },
+    {
+      "canonical_id": "title:spiresynergisticplanningimitationandreinforcementlearningforlonghorizonmanipulation",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T10:18:05.107436+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "spiresynergisticplanningimitationandreinforcementlearningforlonghorizonmanipulation",
+      "identity_keys": [
+        "title:spiresynergisticplanningimitationandreinforcementlearningforlonghorizonmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "title:workarenatowardscompositionalplanningandreasoningbasedcommonknowledgeworktasks",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T10:18:05.316219+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "workarenatowardscompositionalplanningandreasoningbasedcommonknowledgeworktasks",
+      "identity_keys": [
+        "title:workarenatowardscompositionalplanningandreasoningbasedcommonknowledgeworktasks"
+      ]
     }
   ]
 }
