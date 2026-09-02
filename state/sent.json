@@ -3354,6 +3354,142 @@
       "identity_keys": [
         "title:multiagentreinforcementlearningwithhybridactionspaceforfreegaitmotionplanningofhexapodrobots"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00901",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T07:33:58.925258+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "heliosfrommidnighttonooncontinuousoutdoorurbanscenerelighting",
+      "identity_keys": [
+        "arxiv:2609.00901",
+        "title:heliosfrommidnighttonooncontinuousoutdoorurbanscenerelighting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00923",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T07:33:59.288587+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onthefly3rtowardsrobustonline3dreconstructionwithfeedforward3rmodelsforlargescaleuavscenarios",
+      "identity_keys": [
+        "arxiv:2609.00923",
+        "title:onthefly3rtowardsrobustonline3dreconstructionwithfeedforward3rmodelsforlargescaleuavscenarios"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.00975",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T07:33:59.529995+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "monitorvlmv2adeployedvisionlanguageframeworkforrealtimesafetyviolationdetection",
+      "identity_keys": [
+        "arxiv:2608.00975",
+        "title:monitorvlmv2adeployedvisionlanguageframeworkforrealtimesafetyviolationdetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01091",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T07:33:59.952705+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "subliminallearningastraitdirectiondriftamechanismandtargetedcontrolundersftdistillation",
+      "identity_keys": [
+        "arxiv:2609.01091",
+        "title:subliminallearningastraitdirectiondriftamechanismandtargetedcontrolundersftdistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.01423",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T07:34:00.244101+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scoringrulesstatisticalandstrategicalignmentfortextevaluationmetrics",
+      "identity_keys": [
+        "arxiv:2608.01423",
+        "title:scoringrulesstatisticalandstrategicalignmentfortextevaluationmetrics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01526",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T07:34:00.774345+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evoscmscientificbeliefrevisionthroughcausalmodelevolutionandexperimentation",
+      "identity_keys": [
+        "arxiv:2609.01526",
+        "title:evoscmscientificbeliefrevisionthroughcausalmodelevolutionandexperimentation"
+      ]
+    },
+    {
+      "canonical_id": "title:selfimprovingrobotsendtoendautonomousvisuomotorreinforcementlearning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T07:34:00.962191+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "selfimprovingrobotsendtoendautonomousvisuomotorreinforcementlearning",
+      "identity_keys": [
+        "title:selfimprovingrobotsendtoendautonomousvisuomotorreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "title:kinderaphysicalreasoningbenchmarkforrobotlearningandplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T07:34:01.348673+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "kinderaphysicalreasoningbenchmarkforrobotlearningandplanning",
+      "identity_keys": [
+        "title:kinderaphysicalreasoningbenchmarkforrobotlearningandplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:reinforcementlearningenablesrealtimeplanningandcontrolofagilemaneuversforsoftrobotarms",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T07:34:01.620249+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "reinforcementlearningenablesrealtimeplanningandcontrolofagilemaneuversforsoftrobotarms",
+      "identity_keys": [
+        "title:reinforcementlearningenablesrealtimeplanningandcontrolofagilemaneuversforsoftrobotarms"
+      ]
+    },
+    {
+      "canonical_id": "title:rluxvlaaunifiedandefficientframeworkforreinforcementlearningofvisionlanguageactionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T07:34:01.786758+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "rluxvlaaunifiedandefficientframeworkforreinforcementlearningofvisionlanguageactionmodels",
+      "identity_keys": [
+        "title:rluxvlaaunifiedandefficientframeworkforreinforcementlearningofvisionlanguageactionmodels"
+      ]
     }
   ]
 }
