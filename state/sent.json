@@ -3658,6 +3658,179 @@
         "doi:10.18653/v1/2024.acl-long.82",
         "title:probingthemultiturnplanningcapabilitiesofllmsvia20questiongames"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-024-02471-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-02T22:58:28.745996+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-024-02471-8",
+      "venue": "Nature Methods",
+      "title_key": "statisticalinferencewithamanifoldconstrainedrnavelocitymodeluncoverscellcyclespeedmodulations",
+      "identity_keys": [
+        "doi:10.1038/s41592-024-02471-8",
+        "title:statisticalinferencewithamanifoldconstrainedrnavelocitymodeluncoverscellcyclespeedmodulations"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-026-03097-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-02T22:58:29.198364+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-026-03097-8",
+      "venue": "Nature Methods",
+      "title_key": "ageneralizablehicfoundationmodelforchromatinarchitecturesinglecellandmultiomicsanalysisacrossspecies",
+      "identity_keys": [
+        "doi:10.1038/s41592-026-03097-8",
+        "title:ageneralizablehicfoundationmodelforchromatinarchitecturesinglecellandmultiomicsanalysisacrossspecies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1183/23120541.01444-2025",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-02T22:58:29.611817+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1183/23120541.01444-2025",
+      "venue": "ERJ open research",
+      "title_key": "multiomicscausalinferenceofchildhoodasthmatriggeredbyambientparticulatematter",
+      "identity_keys": [
+        "doi:10.1183/23120541.01444-2025",
+        "pubmed:42683229",
+        "title:multiomicscausalinferenceofchildhoodasthmatriggeredbyambientparticulatematter"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.01972",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T22:58:30.284370+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "musicrestorationvialatentoperatoroptimizationanddiffusionmodelpriors",
+      "identity_keys": [
+        "arxiv:2608.01972",
+        "title:musicrestorationvialatentoperatoroptimizationanddiffusionmodelpriors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.02937",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T22:58:30.463942+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scorefieldneuralinversescatteringwithscorebasedgenerativepriors",
+      "identity_keys": [
+        "arxiv:2608.02937",
+        "title:scorefieldneuralinversescatteringwithscorebasedgenerativepriors"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41598-025-24326-8",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T22:58:30.896650+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41598-025-24326-8",
+      "venue": "Scientific Reports",
+      "title_key": "fraudulentaccountdetectioninsocialmediausinghybriddeeptransformermodelandhyperparameteroptimization",
+      "identity_keys": [
+        "doi:10.1038/s41598-025-24326-8",
+        "openalex:w4415816521",
+        "pubmed:41184473",
+        "title:fraudulentaccountdetectioninsocialmediausinghybriddeeptransformermodelandhyperparameteroptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.02073",
+      "category": "ml",
+      "first_sent_at": "2026-09-02T22:58:31.335229+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acceleratingevolutionarystrategyviaraoblackwellizingrealizationofuncertaininput",
+      "identity_keys": [
+        "arxiv:2608.02073",
+        "title:acceleratingevolutionarystrategyviaraoblackwellizingrealizationofuncertaininput"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.02775",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T22:58:32.014555+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsanewparadigmofscientificdiscoverywithsocializedartificialintelligence",
+      "identity_keys": [
+        "arxiv:2608.02775",
+        "title:towardsanewparadigmofscientificdiscoverywithsocializedartificialintelligence"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01262-4",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T22:58:32.265909+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01262-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "guidinggenerativemodelstouncoverdiverseandnovelcrystalsviareinforcementlearning",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01262-4",
+        "title:guidinggenerativemodelstouncoverdiverseandnovelcrystalsviareinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.02109",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T22:58:32.489888+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "samesemanticsdifferentpathsselfimprovingalignmentforvisiontextcompression",
+      "identity_keys": [
+        "arxiv:2608.02109",
+        "title:samesemanticsdifferentpathsselfimprovingalignmentforvisiontextcompression"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pone.0342182",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T22:58:33.006398+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pone.0342182",
+      "venue": "PLoS ONE",
+      "title_key": "artificialintelligenceagentsinhealthcareresearchascopingreview",
+      "identity_keys": [
+        "doi:10.1371/journal.pone.0342182",
+        "openalex:w7128548038",
+        "pubmed:41666194",
+        "title:artificialintelligenceagentsinhealthcareresearchascopingreview"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01058",
+      "category": "frontier",
+      "first_sent_at": "2026-09-02T22:58:33.238815+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ariserlagenticrubricgroundediterativeselfevolutionwithreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.01058",
+        "title:ariserlagenticrubricgroundediterativeselfevolutionwithreinforcementlearning"
+      ]
     }
   ]
 }
