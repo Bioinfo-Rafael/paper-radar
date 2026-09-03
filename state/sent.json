@@ -3831,6 +3831,146 @@
         "arxiv:2609.01058",
         "title:ariserlagenticrubricgroundediterativeselfevolutionwithreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02186",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T03:46:06.666508+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "quantummeanflowsingleshotgenerativesamplingonnisqhardware",
+      "identity_keys": [
+        "arxiv:2609.02186",
+        "title:quantummeanflowsingleshotgenerativesamplingonnisqhardware"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02644",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T03:46:07.157567+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtoattractandrepeldualqualitymarginlearningforfacerecognitiondqmface",
+      "identity_keys": [
+        "arxiv:2609.02644",
+        "title:learningtoattractandrepeldualqualitymarginlearningforfacerecognitiondqmface"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02170",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T03:46:07.398575+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dmrldocumentmediatedreinforcementlearningforskilloptimizationinadvertisingrecommendation",
+      "identity_keys": [
+        "arxiv:2609.02170",
+        "title:dmrldocumentmediatedreinforcementlearningforskilloptimizationinadvertisingrecommendation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02194",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T03:46:07.639653+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtheconstitutivebehaviorofmaterialsvianeuraloperatorsandcausalattentioncasestudiesinplasticityanddamage",
+      "identity_keys": [
+        "arxiv:2609.02194",
+        "title:learningtheconstitutivebehaviorofmaterialsvianeuraloperatorsandcausalattentioncasestudiesinplasticityanddamage"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02275",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T03:46:08.163110+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dolargelanguagemodelscapturethediversityintheirtrainingdata",
+      "identity_keys": [
+        "arxiv:2609.02275",
+        "title:dolargelanguagemodelscapturethediversityintheirtrainingdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02217",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T03:46:08.863514+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillglowproceduralfamilyskillconsolidationforselfimprovingagentsonlonghorizontaskstreams",
+      "identity_keys": [
+        "arxiv:2609.02217",
+        "title:skillglowproceduralfamilyskillconsolidationforselfimprovingagentsonlonghorizontaskstreams"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02341",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T03:46:09.349622+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardszeroshottransferacrossembodimentsfordrivingvlas",
+      "identity_keys": [
+        "arxiv:2609.02341",
+        "title:towardszeroshottransferacrossembodimentsfordrivingvlas"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adq1703",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T03:46:09.747537+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adq1703",
+      "venue": "Science Robotics",
+      "title_key": "virtualelastoplasticrobotcompliancetoactiveenvironments",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adq1703",
+        "title:virtualelastoplasticrobotcompliancetoactiveenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ady2869",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T03:46:10.034552+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ady2869",
+      "venue": "Science Robotics",
+      "title_key": "visualtactilepretrainingandonlinemultitasklearningforhumanlikemanipulationdexterity",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ady2869",
+        "title:visualtactilepretrainingandonlinemultitasklearningforhumanlikemanipulationdexterity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01896",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T03:46:10.957552+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "outageditagenerativefoundationmodelforpoweroutageforecastingandscenariosimulation",
+      "identity_keys": [
+        "arxiv:2609.01896",
+        "title:outageditagenerativefoundationmodelforpoweroutageforecastingandscenariosimulation"
+      ]
     }
   ]
 }
