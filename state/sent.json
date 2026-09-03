@@ -4208,6 +4208,192 @@
         "doi:10.18653/v1/2025.acl-long.39",
         "title:escapebenchtowardsadvancingcreativeintelligenceoflanguagemodelagents"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.09.03.747958",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-03T22:55:53.685772+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.09.03.747958",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "divisionresolvedinferenceofflowandtrajectoriesinproliferatingcellpopulations",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.09.03.747958",
+        "title:divisionresolvedinferenceofflowandtrajectoriesinproliferatingcellpopulations"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2024.08.29.610389",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-03T22:55:53.877655+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2024.08.29.610389",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "variationalinferenceofsinglecelltimeseries",
+      "identity_keys": [
+        "biorxiv:10.1101/2024.08.29.610389",
+        "title:variationalinferenceofsinglecelltimeseries"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-73948-7",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-03T22:55:54.079816+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-73948-7",
+      "venue": null,
+      "title_key": "inferenceofspatialchromatinaccessibilityviaintegrationofspatialtranscriptomicsandsinglecellmultiomicsdata",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-73948-7",
+        "pubmed:42243114",
+        "title:inferenceofspatialchromatinaccessibilityviaintegrationofspatialtranscriptomicsandsinglecellmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.03929",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T22:55:54.623901+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latentrewardregistersfordiffusionpreferencealignment",
+      "identity_keys": [
+        "arxiv:2608.03929",
+        "title:latentrewardregistersfordiffusionpreferencealignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.03379",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T22:55:54.816298+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "residualflowmatchingwithdynamiccrossinteractionfor3dmultipersonmotionprediction",
+      "identity_keys": [
+        "arxiv:2608.03379",
+        "title:residualflowmatchingwithdynamiccrossinteractionfor3dmultipersonmotionprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.03855",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T22:55:55.055075+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bisemanticchemicalembedderforjointrepresentationlearningofsmilesandnaturallanguage",
+      "identity_keys": [
+        "arxiv:2608.03855",
+        "title:bisemanticchemicalembedderforjointrepresentationlearningofsmilesandnaturallanguage"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04075",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T22:55:55.195838+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spatiotemporalgraphtransformerfortrafficintelligenceinedgecomputing",
+      "identity_keys": [
+        "arxiv:2608.04075",
+        "title:spatiotemporalgraphtransformerfortrafficintelligenceinedgecomputing"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.21040074",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T22:56:40.666258+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Proceedings of the 19th International Conference on Educational Data Mining, 353-364, 2026",
+      "title_key": "unvampneuralknowledgetracingwithvariationalregularizationoflatentknowledgedynamics",
+      "identity_keys": [
+        "arxiv:2608.03811",
+        "doi:10.5281/zenodo.21040074",
+        "title:unvampneuralknowledgetracingwithvariationalregularizationoflatentknowledgedynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-10644-y",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T22:56:41.270210+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-10644-y",
+      "venue": "Nature",
+      "title_key": "acceleratingscientificdiscoverywithcoscientist",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-10644-y",
+        "openalex:w4416043407",
+        "pubmed:42156544",
+        "title:acceleratingscientificdiscoverywithcoscientist"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/rssdat/udag003",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T22:56:41.928389+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/rssdat/udag003",
+      "venue": "RSS: Data Science and Artificial Intelligence",
+      "title_key": "aiforsciencereframingaisroleindiscovery",
+      "identity_keys": [
+        "doi:10.1093/rssdat/udag003",
+        "title:aiforsciencereframingaisroleindiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01153-0",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T22:56:42.127618+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01153-0",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "metadesigningquantumexperimentswithlanguagemodels",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01153-0",
+        "title:metadesigningquantumexperimentswithlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.03682",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T22:56:42.573471+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phyairealtimephysicalaiattheedgescalablerolloutsinthecloud",
+      "identity_keys": [
+        "arxiv:2608.03682",
+        "title:phyairealtimephysicalaiattheedgescalablerolloutsinthecloud"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.03924",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T22:56:42.951669+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "etaanewagenticparadigmforembodiedtasks",
+      "identity_keys": [
+        "arxiv:2608.03924",
+        "title:etaanewagenticparadigmforembodiedtasks"
+      ]
     }
   ]
 }
