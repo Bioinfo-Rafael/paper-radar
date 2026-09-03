@@ -4138,6 +4138,76 @@
         "doi:10.18653/v1/2024.emnlp-main.180",
         "title:bcproverbackwardchainingproverforformaltheoremproving"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02253",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T13:28:23.826276+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "apexdistillationofagentproceduralexperienceforadaptivedeepresearchquestionanswering",
+      "identity_keys": [
+        "arxiv:2609.02253",
+        "title:apexdistillationofagentproceduralexperienceforadaptivedeepresearchquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.7",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T13:28:24.353748+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.7",
+      "venue": "ACL",
+      "title_key": "bitdistillerunleashingthepotentialofsub4bitllmsviaselfdistillation",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.7",
+        "title:bitdistillerunleashingthepotentialofsub4bitllmsviaselfdistillation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.281",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T13:28:24.592668+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.281",
+      "venue": "EMNLP",
+      "title_key": "craftingpersonalizedagentsthroughretrievalaugmentedgenerationoneditablememorygraphs",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.281",
+        "title:craftingpersonalizedagentsthroughretrievalaugmentedgenerationoneditablememorygraphs"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.84",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T13:28:24.801579+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.84",
+      "venue": "ACL",
+      "title_key": "disentanglingmemoryandreasoningabilityinlargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.84",
+        "title:disentanglingmemoryandreasoningabilityinlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.39",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T13:28:25.071629+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.39",
+      "venue": "ACL",
+      "title_key": "escapebenchtowardsadvancingcreativeintelligenceoflanguagemodelagents",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.39",
+        "title:escapebenchtowardsadvancingcreativeintelligenceoflanguagemodelagents"
+      ]
     }
   ]
 }
