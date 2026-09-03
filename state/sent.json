@@ -4068,6 +4068,76 @@
         "arxiv:2609.02350",
         "title:lookstepefficientvisionlanguagenavigationwithlinguisticforesightandeventdrivenmemory"
       ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.223",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T10:27:26.586546+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.223",
+      "venue": "EMNLP",
+      "title_key": "advancinglargelanguagemodelattributionthroughselfimproving",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.223",
+        "title:advancinglargelanguagemodelattributionthroughselfimproving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02688",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T10:27:26.992912+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromproxylearningtodrivingdecisionsatransferbasedframeworkforevaluatingfutureawareautonomousdrivingplanners",
+      "identity_keys": [
+        "arxiv:2609.02688",
+        "title:fromproxylearningtodrivingdecisionsatransferbasedframeworkforevaluatingfutureawareautonomousdrivingplanners"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02046",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T10:27:27.179837+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "modelingwhatchangessparseresidualworldmodelsforobjectcentricmanipulation",
+      "identity_keys": [
+        "arxiv:2609.02046",
+        "title:modelingwhatchangessparseresidualworldmodelsforobjectcentricmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02074",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T10:27:27.536072+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chimecreditawarehierarchicalmemoryevolutionforlonghorizonagenticplanning",
+      "identity_keys": [
+        "arxiv:2609.02074",
+        "title:chimecreditawarehierarchicalmemoryevolutionforlonghorizonagenticplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.180",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T10:27:27.757554+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.180",
+      "venue": "EMNLP",
+      "title_key": "bcproverbackwardchainingproverforformaltheoremproving",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.180",
+        "title:bcproverbackwardchainingproverforformaltheoremproving"
+      ]
     }
   ]
 }
