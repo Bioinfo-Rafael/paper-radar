@@ -3971,6 +3971,103 @@
         "arxiv:2609.01896",
         "title:outageditagenerativefoundationmodelforpoweroutageforecastingandscenariosimulation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2024.09.005",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-03T07:38:46.404000+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2024.09.005",
+      "venue": "Cell Systems",
+      "title_key": "spotgfdenoisingspatiallyresolvedtranscriptomicsdatausinganoptimaltransportbasedgenefilteringalgorithm",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2024.09.005",
+        "title:spotgfdenoisingspatiallyresolvedtranscriptomicsdatausinganoptimaltransportbasedgenefilteringalgorithm"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01871",
+      "category": "ml",
+      "first_sent_at": "2026-09-03T07:38:47.271531+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latentunifiedsmoothhamiltoniansforexcitedstatechemistry",
+      "identity_keys": [
+        "arxiv:2609.01871",
+        "title:latentunifiedsmoothhamiltoniansforexcitedstatechemistry"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01861",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T07:38:47.993169+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beliefcalibratedoptimizationanexplicitworldmodelforagenticoptimization",
+      "identity_keys": [
+        "arxiv:2609.01861",
+        "title:beliefcalibratedoptimizationanexplicitworldmodelforagenticoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adq4198",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T07:38:48.292857+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adq4198",
+      "venue": "Science Robotics",
+      "title_key": "harnessingtheoloidshapeinmagneticallydrivenrobotstoenablehighresolutionultrasoundimaging",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adq4198",
+        "title:harnessingtheoloidshapeinmagneticallydrivenrobotstoenablehighresolutionultrasoundimaging"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02546",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T07:38:48.710964+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zetaacontrolledstudyofzeroshotcrossembodimentvlatransferfortabletopmanipulation",
+      "identity_keys": [
+        "arxiv:2609.02546",
+        "title:zetaacontrolledstudyofzeroshotcrossembodimentvlatransferfortabletopmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "title:taskrobustnessviarelabellingvisionactionrobotdata",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T07:38:48.959127+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL 2025 Robot Data Workshop",
+      "title_key": "taskrobustnessviarelabellingvisionactionrobotdata",
+      "identity_keys": [
+        "title:taskrobustnessviarelabellingvisionactionrobotdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02350",
+      "category": "frontier",
+      "first_sent_at": "2026-09-03T07:38:49.465246+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lookstepefficientvisionlanguagenavigationwithlinguisticforesightandeventdrivenmemory",
+      "identity_keys": [
+        "arxiv:2609.02350",
+        "title:lookstepefficientvisionlanguagenavigationwithlinguisticforesightandeventdrivenmemory"
+      ]
     }
   ]
 }
