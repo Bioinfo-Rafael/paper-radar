@@ -4872,6 +4872,76 @@
         "doi:10.18653/v1/2024.acl-long.262",
         "title:planninglikehumanadualprocessframeworkfordialogueplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03294",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:03.573115+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latentenergyactionplanningwithworldmodels",
+      "identity_keys": [
+        "arxiv:2609.03294",
+        "title:latentenergyactionplanningwithworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03565",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:03.793864+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardphysicallygroundedjepaworldmodelsforgoalconditionedroboticplanning",
+      "identity_keys": [
+        "arxiv:2609.03565",
+        "title:towardphysicallygroundedjepaworldmodelsforgoalconditionedroboticplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03753",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:04.441292+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "simskillalifelonglearningaiagentforautonomousmasteryoftrafficsimulation",
+      "identity_keys": [
+        "arxiv:2609.03753",
+        "title:simskillalifelonglearningaiagentforautonomousmasteryoftrafficsimulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.17",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:04.653615+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.17",
+      "venue": "ACL",
+      "title_key": "sportsmetricsblendingtextandnumericaldatatounderstandinformationfusioninllms",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.17",
+        "title:sportsmetricsblendingtextandnumericaldatatounderstandinformationfusioninllms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.150",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:04.950662+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.150",
+      "venue": "ACL",
+      "title_key": "toolhopaquerydrivenbenchmarkforevaluatinglargelanguagemodelsinmultihoptooluse",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.150",
+        "title:toolhopaquerydrivenbenchmarkforevaluatinglargelanguagemodelsinmultihoptooluse"
+      ]
     }
   ]
 }
