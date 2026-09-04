@@ -4732,6 +4732,146 @@
         "doi:10.18653/v1/2024.acl-long.272",
         "title:opengroundedplanningchallengesandbenchmarkconstruction"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04050",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:13:29.620655+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fm4wififlowmatchingformultiapcoordinationindensedeploymentsofbeyondwifi8networks",
+      "identity_keys": [
+        "arxiv:2608.04050",
+        "title:fm4wififlowmatchingformultiapcoordinationindensedeploymentsofbeyondwifi8networks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03554",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:13:29.884191+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "widewildcardinferencewithdynamicexpansionforcrossmodalgenerativeretrieval",
+      "identity_keys": [
+        "arxiv:2609.03554",
+        "title:widewildcardinferencewithdynamicexpansionforcrossmodalgenerativeretrieval"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04010",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:13:30.005970+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "parvlparallelscalingandexpandablecomputeallocationformultimodalllms",
+      "identity_keys": [
+        "arxiv:2608.04010",
+        "title:parvlparallelscalingandexpandablecomputeallocationformultimodalllms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03923",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:14:15.457519+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "speakformegivingllmsthesituationalawarenesstoparticipateinameeting",
+      "identity_keys": [
+        "arxiv:2609.03923",
+        "title:speakformegivingllmsthesituationalawarenesstoparticipateinameeting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04073",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:14:15.876273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fbidadaptivepersonalizedfederatedlearningforrobustoutofdistributionattackdetectioniniotnetworks",
+      "identity_keys": [
+        "arxiv:2608.04073",
+        "title:fbidadaptivepersonalizedfederatedlearningforrobustoutofdistributionattackdetectioniniotnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03927",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:14:16.457068+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Transactions on Machine Learning Research (2026)",
+      "title_key": "towardunifiedrobotlearningbridgingrepresentationvisionlanguageactionandworldmodels",
+      "identity_keys": [
+        "arxiv:2609.03927",
+        "title:towardunifiedrobotlearningbridgingrepresentationvisionlanguageactionandworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03681",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:14:16.592214+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wiseworldmodelguidedimaginationschedulingforefficientposttrainingofvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2609.03681",
+        "title:wiseworldmodelguidedimaginationschedulingforefficientposttrainingofvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04193",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:14:16.899125+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "giftguidedintermediatefeaturetrainingviaactionorientedstructuralsupervisionforroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2609.04193",
+        "title:giftguidedintermediatefeaturetrainingviaactionorientedstructuralsupervisionforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.92",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:15:02.213702+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.92",
+      "venue": "ACL",
+      "title_key": "persuadingacrossdiversedomainsadatasetandpersuasionlargelanguagemodel",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.92",
+        "title:persuadingacrossdiversedomainsadatasetandpersuasionlargelanguagemodel"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.262",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:15:02.398540+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.262",
+      "venue": "ACL",
+      "title_key": "planninglikehumanadualprocessframeworkfordialogueplanning",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.262",
+        "title:planninglikehumanadualprocessframeworkfordialogueplanning"
+      ]
     }
   ]
 }
