@@ -4394,6 +4394,160 @@
         "arxiv:2608.03924",
         "title:etaanewagenticparadigmforembodiedtasks"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.30.748098",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T03:48:29.056334+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.30.748098",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "ageasenablestimeagnosticcellfateinferencefromsinglecellandspatialmultiomicsdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.30.748098",
+        "title:ageasenablestimeagnosticcellfateinferencefromsinglecellandspatialmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03858",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:29.850426+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "highdimensionallearningdynamicsofattentionindexedmodels",
+      "identity_keys": [
+        "arxiv:2609.03858",
+        "title:highdimensionallearningdynamicsofattentionindexedmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04268",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:30.460372+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thefairnesscollapsephenomenonbiasamplificationinlanguagemodelstrainedonsyntheticdata",
+      "identity_keys": [
+        "arxiv:2608.04268",
+        "title:thefairnesscollapsephenomenonbiasamplificationinlanguagemodelstrainedonsyntheticdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03446",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:30.738867+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "preservingknowledgeacrossspaceandtimeforcontinualvideodeepfakedetection",
+      "identity_keys": [
+        "arxiv:2609.03446",
+        "title:preservingknowledgeacrossspaceandtimeforcontinualvideodeepfakedetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04206",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:31.409322+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromnonconvexselfconcordantregularizationtoscalablequasinewtontrainingofpinns",
+      "identity_keys": [
+        "arxiv:2608.04206",
+        "title:fromnonconvexselfconcordantregularizationtoscalablequasinewtontrainingofpinns"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03943",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:31.950058+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "morecriticismdoesnotmakeabetterreviewequireviewr",
+      "identity_keys": [
+        "arxiv:2609.03943",
+        "title:morecriticismdoesnotmakeabetterreviewequireviewr"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03621",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:33.198619+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acomputablerepresentationofthephysicallaboratoryenablesverifiableworkflows",
+      "identity_keys": [
+        "arxiv:2609.03621",
+        "title:acomputablerepresentationofthephysicallaboratoryenablesverifiableworkflows"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03602",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:33.722010+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "svwamanefficientsurroundviewworldactionmodelforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.03602",
+        "title:svwamanefficientsurroundviewworldactionmodelforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.98",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:34.172425+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.98",
+      "venue": "ACL",
+      "title_key": "inthewildaudiospatializationwithflexibletextguidedlocalization",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.98",
+        "title:inthewildaudiospatializationwithflexibletextguidedlocalization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03906",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:35.349033+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "revisitingtopologicalgraphsformacroactionbasedclosedloopreinforcementlearningofvisionlanguagenavigationincontinuousenvironment",
+      "identity_keys": [
+        "arxiv:2609.03906",
+        "title:revisitingtopologicalgraphsformacroactionbasedclosedloopreinforcementlearningofvisionlanguagenavigationincontinuousenvironment"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.222",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:35.599702+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.222",
+      "venue": "ACL",
+      "title_key": "learningglobalcontrollerinlatentspaceforparameterefficientfinetuning",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.222",
+        "title:learningglobalcontrollerinlatentspaceforparameterefficientfinetuning"
+      ]
     }
   ]
 }
