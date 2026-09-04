@@ -4548,6 +4548,190 @@
         "doi:10.18653/v1/2024.acl-long.222",
         "title:learningglobalcontrollerinlatentspaceforparameterefficientfinetuning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.isci.2026.116619",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T07:39:32.600445+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.isci.2026.116619",
+      "venue": null,
+      "title_key": "tensornetworkbasedgeneregulatorynetworkinferenceforsinglecelltranscriptomicdata",
+      "identity_keys": [
+        "doi:10.1016/j.isci.2026.116619",
+        "pubmed:42436999",
+        "title:tensornetworkbasedgeneregulatorynetworkinferenceforsinglecelltranscriptomicdata"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.31.747784",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T07:39:32.844220+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.31.747784",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "screpalatentspaceselfdistilledfoundationmodelforsinglecellrepresentationlearning",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.31.747784",
+        "title:screpalatentspaceselfdistilledfoundationmodelforsinglecellrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag480",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T07:39:33.077556+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag480",
+      "venue": null,
+      "title_key": "cscninferenceofcellspecificcausalnetworksusingsinglecellrnaseqdata",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag480",
+        "pubmed:42378449",
+        "title:cscninferenceofcellspecificcausalnetworksusingsinglecellrnaseqdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03533",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:34.200241+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coupledscalingarepresentationalaccessibilityframeworkforneuralscalinglaws",
+      "identity_keys": [
+        "arxiv:2609.03533",
+        "title:coupledscalingarepresentationalaccessibilityframeworkforneuralscalinglaws"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03534",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:34.987727+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "truncgradgsimproved3dgaussiansplattingviatruncatedgradientupdates",
+      "identity_keys": [
+        "arxiv:2609.03534",
+        "title:truncgradgsimproved3dgaussiansplattingviatruncatedgradientupdates"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03407",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:35.384881+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "caughtinthestorynarrativecaptivityinmultiturnllmsconversation",
+      "identity_keys": [
+        "arxiv:2609.03407",
+        "title:caughtinthestorynarrativecaptivityinmultiturnllmsconversation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04054",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:35.663777+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "modalityagreementandconflictawareprototypehypergraphlearningformultimodalintentunderstanding",
+      "identity_keys": [
+        "arxiv:2608.04054",
+        "title:modalityagreementandconflictawareprototypehypergraphlearningformultimodalintentunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.03573",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:35.916361+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sftconflictsrlcoexistsatheoreticalandempiricalanalysisofmultitasklearningforllms",
+      "identity_keys": [
+        "arxiv:2608.03573",
+        "title:sftconflictsrlcoexistsatheoreticalandempiricalanalysisofmultitasklearningforllms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03774",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:36.542606+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingworldmodelsforsafetycriticalembodiedsystems",
+      "identity_keys": [
+        "arxiv:2609.03774",
+        "title:rethinkingworldmodelsforsafetycriticalembodiedsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03834",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:36.752335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "semanticbayesianworldmodels",
+      "identity_keys": [
+        "arxiv:2609.03834",
+        "title:semanticbayesianworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04070",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:37.179975+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuousactionsfromdiscretemindslatentalignedplanningforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.04070",
+        "title:continuousactionsfromdiscretemindslatentalignedplanningforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.20",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:38.334827+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.20",
+      "venue": "EMNLP",
+      "title_key": "learningplanningbasedreasoningbytrajectoriescollectionandprocessrewardsynthesizing",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.20",
+        "title:learningplanningbasedreasoningbytrajectoriescollectionandprocessrewardsynthesizing"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.272",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:38.676738+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.272",
+      "venue": "ACL",
+      "title_key": "opengroundedplanningchallengesandbenchmarkconstruction",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.272",
+        "title:opengroundedplanningchallengesandbenchmarkconstruction"
+      ]
     }
   ]
 }
