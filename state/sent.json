@@ -4942,6 +4942,174 @@
         "doi:10.18653/v1/2025.acl-long.150",
         "title:toolhopaquerydrivenbenchmarkforevaluatinglargelanguagemodelsinmultihoptooluse"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2026.101591",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T22:40:36.353200+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2026.101591",
+      "venue": "Cell Systems",
+      "title_key": "modelingchimericantigenreceptorresponseatthesinglecelllevelwithconditionaloptimaltransport",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2026.101591",
+        "title:modelingchimericantigenreceptorresponseatthesinglecelllevelwithconditionaloptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.10.03.680287",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T22:40:36.897048+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.10.03.680287",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "heterogeneousimmunerecoveryafterviralresponsethroughadynamicalmodeloffeedbackdrivenpersistenceandclearance",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.10.03.680287",
+        "title:heterogeneousimmunerecoveryafterviralresponsethroughadynamicalmodeloffeedbackdrivenpersistenceandclearance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04655",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:37.897124+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "csgenamultidomaincurvilinearstructuregenerationmodelviahierarchicalmultimodaldiffusion",
+      "identity_keys": [
+        "arxiv:2608.04655",
+        "title:csgenamultidomaincurvilinearstructuregenerationmodelviahierarchicalmultimodaldiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04805",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:38.857664+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mgsbmanifoldgatedsignaturebranchpressuredomainbaselinearchitecturefortwophasepipelineflowsunderdistributionalshift",
+      "identity_keys": [
+        "arxiv:2608.04805",
+        "title:mgsbmanifoldgatedsignaturebranchpressuredomainbaselinearchitecturefortwophasepipelineflowsunderdistributionalshift"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04680",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:39.072698+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moatmodelagnosticrandomizedtransformationsforpreventingefficiencydegradationattacksonvits",
+      "identity_keys": [
+        "arxiv:2608.04680",
+        "title:moatmodelagnosticrandomizedtransformationsforpreventingefficiencydegradationattacksonvits"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04772",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:39.518146+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "guidelineasoraclezeroannotationtrainingofanophthalmictelephonetriageagent",
+      "identity_keys": [
+        "arxiv:2608.04772",
+        "title:guidelineasoraclezeroannotationtrainingofanophthalmictelephonetriageagent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16930",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:39.808124+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "emanoptimizationdrivencapacitygrowththroughpathemergenceinmultitasklearning",
+      "identity_keys": [
+        "arxiv:2608.16930",
+        "title:emanoptimizationdrivencapacitygrowththroughpathemergenceinmultitasklearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04872",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:40.661652+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asrselfevolvingagenticllmsforsymbolicregressionviahierarchicalcoordination",
+      "identity_keys": [
+        "arxiv:2608.04872",
+        "title:asrselfevolvingagenticllmsforsymbolicregressionviahierarchicalcoordination"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05085",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:40.931076+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "capabilitygatedplanningcosttogoaldiscoveryandthelimitsofmyopicexperimentselection",
+      "identity_keys": [
+        "arxiv:2608.05085",
+        "title:capabilitygatedplanningcosttogoaldiscoveryandthelimitsofmyopicexperimentselection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04964",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:41.404121+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldcycleselfverifiablereinforcementlearningforlonghorizonvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2608.04964",
+        "title:worldcycleselfverifiablereinforcementlearningforlonghorizonvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04765",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:41.996984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "explicitlanguagememoryforlonghorizonplanninginvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.04765",
+        "title:explicitlanguagememoryforlonghorizonplanninginvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05266",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:42.563082+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticselfdrivingmicroscopybenchmarkssupportqualificationbutdonotnecessarilygeneralizetounseentasks",
+      "identity_keys": [
+        "arxiv:2608.05266",
+        "title:agenticselfdrivingmicroscopybenchmarkssupportqualificationbutdonotnecessarilygeneralizetounseentasks"
+      ]
     }
   ]
 }
