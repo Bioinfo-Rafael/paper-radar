@@ -61,3 +61,8 @@ ranking:
   legendary_min_citations: 1000
   legendary_min_influential_citations: 100
   old_after_days: 1095
+  # Beyond this, a paper is no longer "fresh/trending" and needs an elite
+  # venue or top-1% HF trending rank to still be worth surfacing (see
+  # trending_days/elite_hf_rank_max below), rather than any top/strong venue.
+  trending_days: 75
+  elite_hf_rank_max: 1

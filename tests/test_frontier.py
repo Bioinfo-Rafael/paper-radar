@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import date
+from datetime import date, timedelta
 
 from paper_radar.models import Rating
 from paper_radar.scoring.ai_frontier import score_frontier
@@ -9,7 +9,9 @@ from tests.conftest import make_paper
 
 def scored(config, today, **values):
     values.setdefault("venue", "arXiv")
-    return score_frontier(make_paper(**values), config.category("frontier"), today)
+    return score_frontier(
+        make_paper(**values), config.category("frontier"), today, config.venues["frontier"]
+    )
 
 
 def test_high_rank_world_model_and_agent(config, today):
@@ -109,7 +111,10 @@ def test_old_paper_legendary_path(config, today):
     assert "resurfaced/legendary" in legendary.matched_criteria
 
 
-def test_frontier_archive_age_is_not_hard_excluded(config, today):
+def test_ordinary_venue_beyond_trending_window_is_excluded(config, today):
+    """Papers older than ~2-3 months need an elite venue or top-1% HF
+    trending rank to survive -- an ordinary top/strong venue is not enough.
+    """
     paper = scored(
         config,
         today,
@@ -118,4 +123,56 @@ def test_frontier_archive_age_is_not_hard_excluded(config, today):
         abstract="A new paradigm with generalization to unseen environments.",
         venue="NeurIPS",
     )
+    assert paper.excluded
+    assert "old-outside-trending-window" in paper.penalties
+
+
+def test_recent_ordinary_venue_within_trending_window_is_not_excluded(config, today):
+    paper = scored(
+        config,
+        today,
+        publication_date=today - timedelta(days=60),
+        title="A world model for embodied AI",
+        abstract="A new paradigm with generalization to unseen environments.",
+        venue="arXiv",
+    )
     assert not paper.excluded
+
+
+def test_elite_venue_survives_beyond_trending_window(config, today):
+    paper = scored(
+        config,
+        today,
+        publication_date=date(2024, 3, 1),
+        title="A world model for embodied AI",
+        abstract="A new paradigm with generalization to unseen environments.",
+        venue="Nature Machine Intelligence",
+    )
+    assert not paper.excluded
+    assert "elite-venue-despite-age" in paper.matched_criteria
+
+
+def test_top_1pct_trending_survives_beyond_trending_window(config, today):
+    paper = scored(
+        config,
+        today,
+        publication_date=date(2024, 3, 1),
+        hf_rank=1,
+        title="A world model for embodied AI",
+        abstract="A new paradigm with generalization to unseen environments.",
+    )
+    assert not paper.excluded
+    assert "top-1pct-trending-despite-age" in paper.matched_criteria
+
+
+def test_hf_rank_two_does_not_count_as_top_1pct_trending(config, today):
+    paper = scored(
+        config,
+        today,
+        publication_date=date(2024, 3, 1),
+        hf_rank=2,
+        title="A world model for embodied AI",
+        abstract="A new paradigm with generalization to unseen environments.",
+    )
+    assert paper.excluded
+    assert "old-outside-trending-window" in paper.penalties

@@ -47,6 +47,15 @@ ml:
   strong: [CVPR, ICCV, ECCV, AISTATS, JMLR, TMLR, KDD, ACM SIGKDD, SIAM Journal on Mathematics of Data Science, SIMODS]
   watch: [Annals of Statistics, Journal of the Royal Statistical Society Series B, JRSS-B, Biometrika]
 frontier:
+  elite:
+    - Nature Machine Intelligence
+    - Nature
+    - Science
+    - Science Robotics
+    - IEEE Transactions on Robotics
+    - T-RO
+    - International Journal of Robotics Research
+    - IJRR
   top:
     - NeurIPS
     - Neural Information Processing Systems

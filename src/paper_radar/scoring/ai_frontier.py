@@ -84,10 +84,11 @@ def score_frontier(
         paper.excluded = True
         paper.penalties.append("pure-image/video/3D-generation")
 
+    venue_config = venues or {}
     age_days = (today - paper.publication_date).days if paper.publication_date else 0
-    old = age_days > ranking["old_after_days"]
+    very_old = age_days > ranking["old_after_days"]
     legendary = (
-        old
+        very_old
         and rank <= ranking["resurfaced_max_rank"]
         and (
             (paper.citation_count or 0) >= ranking["legendary_min_citations"]
@@ -95,18 +96,35 @@ def score_frontier(
             >= ranking["legendary_min_influential_citations"]
         )
     )
-    if old and not legendary:
+    # Beyond the trending window (default ~2-3 months), a paper is excluded
+    # unless it clears a much higher bar than an ordinary top/strong venue:
+    # an elite (journal-caliber) venue, or top-1% HF trending rank. A paper
+    # with no known publication date is treated as fresh (age_days == 0),
+    # matching every other category's null-date handling.
+    is_elite_venue = venue_in(paper.venue, venue_config.get("elite", []))
+    is_top_trending = is_hf_candidate and rank <= ranking["elite_hf_rank_max"]
+    moderately_old = ranking["trending_days"] < age_days <= ranking["old_after_days"]
+    elite_despite_age = moderately_old and (is_elite_venue or is_top_trending)
+
+    if very_old and not legendary:
         paper.excluded = True
         paper.penalties.append("ordinary-old-paper")
     elif legendary:
         paper.matched_criteria.append("resurfaced/legendary")
+    elif moderately_old and not elite_despite_age:
+        paper.excluded = True
+        paper.penalties.append("old-outside-trending-window")
+    elif elite_despite_age:
+        if is_elite_venue:
+            paper.matched_criteria.append("elite-venue-despite-age")
+        if is_top_trending:
+            paper.matched_criteria.append("top-1pct-trending-despite-age")
 
     citation_value = (paper.citation_count or 0) + 5 * (paper.influential_citation_count or 0)
     paper.score_components["citation_signal"] = min(
         weights["citation_bonus_max"],
         math.log10(1 + citation_value) / 4 * weights["citation_bonus_max"],
     )
-    venue_config = venues or {}
     venue_score = 0.0
     if venue_in(paper.venue, venue_config.get("top", [])):
         venue_score = weights["venue_top"]

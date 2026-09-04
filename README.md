@@ -114,6 +114,8 @@ Edit `config/ml_algorithms.yaml`. The principal components are domain relevance,
 
 Edit `config/ai_frontier.yaml`. Core/secondary relevance, qualitative progress, venue, citations, and negative signals determine scientific importance and therefore the star rating. HF Trending is only a small discovery bonus in the selection score; it cannot raise the star rating. arXiv has no penalty. Frontier uses the same 30/365/730-day lanes, with top venues configured under `frontier` in `config/venues.yaml`; the hard age boundary is aligned with the tunable 1095-day archive maximum.
 
+Age gating is intentionally stricter than the other two categories: a paper older than `ranking.trending_days` (default 75 days, ~2-3 months) is excluded unless it's from an `elite` venue (a small journal-only tier under `frontier` in `config/venues.yaml` — currently Nature/Nature Machine Intelligence/Science/Science Robotics/T-RO/IJRR, deliberately narrower than `top`, which also includes conferences like NeurIPS/CoRL/RSS) or has an HF Trending rank at or above `ranking.elite_hf_rank_max` (default 1, i.e. top-1%-of-the-day trending). An ordinary top/strong-venue paper is not, by itself, enough to survive past the trending window — only the elite tier or extreme trending rank is. Papers older than `ranking.old_after_days` (1095 days) fall back to the separate, harder-to-clear "legendary" path (very high citation counts), independent of venue.
+
 ## 12. How to edit thresholds
 
 Each category YAML contains `thresholds.must_read`, `thresholds.strong`, and `thresholds.more_min_score`. Ratings use scientific importance only; recency is a small ranking bonus and a separate Discord freshness label. Defaults are:
