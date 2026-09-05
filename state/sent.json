@@ -5349,6 +5349,76 @@
         "doi:10.18653/v1/2024.acl-long.5",
         "title:gentranslatelargelanguagemodelsaregenerativemultilingualspeechandmachinetranslators"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03483",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:24.243704+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "airgroundcollaborativevisionandlanguagenavigationviasharedbirdseyemaps",
+      "identity_keys": [
+        "arxiv:2609.03483",
+        "title:airgroundcollaborativevisionandlanguagenavigationviasharedbirdseyemaps"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3567476",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:24.635499+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3567476",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "largescalemultirobotcoveragepathplanningongridswithpathdeconfliction",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3567476",
+        "title:largescalemultirobotcoveragepathplanningongridswithpathdeconfliction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04131",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:24.807972+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondretrievalprogressivelatentmemoryevolutionforstreamingvideounderstanding",
+      "identity_keys": [
+        "arxiv:2609.04131",
+        "title:beyondretrievalprogressivelatentmemoryevolutionforstreamingvideounderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03673",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:25.030263+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dovideogeneratorstracktheworldacrosssegmentsabenchmarkandmethodforworldstatereasoninginvideocontinuation",
+      "identity_keys": [
+        "arxiv:2609.03673",
+        "title:dovideogeneratorstracktheworldacrosssegmentsabenchmarkandmethodforworldstatereasoninginvideocontinuation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3582817",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:25.226353+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3582817",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "helpmethroughimitationlearningbasedactiveviewplanningtoavoidslamtrackingfailures",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3582817",
+        "title:helpmethroughimitationlearningbasedactiveviewplanningtoavoidslamtrackingfailures"
+      ]
     }
   ]
 }
