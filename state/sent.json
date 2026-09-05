@@ -5110,6 +5110,105 @@
         "arxiv:2608.05266",
         "title:agenticselfdrivingmicroscopybenchmarkssupportqualificationbutdonotnecessarilygeneralizetounseentasks"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bib/bbag469",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-05T03:46:09.821747+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bib/bbag469",
+      "venue": "Briefings in bioinformatics",
+      "title_key": "genechronosparameterefficientdevelopmentaltimeinferenceusingapretrainedsinglecellfoundationmodel",
+      "identity_keys": [
+        "doi:10.1093/bib/bbag469",
+        "pubmed:42696754",
+        "title:genechronosparameterefficientdevelopmentaltimeinferenceusingapretrainedsinglecellfoundationmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05076",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T03:46:11.310230+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multipathformertowardsafoundationmodelformultipathwirelesspropagation",
+      "identity_keys": [
+        "arxiv:2608.05076",
+        "title:multipathformertowardsafoundationmodelformultipathwirelesspropagation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adp0751",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:12.346595+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adp0751",
+      "venue": "Science Robotics",
+      "title_key": "developmentofcompositionalitythroughinteractivelearningoflanguageandactionofrobots",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adp0751",
+        "title:developmentofcompositionalitythroughinteractivelearningoflanguageandactionofrobots"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adu8009",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:12.636962+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adu8009",
+      "venue": "Science Robotics",
+      "title_key": "microscopicrobotsthatsensethinkactandcompute",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adu8009",
+        "title:microscopicrobotsthatsensethinkactandcompute"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3582807",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:12.808941+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3582807",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "aversatileneuralnetworkconfigurationspaceplanningandcontrolstrategyformodularsoftrobotarms",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3582807",
+        "title:aversatileneuralnetworkconfigurationspaceplanningandcontrolstrategyformodularsoftrobotarms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.50",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:13.111649+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.50",
+      "venue": "ACL",
+      "title_key": "visualwebarenaevaluatingmultimodalagentsonrealisticvisualwebtasks",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.50",
+        "title:visualwebarenaevaluatingmultimodalagentsonrealisticvisualwebtasks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3626619",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:13.303810+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3626619",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "wholebodyintegratedmotionplanningforaerialmanipulators",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3626619",
+        "title:wholebodyintegratedmotionplanningforaerialmanipulators"
+      ]
     }
   ]
 }
