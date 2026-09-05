@@ -5279,6 +5279,76 @@
         "doi:10.1126/science.aee7004",
         "title:artificialhibernationrevealssynapticengramarchitectureassociatedwithmemoryretention"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05225",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:31.499289+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "project2taskgraphguidedprojectlevelplanningforautonomousresearch",
+      "identity_keys": [
+        "arxiv:2608.05225",
+        "title:project2taskgraphguidedprojectlevelplanningforautonomousresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05371",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:32.182679+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "quantumstructuredworldmodelsqswmsforpredictivelatentdynamics",
+      "identity_keys": [
+        "arxiv:2608.05371",
+        "title:quantumstructuredworldmodelsqswmsforpredictivelatentdynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3593109",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:32.601120+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3593109",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "motionplanningdiffusionlearningandadaptingrobotmotionplanningwithdiffusionmodels",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3593109",
+        "title:motionplanningdiffusionlearningandadaptingrobotmotionplanningwithdiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04527",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:32.850279+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "retrieveintimecorrectinfrequency",
+      "identity_keys": [
+        "arxiv:2608.04527",
+        "title:retrieveintimecorrectinfrequency"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.5",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:33.314529+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.5",
+      "venue": "ACL",
+      "title_key": "gentranslatelargelanguagemodelsaregenerativemultilingualspeechandmachinetranslators",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.5",
+        "title:gentranslatelargelanguagemodelsaregenerativemultilingualspeechandmachinetranslators"
+      ]
     }
   ]
 }
