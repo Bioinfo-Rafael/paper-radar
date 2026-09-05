@@ -5419,6 +5419,175 @@
         "doi:10.1109/tro.2025.3582817",
         "title:helpmethroughimitationlearningbasedactiveviewplanningtoavoidslamtrackingfailures"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.05.09.724053",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-05T22:31:45.743941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.05.09.724053",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "efficientbayesianinferenceforordinarydifferentialequationmodelsfromexperimentaldatawithuncertainmeasurementtimes",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.05.09.724053",
+        "title:efficientbayesianinferenceforordinarydifferentialequationmodelsfromexperimentaldatawithuncertainmeasurementtimes"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.08.29.748052",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-05T22:31:46.001425+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.29.748052",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "iinvivoimultimodallineagetracingofmammaliandevelopmentbydeeptrackbarcoding",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.29.748052",
+        "doi:10.64898/2026.08.29.748052",
+        "title:iinvivoimultimodallineagetracingofmammaliandevelopmentbydeeptrackbarcoding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05976",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:46.847815+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffvftrainingfreehighqualitylongvideogenerationviadiffusionmodel",
+      "identity_keys": [
+        "arxiv:2608.05976",
+        "title:diffvftrainingfreehighqualitylongvideogenerationviadiffusionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06107",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:47.055818+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kastoranefficientfinetuningstrategyforgenerativeemulationofpdesimulations",
+      "identity_keys": [
+        "arxiv:2608.06107",
+        "title:kastoranefficientfinetuningstrategyforgenerativeemulationofpdesimulations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06111",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:47.431277+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondsequenceordersyntaxinformedpositionalembeddingsfortransformers",
+      "identity_keys": [
+        "arxiv:2608.06111",
+        "title:beyondsequenceordersyntaxinformedpositionalembeddingsfortransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05631",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:47.826308+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chronovisiontemporalreasoningvialatentstatereconstruction",
+      "identity_keys": [
+        "arxiv:2608.05631",
+        "title:chronovisiontemporalreasoningvialatentstatereconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05995",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:48.262951+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aunifiedriskviewofuncertaintyposteriorriskfordisentanglementandevaluationbeyondproxies",
+      "identity_keys": [
+        "arxiv:2608.05995",
+        "title:aunifiedriskviewofuncertaintyposteriorriskfordisentanglementandevaluationbeyondproxies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05792",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:49.131409+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenagenticaimeetsintegratedsensingandcommunication",
+      "identity_keys": [
+        "arxiv:2608.05792",
+        "title:whenagenticaimeetsintegratedsensingandcommunication"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06197",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:49.348739+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "envaceinternalizingenvironmentdynamicsviaworldrehearsalforagenticreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2608.06197",
+        "title:envaceinternalizingenvironmentdynamicsviaworldrehearsalforagenticreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06227",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:49.629700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frompassivemirrorstoactiveagentsholonicdigitaltwinsforphysicalaiovernetworks",
+      "identity_keys": [
+        "arxiv:2608.06227",
+        "title:frompassivemirrorstoactiveagentsholonicdigitaltwinsforphysicalaiovernetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05970",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:50.119719+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation",
+      "identity_keys": [
+        "arxiv:2608.05970",
+        "title:skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05999",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:50.352435+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondflatpolicieshierarchicalposttrainingforembodiedagentsinroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2608.05999",
+        "title:beyondflatpolicieshierarchicalposttrainingforembodiedagentsinroboticmanipulation"
+      ]
     }
   ]
 }
