@@ -5771,6 +5771,75 @@
         "arxiv:2608.06130",
         "title:hardwarekeystoresforaiagentsigningworkflowsazerotrustmcpenforcementarchitecture"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adt1874",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:48.860187+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adt1874",
+      "venue": "Science Robotics",
+      "title_key": "medicalneedlesinthehandsofaiadvancingtowardautonomousroboticnavigation",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adt1874",
+        "title:medicalneedlesinthehandsofaiadvancingtowardautonomousroboticnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04094",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.009264+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dracofinegrainedcreditassignmentwithdynamicrubricsforlonghorizonagenttraining",
+      "identity_keys": [
+        "arxiv:2609.04094",
+        "title:dracofinegrainedcreditassignmentwithdynamicrubricsforlonghorizonagenttraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03960",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.178886+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fimibankingasovereignmodelforindianretailbanking",
+      "identity_keys": [
+        "arxiv:2609.03960",
+        "title:fimibankingasovereignmodelforindianretailbanking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03494",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.551901+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "growpageondemandkvbudgetingforefficientllmreasoningserving",
+      "identity_keys": [
+        "arxiv:2609.03494",
+        "title:growpageondemandkvbudgetingforefficientllmreasoningserving"
+      ]
+    },
+    {
+      "canonical_id": "title:agradientaccumulationmethodfordenseretrieverundermemoryconstraint",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.754161+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "agradientaccumulationmethodfordenseretrieverundermemoryconstraint",
+      "identity_keys": [
+        "title:agradientaccumulationmethodfordenseretrieverundermemoryconstraint"
+      ]
     }
   ]
 }
