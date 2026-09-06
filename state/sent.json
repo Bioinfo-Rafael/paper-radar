@@ -5840,6 +5840,74 @@
       "identity_keys": [
         "title:agradientaccumulationmethodfordenseretrieverundermemoryconstraint"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03528",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:44.783615+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "leangrpoeliminatingredundantrecomputationindiffusionrl",
+      "identity_keys": [
+        "arxiv:2609.03528",
+        "title:leangrpoeliminatingredundantrecomputationindiffusionrl"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03430",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.004541+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "randomattentionrethinkingkvcacheevictionforefficientreasoning",
+      "identity_keys": [
+        "arxiv:2609.03430",
+        "title:randomattentionrethinkingkvcacheevictionforefficientreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03379",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.293436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recurtraceadaptivelatentreasoningwithlooptimememory",
+      "identity_keys": [
+        "arxiv:2609.03379",
+        "title:recurtraceadaptivelatentreasoningwithlooptimememory"
+      ]
+    },
+    {
+      "canonical_id": "title:affordancedrivennextbestviewplanningforroboticgrasping",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.507392+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "affordancedrivennextbestviewplanningforroboticgrasping",
+      "identity_keys": [
+        "title:affordancedrivennextbestviewplanningforroboticgrasping"
+      ]
+    },
+    {
+      "canonical_id": "title:apricotactivepreferencelearningandconstraintawaretaskplanningwithllms",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.703770+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "apricotactivepreferencelearningandconstraintawaretaskplanningwithllms",
+      "identity_keys": [
+        "title:apricotactivepreferencelearningandconstraintawaretaskplanningwithllms"
+      ]
     }
   ]
 }
