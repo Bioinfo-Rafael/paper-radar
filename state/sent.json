@@ -5588,6 +5588,104 @@
         "arxiv:2608.05999",
         "title:beyondflatpolicieshierarchicalposttrainingforembodiedagentsinroboticmanipulation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05970",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T03:49:19.101352+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation",
+      "identity_keys": [
+        "arxiv:2608.05970",
+        "title:skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06183",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T03:49:20.051265+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "microevoknowledgeguidedllmsamplingforefficientmicroarchitecturedesignspaceexploration",
+      "identity_keys": [
+        "arxiv:2608.06183",
+        "title:microevoknowledgeguidedllmsamplingforefficientmicroarchitecturedesignspaceexploration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05706",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:20.754065+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lawm3dlearning3dawarelatentactionsfromhumanvideosforgeneralizablerobotworldmodels",
+      "identity_keys": [
+        "arxiv:2608.05706",
+        "title:lawm3dlearning3dawarelatentactionsfromhumanvideosforgeneralizablerobotworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1142/s0219843626400268",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:21.039328+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1142/s0219843626400268",
+      "venue": "International Journal of Humanoid Robotics",
+      "title_key": "visualtactileembodiedperceptiondrivenneurosymbolicruleconsistencymodelingandcontactdeviationautomaticcorrectionforprecisionassemblyofindustrialhumanoidrobots",
+      "identity_keys": [
+        "doi:10.1142/s0219843626400268",
+        "title:visualtactileembodiedperceptiondrivenneurosymbolicruleconsistencymodelingandcontactdeviationautomaticcorrectionforprecisionassemblyofindustrialhumanoidrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06332",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:21.570214+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geniworldageneralizableinteractiveworldmodelforroboticmanipulationviavisualactions",
+      "identity_keys": [
+        "arxiv:2608.06332",
+        "title:geniworldageneralizableinteractiveworldmodelforroboticmanipulationviavisualactions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05738",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:22.126168+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "incontextvlaendowingvisionlanguageactionmodelswithlanguageviaincontextposttrainingandagentictooluse",
+      "identity_keys": [
+        "arxiv:2608.05738",
+        "title:incontextvlaendowingvisionlanguageactionmodelswithlanguageviaincontextposttrainingandagentictooluse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07596",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:22.449261+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liralocalcrosslayerinformationroutingforvisionlanguageactiondecoding",
+      "identity_keys": [
+        "arxiv:2608.07596",
+        "title:liralocalcrosslayerinformationroutingforvisionlanguageactiondecoding"
+      ]
     }
   ]
 }
