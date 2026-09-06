@@ -5686,6 +5686,91 @@
         "arxiv:2608.07596",
         "title:liralocalcrosslayerinformationroutingforvisionlanguageactiondecoding"
       ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fimmu.2026.1835156",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-06T07:32:02.553734+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fimmu.2026.1835156",
+      "venue": "Frontiers in immunology",
+      "title_key": "multiomicsidentificationandfunctionalvalidationofsignalregulatoryproteingammaasaprognosticbiomarkerandimmuneregulatorinheadandnecksquamouscellcarcinoma",
+      "identity_keys": [
+        "doi:10.3389/fimmu.2026.1835156",
+        "pubmed:42698709",
+        "title:multiomicsidentificationandfunctionalvalidationofsignalregulatoryproteingammaasaprognosticbiomarkerandimmuneregulatorinheadandnecksquamouscellcarcinoma"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05799",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:03.720645+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "xeworldcanactionconditionedworldmodelsgeneralizetounseenrobotembodiments",
+      "identity_keys": [
+        "arxiv:2608.05799",
+        "title:xeworldcanactionconditionedworldmodelsgeneralizetounseenrobotembodiments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06020",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:04.009830+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromeconomicagentstoagenticeconomiesasystemsblueprintforeconomicworldmodels",
+      "identity_keys": [
+        "arxiv:2608.06020",
+        "title:fromeconomicagentstoagenticeconomiesasystemsblueprintforeconomicworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05948",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:06.273208+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gaugeameasurementgroundedbenchmarkforphysicalfidelityinsimulationenginesandvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2608.05948",
+        "title:gaugeameasurementgroundedbenchmarkforphysicalfidelityinsimulationenginesandvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06257",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:06.695335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "massmultiplayerworldmodelswithauthoritativesharedstate",
+      "identity_keys": [
+        "arxiv:2608.06257",
+        "title:massmultiplayerworldmodelswithauthoritativesharedstate"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06130",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:07.190612+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hardwarekeystoresforaiagentsigningworkflowsazerotrustmcpenforcementarchitecture",
+      "identity_keys": [
+        "arxiv:2608.06130",
+        "title:hardwarekeystoresforaiagentsigningworkflowsazerotrustmcpenforcementarchitecture"
+      ]
     }
   ]
 }
