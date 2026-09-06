@@ -5908,6 +5908,147 @@
       "identity_keys": [
         "title:apricotactivepreferencelearningandconstraintawaretaskplanningwithllms"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06794",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:51.153270+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pastpromptadaptivesamplingterminationforefficientdiffusionmodel",
+      "identity_keys": [
+        "arxiv:2608.06794",
+        "title:pastpromptadaptivesamplingterminationforefficientdiffusionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06878",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:52.483123+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "controlrefefficientlayoutguidedmultiinstancegenerationviaanchored4drope",
+      "identity_keys": [
+        "arxiv:2608.06878",
+        "title:controlrefefficientlayoutguidedmultiinstancegenerationviaanchored4drope"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06919",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:52.981279+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vernataselfsupervisedlearningoflidarpointrepresentations",
+      "identity_keys": [
+        "arxiv:2608.06919",
+        "title:vernataselfsupervisedlearningoflidarpointrepresentations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06839",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:53.179793+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mathematicalprinciplesandexperimentaldiscoveriesoftheemergenceofsymbolicpatternsinartificialneuralnetworks",
+      "identity_keys": [
+        "arxiv:2608.06839",
+        "title:mathematicalprinciplesandexperimentaldiscoveriesoftheemergenceofsymbolicpatternsinartificialneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07038",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:53.570453+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondtextmatchingtowardsreferencefreeevaluationforhumanorientedbinaryreverseengineering",
+      "identity_keys": [
+        "arxiv:2608.07038",
+        "title:beyondtextmatchingtowardsreferencefreeevaluationforhumanorientedbinaryreverseengineering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06931",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:54.277140+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scienceedgeevaluationseethemissingsteptowardrealscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2608.06931",
+        "title:scienceedgeevaluationseethemissingsteptowardrealscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3845596",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:54.545518+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3845596",
+      "venue": "ACM Computing Surveys",
+      "title_key": "transformingsciencewithlargelanguagemodelsasurveyonaiassistedscientificdiscoveryexperimentationcontentgenerationandevaluation",
+      "identity_keys": [
+        "doi:10.1145/3845596",
+        "openalex:w4407310674",
+        "title:transformingsciencewithlargelanguagemodelsasurveyonaiassistedscientificdiscoveryexperimentationcontentgenerationandevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07809",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:54.903700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "causalnavreliabilitycertifiedcausalworldmodelsforcontrolunderphysicalparametershift",
+      "identity_keys": [
+        "arxiv:2608.07809",
+        "title:causalnavreliabilitycertifiedcausalworldmodelsforcontrolunderphysicalparametershift"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ads1204",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:56.229993+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ads1204",
+      "venue": "Science Robotics",
+      "title_key": "roboballetplanningformultirobotreachingwithgraphneuralnetworksandreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ads1204",
+        "title:roboballetplanningformultirobotreachingwithgraphneuralnetworksandreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07621",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:56.587273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cmudriveandv2vvlacooperativemultiagentunifieddrivingwithreasoningbenchmarkandvehicletovehiclevisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.07621",
+        "title:cmudriveandv2vvlacooperativemultiagentunifieddrivingwithreasoningbenchmarkandvehicletovehiclevisionlanguageactionmodels"
+      ]
     }
   ]
 }
