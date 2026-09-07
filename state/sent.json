@@ -6189,6 +6189,91 @@
         "doi:10.1126/scirobotics.adu8015",
         "title:agileandcooperativeaerialmanipulationofacablesuspendedload"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1007/978-981-95-4384-7_11",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T07:53:42.359355+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Neural Information Processing (ICONIP 2025), Lecture Notes in Computer Science, vol. 16312, pp. 142-157. Springer, Singapore (2026)",
+      "title_key": "enhancingmultimodalemotionrecognitionviamultifeatureencodingandattentionbasedfusion",
+      "identity_keys": [
+        "arxiv:2609.04690",
+        "doi:10.1007/978-981-95-4384-7_11",
+        "title:enhancingmultimodalemotionrecognitionviamultifeatureencodingandattentionbasedfusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05093",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:43.002520+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "llmguidedprogramevolutionforcirclepackingbreaking10packomaniarecordsfor28",
+      "identity_keys": [
+        "arxiv:2609.05093",
+        "title:llmguidedprogramevolutionforcirclepackingbreaking10packomaniarecordsfor28"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05079",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:43.506191+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "truthinsightbenchanevidencegroundedbenchmarkforautomatedevaluationofopenendedscientificdiscoveryagents",
+      "identity_keys": [
+        "arxiv:2609.05079",
+        "title:truthinsightbenchanevidencegroundedbenchmarkforautomatedevaluationofopenendedscientificdiscoveryagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04894",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:44.311026+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromlanguagemodelstoworldactingsystemsprogressandlimitsofagenticaiacrossdigitalsocialvirtualandphysicalenvironments",
+      "identity_keys": [
+        "arxiv:2609.04894",
+        "title:fromlanguagemodelstoworldactingsystemsprogressandlimitsofagenticaiacrossdigitalsocialvirtualandphysicalenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07408",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:44.535159+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "addressablememoryforvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2608.07408",
+        "title:addressablememoryforvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adt1497",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:44.976519+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adt1497",
+      "venue": "Science Robotics",
+      "title_key": "areviewoflearningbaseddynamicsmodelsforroboticmanipulation",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adt1497",
+        "title:areviewoflearningbaseddynamicsmodelsforroboticmanipulation"
+      ]
     }
   ]
 }
