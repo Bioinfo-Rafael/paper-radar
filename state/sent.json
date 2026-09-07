@@ -6344,6 +6344,91 @@
         "arxiv:2608.06909",
         "title:longhorizonagenttrajectoryattributionaunifiedbenchmarkandfinegrainedannotationframework"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15288",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-07T15:01:25.363903+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "d2r2discretediffusionwithregulationreinforcementforsinglecellperturbationprediction",
+      "identity_keys": [
+        "arxiv:2608.15288",
+        "s2:490e5fd5a35ec18dccc84b60330e02e8ddace300",
+        "title:d2r2discretediffusionwithregulationreinforcementforsinglecellperturbationprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07154",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:26.751591+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "representationhandoffsforopenarmbasedlaboratorymobilemanipulation",
+      "identity_keys": [
+        "arxiv:2608.07154",
+        "title:representationhandoffsforopenarmbasedlaboratorymobilemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07409",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:27.116686+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unijepaaunifiedjointembeddingpredictivearchitecturefortaskagnosticvisualworldmodeling",
+      "identity_keys": [
+        "arxiv:2608.07409",
+        "title:unijepaaunifiedjointembeddingpredictivearchitecturefortaskagnosticvisualworldmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06833",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:28.629932+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unorderedlandmarkvisualnavigation",
+      "identity_keys": [
+        "arxiv:2608.06833",
+        "title:unorderedlandmarkvisualnavigation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00943-2",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:29.142433+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00943-2",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "kernelapproximationusinganalogueinmemorycomputing",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00943-2",
+        "title:kernelapproximationusinganalogueinmemorycomputing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04981",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:29.349681+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atreebasedragframeworkforevidenceintensiveqaviaadaptiveplanningandtopologyawareevidencegathering",
+      "identity_keys": [
+        "arxiv:2609.04981",
+        "title:atreebasedragframeworkforevidenceintensiveqaviaadaptiveplanningandtopologyawareevidencegathering"
+      ]
     }
   ]
 }
