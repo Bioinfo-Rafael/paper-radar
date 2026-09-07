@@ -6429,6 +6429,160 @@
         "arxiv:2609.04981",
         "title:atreebasedragframeworkforevidenceintensiveqaviaadaptiveplanningandtopologyawareevidencegathering"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.10.675105",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-07T23:12:32.465906+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.10.675105",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "intelligenttoolorchestrationforrapidmechanisticmodelprototypingmcpserversasaibiologyinterfaces",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.10.675105",
+        "title:intelligenttoolorchestrationforrapidmechanisticmodelprototypingmcpserversasaibiologyinterfaces"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2024.10.24.619521",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-07T23:12:32.665062+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2024.10.24.619521",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "limitstotheinferenceofgeneregulationfrombulktissueexpressiondata",
+      "identity_keys": [
+        "biorxiv:10.1101/2024.10.24.619521",
+        "title:limitstotheinferenceofgeneregulationfrombulktissueexpressiondata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07863",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:33.409492+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lhsdethighresolutionaigeneratedimagedetectionviavisualquestionanswering",
+      "identity_keys": [
+        "arxiv:2608.07863",
+        "title:lhsdethighresolutionaigeneratedimagedetectionviavisualquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08010",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:34.009204+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "groundtruthneighborhoodregularizationforreinforcementlearningposttrainingoftimeseriesfoundationmodels",
+      "identity_keys": [
+        "arxiv:2608.08010",
+        "title:groundtruthneighborhoodregularizationforreinforcementlearningposttrainingoftimeseriesfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07924",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:34.669320+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "secondorderdriftingmodels",
+      "identity_keys": [
+        "arxiv:2608.07924",
+        "title:secondorderdriftingmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10016",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:35.020110+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sheafbasedfederatedrepresentationlearning",
+      "identity_keys": [
+        "arxiv:2608.10016",
+        "title:sheafbasedfederatedrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08070",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:35.639173+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "surgwmbenchavisionbasedbenchmarkforworldmodelingsurgicalinstrumentmotionplanning",
+      "identity_keys": [
+        "arxiv:2608.08070",
+        "title:surgwmbenchavisionbasedbenchmarkforworldmodelingsurgicalinstrumentmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08253",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.041064+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "superlocalmemory40thegovernedmemoryoperatingsystemforaiagents",
+      "identity_keys": [
+        "arxiv:2608.08253",
+        "title:superlocalmemory40thegovernedmemoryoperatingsystemforaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07974",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.239416+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zerolockconcurrentmemoryefficientllmtrainingviamodularupdatedecoupling",
+      "identity_keys": [
+        "arxiv:2608.07974",
+        "title:zerolockconcurrentmemoryefficientllmtrainingviamodularupdatedecoupling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3548865",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.451077+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3548865",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "informativepathplanningforactiveregressionwithgaussianprocessesviasparseoptimization",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3548865",
+        "title:informativepathplanningforactiveregressionwithgaussianprocessesviasparseoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3548495",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.616985+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3548495",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "physicsinformedneuralmappingandmotionplanninginunknownenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3548495",
+        "title:physicsinformedneuralmappingandmotionplanninginunknownenvironments"
+      ]
     }
   ]
 }
