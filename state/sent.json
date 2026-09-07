@@ -6049,6 +6049,146 @@
         "arxiv:2608.07621",
         "title:cmudriveandv2vvlacooperativemultiagentunifieddrivingwithreasoningbenchmarkandvehicletovehiclevisionlanguageactionmodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04804",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:04:28.353471+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "medflowclassawaremultiscalegenerationformedicaltimeseriessynthesis",
+      "identity_keys": [
+        "arxiv:2609.04804",
+        "title:medflowclassawaremultiscalegenerationformedicaltimeseriessynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05334",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:04:28.594470+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lightweightvisiontransformercompressionforondeviceplantdiseasedetectioninresourceconstrainedagriculturalfieldconditions",
+      "identity_keys": [
+        "arxiv:2609.05334",
+        "title:lightweightvisiontransformercompressionforondeviceplantdiseasedetectioninresourceconstrainedagriculturalfieldconditions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07385",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:04:28.872135+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "omnimodaldecompositionautoencoderslearnfullstackwearabledisentangledrepresentations",
+      "identity_keys": [
+        "arxiv:2608.07385",
+        "title:omnimodaldecompositionautoencoderslearnfullstackwearabledisentangledrepresentations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07733",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:05:14.264667+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lgnnicaccelerationoflargescalegnntrainingusingsmartnics",
+      "identity_keys": [
+        "arxiv:2608.07733",
+        "title:lgnnicaccelerationoflargescalegnntrainingusingsmartnics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04345",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:05:14.620328+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aconstraintawaregenerativeframeworkforsyntheticorigindestinationdemandinlogisticsnetworks",
+      "identity_keys": [
+        "arxiv:2609.04345",
+        "title:aconstraintawaregenerativeframeworkforsyntheticorigindestinationdemandinlogisticsnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04564",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:15.803960+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "laagenteptimatowardsagenticselfdrivinglaboratories",
+      "identity_keys": [
+        "arxiv:2609.04564",
+        "title:laagenteptimatowardsagenticselfdrivinglaboratories"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07077",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:16.678877+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "transformersstruggletousetheiremergentworldmodelsrevisitingthetowerofhanoiandtheillusionofthinking",
+      "identity_keys": [
+        "arxiv:2608.07077",
+        "title:transformersstruggletousetheiremergentworldmodelsrevisitingthetowerofhanoiandtheillusionofthinking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05324",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:17.074445+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robospacanvlamodelsgobeyondsimplescenesandshorthorizontasks",
+      "identity_keys": [
+        "arxiv:2609.05324",
+        "title:robospacanvlamodelsgobeyondsimplescenesandshorthorizontasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05369",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:17.735514+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsneurosymbolicproceduralreasoningforlonghorizonvisionlanguageactionmanipulation",
+      "identity_keys": [
+        "arxiv:2609.05369",
+        "title:towardsneurosymbolicproceduralreasoningforlonghorizonvisionlanguageactionmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adu8015",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:18.206591+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adu8015",
+      "venue": "Science Robotics",
+      "title_key": "agileandcooperativeaerialmanipulationofacablesuspendedload",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adu8015",
+        "title:agileandcooperativeaerialmanipulationofacablesuspendedload"
+      ]
     }
   ]
 }
