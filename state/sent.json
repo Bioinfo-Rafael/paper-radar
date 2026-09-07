@@ -6274,6 +6274,76 @@
         "doi:10.1126/scirobotics.adt1497",
         "title:areviewoflearningbaseddynamicsmodelsforroboticmanipulation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07265",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:42.146429+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "finitesamplemetricnoncollapseforgeometricallysupervisedlatentworldmodelsincontrol",
+      "identity_keys": [
+        "arxiv:2608.07265",
+        "title:finitesamplemetricnoncollapseforgeometricallysupervisedlatentworldmodelsincontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07619",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:42.668264+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gwmvlageometryawarelatentworldmodelingforvisionlanguageactionlearning",
+      "identity_keys": [
+        "arxiv:2608.07619",
+        "title:gwmvlageometryawarelatentworldmodelingforvisionlanguageactionlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07107",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:43.020949+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memwmmemoryaugmentedtextbasedworldmodel",
+      "identity_keys": [
+        "arxiv:2608.07107",
+        "title:memwmmemoryaugmentedtextbasedworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07361",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:43.329332+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "depthwiseprobingandpruningoftheplanningtokeninadrivingvisionlanguageactionmodel",
+      "identity_keys": [
+        "arxiv:2608.07361",
+        "title:depthwiseprobingandpruningoftheplanningtokeninadrivingvisionlanguageactionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06909",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:43.824714+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "longhorizonagenttrajectoryattributionaunifiedbenchmarkandfinegrainedannotationframework",
+      "identity_keys": [
+        "arxiv:2608.06909",
+        "title:longhorizonagenttrajectoryattributionaunifiedbenchmarkandfinegrainedannotationframework"
+      ]
     }
   ]
 }
