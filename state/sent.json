@@ -6875,6 +6875,130 @@
       "identity_keys": [
         "title:hopfastdifferentialdynamicprogrammingforhorizonoptimaltrajectoryplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1014773",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-08T23:08:31.463628+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pcbi.1014773",
+      "venue": "PLoS computational biology",
+      "title_key": "scgsigraphguidedselfsupervisedintegrationofpairedsinglecellmultiomics",
+      "identity_keys": [
+        "doi:10.1371/journal.pcbi.1014773",
+        "pubmed:42709872",
+        "title:scgsigraphguidedselfsupervisedintegrationofpairedsinglecellmultiomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s44387-026-00149-4",
+      "category": "ml",
+      "first_sent_at": "2026-09-08T23:08:32.284941+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s44387-026-00149-4",
+      "venue": "npj Artificial Intelligence",
+      "title_key": "howdoflowmatchingmodelsmemorizeandgeneralizeinsampledatasubspaces",
+      "identity_keys": [
+        "doi:10.1038/s44387-026-00149-4",
+        "title:howdoflowmatchingmodelsmemorizeandgeneralizeinsampledatasubspaces"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08761",
+      "category": "ml",
+      "first_sent_at": "2026-09-08T23:08:32.587551+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "JETC-2026-0113",
+      "title_key": "ecosocasustainablevlsiarchitectureforenergyproportionalartificialintelligence",
+      "identity_keys": [
+        "arxiv:2608.08761",
+        "title:ecosocasustainablevlsiarchitectureforenergyproportionalartificialintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08525",
+      "category": "ml",
+      "first_sent_at": "2026-09-08T23:08:32.865926+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "outofdistributionfederateddistillationwithdomainawareproxy",
+      "identity_keys": [
+        "arxiv:2608.08525",
+        "title:outofdistributionfederateddistillationwithdomainawareproxy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08749",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:33.452989+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onevomemoryevolvingmemorythroughonlinerobotrolloutsforpretrainedrobotpolicies",
+      "identity_keys": [
+        "arxiv:2608.08749",
+        "title:onevomemoryevolvingmemorythroughonlinerobotrolloutsforpretrainedrobotpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08654",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.209879+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thescaffoldingmattersmorethantheinterfaceacontrolledcomparisonofmcpandclitooluseacrosssevenagentscaffoldingsfivelanguagemodelsandonesoftwaretask",
+      "identity_keys": [
+        "arxiv:2608.08654",
+        "title:thescaffoldingmattersmorethantheinterfaceacontrolledcomparisonofmcpandclitooluseacrosssevenagentscaffoldingsfivelanguagemodelsandonesoftwaretask"
+      ]
+    },
+    {
+      "canonical_id": "title:humaninthelooptaskandmotionplanningforimitationlearning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.335945+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "humaninthelooptaskandmotionplanningforimitationlearning",
+      "identity_keys": [
+        "title:humaninthelooptaskandmotionplanningforimitationlearning"
+      ]
+    },
+    {
+      "canonical_id": "title:hypermotionlearninghybridbehaviorplanningforautonomouslocomanipulation",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.466009+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "hypermotionlearninghybridbehaviorplanningforautonomouslocomanipulation",
+      "identity_keys": [
+        "title:hypermotionlearninghybridbehaviorplanningforautonomouslocomanipulation"
+      ]
+    },
+    {
+      "canonical_id": "title:imitatingtaskandmotionplanningwithvisuomotortransformers",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.616325+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "imitatingtaskandmotionplanningwithvisuomotortransformers",
+      "identity_keys": [
+        "title:imitatingtaskandmotionplanningwithvisuomotortransformers"
+      ]
     }
   ]
 }
