@@ -6583,6 +6583,75 @@
         "doi:10.1109/tro.2025.3548495",
         "title:physicsinformedneuralmappingandmotionplanninginunknownenvironments"
       ]
+    },
+    {
+      "canonical_id": "title:act2goalfromworldmodeltogeneralgoalconditionedpolicy",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:18.146771+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "act2goalfromworldmodeltogeneralgoalconditionedpolicy",
+      "identity_keys": [
+        "title:act2goalfromworldmodeltogeneralgoalconditionedpolicy"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2024.3522187",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:18.587021+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2024.3522187",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "fappfastandadaptiveperceptionandplanningforuavsindynamicclutteredenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2024.3522187",
+        "title:fappfastandadaptiveperceptionandplanningforuavsindynamicclutteredenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2024.3502505",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:18.866899+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2024.3502505",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "idbaiterativesearchandoptimizationforoptimalkinodynamicmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2024.3502505",
+        "title:idbaiterativesearchandoptimizationforoptimalkinodynamicmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3699135",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:19.169170+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3699135",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "gdragongeospatialreasoninganddynamicplanningforretrievalaugmentedoutdoornavigation",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3699135",
+        "title:gdragongeospatialreasoninganddynamicplanningforretrievalaugmentedoutdoornavigation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01200-4",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:19.428944+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01200-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "sampleefficientgenerativemoleculardesignusingmemorymanipulation",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01200-4",
+        "title:sampleefficientgenerativemoleculardesignusingmemorymanipulation"
+      ]
     }
   ]
 }
