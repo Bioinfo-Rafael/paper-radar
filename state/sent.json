@@ -6810,6 +6810,71 @@
       "identity_keys": [
         "title:fewshotgenerationviarecallingbraininspiredepisodicsemanticmemory"
       ]
+    },
+    {
+      "canonical_id": "title:haichumanoidagileobjectinteractioncontrolviadynamicsawareworldmodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:58.767074+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "haichumanoidagileobjectinteractioncontrolviadynamicsawareworldmodel",
+      "identity_keys": [
+        "title:haichumanoidagileobjectinteractioncontrolviadynamicsawareworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "title:generativeskillchaininglonghorizonskillplanningwithdiffusionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.248728+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "generativeskillchaininglonghorizonskillplanningwithdiffusionmodels",
+      "identity_keys": [
+        "title:generativeskillchaininglonghorizonskillplanningwithdiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:graphmpgraphneuralnetworkbasedmotionplanningwithefficientgraphsearch",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.409500+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "graphmpgraphneuralnetworkbasedmotionplanningwithefficientgraphsearch",
+      "identity_keys": [
+        "title:graphmpgraphneuralnetworkbasedmotionplanningwithefficientgraphsearch"
+      ]
+    },
+    {
+      "canonical_id": "title:hierarchicalplanningforropemanipulationusingknottheoryandalearnedinversemodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.645388+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "hierarchicalplanningforropemanipulationusingknottheoryandalearnedinversemodel",
+      "identity_keys": [
+        "title:hierarchicalplanningforropemanipulationusingknottheoryandalearnedinversemodel"
+      ]
+    },
+    {
+      "canonical_id": "title:hopfastdifferentialdynamicprogrammingforhorizonoptimaltrajectoryplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.841600+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "hopfastdifferentialdynamicprogrammingforhorizonoptimaltrajectoryplanning",
+      "identity_keys": [
+        "title:hopfastdifferentialdynamicprogrammingforhorizonoptimaltrajectoryplanning"
+      ]
     }
   ]
 }
