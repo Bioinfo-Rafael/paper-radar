@@ -6652,6 +6652,85 @@
         "doi:10.1038/s42256-026-01200-4",
         "title:sampleefficientgenerativemoleculardesignusingmemorymanipulation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-025-02639-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-08T07:45:02.947866+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-025-02639-w",
+      "venue": "Nature Methods",
+      "title_key": "optimaltransportforsinglecellgenomics",
+      "identity_keys": [
+        "doi:10.1038/s41592-025-02639-w",
+        "title:optimaltransportforsinglecellgenomics"
+      ]
+    },
+    {
+      "canonical_id": "title:arvlaautoregressiveactionexpertforvisionlanguageactionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:04.051611+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "arvlaautoregressiveactionexpertforvisionlanguageactionmodels",
+      "identity_keys": [
+        "title:arvlaautoregressiveactionexpertforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:bagelvlaenhancinglonghorizonmanipulationviainterleavedvisionlanguageactiongeneration",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:04.308052+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "bagelvlaenhancinglonghorizonmanipulationviainterleavedvisionlanguageactiongeneration",
+      "identity_keys": [
+        "title:bagelvlaenhancinglonghorizonmanipulationviainterleavedvisionlanguageactiongeneration"
+      ]
+    },
+    {
+      "canonical_id": "title:birthofatransformeramemoryviewpoint",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:04.727783+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "birthofatransformeramemoryviewpoint",
+      "identity_keys": [
+        "title:birthofatransformeramemoryviewpoint"
+      ]
+    },
+    {
+      "canonical_id": "title:cangraphlearningimproveplanninginllmbasedagents",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:05.007936+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "cangraphlearningimproveplanninginllmbasedagents",
+      "identity_keys": [
+        "title:cangraphlearningimproveplanninginllmbasedagents"
+      ]
+    },
+    {
+      "canonical_id": "title:diffusionseederseedingmotionoptimizationwithdiffusionforrapidmotionplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:05.244751+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "diffusionseederseedingmotionoptimizationwithdiffusionforrapidmotionplanning",
+      "identity_keys": [
+        "title:diffusionseederseedingmotionoptimizationwithdiffusionforrapidmotionplanning"
+      ]
     }
   ]
 }
