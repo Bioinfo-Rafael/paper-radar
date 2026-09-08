@@ -6731,6 +6731,85 @@
       "identity_keys": [
         "title:diffusionseederseedingmotionoptimizationwithdiffusionforrapidmotionplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-77230-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-08T10:21:39.001041+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-77230-8",
+      "venue": "Nature Communications",
+      "title_key": "automatedtransitionstategenerationformechanisticexplorationinorganicsynthesis",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-77230-8",
+        "title:automatedtransitionstategenerationformechanisticexplorationinorganicsynthesis"
+      ]
+    },
+    {
+      "canonical_id": "title:finetuningofflineworldmodelsintherealworld",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:39.646436+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "finetuningofflineworldmodelsintherealworld",
+      "identity_keys": [
+        "title:finetuningofflineworldmodelsintherealworld"
+      ]
+    },
+    {
+      "canonical_id": "title:emergenceofhumantorobottransferinvisionlanguageactionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:40.049083+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "emergenceofhumantorobottransferinvisionlanguageactionmodels",
+      "identity_keys": [
+        "title:emergenceofhumantorobottransferinvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:embodiedlifelonglearningfortaskandmotionplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:40.383554+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "embodiedlifelonglearningfortaskandmotionplanning",
+      "identity_keys": [
+        "title:embodiedlifelonglearningfortaskandmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:exploitagilemobilityofsteerablewheeledmobilerobotsafastmotionplanningapproach",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:40.623990+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "exploitagilemobilityofsteerablewheeledmobilerobotsafastmotionplanningapproach",
+      "identity_keys": [
+        "title:exploitagilemobilityofsteerablewheeledmobilerobotsafastmotionplanningapproach"
+      ]
+    },
+    {
+      "canonical_id": "title:fewshotgenerationviarecallingbraininspiredepisodicsemanticmemory",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:22:25.907424+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "fewshotgenerationviarecallingbraininspiredepisodicsemanticmemory",
+      "identity_keys": [
+        "title:fewshotgenerationviarecallingbraininspiredepisodicsemanticmemory"
+      ]
     }
   ]
 }
