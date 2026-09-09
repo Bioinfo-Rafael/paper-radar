@@ -1,0 +1,88 @@
+name: Feedback Reaction Collection
+
+# Experimental, additive extension: polls Discord REST for reactions on
+# existing paper messages and records/forwards them. It never modifies
+# daily/more/tune state, never writes to this repository, and its failure
+# cannot affect the Daily Paper Radar, /daily, /more, or /tune workflows —
+# they are separate workflow files with no shared trigger or state.
+#
+# No persistent Discord Gateway connection is used; this is a periodic REST
+# poll only.
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub Actions may delay scheduled runs during
+    # periods of high load; that delay is acceptable here.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: feedback-state-repo
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check feedback secrets are configured
+        id: guard
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          FEEDBACK_STATE_TOKEN: ${{ secrets.FEEDBACK_STATE_TOKEN }}
+        run: |
+          if [ -z "$DISCORD_BOT_TOKEN" ] || [ -z "$FEEDBACK_STATE_TOKEN" ]; then
+            echo "Feedback secrets not configured yet; skipping this run." >&2
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout private feedback state
+        if: steps.guard.outputs.ready == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: Bioinfo-Rafael/paper-radar-feedback-state
+          token: ${{ secrets.FEEDBACK_STATE_TOKEN }}
+          path: feedback-state
+
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.ready == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install .
+        if: steps.guard.outputs.ready == 'true'
+
+      - name: Collect Discord reaction feedback
+        if: steps.guard.outputs.ready == 'true'
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_GUILD_ID: "1542111973397762138"
+          BIOINFO_CHANNEL_ID: "1542112675188707398"
+          ML_CHANNEL_ID: "1542136000812163162"
+          FRONTIER_CHANNEL_ID: "1542136045511118858"
+          SAVED_PAPERS_CHANNEL_ID: "1547153149477789786"
+          MUST_READ_CHANNEL_ID: "1547153178091462716"
+          TARGET_USER_ID: "339444336905158656"
+          FEEDBACK_STATE_DIR: feedback-state
+        run: python -m extensions.feedback.collect
+
+      - name: Persist feedback state
+        if: steps.guard.outputs.ready == 'true'
+        run: |
+          cd feedback-state
+          if [ -z "$(git status --porcelain)" ]; then
+            exit 0
+          fi
+          git config user.name "paper-radar-feedback[bot]"
+          git config user.email "paper-radar-feedback[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(feedback): persist reaction collection run"
+          git push

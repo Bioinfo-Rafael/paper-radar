@@ -17,6 +17,10 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8.3,<9", "pytest-cov>=6,<7", "ruff>=0.11,<1"]
+# Optional, heavy, and isolated to the experimental extensions/feedback
+# shadow model registry. Never installed by daily/more/tune workflows or by
+# the `dev` extra; only a feedback-specific workflow step may opt in.
+feedback-embeddings = ["sentence-transformers>=3,<4"]
 
 [project.scripts]
 paper-radar = "paper_radar.cli:main"

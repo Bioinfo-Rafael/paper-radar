@@ -1,0 +1,106 @@
+name: Feedback Abstract Enrichment
+
+# Experimental, additive extension: batch-fetches abstracts (Semantic
+# Scholar) for reacted papers that had no locally-known abstract, then runs
+# the shadow (non-production) semantic interest models over whatever
+# reactions now have an abstract. Fully separate from
+# feedback_collect.yml, and from daily/more/tune — no shared trigger, no
+# shared state, no write access to this repository.
+#
+# Batch abstract retrieval never happens on every reaction (see
+# extensions/feedback/enrich.py): it groups requests and normally only runs
+# once the pending queue reaches a threshold. Shadow model predictions are
+# never used by daily/more/tune and contribute 0% to production ranking.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Run abstract enrichment even if the pending queue is small
+        required: false
+        default: false
+        type: boolean
+      install_embeddings:
+        description: >-
+          Also install optional heavy embedding dependencies
+          (sentence-transformers) for this run only
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: feedback-state-repo
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check feedback secrets are configured
+        id: guard
+        env:
+          FEEDBACK_STATE_TOKEN: ${{ secrets.FEEDBACK_STATE_TOKEN }}
+        run: |
+          if [ -z "$FEEDBACK_STATE_TOKEN" ]; then
+            echo "Feedback secrets not configured yet; skipping this run." >&2
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout private feedback state
+        if: steps.guard.outputs.ready == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: Bioinfo-Rafael/paper-radar-feedback-state
+          token: ${{ secrets.FEEDBACK_STATE_TOKEN }}
+          path: feedback-state
+
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.ready == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install .
+        if: steps.guard.outputs.ready == 'true'
+
+      - name: Optionally install heavy embedding models
+        if: steps.guard.outputs.ready == 'true' && inputs.install_embeddings == true
+        continue-on-error: true
+        run: pip install '.[feedback-embeddings]'
+
+      - name: Batch-fetch missing abstracts
+        if: steps.guard.outputs.ready == 'true'
+        env:
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+          FEEDBACK_STATE_DIR: feedback-state
+          FEEDBACK_ENRICH_FORCE: ${{ inputs.force }}
+        run: python -m extensions.feedback.enrich
+
+      - name: Compute shadow interest predictions (experimental, non-production)
+        if: steps.guard.outputs.ready == 'true'
+        env:
+          FEEDBACK_STATE_DIR: feedback-state
+        run: python -m extensions.feedback.shadow.predict
+
+      - name: Persist feedback state
+        if: steps.guard.outputs.ready == 'true'
+        run: |
+          cd feedback-state
+          if [ -z "$(git status --porcelain)" ]; then
+            exit 0
+          fi
+          git config user.name "paper-radar-feedback[bot]"
+          git config user.email "paper-radar-feedback[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(feedback): persist abstract enrichment and shadow predictions"
+          git push
