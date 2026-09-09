@@ -72,6 +72,13 @@ jobs:
           MUST_READ_CHANNEL_ID: "1547153178091462716"
           TARGET_USER_ID: "339444336905158656"
           FEEDBACK_STATE_DIR: feedback-state
+          # Every run rescans this many of each channel's most recent
+          # messages (not "only new since last run"): reactions land after
+          # a message is posted, so a narrower "new messages only" scan
+          # would permanently miss any reaction added after a message aged
+          # out of that window. Increase if fewer than a few days of paper
+          # messages fit in this count for a given channel's posting volume.
+          REACTION_SCAN_MESSAGES_PER_CHANNEL: "300"
         run: python -m extensions.feedback.collect
 
       - name: Persist feedback state

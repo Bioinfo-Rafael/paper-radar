@@ -14,7 +14,7 @@ from extensions.feedback.config import (
 from extensions.feedback.discord_client import (
     DiscordClientProtocol,
     DiscordRestClient,
-    fetch_new_messages,
+    fetch_recent_messages,
 )
 from extensions.feedback.events import ReactionEvent, build_event_id, jump_url, now_iso
 from extensions.feedback.forward import build_forward_payload
@@ -40,6 +40,39 @@ class CollectionSummary:
     errors: list[str] = field(default_factory=list)
 
 
+@dataclass(slots=True)
+class _ChannelCounts:
+    """Per-channel counters logged every run so a GitHub Actions log alone
+    is enough to see why a given reaction was or wasn't picked up.
+    """
+
+    channel_id: str
+    messages_scanned: int = 0
+    paper_messages: int = 0
+    target_reaction_summaries: int = 0
+    target_user_reactions: int = 0
+    new_events: int = 0
+    duplicates: int = 0
+    forwarded: int = 0
+    errors: int = 0
+
+    def log(self) -> None:
+        LOGGER.info(
+            "channel=%s messages_scanned=%d paper_messages=%d "
+            "target_reaction_summaries=%d target_user_reactions=%d "
+            "new_events=%d duplicates=%d forwarded=%d errors=%d",
+            self.channel_id,
+            self.messages_scanned,
+            self.paper_messages,
+            self.target_reaction_summaries,
+            self.target_user_reactions,
+            self.new_events,
+            self.duplicates,
+            self.forwarded,
+            self.errors,
+        )
+
+
 def _paper_message_embed(message: dict[str, Any]) -> dict[str, Any] | None:
     embeds = message.get("embeds") or []
     if not embeds:
@@ -60,17 +93,21 @@ def run_collection(
     summary = CollectionSummary()
     rules = cfg.rule_by_normalized_emoji()
     for category, channel_id in cfg.source_channels.items():
-        after = state.last_seen_message_id(channel_id)
-        messages = fetch_new_messages(discord, channel_id, after)
-        newest_seen = after
+        counts = _ChannelCounts(channel_id=channel_id)
+        # Every run rescans the same recent window (never gated by any
+        # stored cursor): a message posted long ago can still gain a
+        # reaction today, and last_seen_message_id-style "new messages
+        # only" scanning would silently and permanently miss it the moment
+        # it scrolled out of a "new" window on some earlier run.
+        messages = fetch_recent_messages(discord, channel_id, cfg.scan_messages_per_channel)
         for message in messages:
             summary.messages_scanned += 1
+            counts.messages_scanned += 1
             message_id = message["id"]
-            if newest_seen is None or int(message_id) > int(newest_seen):
-                newest_seen = message_id
             embed = _paper_message_embed(message)
             if embed is None:
                 continue
+            counts.paper_messages += 1
             for reaction in message.get("reactions") or []:
                 emoji = reaction.get("emoji") or {}
                 if emoji.get("id"):
@@ -82,6 +119,7 @@ def run_collection(
                     continue
                 if int(reaction.get("count") or 0) < 1:
                     continue
+                counts.target_reaction_summaries += 1
                 try:
                     users = discord.get_reaction_users(channel_id, message_id, rule.emoji)
                 except Exception:
@@ -90,16 +128,19 @@ def run_collection(
                         extra={"channel_id": channel_id, "message_id": message_id},
                     )
                     summary.errors.append(f"reaction-users:{channel_id}:{message_id}")
+                    counts.errors += 1
                     continue
                 user_ids = {str(user.get("id")) for user in users if not user.get("bot")}
                 if cfg.target_user_id not in user_ids:
                     summary.non_target_user += 1
                     continue
+                counts.target_user_reactions += 1
                 event_id = build_event_id(
                     cfg.guild_id, channel_id, message_id, cfg.target_user_id, normalized
                 )
                 if state.is_processed(event_id):
                     summary.duplicate += 1
+                    counts.duplicates += 1
                     continue
                 matched = match_candidate(embed["title"], embed["url"], candidates_by_category)
                 abstract_status = (
@@ -138,17 +179,21 @@ def run_collection(
                 forwarded_to = None
                 if rule.forward_to == "saved_papers":
                     forwarded_to = "saved_papers"
-                    _forward(discord, cfg.saved_papers_channel_id, event, embed, cfg, summary)
+                    _forward(
+                        discord, cfg.saved_papers_channel_id, event, embed, cfg, summary, counts
+                    )
                 elif rule.forward_to == "must_read":
                     forwarded_to = "must_read"
-                    _forward(discord, cfg.must_read_channel_id, event, embed, cfg, summary)
+                    _forward(
+                        discord, cfg.must_read_channel_id, event, embed, cfg, summary, counts
+                    )
                 state.mark_processed(event_id, forwarded_to)
                 summary.recorded += 1
+                counts.new_events += 1
                 if abstract_status == "pending":
                     state.enqueue_pending_abstract(matched)
                     summary.queued_for_abstract += 1
-        if newest_seen and newest_seen != after:
-            state.set_last_seen_message_id(channel_id, newest_seen)
+        counts.log()
     return summary
 
 
@@ -159,16 +204,19 @@ def _forward(
     embed: dict[str, Any],
     cfg: FeedbackConfig,
     summary: CollectionSummary,
+    counts: _ChannelCounts,
 ) -> None:
     try:
         discord.create_message(channel_id, build_forward_payload(event, embed, cfg.username))
         summary.forwarded += 1
+        counts.forwarded += 1
     except Exception:
         LOGGER.exception(
             "Could not forward reacted paper to its destination channel",
             extra={"event_id": event.event_id, "channel_id": channel_id},
         )
         summary.errors.append(f"forward:{event.event_id}")
+        counts.errors += 1
 
 
 _LOG_FORMAT = "%(asctime)s %(levelname)s %(name)s: %(message)s"

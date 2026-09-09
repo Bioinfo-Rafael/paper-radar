@@ -23,6 +23,14 @@ DEFAULT_TARGET_USER_ID = "339444336905158656"
 DEFAULT_SAVED_PAPERS_CHANNEL_ID = "1547153149477789786"
 DEFAULT_MUST_READ_CHANNEL_ID = "1547153178091462716"
 
+# Reactions are added well after a message is posted, so reaction
+# collection cannot rely on "only new messages since last seen" (a message
+# would be marked seen once and its later reactions permanently missed).
+# Every run instead rescans this many of each channel's most recent
+# messages; duplicate processing is prevented by the event_id/
+# processed_events idempotency ledger, not by narrowing what gets scanned.
+DEFAULT_SCAN_MESSAGES_PER_CHANNEL = 300
+
 _REACTIONS_PATH = Path(__file__).with_name("reactions.yaml")
 
 
@@ -77,6 +85,7 @@ class FeedbackConfig:
     state_dir: Path
     username: str
     reactions: dict[str, ReactionRule]
+    scan_messages_per_channel: int
 
     def rule_by_normalized_emoji(self) -> dict[str, ReactionRule]:
         return {normalize_emoji(emoji): rule for emoji, rule in self.reactions.items()}
@@ -109,6 +118,11 @@ class FeedbackConfig:
             state_dir=Path(_env("FEEDBACK_STATE_DIR", "feedback-state")),
             username=_env("FEEDBACK_USERNAME", "Paper Radar Feedback"),
             reactions=load_reaction_rules(reactions_path),
+            scan_messages_per_channel=int(
+                _env(
+                    "REACTION_SCAN_MESSAGES_PER_CHANNEL", str(DEFAULT_SCAN_MESSAGES_PER_CHANNEL)
+                )
+            ),
         )
 
 
