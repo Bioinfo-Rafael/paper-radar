@@ -7248,6 +7248,74 @@
       "identity_keys": [
         "title:learninglonghorizonactiondependenciesinsamplingbasedbilevelplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08224",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T10:29:03.545276+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "3dwaygeneralizingrobotmanipulationvia3dconsistentwaypoints",
+      "identity_keys": [
+        "arxiv:2609.08224",
+        "title:3dwaygeneralizingrobotmanipulationvia3dconsistentwaypoints"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08853",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T10:29:03.682435+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "castalternatingstatevaluetargetsandexpandedpolicygradientsformodelbasedreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.08853",
+        "title:castalternatingstatevaluetargetsandexpandedpolicygradientsformodelbasedreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08550",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T10:29:04.030346+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "creamemasceneawarememoryarchitectureforpersonalizedagents",
+      "identity_keys": [
+        "arxiv:2609.08550",
+        "title:creamemasceneawarememoryarchitectureforpersonalizedagents"
+      ]
+    },
+    {
+      "canonical_id": "title:linkingincontextlearningintransformerstohumanepisodicmemory",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T10:29:04.200894+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "linkingincontextlearningintransformerstohumanepisodicmemory",
+      "identity_keys": [
+        "title:linkingincontextlearningintransformerstohumanepisodicmemory"
+      ]
+    },
+    {
+      "canonical_id": "title:mcuformerdeployingvisiontranformersonmicrocontrollerswithlimitedmemory",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T10:29:04.348635+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "mcuformerdeployingvisiontranformersonmicrocontrollerswithlimitedmemory",
+      "identity_keys": [
+        "title:mcuformerdeployingvisiontranformersonmicrocontrollerswithlimitedmemory"
+      ]
     }
   ]
 }
