@@ -12,7 +12,11 @@ class DiscordClientProtocol(Protocol):
     """Duck-typed surface used by collect.py, easy to fake in tests."""
 
     def get_channel_messages(
-        self, channel_id: str, after: str | None = None, limit: int = 100
+        self,
+        channel_id: str,
+        after: str | None = None,
+        before: str | None = None,
+        limit: int = 100,
     ) -> list[dict[str, Any]]: ...
 
     def get_reaction_users(
@@ -35,11 +39,17 @@ class DiscordRestClient:
         self.headers = {"Authorization": f"Bot {bot_token}"}
 
     def get_channel_messages(
-        self, channel_id: str, after: str | None = None, limit: int = 100
+        self,
+        channel_id: str,
+        after: str | None = None,
+        before: str | None = None,
+        limit: int = 100,
     ) -> list[dict[str, Any]]:
         params: dict[str, Any] = {"limit": limit}
         if after:
             params["after"] = after
+        if before:
+            params["before"] = before
         response = self.client.request(
             "GET",
             f"{API_BASE}/channels/{channel_id}/messages",
@@ -73,31 +83,37 @@ class DiscordRestClient:
         return response.json()
 
 
-def fetch_new_messages(
+def fetch_recent_messages(
     discord: DiscordClientProtocol,
     channel_id: str,
-    after: str | None,
+    max_messages: int,
     *,
     page_size: int = 100,
-    max_pages: int = 20,
 ) -> list[dict[str, Any]]:
-    """Page forward through channel history since ``after`` (or, if ``after``
-    is None, just the most recent page — a fresh channel is never fully
-    backfilled to bound API usage on the very first run).
+    """Fetch the channel's ``max_messages`` most recent messages, newest
+    first, paging backward with ``before`` (Discord's messages endpoint caps
+    a single page at 100).
+
+    Deliberately NOT a "since last seen" cursor walk: reactions are added to
+    a message well after it was posted, so a message that scrolled out of
+    this window on an earlier run would otherwise never be reaction-checked
+    again. Every run rescans this same recent window regardless of what a
+    previous run saw; extensions.feedback.collect's event_id/
+    processed_events idempotency ledger — not this function — is what
+    prevents reprocessing a reaction already recorded.
     """
-    if after is None:
-        # First run for this channel: only look at the current tail rather
-        # than walking the entire channel history.
-        return discord.get_channel_messages(channel_id, after=None, limit=page_size)
     messages: list[dict[str, Any]] = []
-    cursor = after
-    for _ in range(max_pages):
-        batch = discord.get_channel_messages(channel_id, after=cursor, limit=page_size)
+    cursor: str | None = None
+    while len(messages) < max_messages:
+        remaining = max_messages - len(messages)
+        batch = discord.get_channel_messages(
+            channel_id, before=cursor, limit=min(page_size, remaining)
+        )
         if not batch:
             break
         messages.extend(batch)
-        newest = max(batch, key=lambda item: int(item["id"]))
-        cursor = newest["id"]
-        if len(batch) < page_size:
+        oldest = min(batch, key=lambda item: int(item["id"]))
+        cursor = oldest["id"]
+        if len(batch) < min(page_size, remaining):
             break
     return messages

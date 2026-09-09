@@ -26,14 +26,21 @@ class FakeDiscordClient:
         messages_by_channel: dict[str, list[dict[str, Any]]] | None = None,
         reaction_users: dict[tuple[str, str, str], list[dict[str, Any]]] | None = None,
     ) -> None:
+        # Each channel's list is stored newest-first, exactly as Discord
+        # returns it, so before/after slicing below behaves realistically.
         self.messages_by_channel = messages_by_channel or {}
         self.reaction_users = reaction_users or {}
         self.created: list[tuple[str, dict[str, Any]]] = []
-        self.message_calls: list[tuple[str, str | None]] = []
+        self.message_calls: list[tuple[str, str | None, str | None]] = []
 
-    def get_channel_messages(self, channel_id, after=None, limit=100):
-        self.message_calls.append((channel_id, after))
-        return self.messages_by_channel.get(channel_id, [])
+    def get_channel_messages(self, channel_id, after=None, before=None, limit=100):
+        self.message_calls.append((channel_id, after, before))
+        ordered = self.messages_by_channel.get(channel_id, [])
+        if before is not None:
+            ordered = [m for m in ordered if int(m["id"]) < int(before)]
+        if after is not None:
+            ordered = [m for m in ordered if int(m["id"]) > int(after)]
+        return ordered[:limit]
 
     def get_reaction_users(self, channel_id, message_id, emoji, limit=100):
         return self.reaction_users.get((channel_id, message_id, emoji), [])
@@ -87,6 +94,7 @@ def feedback_config(tmp_path: Path) -> FeedbackConfig:
         state_dir=tmp_path / "feedback-state",
         username="Paper Radar Feedback",
         reactions=load_reaction_rules(reactions_path),
+        scan_messages_per_channel=300,
     )
 
 

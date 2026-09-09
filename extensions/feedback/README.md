@@ -31,11 +31,15 @@ No Discord Gateway connection is added. Two independent GitHub Actions
 workflows poll the Discord REST API on a schedule:
 
 - **`.github/workflows/feedback_collect.yml`** (every 30 minutes, plus
-  `workflow_dispatch`): scans the three source channels for new/updated
-  paper messages, confirms `TARGET_USER_ID` actually left one of the three
-  target reactions (via the reaction-users endpoint, never trusting the
-  reaction-count summary alone), records a raw feedback event, and forwards
-  ❤️/❤️‍🔥 papers.
+  `workflow_dispatch`): every run rescans each source channel's
+  `REACTION_SCAN_MESSAGES_PER_CHANNEL` most recent messages (default 300 —
+  a few days of Paper Radar's posting volume; configurable), confirms
+  `TARGET_USER_ID` actually left one of the three target reactions (via the
+  reaction-users endpoint, never trusting the reaction-count summary
+  alone), records a raw feedback event, and forwards ❤️/❤️‍🔥 papers. This is
+  a deliberate full rescan of the recent window every run, **not** a "only
+  messages since last seen" cursor walk — see "Why a recent-window rescan,
+  not a cursor" below.
 - **`.github/workflows/feedback_enrich.yml`** (every 6 hours, plus
   `workflow_dispatch` with a `force` input): batch-fetches abstracts for
   papers that had none locally available, then computes shadow interest
@@ -55,6 +59,36 @@ If `DISCORD_BOT_TOKEN` or `FEEDBACK_STATE_TOKEN` is not configured yet, both
 workflows detect that in a guard step and exit successfully without doing
 anything — this extension is designed to be safe to merge before the
 private repository or secrets exist.
+
+## Why a recent-window rescan, not a cursor
+
+Reactions are added well after a message is posted. An earlier version of
+this extension tracked a per-channel `last_seen_message_id` cursor and only
+scanned messages newer than it — which meant a message was scanned exactly
+once, right after Paper Radar posted it (almost always with zero
+reactions), and the cursor then moved past it forever. Any reaction added
+later was permanently invisible: the message would never be scanned again.
+
+Instead, `extensions/feedback/collect.py` rescans the same recent window —
+`fetch_recent_messages` in `discord_client.py` — on every run, regardless
+of what a previous run already saw. Reprocessing is prevented purely by the
+event_id/`processed_events.json` idempotency ledger (see "Idempotency"
+below), not by narrowing what gets scanned:
+
+```text
+every run: fetch recent N messages per channel (N = REACTION_SCAN_MESSAGES_PER_CHANNEL)
+  → for each target-emoji reaction found
+    → confirm TARGET_USER_ID actually reacted
+    → build event_id
+    → already in processed_events.json? skip (duplicate)
+    → otherwise: record raw event, forward if applicable, mark processed
+```
+
+`meta.json`'s cursor fields (if present from an older run) are never
+consulted for this scan — a stale or absent cursor cannot suppress
+rescanning the recent window, including on the very first run after this
+was fixed (which necessarily "backfills" by scanning the same recent
+window a normal run would).
 
 ## Paper identification
 
@@ -105,8 +139,9 @@ SQLite binary committed on every run):
 - `enriched_abstracts.json` — cache of abstracts fetched via batch calls,
   keyed by canonical id (joined against `raw_events.jsonl` at read time,
   not written back into it, to keep the raw log append-only).
-- `meta.json` — per-channel last-seen-message-id cursor, plus the
-  single-target-user scope note.
+- `meta.json` — the single-target-user scope note (any per-channel cursor
+  field it might carry from an older run is unused: see "Why a
+  recent-window rescan, not a cursor" above).
 - `shadow_predictions.jsonl` — **append-only** log of shadow model
   predictions (see below).
 
@@ -176,9 +211,24 @@ pipeline; there is no "negative" label in this schema at all.
 `extensions/feedback/config.py` hardcodes the concrete IDs for this
 workspace as defaults (they are ordinary Discord snowflake IDs, not
 secrets) and reads `DISCORD_BOT_TOKEN`/`FEEDBACK_STATE_TOKEN` only from the
-environment. See the `feedback_collect.yml`/`feedback_enrich.yml` `env:`
-blocks for the full list of environment variables, and `.env.example` for
-local-run documentation.
+environment. `REACTION_SCAN_MESSAGES_PER_CHANNEL` (default `300`) controls
+the recent-window rescan size described above — raise it if a channel's
+posting volume means 300 messages covers less than a few days. See the
+`feedback_collect.yml`/`feedback_enrich.yml` `env:` blocks for the full
+list of environment variables, and `.env.example` for local-run
+documentation.
+
+## Logging
+
+Every `feedback_collect.yml` run logs one INFO line per source channel:
+
+```text
+channel=<id> messages_scanned=<n> paper_messages=<n> target_reaction_summaries=<n> target_user_reactions=<n> new_events=<n> duplicates=<n> forwarded=<n> errors=<n>
+```
+
+plus one aggregate "Feedback collection summary" line at the end. Neither
+line ever includes `DISCORD_BOT_TOKEN`, `FEEDBACK_STATE_TOKEN`, or any
+other secret.
 
 ## What this extension deliberately does not do
 
