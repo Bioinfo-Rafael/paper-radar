@@ -4394,6 +4394,2860 @@
         "arxiv:2608.03924",
         "title:etaanewagenticparadigmforembodiedtasks"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.30.748098",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T03:48:29.056334+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.30.748098",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "ageasenablestimeagnosticcellfateinferencefromsinglecellandspatialmultiomicsdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.30.748098",
+        "title:ageasenablestimeagnosticcellfateinferencefromsinglecellandspatialmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03858",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:29.850426+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "highdimensionallearningdynamicsofattentionindexedmodels",
+      "identity_keys": [
+        "arxiv:2609.03858",
+        "title:highdimensionallearningdynamicsofattentionindexedmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04268",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:30.460372+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thefairnesscollapsephenomenonbiasamplificationinlanguagemodelstrainedonsyntheticdata",
+      "identity_keys": [
+        "arxiv:2608.04268",
+        "title:thefairnesscollapsephenomenonbiasamplificationinlanguagemodelstrainedonsyntheticdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03446",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:30.738867+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "preservingknowledgeacrossspaceandtimeforcontinualvideodeepfakedetection",
+      "identity_keys": [
+        "arxiv:2609.03446",
+        "title:preservingknowledgeacrossspaceandtimeforcontinualvideodeepfakedetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04206",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:31.409322+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromnonconvexselfconcordantregularizationtoscalablequasinewtontrainingofpinns",
+      "identity_keys": [
+        "arxiv:2608.04206",
+        "title:fromnonconvexselfconcordantregularizationtoscalablequasinewtontrainingofpinns"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03943",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T03:48:31.950058+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "morecriticismdoesnotmakeabetterreviewequireviewr",
+      "identity_keys": [
+        "arxiv:2609.03943",
+        "title:morecriticismdoesnotmakeabetterreviewequireviewr"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03621",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:33.198619+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acomputablerepresentationofthephysicallaboratoryenablesverifiableworkflows",
+      "identity_keys": [
+        "arxiv:2609.03621",
+        "title:acomputablerepresentationofthephysicallaboratoryenablesverifiableworkflows"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03602",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:33.722010+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "svwamanefficientsurroundviewworldactionmodelforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.03602",
+        "title:svwamanefficientsurroundviewworldactionmodelforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.98",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:34.172425+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.98",
+      "venue": "ACL",
+      "title_key": "inthewildaudiospatializationwithflexibletextguidedlocalization",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.98",
+        "title:inthewildaudiospatializationwithflexibletextguidedlocalization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03906",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:35.349033+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "revisitingtopologicalgraphsformacroactionbasedclosedloopreinforcementlearningofvisionlanguagenavigationincontinuousenvironment",
+      "identity_keys": [
+        "arxiv:2609.03906",
+        "title:revisitingtopologicalgraphsformacroactionbasedclosedloopreinforcementlearningofvisionlanguagenavigationincontinuousenvironment"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.222",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T03:48:35.599702+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.222",
+      "venue": "ACL",
+      "title_key": "learningglobalcontrollerinlatentspaceforparameterefficientfinetuning",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.222",
+        "title:learningglobalcontrollerinlatentspaceforparameterefficientfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.isci.2026.116619",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T07:39:32.600445+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.isci.2026.116619",
+      "venue": null,
+      "title_key": "tensornetworkbasedgeneregulatorynetworkinferenceforsinglecelltranscriptomicdata",
+      "identity_keys": [
+        "doi:10.1016/j.isci.2026.116619",
+        "pubmed:42436999",
+        "title:tensornetworkbasedgeneregulatorynetworkinferenceforsinglecelltranscriptomicdata"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.31.747784",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T07:39:32.844220+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.31.747784",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "screpalatentspaceselfdistilledfoundationmodelforsinglecellrepresentationlearning",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.31.747784",
+        "title:screpalatentspaceselfdistilledfoundationmodelforsinglecellrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag480",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T07:39:33.077556+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag480",
+      "venue": null,
+      "title_key": "cscninferenceofcellspecificcausalnetworksusingsinglecellrnaseqdata",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag480",
+        "pubmed:42378449",
+        "title:cscninferenceofcellspecificcausalnetworksusingsinglecellrnaseqdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03533",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:34.200241+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coupledscalingarepresentationalaccessibilityframeworkforneuralscalinglaws",
+      "identity_keys": [
+        "arxiv:2609.03533",
+        "title:coupledscalingarepresentationalaccessibilityframeworkforneuralscalinglaws"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03534",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:34.987727+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "truncgradgsimproved3dgaussiansplattingviatruncatedgradientupdates",
+      "identity_keys": [
+        "arxiv:2609.03534",
+        "title:truncgradgsimproved3dgaussiansplattingviatruncatedgradientupdates"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03407",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:35.384881+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "caughtinthestorynarrativecaptivityinmultiturnllmsconversation",
+      "identity_keys": [
+        "arxiv:2609.03407",
+        "title:caughtinthestorynarrativecaptivityinmultiturnllmsconversation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04054",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:35.663777+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "modalityagreementandconflictawareprototypehypergraphlearningformultimodalintentunderstanding",
+      "identity_keys": [
+        "arxiv:2608.04054",
+        "title:modalityagreementandconflictawareprototypehypergraphlearningformultimodalintentunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.03573",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T07:39:35.916361+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sftconflictsrlcoexistsatheoreticalandempiricalanalysisofmultitasklearningforllms",
+      "identity_keys": [
+        "arxiv:2608.03573",
+        "title:sftconflictsrlcoexistsatheoreticalandempiricalanalysisofmultitasklearningforllms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03774",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:36.542606+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingworldmodelsforsafetycriticalembodiedsystems",
+      "identity_keys": [
+        "arxiv:2609.03774",
+        "title:rethinkingworldmodelsforsafetycriticalembodiedsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03834",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:36.752335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "semanticbayesianworldmodels",
+      "identity_keys": [
+        "arxiv:2609.03834",
+        "title:semanticbayesianworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04070",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:37.179975+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuousactionsfromdiscretemindslatentalignedplanningforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.04070",
+        "title:continuousactionsfromdiscretemindslatentalignedplanningforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.20",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:38.334827+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.20",
+      "venue": "EMNLP",
+      "title_key": "learningplanningbasedreasoningbytrajectoriescollectionandprocessrewardsynthesizing",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.20",
+        "title:learningplanningbasedreasoningbytrajectoriescollectionandprocessrewardsynthesizing"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.272",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T07:39:38.676738+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.272",
+      "venue": "ACL",
+      "title_key": "opengroundedplanningchallengesandbenchmarkconstruction",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.272",
+        "title:opengroundedplanningchallengesandbenchmarkconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04050",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:13:29.620655+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fm4wififlowmatchingformultiapcoordinationindensedeploymentsofbeyondwifi8networks",
+      "identity_keys": [
+        "arxiv:2608.04050",
+        "title:fm4wififlowmatchingformultiapcoordinationindensedeploymentsofbeyondwifi8networks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03554",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:13:29.884191+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "widewildcardinferencewithdynamicexpansionforcrossmodalgenerativeretrieval",
+      "identity_keys": [
+        "arxiv:2609.03554",
+        "title:widewildcardinferencewithdynamicexpansionforcrossmodalgenerativeretrieval"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04010",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:13:30.005970+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "parvlparallelscalingandexpandablecomputeallocationformultimodalllms",
+      "identity_keys": [
+        "arxiv:2608.04010",
+        "title:parvlparallelscalingandexpandablecomputeallocationformultimodalllms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03923",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:14:15.457519+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "speakformegivingllmsthesituationalawarenesstoparticipateinameeting",
+      "identity_keys": [
+        "arxiv:2609.03923",
+        "title:speakformegivingllmsthesituationalawarenesstoparticipateinameeting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04073",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T10:14:15.876273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fbidadaptivepersonalizedfederatedlearningforrobustoutofdistributionattackdetectioniniotnetworks",
+      "identity_keys": [
+        "arxiv:2608.04073",
+        "title:fbidadaptivepersonalizedfederatedlearningforrobustoutofdistributionattackdetectioniniotnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03927",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:14:16.457068+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Transactions on Machine Learning Research (2026)",
+      "title_key": "towardunifiedrobotlearningbridgingrepresentationvisionlanguageactionandworldmodels",
+      "identity_keys": [
+        "arxiv:2609.03927",
+        "title:towardunifiedrobotlearningbridgingrepresentationvisionlanguageactionandworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03681",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:14:16.592214+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wiseworldmodelguidedimaginationschedulingforefficientposttrainingofvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2609.03681",
+        "title:wiseworldmodelguidedimaginationschedulingforefficientposttrainingofvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04193",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:14:16.899125+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "giftguidedintermediatefeaturetrainingviaactionorientedstructuralsupervisionforroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2609.04193",
+        "title:giftguidedintermediatefeaturetrainingviaactionorientedstructuralsupervisionforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.92",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:15:02.213702+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.92",
+      "venue": "ACL",
+      "title_key": "persuadingacrossdiversedomainsadatasetandpersuasionlargelanguagemodel",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.92",
+        "title:persuadingacrossdiversedomainsadatasetandpersuasionlargelanguagemodel"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.262",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T10:15:02.398540+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.262",
+      "venue": "ACL",
+      "title_key": "planninglikehumanadualprocessframeworkfordialogueplanning",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.262",
+        "title:planninglikehumanadualprocessframeworkfordialogueplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03294",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:03.573115+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latentenergyactionplanningwithworldmodels",
+      "identity_keys": [
+        "arxiv:2609.03294",
+        "title:latentenergyactionplanningwithworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03565",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:03.793864+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardphysicallygroundedjepaworldmodelsforgoalconditionedroboticplanning",
+      "identity_keys": [
+        "arxiv:2609.03565",
+        "title:towardphysicallygroundedjepaworldmodelsforgoalconditionedroboticplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03753",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:04.441292+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "simskillalifelonglearningaiagentforautonomousmasteryoftrafficsimulation",
+      "identity_keys": [
+        "arxiv:2609.03753",
+        "title:simskillalifelonglearningaiagentforautonomousmasteryoftrafficsimulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.17",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:04.653615+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.17",
+      "venue": "ACL",
+      "title_key": "sportsmetricsblendingtextandnumericaldatatounderstandinformationfusioninllms",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.17",
+        "title:sportsmetricsblendingtextandnumericaldatatounderstandinformationfusioninllms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.150",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T13:26:04.950662+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.150",
+      "venue": "ACL",
+      "title_key": "toolhopaquerydrivenbenchmarkforevaluatinglargelanguagemodelsinmultihoptooluse",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.150",
+        "title:toolhopaquerydrivenbenchmarkforevaluatinglargelanguagemodelsinmultihoptooluse"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2026.101591",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T22:40:36.353200+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2026.101591",
+      "venue": "Cell Systems",
+      "title_key": "modelingchimericantigenreceptorresponseatthesinglecelllevelwithconditionaloptimaltransport",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2026.101591",
+        "title:modelingchimericantigenreceptorresponseatthesinglecelllevelwithconditionaloptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.10.03.680287",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-04T22:40:36.897048+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.10.03.680287",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "heterogeneousimmunerecoveryafterviralresponsethroughadynamicalmodeloffeedbackdrivenpersistenceandclearance",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.10.03.680287",
+        "title:heterogeneousimmunerecoveryafterviralresponsethroughadynamicalmodeloffeedbackdrivenpersistenceandclearance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04655",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:37.897124+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "csgenamultidomaincurvilinearstructuregenerationmodelviahierarchicalmultimodaldiffusion",
+      "identity_keys": [
+        "arxiv:2608.04655",
+        "title:csgenamultidomaincurvilinearstructuregenerationmodelviahierarchicalmultimodaldiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04805",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:38.857664+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mgsbmanifoldgatedsignaturebranchpressuredomainbaselinearchitecturefortwophasepipelineflowsunderdistributionalshift",
+      "identity_keys": [
+        "arxiv:2608.04805",
+        "title:mgsbmanifoldgatedsignaturebranchpressuredomainbaselinearchitecturefortwophasepipelineflowsunderdistributionalshift"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04680",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:39.072698+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moatmodelagnosticrandomizedtransformationsforpreventingefficiencydegradationattacksonvits",
+      "identity_keys": [
+        "arxiv:2608.04680",
+        "title:moatmodelagnosticrandomizedtransformationsforpreventingefficiencydegradationattacksonvits"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04772",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:39.518146+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "guidelineasoraclezeroannotationtrainingofanophthalmictelephonetriageagent",
+      "identity_keys": [
+        "arxiv:2608.04772",
+        "title:guidelineasoraclezeroannotationtrainingofanophthalmictelephonetriageagent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16930",
+      "category": "ml",
+      "first_sent_at": "2026-09-04T22:40:39.808124+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "emanoptimizationdrivencapacitygrowththroughpathemergenceinmultitasklearning",
+      "identity_keys": [
+        "arxiv:2608.16930",
+        "title:emanoptimizationdrivencapacitygrowththroughpathemergenceinmultitasklearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04872",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:40.661652+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asrselfevolvingagenticllmsforsymbolicregressionviahierarchicalcoordination",
+      "identity_keys": [
+        "arxiv:2608.04872",
+        "title:asrselfevolvingagenticllmsforsymbolicregressionviahierarchicalcoordination"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05085",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:40.931076+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "capabilitygatedplanningcosttogoaldiscoveryandthelimitsofmyopicexperimentselection",
+      "identity_keys": [
+        "arxiv:2608.05085",
+        "title:capabilitygatedplanningcosttogoaldiscoveryandthelimitsofmyopicexperimentselection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04964",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:41.404121+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldcycleselfverifiablereinforcementlearningforlonghorizonvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2608.04964",
+        "title:worldcycleselfverifiablereinforcementlearningforlonghorizonvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04765",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:41.996984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "explicitlanguagememoryforlonghorizonplanninginvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.04765",
+        "title:explicitlanguagememoryforlonghorizonplanninginvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05266",
+      "category": "frontier",
+      "first_sent_at": "2026-09-04T22:40:42.563082+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticselfdrivingmicroscopybenchmarkssupportqualificationbutdonotnecessarilygeneralizetounseentasks",
+      "identity_keys": [
+        "arxiv:2608.05266",
+        "title:agenticselfdrivingmicroscopybenchmarkssupportqualificationbutdonotnecessarilygeneralizetounseentasks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bib/bbag469",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-05T03:46:09.821747+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bib/bbag469",
+      "venue": "Briefings in bioinformatics",
+      "title_key": "genechronosparameterefficientdevelopmentaltimeinferenceusingapretrainedsinglecellfoundationmodel",
+      "identity_keys": [
+        "doi:10.1093/bib/bbag469",
+        "pubmed:42696754",
+        "title:genechronosparameterefficientdevelopmentaltimeinferenceusingapretrainedsinglecellfoundationmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05076",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T03:46:11.310230+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multipathformertowardsafoundationmodelformultipathwirelesspropagation",
+      "identity_keys": [
+        "arxiv:2608.05076",
+        "title:multipathformertowardsafoundationmodelformultipathwirelesspropagation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adp0751",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:12.346595+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adp0751",
+      "venue": "Science Robotics",
+      "title_key": "developmentofcompositionalitythroughinteractivelearningoflanguageandactionofrobots",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adp0751",
+        "title:developmentofcompositionalitythroughinteractivelearningoflanguageandactionofrobots"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adu8009",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:12.636962+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adu8009",
+      "venue": "Science Robotics",
+      "title_key": "microscopicrobotsthatsensethinkactandcompute",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adu8009",
+        "title:microscopicrobotsthatsensethinkactandcompute"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3582807",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:12.808941+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3582807",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "aversatileneuralnetworkconfigurationspaceplanningandcontrolstrategyformodularsoftrobotarms",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3582807",
+        "title:aversatileneuralnetworkconfigurationspaceplanningandcontrolstrategyformodularsoftrobotarms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.50",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:13.111649+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.50",
+      "venue": "ACL",
+      "title_key": "visualwebarenaevaluatingmultimodalagentsonrealisticvisualwebtasks",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.50",
+        "title:visualwebarenaevaluatingmultimodalagentsonrealisticvisualwebtasks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3626619",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T03:46:13.303810+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3626619",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "wholebodyintegratedmotionplanningforaerialmanipulators",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3626619",
+        "title:wholebodyintegratedmotionplanningforaerialmanipulators"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adx2731",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T07:19:42.760106+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adx2731",
+      "venue": "Science Robotics",
+      "title_key": "themultifacetedapproachtoembodiedintelligenceinrobotics",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adx2731",
+        "title:themultifacetedapproachtoembodiedintelligenceinrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04653",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T07:19:42.962333+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "overcomingstatisticalbiasinactioncontrollableworldmodels",
+      "identity_keys": [
+        "arxiv:2608.04653",
+        "title:overcomingstatisticalbiasinactioncontrollableworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3554406",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T07:19:44.296296+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3554406",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "acceleratedreedssheppandunderspecifiedreedssheppalgorithmsformobilerobotpathplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3554406",
+        "title:acceleratedreedssheppandunderspecifiedreedssheppalgorithmsformobilerobotpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05042",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T07:19:44.504679+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bridgevlaadataefficientgeneralizableandmemoryaugmentedvisionlanguageactionframeworkfor3dmanipulation",
+      "identity_keys": [
+        "arxiv:2608.05042",
+        "title:bridgevlaadataefficientgeneralizableandmemoryaugmentedvisionlanguageactionframeworkfor3dmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aee7004",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T07:19:45.121561+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aee7004",
+      "venue": "Science",
+      "title_key": "artificialhibernationrevealssynapticengramarchitectureassociatedwithmemoryretention",
+      "identity_keys": [
+        "doi:10.1126/science.aee7004",
+        "title:artificialhibernationrevealssynapticengramarchitectureassociatedwithmemoryretention"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05225",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:31.499289+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "project2taskgraphguidedprojectlevelplanningforautonomousresearch",
+      "identity_keys": [
+        "arxiv:2608.05225",
+        "title:project2taskgraphguidedprojectlevelplanningforautonomousresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05371",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:32.182679+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "quantumstructuredworldmodelsqswmsforpredictivelatentdynamics",
+      "identity_keys": [
+        "arxiv:2608.05371",
+        "title:quantumstructuredworldmodelsqswmsforpredictivelatentdynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3593109",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:32.601120+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3593109",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "motionplanningdiffusionlearningandadaptingrobotmotionplanningwithdiffusionmodels",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3593109",
+        "title:motionplanningdiffusionlearningandadaptingrobotmotionplanningwithdiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.04527",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:32.850279+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "retrieveintimecorrectinfrequency",
+      "identity_keys": [
+        "arxiv:2608.04527",
+        "title:retrieveintimecorrectinfrequency"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.5",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T09:42:33.314529+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.5",
+      "venue": "ACL",
+      "title_key": "gentranslatelargelanguagemodelsaregenerativemultilingualspeechandmachinetranslators",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.5",
+        "title:gentranslatelargelanguagemodelsaregenerativemultilingualspeechandmachinetranslators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03483",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:24.243704+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "airgroundcollaborativevisionandlanguagenavigationviasharedbirdseyemaps",
+      "identity_keys": [
+        "arxiv:2609.03483",
+        "title:airgroundcollaborativevisionandlanguagenavigationviasharedbirdseyemaps"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3567476",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:24.635499+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3567476",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "largescalemultirobotcoveragepathplanningongridswithpathdeconfliction",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3567476",
+        "title:largescalemultirobotcoveragepathplanningongridswithpathdeconfliction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04131",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:24.807972+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondretrievalprogressivelatentmemoryevolutionforstreamingvideounderstanding",
+      "identity_keys": [
+        "arxiv:2609.04131",
+        "title:beyondretrievalprogressivelatentmemoryevolutionforstreamingvideounderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03673",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:25.030263+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dovideogeneratorstracktheworldacrosssegmentsabenchmarkandmethodforworldstatereasoninginvideocontinuation",
+      "identity_keys": [
+        "arxiv:2609.03673",
+        "title:dovideogeneratorstracktheworldacrosssegmentsabenchmarkandmethodforworldstatereasoninginvideocontinuation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3582817",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T12:33:25.226353+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3582817",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "helpmethroughimitationlearningbasedactiveviewplanningtoavoidslamtrackingfailures",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3582817",
+        "title:helpmethroughimitationlearningbasedactiveviewplanningtoavoidslamtrackingfailures"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.05.09.724053",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-05T22:31:45.743941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.05.09.724053",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "efficientbayesianinferenceforordinarydifferentialequationmodelsfromexperimentaldatawithuncertainmeasurementtimes",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.05.09.724053",
+        "title:efficientbayesianinferenceforordinarydifferentialequationmodelsfromexperimentaldatawithuncertainmeasurementtimes"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.08.29.748052",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-05T22:31:46.001425+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.29.748052",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "iinvivoimultimodallineagetracingofmammaliandevelopmentbydeeptrackbarcoding",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.29.748052",
+        "doi:10.64898/2026.08.29.748052",
+        "title:iinvivoimultimodallineagetracingofmammaliandevelopmentbydeeptrackbarcoding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05976",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:46.847815+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffvftrainingfreehighqualitylongvideogenerationviadiffusionmodel",
+      "identity_keys": [
+        "arxiv:2608.05976",
+        "title:diffvftrainingfreehighqualitylongvideogenerationviadiffusionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06107",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:47.055818+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kastoranefficientfinetuningstrategyforgenerativeemulationofpdesimulations",
+      "identity_keys": [
+        "arxiv:2608.06107",
+        "title:kastoranefficientfinetuningstrategyforgenerativeemulationofpdesimulations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06111",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:47.431277+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondsequenceordersyntaxinformedpositionalembeddingsfortransformers",
+      "identity_keys": [
+        "arxiv:2608.06111",
+        "title:beyondsequenceordersyntaxinformedpositionalembeddingsfortransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05631",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:47.826308+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chronovisiontemporalreasoningvialatentstatereconstruction",
+      "identity_keys": [
+        "arxiv:2608.05631",
+        "title:chronovisiontemporalreasoningvialatentstatereconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05995",
+      "category": "ml",
+      "first_sent_at": "2026-09-05T22:31:48.262951+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aunifiedriskviewofuncertaintyposteriorriskfordisentanglementandevaluationbeyondproxies",
+      "identity_keys": [
+        "arxiv:2608.05995",
+        "title:aunifiedriskviewofuncertaintyposteriorriskfordisentanglementandevaluationbeyondproxies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05792",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:49.131409+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenagenticaimeetsintegratedsensingandcommunication",
+      "identity_keys": [
+        "arxiv:2608.05792",
+        "title:whenagenticaimeetsintegratedsensingandcommunication"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06197",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:49.348739+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "envaceinternalizingenvironmentdynamicsviaworldrehearsalforagenticreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2608.06197",
+        "title:envaceinternalizingenvironmentdynamicsviaworldrehearsalforagenticreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06227",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:49.629700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frompassivemirrorstoactiveagentsholonicdigitaltwinsforphysicalaiovernetworks",
+      "identity_keys": [
+        "arxiv:2608.06227",
+        "title:frompassivemirrorstoactiveagentsholonicdigitaltwinsforphysicalaiovernetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05970",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:50.119719+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation",
+      "identity_keys": [
+        "arxiv:2608.05970",
+        "title:skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05999",
+      "category": "frontier",
+      "first_sent_at": "2026-09-05T22:31:50.352435+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondflatpolicieshierarchicalposttrainingforembodiedagentsinroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2608.05999",
+        "title:beyondflatpolicieshierarchicalposttrainingforembodiedagentsinroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05970",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T03:49:19.101352+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation",
+      "identity_keys": [
+        "arxiv:2608.05970",
+        "title:skillmemoexpertguidedskillmemoryframeworkforcompositionalembodiedmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06183",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T03:49:20.051265+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "microevoknowledgeguidedllmsamplingforefficientmicroarchitecturedesignspaceexploration",
+      "identity_keys": [
+        "arxiv:2608.06183",
+        "title:microevoknowledgeguidedllmsamplingforefficientmicroarchitecturedesignspaceexploration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05706",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:20.754065+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lawm3dlearning3dawarelatentactionsfromhumanvideosforgeneralizablerobotworldmodels",
+      "identity_keys": [
+        "arxiv:2608.05706",
+        "title:lawm3dlearning3dawarelatentactionsfromhumanvideosforgeneralizablerobotworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1142/s0219843626400268",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:21.039328+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1142/s0219843626400268",
+      "venue": "International Journal of Humanoid Robotics",
+      "title_key": "visualtactileembodiedperceptiondrivenneurosymbolicruleconsistencymodelingandcontactdeviationautomaticcorrectionforprecisionassemblyofindustrialhumanoidrobots",
+      "identity_keys": [
+        "doi:10.1142/s0219843626400268",
+        "title:visualtactileembodiedperceptiondrivenneurosymbolicruleconsistencymodelingandcontactdeviationautomaticcorrectionforprecisionassemblyofindustrialhumanoidrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06332",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:21.570214+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geniworldageneralizableinteractiveworldmodelforroboticmanipulationviavisualactions",
+      "identity_keys": [
+        "arxiv:2608.06332",
+        "title:geniworldageneralizableinteractiveworldmodelforroboticmanipulationviavisualactions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05738",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:22.126168+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "incontextvlaendowingvisionlanguageactionmodelswithlanguageviaincontextposttrainingandagentictooluse",
+      "identity_keys": [
+        "arxiv:2608.05738",
+        "title:incontextvlaendowingvisionlanguageactionmodelswithlanguageviaincontextposttrainingandagentictooluse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07596",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T03:49:22.449261+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liralocalcrosslayerinformationroutingforvisionlanguageactiondecoding",
+      "identity_keys": [
+        "arxiv:2608.07596",
+        "title:liralocalcrosslayerinformationroutingforvisionlanguageactiondecoding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fimmu.2026.1835156",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-06T07:32:02.553734+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fimmu.2026.1835156",
+      "venue": "Frontiers in immunology",
+      "title_key": "multiomicsidentificationandfunctionalvalidationofsignalregulatoryproteingammaasaprognosticbiomarkerandimmuneregulatorinheadandnecksquamouscellcarcinoma",
+      "identity_keys": [
+        "doi:10.3389/fimmu.2026.1835156",
+        "pubmed:42698709",
+        "title:multiomicsidentificationandfunctionalvalidationofsignalregulatoryproteingammaasaprognosticbiomarkerandimmuneregulatorinheadandnecksquamouscellcarcinoma"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05799",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:03.720645+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "xeworldcanactionconditionedworldmodelsgeneralizetounseenrobotembodiments",
+      "identity_keys": [
+        "arxiv:2608.05799",
+        "title:xeworldcanactionconditionedworldmodelsgeneralizetounseenrobotembodiments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06020",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:04.009830+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromeconomicagentstoagenticeconomiesasystemsblueprintforeconomicworldmodels",
+      "identity_keys": [
+        "arxiv:2608.06020",
+        "title:fromeconomicagentstoagenticeconomiesasystemsblueprintforeconomicworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.05948",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:06.273208+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gaugeameasurementgroundedbenchmarkforphysicalfidelityinsimulationenginesandvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2608.05948",
+        "title:gaugeameasurementgroundedbenchmarkforphysicalfidelityinsimulationenginesandvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06257",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:06.695335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "massmultiplayerworldmodelswithauthoritativesharedstate",
+      "identity_keys": [
+        "arxiv:2608.06257",
+        "title:massmultiplayerworldmodelswithauthoritativesharedstate"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06130",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T07:32:07.190612+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hardwarekeystoresforaiagentsigningworkflowsazerotrustmcpenforcementarchitecture",
+      "identity_keys": [
+        "arxiv:2608.06130",
+        "title:hardwarekeystoresforaiagentsigningworkflowsazerotrustmcpenforcementarchitecture"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adt1874",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:48.860187+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adt1874",
+      "venue": "Science Robotics",
+      "title_key": "medicalneedlesinthehandsofaiadvancingtowardautonomousroboticnavigation",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adt1874",
+        "title:medicalneedlesinthehandsofaiadvancingtowardautonomousroboticnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04094",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.009264+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dracofinegrainedcreditassignmentwithdynamicrubricsforlonghorizonagenttraining",
+      "identity_keys": [
+        "arxiv:2609.04094",
+        "title:dracofinegrainedcreditassignmentwithdynamicrubricsforlonghorizonagenttraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03960",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.178886+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fimibankingasovereignmodelforindianretailbanking",
+      "identity_keys": [
+        "arxiv:2609.03960",
+        "title:fimibankingasovereignmodelforindianretailbanking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03494",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.551901+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "growpageondemandkvbudgetingforefficientllmreasoningserving",
+      "identity_keys": [
+        "arxiv:2609.03494",
+        "title:growpageondemandkvbudgetingforefficientllmreasoningserving"
+      ]
+    },
+    {
+      "canonical_id": "title:agradientaccumulationmethodfordenseretrieverundermemoryconstraint",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T09:58:49.754161+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "agradientaccumulationmethodfordenseretrieverundermemoryconstraint",
+      "identity_keys": [
+        "title:agradientaccumulationmethodfordenseretrieverundermemoryconstraint"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03528",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:44.783615+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "leangrpoeliminatingredundantrecomputationindiffusionrl",
+      "identity_keys": [
+        "arxiv:2609.03528",
+        "title:leangrpoeliminatingredundantrecomputationindiffusionrl"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03430",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.004541+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "randomattentionrethinkingkvcacheevictionforefficientreasoning",
+      "identity_keys": [
+        "arxiv:2609.03430",
+        "title:randomattentionrethinkingkvcacheevictionforefficientreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03379",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.293436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recurtraceadaptivelatentreasoningwithlooptimememory",
+      "identity_keys": [
+        "arxiv:2609.03379",
+        "title:recurtraceadaptivelatentreasoningwithlooptimememory"
+      ]
+    },
+    {
+      "canonical_id": "title:affordancedrivennextbestviewplanningforroboticgrasping",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.507392+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "affordancedrivennextbestviewplanningforroboticgrasping",
+      "identity_keys": [
+        "title:affordancedrivennextbestviewplanningforroboticgrasping"
+      ]
+    },
+    {
+      "canonical_id": "title:apricotactivepreferencelearningandconstraintawaretaskplanningwithllms",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T12:50:45.703770+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "apricotactivepreferencelearningandconstraintawaretaskplanningwithllms",
+      "identity_keys": [
+        "title:apricotactivepreferencelearningandconstraintawaretaskplanningwithllms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06794",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:51.153270+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pastpromptadaptivesamplingterminationforefficientdiffusionmodel",
+      "identity_keys": [
+        "arxiv:2608.06794",
+        "title:pastpromptadaptivesamplingterminationforefficientdiffusionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06878",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:52.483123+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "controlrefefficientlayoutguidedmultiinstancegenerationviaanchored4drope",
+      "identity_keys": [
+        "arxiv:2608.06878",
+        "title:controlrefefficientlayoutguidedmultiinstancegenerationviaanchored4drope"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06919",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:52.981279+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vernataselfsupervisedlearningoflidarpointrepresentations",
+      "identity_keys": [
+        "arxiv:2608.06919",
+        "title:vernataselfsupervisedlearningoflidarpointrepresentations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06839",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:53.179793+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mathematicalprinciplesandexperimentaldiscoveriesoftheemergenceofsymbolicpatternsinartificialneuralnetworks",
+      "identity_keys": [
+        "arxiv:2608.06839",
+        "title:mathematicalprinciplesandexperimentaldiscoveriesoftheemergenceofsymbolicpatternsinartificialneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07038",
+      "category": "ml",
+      "first_sent_at": "2026-09-06T22:37:53.570453+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondtextmatchingtowardsreferencefreeevaluationforhumanorientedbinaryreverseengineering",
+      "identity_keys": [
+        "arxiv:2608.07038",
+        "title:beyondtextmatchingtowardsreferencefreeevaluationforhumanorientedbinaryreverseengineering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06931",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:54.277140+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scienceedgeevaluationseethemissingsteptowardrealscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2608.06931",
+        "title:scienceedgeevaluationseethemissingsteptowardrealscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3845596",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:54.545518+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3845596",
+      "venue": "ACM Computing Surveys",
+      "title_key": "transformingsciencewithlargelanguagemodelsasurveyonaiassistedscientificdiscoveryexperimentationcontentgenerationandevaluation",
+      "identity_keys": [
+        "doi:10.1145/3845596",
+        "openalex:w4407310674",
+        "title:transformingsciencewithlargelanguagemodelsasurveyonaiassistedscientificdiscoveryexperimentationcontentgenerationandevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07809",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:54.903700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "causalnavreliabilitycertifiedcausalworldmodelsforcontrolunderphysicalparametershift",
+      "identity_keys": [
+        "arxiv:2608.07809",
+        "title:causalnavreliabilitycertifiedcausalworldmodelsforcontrolunderphysicalparametershift"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ads1204",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:56.229993+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ads1204",
+      "venue": "Science Robotics",
+      "title_key": "roboballetplanningformultirobotreachingwithgraphneuralnetworksandreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ads1204",
+        "title:roboballetplanningformultirobotreachingwithgraphneuralnetworksandreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07621",
+      "category": "frontier",
+      "first_sent_at": "2026-09-06T22:37:56.587273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cmudriveandv2vvlacooperativemultiagentunifieddrivingwithreasoningbenchmarkandvehicletovehiclevisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.07621",
+        "title:cmudriveandv2vvlacooperativemultiagentunifieddrivingwithreasoningbenchmarkandvehicletovehiclevisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04804",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:04:28.353471+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "medflowclassawaremultiscalegenerationformedicaltimeseriessynthesis",
+      "identity_keys": [
+        "arxiv:2609.04804",
+        "title:medflowclassawaremultiscalegenerationformedicaltimeseriessynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05334",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:04:28.594470+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lightweightvisiontransformercompressionforondeviceplantdiseasedetectioninresourceconstrainedagriculturalfieldconditions",
+      "identity_keys": [
+        "arxiv:2609.05334",
+        "title:lightweightvisiontransformercompressionforondeviceplantdiseasedetectioninresourceconstrainedagriculturalfieldconditions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07385",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:04:28.872135+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "omnimodaldecompositionautoencoderslearnfullstackwearabledisentangledrepresentations",
+      "identity_keys": [
+        "arxiv:2608.07385",
+        "title:omnimodaldecompositionautoencoderslearnfullstackwearabledisentangledrepresentations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07733",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:05:14.264667+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lgnnicaccelerationoflargescalegnntrainingusingsmartnics",
+      "identity_keys": [
+        "arxiv:2608.07733",
+        "title:lgnnicaccelerationoflargescalegnntrainingusingsmartnics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04345",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T04:05:14.620328+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aconstraintawaregenerativeframeworkforsyntheticorigindestinationdemandinlogisticsnetworks",
+      "identity_keys": [
+        "arxiv:2609.04345",
+        "title:aconstraintawaregenerativeframeworkforsyntheticorigindestinationdemandinlogisticsnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04564",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:15.803960+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "laagenteptimatowardsagenticselfdrivinglaboratories",
+      "identity_keys": [
+        "arxiv:2609.04564",
+        "title:laagenteptimatowardsagenticselfdrivinglaboratories"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07077",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:16.678877+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "transformersstruggletousetheiremergentworldmodelsrevisitingthetowerofhanoiandtheillusionofthinking",
+      "identity_keys": [
+        "arxiv:2608.07077",
+        "title:transformersstruggletousetheiremergentworldmodelsrevisitingthetowerofhanoiandtheillusionofthinking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05324",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:17.074445+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robospacanvlamodelsgobeyondsimplescenesandshorthorizontasks",
+      "identity_keys": [
+        "arxiv:2609.05324",
+        "title:robospacanvlamodelsgobeyondsimplescenesandshorthorizontasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05369",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:17.735514+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsneurosymbolicproceduralreasoningforlonghorizonvisionlanguageactionmanipulation",
+      "identity_keys": [
+        "arxiv:2609.05369",
+        "title:towardsneurosymbolicproceduralreasoningforlonghorizonvisionlanguageactionmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adu8015",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T04:05:18.206591+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adu8015",
+      "venue": "Science Robotics",
+      "title_key": "agileandcooperativeaerialmanipulationofacablesuspendedload",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adu8015",
+        "title:agileandcooperativeaerialmanipulationofacablesuspendedload"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/978-981-95-4384-7_11",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T07:53:42.359355+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Neural Information Processing (ICONIP 2025), Lecture Notes in Computer Science, vol. 16312, pp. 142-157. Springer, Singapore (2026)",
+      "title_key": "enhancingmultimodalemotionrecognitionviamultifeatureencodingandattentionbasedfusion",
+      "identity_keys": [
+        "arxiv:2609.04690",
+        "doi:10.1007/978-981-95-4384-7_11",
+        "title:enhancingmultimodalemotionrecognitionviamultifeatureencodingandattentionbasedfusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05093",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:43.002520+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "llmguidedprogramevolutionforcirclepackingbreaking10packomaniarecordsfor28",
+      "identity_keys": [
+        "arxiv:2609.05093",
+        "title:llmguidedprogramevolutionforcirclepackingbreaking10packomaniarecordsfor28"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05079",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:43.506191+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "truthinsightbenchanevidencegroundedbenchmarkforautomatedevaluationofopenendedscientificdiscoveryagents",
+      "identity_keys": [
+        "arxiv:2609.05079",
+        "title:truthinsightbenchanevidencegroundedbenchmarkforautomatedevaluationofopenendedscientificdiscoveryagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04894",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:44.311026+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromlanguagemodelstoworldactingsystemsprogressandlimitsofagenticaiacrossdigitalsocialvirtualandphysicalenvironments",
+      "identity_keys": [
+        "arxiv:2609.04894",
+        "title:fromlanguagemodelstoworldactingsystemsprogressandlimitsofagenticaiacrossdigitalsocialvirtualandphysicalenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07408",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:44.535159+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "addressablememoryforvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2608.07408",
+        "title:addressablememoryforvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adt1497",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T07:53:44.976519+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adt1497",
+      "venue": "Science Robotics",
+      "title_key": "areviewoflearningbaseddynamicsmodelsforroboticmanipulation",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adt1497",
+        "title:areviewoflearningbaseddynamicsmodelsforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07265",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:42.146429+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "finitesamplemetricnoncollapseforgeometricallysupervisedlatentworldmodelsincontrol",
+      "identity_keys": [
+        "arxiv:2608.07265",
+        "title:finitesamplemetricnoncollapseforgeometricallysupervisedlatentworldmodelsincontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07619",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:42.668264+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gwmvlageometryawarelatentworldmodelingforvisionlanguageactionlearning",
+      "identity_keys": [
+        "arxiv:2608.07619",
+        "title:gwmvlageometryawarelatentworldmodelingforvisionlanguageactionlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07107",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:43.020949+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memwmmemoryaugmentedtextbasedworldmodel",
+      "identity_keys": [
+        "arxiv:2608.07107",
+        "title:memwmmemoryaugmentedtextbasedworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07361",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:43.329332+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "depthwiseprobingandpruningoftheplanningtokeninadrivingvisionlanguageactionmodel",
+      "identity_keys": [
+        "arxiv:2608.07361",
+        "title:depthwiseprobingandpruningoftheplanningtokeninadrivingvisionlanguageactionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06909",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T11:10:43.824714+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "longhorizonagenttrajectoryattributionaunifiedbenchmarkandfinegrainedannotationframework",
+      "identity_keys": [
+        "arxiv:2608.06909",
+        "title:longhorizonagenttrajectoryattributionaunifiedbenchmarkandfinegrainedannotationframework"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15288",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-07T15:01:25.363903+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "d2r2discretediffusionwithregulationreinforcementforsinglecellperturbationprediction",
+      "identity_keys": [
+        "arxiv:2608.15288",
+        "s2:490e5fd5a35ec18dccc84b60330e02e8ddace300",
+        "title:d2r2discretediffusionwithregulationreinforcementforsinglecellperturbationprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07154",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:26.751591+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "representationhandoffsforopenarmbasedlaboratorymobilemanipulation",
+      "identity_keys": [
+        "arxiv:2608.07154",
+        "title:representationhandoffsforopenarmbasedlaboratorymobilemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07409",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:27.116686+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unijepaaunifiedjointembeddingpredictivearchitecturefortaskagnosticvisualworldmodeling",
+      "identity_keys": [
+        "arxiv:2608.07409",
+        "title:unijepaaunifiedjointembeddingpredictivearchitecturefortaskagnosticvisualworldmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.06833",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:28.629932+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unorderedlandmarkvisualnavigation",
+      "identity_keys": [
+        "arxiv:2608.06833",
+        "title:unorderedlandmarkvisualnavigation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00943-2",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:29.142433+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00943-2",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "kernelapproximationusinganalogueinmemorycomputing",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00943-2",
+        "title:kernelapproximationusinganalogueinmemorycomputing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04981",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T15:01:29.349681+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atreebasedragframeworkforevidenceintensiveqaviaadaptiveplanningandtopologyawareevidencegathering",
+      "identity_keys": [
+        "arxiv:2609.04981",
+        "title:atreebasedragframeworkforevidenceintensiveqaviaadaptiveplanningandtopologyawareevidencegathering"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.10.675105",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-07T23:12:32.465906+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.10.675105",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "intelligenttoolorchestrationforrapidmechanisticmodelprototypingmcpserversasaibiologyinterfaces",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.10.675105",
+        "title:intelligenttoolorchestrationforrapidmechanisticmodelprototypingmcpserversasaibiologyinterfaces"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2024.10.24.619521",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-07T23:12:32.665062+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2024.10.24.619521",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "limitstotheinferenceofgeneregulationfrombulktissueexpressiondata",
+      "identity_keys": [
+        "biorxiv:10.1101/2024.10.24.619521",
+        "title:limitstotheinferenceofgeneregulationfrombulktissueexpressiondata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07863",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:33.409492+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lhsdethighresolutionaigeneratedimagedetectionviavisualquestionanswering",
+      "identity_keys": [
+        "arxiv:2608.07863",
+        "title:lhsdethighresolutionaigeneratedimagedetectionviavisualquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08010",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:34.009204+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "groundtruthneighborhoodregularizationforreinforcementlearningposttrainingoftimeseriesfoundationmodels",
+      "identity_keys": [
+        "arxiv:2608.08010",
+        "title:groundtruthneighborhoodregularizationforreinforcementlearningposttrainingoftimeseriesfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07924",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:34.669320+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "secondorderdriftingmodels",
+      "identity_keys": [
+        "arxiv:2608.07924",
+        "title:secondorderdriftingmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10016",
+      "category": "ml",
+      "first_sent_at": "2026-09-07T23:12:35.020110+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sheafbasedfederatedrepresentationlearning",
+      "identity_keys": [
+        "arxiv:2608.10016",
+        "title:sheafbasedfederatedrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08070",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:35.639173+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "surgwmbenchavisionbasedbenchmarkforworldmodelingsurgicalinstrumentmotionplanning",
+      "identity_keys": [
+        "arxiv:2608.08070",
+        "title:surgwmbenchavisionbasedbenchmarkforworldmodelingsurgicalinstrumentmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08253",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.041064+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "superlocalmemory40thegovernedmemoryoperatingsystemforaiagents",
+      "identity_keys": [
+        "arxiv:2608.08253",
+        "title:superlocalmemory40thegovernedmemoryoperatingsystemforaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.07974",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.239416+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zerolockconcurrentmemoryefficientllmtrainingviamodularupdatedecoupling",
+      "identity_keys": [
+        "arxiv:2608.07974",
+        "title:zerolockconcurrentmemoryefficientllmtrainingviamodularupdatedecoupling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3548865",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.451077+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3548865",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "informativepathplanningforactiveregressionwithgaussianprocessesviasparseoptimization",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3548865",
+        "title:informativepathplanningforactiveregressionwithgaussianprocessesviasparseoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3548495",
+      "category": "frontier",
+      "first_sent_at": "2026-09-07T23:12:36.616985+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3548495",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "physicsinformedneuralmappingandmotionplanninginunknownenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3548495",
+        "title:physicsinformedneuralmappingandmotionplanninginunknownenvironments"
+      ]
+    },
+    {
+      "canonical_id": "title:act2goalfromworldmodeltogeneralgoalconditionedpolicy",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:18.146771+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "act2goalfromworldmodeltogeneralgoalconditionedpolicy",
+      "identity_keys": [
+        "title:act2goalfromworldmodeltogeneralgoalconditionedpolicy"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2024.3522187",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:18.587021+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2024.3522187",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "fappfastandadaptiveperceptionandplanningforuavsindynamicclutteredenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2024.3522187",
+        "title:fappfastandadaptiveperceptionandplanningforuavsindynamicclutteredenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2024.3502505",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:18.866899+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2024.3502505",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "idbaiterativesearchandoptimizationforoptimalkinodynamicmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2024.3502505",
+        "title:idbaiterativesearchandoptimizationforoptimalkinodynamicmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3699135",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:19.169170+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3699135",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "gdragongeospatialreasoninganddynamicplanningforretrievalaugmentedoutdoornavigation",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3699135",
+        "title:gdragongeospatialreasoninganddynamicplanningforretrievalaugmentedoutdoornavigation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01200-4",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T03:54:19.428944+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01200-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "sampleefficientgenerativemoleculardesignusingmemorymanipulation",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01200-4",
+        "title:sampleefficientgenerativemoleculardesignusingmemorymanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-025-02639-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-08T07:45:02.947866+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-025-02639-w",
+      "venue": "Nature Methods",
+      "title_key": "optimaltransportforsinglecellgenomics",
+      "identity_keys": [
+        "doi:10.1038/s41592-025-02639-w",
+        "title:optimaltransportforsinglecellgenomics"
+      ]
+    },
+    {
+      "canonical_id": "title:arvlaautoregressiveactionexpertforvisionlanguageactionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:04.051611+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "arvlaautoregressiveactionexpertforvisionlanguageactionmodels",
+      "identity_keys": [
+        "title:arvlaautoregressiveactionexpertforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:bagelvlaenhancinglonghorizonmanipulationviainterleavedvisionlanguageactiongeneration",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:04.308052+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "bagelvlaenhancinglonghorizonmanipulationviainterleavedvisionlanguageactiongeneration",
+      "identity_keys": [
+        "title:bagelvlaenhancinglonghorizonmanipulationviainterleavedvisionlanguageactiongeneration"
+      ]
+    },
+    {
+      "canonical_id": "title:birthofatransformeramemoryviewpoint",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:04.727783+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "birthofatransformeramemoryviewpoint",
+      "identity_keys": [
+        "title:birthofatransformeramemoryviewpoint"
+      ]
+    },
+    {
+      "canonical_id": "title:cangraphlearningimproveplanninginllmbasedagents",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:05.007936+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "cangraphlearningimproveplanninginllmbasedagents",
+      "identity_keys": [
+        "title:cangraphlearningimproveplanninginllmbasedagents"
+      ]
+    },
+    {
+      "canonical_id": "title:diffusionseederseedingmotionoptimizationwithdiffusionforrapidmotionplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T07:45:05.244751+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "diffusionseederseedingmotionoptimizationwithdiffusionforrapidmotionplanning",
+      "identity_keys": [
+        "title:diffusionseederseedingmotionoptimizationwithdiffusionforrapidmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-77230-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-08T10:21:39.001041+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-77230-8",
+      "venue": "Nature Communications",
+      "title_key": "automatedtransitionstategenerationformechanisticexplorationinorganicsynthesis",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-77230-8",
+        "title:automatedtransitionstategenerationformechanisticexplorationinorganicsynthesis"
+      ]
+    },
+    {
+      "canonical_id": "title:finetuningofflineworldmodelsintherealworld",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:39.646436+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "finetuningofflineworldmodelsintherealworld",
+      "identity_keys": [
+        "title:finetuningofflineworldmodelsintherealworld"
+      ]
+    },
+    {
+      "canonical_id": "title:emergenceofhumantorobottransferinvisionlanguageactionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:40.049083+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "emergenceofhumantorobottransferinvisionlanguageactionmodels",
+      "identity_keys": [
+        "title:emergenceofhumantorobottransferinvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:embodiedlifelonglearningfortaskandmotionplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:40.383554+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "embodiedlifelonglearningfortaskandmotionplanning",
+      "identity_keys": [
+        "title:embodiedlifelonglearningfortaskandmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:exploitagilemobilityofsteerablewheeledmobilerobotsafastmotionplanningapproach",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:21:40.623990+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "exploitagilemobilityofsteerablewheeledmobilerobotsafastmotionplanningapproach",
+      "identity_keys": [
+        "title:exploitagilemobilityofsteerablewheeledmobilerobotsafastmotionplanningapproach"
+      ]
+    },
+    {
+      "canonical_id": "title:fewshotgenerationviarecallingbraininspiredepisodicsemanticmemory",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T10:22:25.907424+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "fewshotgenerationviarecallingbraininspiredepisodicsemanticmemory",
+      "identity_keys": [
+        "title:fewshotgenerationviarecallingbraininspiredepisodicsemanticmemory"
+      ]
+    },
+    {
+      "canonical_id": "title:haichumanoidagileobjectinteractioncontrolviadynamicsawareworldmodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:58.767074+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "haichumanoidagileobjectinteractioncontrolviadynamicsawareworldmodel",
+      "identity_keys": [
+        "title:haichumanoidagileobjectinteractioncontrolviadynamicsawareworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "title:generativeskillchaininglonghorizonskillplanningwithdiffusionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.248728+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "generativeskillchaininglonghorizonskillplanningwithdiffusionmodels",
+      "identity_keys": [
+        "title:generativeskillchaininglonghorizonskillplanningwithdiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:graphmpgraphneuralnetworkbasedmotionplanningwithefficientgraphsearch",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.409500+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "graphmpgraphneuralnetworkbasedmotionplanningwithefficientgraphsearch",
+      "identity_keys": [
+        "title:graphmpgraphneuralnetworkbasedmotionplanningwithefficientgraphsearch"
+      ]
+    },
+    {
+      "canonical_id": "title:hierarchicalplanningforropemanipulationusingknottheoryandalearnedinversemodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.645388+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "hierarchicalplanningforropemanipulationusingknottheoryandalearnedinversemodel",
+      "identity_keys": [
+        "title:hierarchicalplanningforropemanipulationusingknottheoryandalearnedinversemodel"
+      ]
+    },
+    {
+      "canonical_id": "title:hopfastdifferentialdynamicprogrammingforhorizonoptimaltrajectoryplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T13:32:59.841600+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "hopfastdifferentialdynamicprogrammingforhorizonoptimaltrajectoryplanning",
+      "identity_keys": [
+        "title:hopfastdifferentialdynamicprogrammingforhorizonoptimaltrajectoryplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1014773",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-08T23:08:31.463628+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pcbi.1014773",
+      "venue": "PLoS computational biology",
+      "title_key": "scgsigraphguidedselfsupervisedintegrationofpairedsinglecellmultiomics",
+      "identity_keys": [
+        "doi:10.1371/journal.pcbi.1014773",
+        "pubmed:42709872",
+        "title:scgsigraphguidedselfsupervisedintegrationofpairedsinglecellmultiomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s44387-026-00149-4",
+      "category": "ml",
+      "first_sent_at": "2026-09-08T23:08:32.284941+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s44387-026-00149-4",
+      "venue": "npj Artificial Intelligence",
+      "title_key": "howdoflowmatchingmodelsmemorizeandgeneralizeinsampledatasubspaces",
+      "identity_keys": [
+        "doi:10.1038/s44387-026-00149-4",
+        "title:howdoflowmatchingmodelsmemorizeandgeneralizeinsampledatasubspaces"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08761",
+      "category": "ml",
+      "first_sent_at": "2026-09-08T23:08:32.587551+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "JETC-2026-0113",
+      "title_key": "ecosocasustainablevlsiarchitectureforenergyproportionalartificialintelligence",
+      "identity_keys": [
+        "arxiv:2608.08761",
+        "title:ecosocasustainablevlsiarchitectureforenergyproportionalartificialintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08525",
+      "category": "ml",
+      "first_sent_at": "2026-09-08T23:08:32.865926+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "outofdistributionfederateddistillationwithdomainawareproxy",
+      "identity_keys": [
+        "arxiv:2608.08525",
+        "title:outofdistributionfederateddistillationwithdomainawareproxy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08749",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:33.452989+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onevomemoryevolvingmemorythroughonlinerobotrolloutsforpretrainedrobotpolicies",
+      "identity_keys": [
+        "arxiv:2608.08749",
+        "title:onevomemoryevolvingmemorythroughonlinerobotrolloutsforpretrainedrobotpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.08654",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.209879+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thescaffoldingmattersmorethantheinterfaceacontrolledcomparisonofmcpandclitooluseacrosssevenagentscaffoldingsfivelanguagemodelsandonesoftwaretask",
+      "identity_keys": [
+        "arxiv:2608.08654",
+        "title:thescaffoldingmattersmorethantheinterfaceacontrolledcomparisonofmcpandclitooluseacrosssevenagentscaffoldingsfivelanguagemodelsandonesoftwaretask"
+      ]
+    },
+    {
+      "canonical_id": "title:humaninthelooptaskandmotionplanningforimitationlearning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.335945+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "humaninthelooptaskandmotionplanningforimitationlearning",
+      "identity_keys": [
+        "title:humaninthelooptaskandmotionplanningforimitationlearning"
+      ]
+    },
+    {
+      "canonical_id": "title:hypermotionlearninghybridbehaviorplanningforautonomouslocomanipulation",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.466009+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "hypermotionlearninghybridbehaviorplanningforautonomouslocomanipulation",
+      "identity_keys": [
+        "title:hypermotionlearninghybridbehaviorplanningforautonomouslocomanipulation"
+      ]
+    },
+    {
+      "canonical_id": "title:imitatingtaskandmotionplanningwithvisuomotortransformers",
+      "category": "frontier",
+      "first_sent_at": "2026-09-08T23:08:34.616325+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "imitatingtaskandmotionplanningwithvisuomotortransformers",
+      "identity_keys": [
+        "title:imitatingtaskandmotionplanningwithvisuomotortransformers"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/biostatistics/kxag029",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-09T03:59:22.160159+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/biostatistics/kxag029",
+      "venue": "Biostatistics (Oxford, England)",
+      "title_key": "transfactortranscriptionfactoractivityestimationviaprobabilisticgeneexpressiondeconvolution",
+      "identity_keys": [
+        "doi:10.1093/biostatistics/kxag029",
+        "pubmed:42710863",
+        "title:transfactortranscriptionfactoractivityestimationviaprobabilisticgeneexpressiondeconvolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08253",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:23.141357+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "revisitingspectralrepresentationsingenerativediffusionmodels",
+      "identity_keys": [
+        "arxiv:2609.08253",
+        "title:revisitingspectralrepresentationsingenerativediffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08189",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:23.789730+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dodynamicroutersneedmemoryherohistoryawareroutingforefficientllminference",
+      "identity_keys": [
+        "arxiv:2609.08189",
+        "title:dodynamicroutersneedmemoryherohistoryawareroutingforefficientllminference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08303",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:24.090070+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "triunenetharmonizingscaleshapeandefficiencyinpancreatictumorsegmentation",
+      "identity_keys": [
+        "arxiv:2609.08303",
+        "title:triunenetharmonizingscaleshapeandefficiencyinpancreatictumorsegmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08244",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:24.670949+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cunocurriculumandpreferenceoptimizationforstablegraphunlearningundermassdeletion",
+      "identity_keys": [
+        "arxiv:2609.08244",
+        "title:cunocurriculumandpreferenceoptimizationforstablegraphunlearningundermassdeletion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08312",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:25.047750+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "noncoherentovertheairfederatedlearningprotocolconvergenceanddevicescheduling",
+      "identity_keys": [
+        "arxiv:2609.08312",
+        "title:noncoherentovertheairfederatedlearningprotocolconvergenceanddevicescheduling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08442",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:25.958620+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "airanchorbridginglocalandglobalspatialinformationforzeroshotaerialvisionandlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2609.08442",
+        "title:airanchorbridginglocalandglobalspatialinformationforzeroshotaerialvisionandlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08602",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:26.308383+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "clampconstraineddecodingforvisionlanguageembodiedplanning",
+      "identity_keys": [
+        "arxiv:2609.08602",
+        "title:clampconstraineddecodingforvisionlanguageembodiedplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08832",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:26.581492+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "closingtheconsistencygapselfevolvingagentsthatlearntostayoncourse",
+      "identity_keys": [
+        "arxiv:2609.08832",
+        "title:closingtheconsistencygapselfevolvingagentsthatlearntostayoncourse"
+      ]
+    },
+    {
+      "canonical_id": "title:languageconditionedpathplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:26.879929+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "languageconditionedpathplanning",
+      "identity_keys": [
+        "title:languageconditionedpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:languageguidedmanipulatormotionplanningwithboundedtaskspace",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:27.152648+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "languageguidedmanipulatormotionplanningwithboundedtaskspace",
+      "identity_keys": [
+        "title:languageguidedmanipulatormotionplanningwithboundedtaskspace"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08663",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T07:49:57.135550+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moembscalinguniversalmultimodalembeddingswithefficientmixtureofexpertsmodels",
+      "identity_keys": [
+        "arxiv:2609.08663",
+        "title:moembscalinguniversalmultimodalembeddingswithefficientmixtureofexpertsmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08317",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T07:49:57.418546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "supervisedcrossmodalfeaturealignmentforzerowearablefreezingofgaitdetectioninparkinsonism",
+      "identity_keys": [
+        "arxiv:2609.08317",
+        "title:supervisedcrossmodalfeaturealignmentforzerowearablefreezingofgaitdetectioninparkinsonism"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09155",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:58.016089+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "syncworldvisualcalibrationenablesworldmodelsaszeroshotsimulators",
+      "identity_keys": [
+        "arxiv:2609.09155",
+        "title:syncworldvisualcalibrationenablesworldmodelsaszeroshotsimulators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08162",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:58.255577+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldagenunifiedstateactionpredictionwithtesttimeworldmodeltraining",
+      "identity_keys": [
+        "arxiv:2609.08162",
+        "title:worldagenunifiedstateactionpredictionwithtesttimeworldmodeltraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09158",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:58.701582+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tangohumanoidnavigationinclutteredenvironmentswithawholebodyvisionlanguageactionmodel",
+      "identity_keys": [
+        "arxiv:2609.09158",
+        "title:tangohumanoidnavigationinclutteredenvironmentswithawholebodyvisionlanguageactionmodel"
+      ]
+    },
+    {
+      "canonical_id": "title:learningefficientabstractplanningmodelsthatchoosewhattopredict",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:59.125665+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "learningefficientabstractplanningmodelsthatchoosewhattopredict",
+      "identity_keys": [
+        "title:learningefficientabstractplanningmodelsthatchoosewhattopredict"
+      ]
+    },
+    {
+      "canonical_id": "title:learninglonghorizonactiondependenciesinsamplingbasedbilevelplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:59.312249+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "learninglonghorizonactiondependenciesinsamplingbasedbilevelplanning",
+      "identity_keys": [
+        "title:learninglonghorizonactiondependenciesinsamplingbasedbilevelplanning"
+      ]
     }
   ]
 }
