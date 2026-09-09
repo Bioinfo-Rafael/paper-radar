@@ -7316,6 +7316,74 @@
       "identity_keys": [
         "title:mcuformerdeployingvisiontranformersonmicrocontrollerswithlimitedmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05533",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T13:41:13.135378+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "simplememvlaasimplebuteffectivenativevideomemoryforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2609.05533",
+        "title:simplememvlaasimplebuteffectivenativevideomemoryforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:mobilityvlamultimodalinstructionnavigationwithlongcontextvlmsandtopologicalgraphs",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T13:41:13.638950+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "mobilityvlamultimodalinstructionnavigationwithlongcontextvlmsandtopologicalgraphs",
+      "identity_keys": [
+        "title:mobilityvlamultimodalinstructionnavigationwithlongcontextvlmsandtopologicalgraphs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08189",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T13:41:13.964531+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dodynamicroutersneedmemoryherohistoryawareroutingforefficientllminference",
+      "identity_keys": [
+        "arxiv:2609.08189",
+        "title:dodynamicroutersneedmemoryherohistoryawareroutingforefficientllminference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09038",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T13:41:14.137102+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doreasoningrepresentationshelphumansevaluatellmoutputs",
+      "identity_keys": [
+        "arxiv:2609.09038",
+        "title:doreasoningrepresentationshelphumansevaluatellmoutputs"
+      ]
+    },
+    {
+      "canonical_id": "title:memoryconstrainedalgorithmsforconvexoptimization",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T13:41:14.391373+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "memoryconstrainedalgorithmsforconvexoptimization",
+      "identity_keys": [
+        "title:memoryconstrainedalgorithmsforconvexoptimization"
+      ]
     }
   ]
 }
