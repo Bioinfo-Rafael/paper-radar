@@ -7152,6 +7152,102 @@
       "identity_keys": [
         "title:languageguidedmanipulatormotionplanningwithboundedtaskspace"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08663",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T07:49:57.135550+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moembscalinguniversalmultimodalembeddingswithefficientmixtureofexpertsmodels",
+      "identity_keys": [
+        "arxiv:2609.08663",
+        "title:moembscalinguniversalmultimodalembeddingswithefficientmixtureofexpertsmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08317",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T07:49:57.418546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "supervisedcrossmodalfeaturealignmentforzerowearablefreezingofgaitdetectioninparkinsonism",
+      "identity_keys": [
+        "arxiv:2609.08317",
+        "title:supervisedcrossmodalfeaturealignmentforzerowearablefreezingofgaitdetectioninparkinsonism"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09155",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:58.016089+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "syncworldvisualcalibrationenablesworldmodelsaszeroshotsimulators",
+      "identity_keys": [
+        "arxiv:2609.09155",
+        "title:syncworldvisualcalibrationenablesworldmodelsaszeroshotsimulators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08162",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:58.255577+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldagenunifiedstateactionpredictionwithtesttimeworldmodeltraining",
+      "identity_keys": [
+        "arxiv:2609.08162",
+        "title:worldagenunifiedstateactionpredictionwithtesttimeworldmodeltraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09158",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:58.701582+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tangohumanoidnavigationinclutteredenvironmentswithawholebodyvisionlanguageactionmodel",
+      "identity_keys": [
+        "arxiv:2609.09158",
+        "title:tangohumanoidnavigationinclutteredenvironmentswithawholebodyvisionlanguageactionmodel"
+      ]
+    },
+    {
+      "canonical_id": "title:learningefficientabstractplanningmodelsthatchoosewhattopredict",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:59.125665+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "learningefficientabstractplanningmodelsthatchoosewhattopredict",
+      "identity_keys": [
+        "title:learningefficientabstractplanningmodelsthatchoosewhattopredict"
+      ]
+    },
+    {
+      "canonical_id": "title:learninglonghorizonactiondependenciesinsamplingbasedbilevelplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T07:49:59.312249+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "learninglonghorizonactiondependenciesinsamplingbasedbilevelplanning",
+      "identity_keys": [
+        "title:learninglonghorizonactiondependenciesinsamplingbasedbilevelplanning"
+      ]
     }
   ]
 }
