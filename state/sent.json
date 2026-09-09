@@ -7384,6 +7384,206 @@
       "identity_keys": [
         "title:memoryconstrainedalgorithmsforconvexoptimization"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1126/sciadv.aeb4205",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-09T22:55:00.793472+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/sciadv.aeb4205",
+      "venue": "Science advances",
+      "title_key": "learningstochasticdynamicsandcellfatelandscapesfromsinglecellsnapshotsviaoptimaltransport",
+      "identity_keys": [
+        "doi:10.1126/sciadv.aeb4205",
+        "pubmed:42715336",
+        "title:learningstochasticdynamicsandcellfatelandscapesfromsinglecellsnapshotsviaoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s12859-026-06613-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-09T22:55:01.152522+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s12859-026-06613-x",
+      "venue": "BMC Bioinformatics",
+      "title_key": "multihivehierarchicalmultimodaldeepgenerativemodelingforsinglecellmultiomics",
+      "identity_keys": [
+        "doi:10.1186/s12859-026-06613-x",
+        "openalex:w7211879957",
+        "title:multihivehierarchicalmultimodaldeepgenerativemodelingforsinglecellmultiomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s12864-026-13022-0",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-09T22:55:01.598107+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s12864-026-13022-0",
+      "venue": null,
+      "title_key": "sgmhasemanticgraphreconstructionwithmultiheadattentionforgeneregulatorynetworkinference",
+      "identity_keys": [
+        "doi:10.1186/s12864-026-13022-0",
+        "pubmed:42265576",
+        "title:sgmhasemanticgraphreconstructionwithmultiheadattentionforgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s12859-026-06524-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-09T22:55:01.905531+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s12859-026-06524-x",
+      "venue": null,
+      "title_key": "pyviperafastandscalablepythonpackageforproteinactivityestimationandmasterregulatoranalysisofsinglecellrnasequencingdata",
+      "identity_keys": [
+        "doi:10.1186/s12859-026-06524-x",
+        "pubmed:42332576",
+        "title:pyviperafastandscalablepythonpackageforproteinactivityestimationandmasterregulatoranalysisofsinglecellrnasequencingdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09438",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T22:55:02.788311+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unveilingthesecretofadalnzeroindiffusiontransformer",
+      "identity_keys": [
+        "arxiv:2608.09438",
+        "title:unveilingthesecretofadalnzeroindiffusiontransformer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09898",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T22:55:03.144564+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "consilienceforverifierfreetesttimescaling",
+      "identity_keys": [
+        "arxiv:2608.09898",
+        "title:consilienceforverifierfreetesttimescaling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09775",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T22:55:03.475605+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "airflowcontextpreservingandmultiratestatemodelingforairqualityforecasting",
+      "identity_keys": [
+        "arxiv:2608.09775",
+        "title:airflowcontextpreservingandmultiratestatemodelingforairqualityforecasting"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1137/24m1712242",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T22:55:03.957860+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/24m1712242",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "learningalgorithmhyperparametersforfastparametricconvexoptimization",
+      "identity_keys": [
+        "doi:10.1137/24m1712242",
+        "title:learningalgorithmhyperparametersforfastparametricconvexoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10166",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T22:55:04.330140+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "marknullmodelagnosticwatermarkremovalinaigeneratedimagesviaonmanifoldlatentmanipulation",
+      "identity_keys": [
+        "arxiv:2608.10166",
+        "title:marknullmodelagnosticwatermarkremovalinaigeneratedimagesviaonmanifoldlatentmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08183",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T22:55:04.969273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neohorse1towardsrecursiveselfimprovementviaagenticposttrainingwithroutingharness",
+      "identity_keys": [
+        "arxiv:2609.08183",
+        "title:neohorse1towardsrecursiveselfimprovementviaagenticposttrainingwithroutingharness"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28637",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T22:55:05.240635+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aiscientistmissioncontrolaimcvisualanalyticsforhumanoversightofautonomousscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2608.28637",
+        "title:aiscientistmissioncontrolaimcvisualanalyticsforhumanoversightofautonomousscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09467",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T22:55:05.694791+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recoverflyafailureawarereinforcementlearningposttrainingframeworkforaerialvisionlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2608.09467",
+        "title:recoverflyafailureawarereinforcementlearningposttrainingframeworkforaerialvisionlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09410",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T22:55:05.902107+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillsinweightsmemoryincodehybridlearningformemorydependentrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2608.09410",
+        "title:skillsinweightsmemoryincodehybridlearningformemorydependentrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10108",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T22:55:06.749409+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mesataskadaptivemultistructureevidenceselectionforlonghorizonagentmemory",
+      "identity_keys": [
+        "arxiv:2608.10108",
+        "title:mesataskadaptivemultistructureevidenceselectionforlonghorizonagentmemory"
+      ]
     }
   ]
 }
