@@ -1,0 +1,20 @@
+# Reaction -> interest-strength mapping used only by the experimental feedback
+# extension. This has no effect on paper_radar scoring/ranking/selection.
+#
+# weight is an interest-evidence strength (👍 < ❤️ < ❤️‍🔥), not a quality
+# score. Values may be changed freely in the future; nothing else in this
+# repository hard-codes them.
+version: 1
+reactions:
+  "👍":
+    strength_class: weak
+    weight: 1.0
+    forward_to: null
+  "❤️":
+    strength_class: medium
+    weight: 2.0
+    forward_to: saved_papers
+  "❤️‍🔥":
+    strength_class: strong
+    weight: 3.0
+    forward_to: must_read

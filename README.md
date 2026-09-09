@@ -189,7 +189,11 @@ Every source is fetched independently and its failure is isolated at two layers:
 
 ## 19. Experimental extensions
 
-`extensions/more_like_this` and `extensions/feedback` are disabled placeholders. They are deliberately not imported by daily or `/more` and can be deleted safely.
+`extensions/more_like_this` is a disabled placeholder. `extensions/feedback` implements Discord reaction feedback collection (see §21) but remains fully experimental/shadow-only. Neither is imported by `src/paper_radar`, daily, or `/more`, and both can be deleted safely.
+
+## 21. Discord reaction feedback (experimental, shadow-only)
+
+`extensions/feedback` polls the Discord REST API (no Gateway bot) on a schedule to collect 👍/❤️/❤️‍🔥 reactions left by one configured `TARGET_USER_ID` on existing paper messages, forwards ❤️/❤️‍🔥 to `#saved-papers`/`#must-read`, and stores raw feedback plus experimental "shadow" semantic-interest-model predictions in a separate private repository (`Bioinfo-Rafael/paper-radar-feedback-state`). Absence of a reaction is never treated as negative feedback, and reaction weight reflects interest-evidence strength, not paper quality — none of this affects `score`/`rating`/ranking/selection/deduplication for `/daily`, `/more`, or `/tune`. Two new workflows, `feedback_collect.yml` and `feedback_enrich.yml`, run independently of `daily.yml`/`more.yml`/`tune.yml` and their `paper-radar-state` concurrency group. See `extensions/feedback/README.md` for the full design.
 
 ## 20. Troubleshooting
 
