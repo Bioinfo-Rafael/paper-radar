@@ -6999,6 +6999,159 @@
       "identity_keys": [
         "title:imitatingtaskandmotionplanningwithvisuomotortransformers"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/biostatistics/kxag029",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-09T03:59:22.160159+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/biostatistics/kxag029",
+      "venue": "Biostatistics (Oxford, England)",
+      "title_key": "transfactortranscriptionfactoractivityestimationviaprobabilisticgeneexpressiondeconvolution",
+      "identity_keys": [
+        "doi:10.1093/biostatistics/kxag029",
+        "pubmed:42710863",
+        "title:transfactortranscriptionfactoractivityestimationviaprobabilisticgeneexpressiondeconvolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08253",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:23.141357+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "revisitingspectralrepresentationsingenerativediffusionmodels",
+      "identity_keys": [
+        "arxiv:2609.08253",
+        "title:revisitingspectralrepresentationsingenerativediffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08189",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:23.789730+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dodynamicroutersneedmemoryherohistoryawareroutingforefficientllminference",
+      "identity_keys": [
+        "arxiv:2609.08189",
+        "title:dodynamicroutersneedmemoryherohistoryawareroutingforefficientllminference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08303",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:24.090070+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "triunenetharmonizingscaleshapeandefficiencyinpancreatictumorsegmentation",
+      "identity_keys": [
+        "arxiv:2609.08303",
+        "title:triunenetharmonizingscaleshapeandefficiencyinpancreatictumorsegmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08244",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:24.670949+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cunocurriculumandpreferenceoptimizationforstablegraphunlearningundermassdeletion",
+      "identity_keys": [
+        "arxiv:2609.08244",
+        "title:cunocurriculumandpreferenceoptimizationforstablegraphunlearningundermassdeletion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08312",
+      "category": "ml",
+      "first_sent_at": "2026-09-09T03:59:25.047750+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "noncoherentovertheairfederatedlearningprotocolconvergenceanddevicescheduling",
+      "identity_keys": [
+        "arxiv:2609.08312",
+        "title:noncoherentovertheairfederatedlearningprotocolconvergenceanddevicescheduling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08442",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:25.958620+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "airanchorbridginglocalandglobalspatialinformationforzeroshotaerialvisionandlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2609.08442",
+        "title:airanchorbridginglocalandglobalspatialinformationforzeroshotaerialvisionandlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08602",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:26.308383+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "clampconstraineddecodingforvisionlanguageembodiedplanning",
+      "identity_keys": [
+        "arxiv:2609.08602",
+        "title:clampconstraineddecodingforvisionlanguageembodiedplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08832",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:26.581492+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "closingtheconsistencygapselfevolvingagentsthatlearntostayoncourse",
+      "identity_keys": [
+        "arxiv:2609.08832",
+        "title:closingtheconsistencygapselfevolvingagentsthatlearntostayoncourse"
+      ]
+    },
+    {
+      "canonical_id": "title:languageconditionedpathplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:26.879929+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "languageconditionedpathplanning",
+      "identity_keys": [
+        "title:languageconditionedpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:languageguidedmanipulatormotionplanningwithboundedtaskspace",
+      "category": "frontier",
+      "first_sent_at": "2026-09-09T03:59:27.152648+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "languageguidedmanipulatormotionplanningwithboundedtaskspace",
+      "identity_keys": [
+        "title:languageguidedmanipulatormotionplanningwithboundedtaskspace"
+      ]
     }
   ]
 }
