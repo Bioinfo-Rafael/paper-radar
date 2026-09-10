@@ -7584,6 +7584,147 @@
         "arxiv:2608.10108",
         "title:mesataskadaptivemultistructureevidenceselectionforlonghorizonagentmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09255",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T04:04:42.224870+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "castcanonicalapproximateschurtreeforapproximatecholeskyongraphs",
+      "identity_keys": [
+        "arxiv:2609.09255",
+        "title:castcanonicalapproximateschurtreeforapproximatecholeskyongraphs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10142",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T04:04:42.701798+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "activeadaptationnotstaticdefensetemporaldynamicsofpreventativesteeringinadversarialfinetuning",
+      "identity_keys": [
+        "arxiv:2609.10142",
+        "title:activeadaptationnotstaticdefensetemporaldynamicsofpreventativesteeringinadversarialfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09511",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T04:04:42.884934+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptivedistributedphysicallayerauthenticationandattackdetectionin6gnonterrestrialnetworksviacausalmetalearning",
+      "identity_keys": [
+        "arxiv:2609.09511",
+        "title:adaptivedistributedphysicallayerauthenticationandattackdetectionin6gnonterrestrialnetworksviacausalmetalearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10135",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T04:04:43.383649+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentbasedmlllmfusionwithselfoptimizingpromptsforplateauweatheralerts",
+      "identity_keys": [
+        "arxiv:2609.10135",
+        "title:agentbasedmlllmfusionwithselfoptimizingpromptsforplateauweatheralerts"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/978-3-032-37667-1_35",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T04:04:43.710865+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Machine Learning and Knowledge Discovery in Databases. Research Track (ECML PKDD 2026), LNCS 16944, pp. 616-634 (2027)",
+      "title_key": "constraintawarediscreteblackboxoptimizationusingtensordecomposition",
+      "identity_keys": [
+        "arxiv:2609.09370",
+        "doi:10.1007/978-3-032-37667-1_35",
+        "title:constraintawarediscreteblackboxoptimizationusingtensordecomposition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09303",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T04:04:44.203011+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "safechemuncertaintyawarepolicyswitchingforrobustroboticchemistry",
+      "identity_keys": [
+        "arxiv:2608.09303",
+        "title:safechemuncertaintyawarepolicyswitchingforrobustroboticchemistry"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09941",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T04:04:44.535603+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hawmpohallucinationawareworldmodelbasedpolicyoptimizationforgeneralistrobotpolicy",
+      "identity_keys": [
+        "arxiv:2609.09941",
+        "title:hawmpohallucinationawareworldmodelbasedpolicyoptimizationforgeneralistrobotpolicy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10506",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T04:04:44.744819+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "duetdinosimultaneouscrossviewworldmodelingforlatentplanninginrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2609.10506",
+        "title:duetdinosimultaneouscrossviewworldmodelingforlatentplanninginrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09875",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T04:04:45.276946+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentauditanopenextensibleframeworkforfulllifecycletrustevaluationofaiagents",
+      "identity_keys": [
+        "arxiv:2609.09875",
+        "title:agentauditanopenextensibleframeworkforfulllifecycletrustevaluationofaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09357",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T04:05:30.640510+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "controlradiopromptdrivencontrollablediffusionforcrossmodalradiomapgeneration",
+      "identity_keys": [
+        "arxiv:2608.09357",
+        "title:controlradiopromptdrivencontrollablediffusionforcrossmodalradiomapgeneration"
+      ]
     }
   ]
 }
