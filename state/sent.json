@@ -7725,6 +7725,76 @@
         "arxiv:2608.09357",
         "title:controlradiopromptdrivencontrollablediffusionforcrossmodalradiomapgeneration"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09855",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T10:22:58.519767+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thegreatnessofsciencecannotbeplannedagenticautoresearchisfuzztesting",
+      "identity_keys": [
+        "arxiv:2608.09855",
+        "title:thegreatnessofsciencecannotbeplannedagenticautoresearchisfuzztesting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10243",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T10:22:59.009478+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "foldexaphysicalworldbenchmarkforlonghorizonroboticmanipulationofdeformableobjects",
+      "identity_keys": [
+        "arxiv:2609.10243",
+        "title:foldexaphysicalworldbenchmarkforlonghorizonroboticmanipulationofdeformableobjects"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09591",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T10:22:59.526007+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "modalitydecoupledfederatedlearningforprivacypreservingembodiedintelligencein6g",
+      "identity_keys": [
+        "arxiv:2609.09591",
+        "title:modalitydecoupledfederatedlearningforprivacypreservingembodiedintelligencein6g"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10464",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T10:22:59.880353+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "semigroupjepalatentdynamicsconsistencyforzeroshotphysicsgeneralization",
+      "identity_keys": [
+        "arxiv:2609.10464",
+        "title:semigroupjepalatentdynamicsconsistencyforzeroshotphysicsgeneralization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00975-8",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T10:23:00.400123+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00975-8",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "evolutionaryoptimizationofmodelmergingrecipes",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00975-8",
+        "title:evolutionaryoptimizationofmodelmergingrecipes"
+      ]
     }
   ]
 }
