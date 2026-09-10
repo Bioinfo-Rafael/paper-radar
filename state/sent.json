@@ -7795,6 +7795,76 @@
         "doi:10.1038/s42256-024-00975-8",
         "title:evolutionaryoptimizationofmodelmergingrecipes"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09627",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T13:33:37.566471+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sevensourcesofphysicalaicapabilityformation",
+      "identity_keys": [
+        "arxiv:2609.09627",
+        "title:sevensourcesofphysicalaicapabilityformation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09418",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T13:33:37.727653+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "valerantanautomaticnavigablegamemapgeneratorviaactionconditionedworldmodelexploration",
+      "identity_keys": [
+        "arxiv:2609.09418",
+        "title:valerantanautomaticnavigablegamemapgeneratorviaactionconditionedworldmodelexploration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.09876",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T13:33:37.898665+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "energystructuredlatentworldmodelswithneuraltimefieldsforphysicallyconstistentopenworldmotionplanning",
+      "identity_keys": [
+        "arxiv:2608.09876",
+        "title:energystructuredlatentworldmodelswithneuraltimefieldsforphysicallyconstistentopenworldmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10441",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T13:33:38.436638+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "convmemconvolutionalmemoryforlongcontextreasoning",
+      "identity_keys": [
+        "arxiv:2609.10441",
+        "title:convmemconvolutionalmemoryforlongcontextreasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3584557",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T13:33:38.583957+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3584557",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "cannottouchthisrealtimesafemotionplanningandcontrolformanipulatorsunderuncertainty",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3584557",
+        "title:cannottouchthisrealtimesafemotionplanningandcontrolformanipulatorsunderuncertainty"
+      ]
     }
   ]
 }
