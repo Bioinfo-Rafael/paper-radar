@@ -7865,6 +7865,176 @@
         "doi:10.1109/tro.2025.3584557",
         "title:cannottouchthisrealtimesafemotionplanningandcontrolformanipulatorsunderuncertainty"
       ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fgene.2026.1902559",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-10T22:55:09.363915+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fgene.2026.1902559",
+      "venue": "Frontiers in genetics",
+      "title_key": "multiomicsidentifiesavimassociatedmicroglialprogramlinkedtolactylationferroptosisandneuroinflammationafterspinalcordinjury",
+      "identity_keys": [
+        "doi:10.3389/fgene.2026.1902559",
+        "pubmed:42719524",
+        "title:multiomicsidentifiesavimassociatedmicroglialprogramlinkedtolactylationferroptosisandneuroinflammationafterspinalcordinjury"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tcbbio.2026.3731227",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-10T22:55:09.610409+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tcbbio.2026.3731227",
+      "venue": "IEEE transactions on computational biology and bioinformatics",
+      "title_key": "dmgrnenhancingdiffusionmodelsforgeneregulatorynetworkinference",
+      "identity_keys": [
+        "doi:10.1109/tcbbio.2026.3731227",
+        "pubmed:42721176",
+        "title:dmgrnenhancingdiffusionmodelsforgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11419",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T22:55:10.394914+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffusionbaseddatadrivenassortmentoptimization",
+      "identity_keys": [
+        "arxiv:2608.11419",
+        "title:diffusionbaseddatadrivenassortmentoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10933",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T22:55:10.739732+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "safecasafecrossattentionlocalizationandregulationfortexttovideojailbreakdefense",
+      "identity_keys": [
+        "arxiv:2608.10933",
+        "title:safecasafecrossattentionlocalizationandregulationfortexttovideojailbreakdefense"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10723",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T22:55:11.160415+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gridpreservingknowledgedistillationtransferringconvolutionalinductivebiastovisiontransformersunderdatascarcity",
+      "identity_keys": [
+        "arxiv:2608.10723",
+        "title:gridpreservingknowledgedistillationtransferringconvolutionalinductivebiastovisiontransformersunderdatascarcity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10897",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T22:55:12.071013+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "partiallyobservablelearningformultiplatformdispatchoptimization",
+      "identity_keys": [
+        "arxiv:2608.10897",
+        "title:partiallyobservablelearningformultiplatformdispatchoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11390",
+      "category": "ml",
+      "first_sent_at": "2026-09-10T22:55:12.327935+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mechanismdesignforgenerativeenginesfromexploitationtowardwinwinoutcomes",
+      "identity_keys": [
+        "arxiv:2608.11390",
+        "title:mechanismdesignforgenerativeenginesfromexploitationtowardwinwinoutcomes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10618",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T22:55:13.056099+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardthecognitivephysicallimitsofembodiedintelligencethroughaworldmodelcentricautonomousracingagent",
+      "identity_keys": [
+        "arxiv:2608.10618",
+        "title:towardthecognitivephysicallimitsofembodiedintelligencethroughaworldmodelcentricautonomousracingagent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09776",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T22:55:13.301422+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "proofcarryingcognitionclosingtheverificationgapwithrealitysettledreward",
+      "identity_keys": [
+        "arxiv:2609.09776",
+        "title:proofcarryingcognitionclosingtheverificationgapwithrealitysettledreward"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10976",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T22:55:13.836748+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "xcotvlaexecutablechainofthoughtforvisionlanguageactiondriving",
+      "identity_keys": [
+        "arxiv:2608.10976",
+        "title:xcotvlaexecutablechainofthoughtforvisionlanguageactiondriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11363",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T22:55:14.086357+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptationofgeneralistrobotpolicieswithminimaldata",
+      "identity_keys": [
+        "arxiv:2608.11363",
+        "title:adaptationofgeneralistrobotpolicieswithminimaldata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09985",
+      "category": "frontier",
+      "first_sent_at": "2026-09-10T22:55:14.618611+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlxvranagenticawarevideoreasoningmodel",
+      "identity_keys": [
+        "arxiv:2609.09985",
+        "title:vlxvranagenticawarevideoreasoningmodel"
+      ]
     }
   ]
 }
