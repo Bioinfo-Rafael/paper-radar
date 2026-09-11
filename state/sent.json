@@ -8330,6 +8330,116 @@
         "doi:10.1126/scirobotics.adq5046",
         "title:forcesforfreevisionbasedcontactforceestimationwithacomplianthand"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11155",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T10:28:31.967305+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "drgmappohierarchicaldynamicrolegraphmultiagentreinforcementlearningforcooperativeaircombat",
+      "identity_keys": [
+        "arxiv:2609.11155",
+        "title:drgmappohierarchicaldynamicrolegraphmultiagentreinforcementlearningforcooperativeaircombat"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11299",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T10:28:32.417011+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atwomirrorfacetedprojectionsystemforeuvlithography",
+      "identity_keys": [
+        "arxiv:2609.11299",
+        "title:atwomirrorfacetedprojectionsystemforeuvlithography"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11042",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T10:28:33.076984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "t1terminalagentreinforcementlearningforlonghorizontasks",
+      "identity_keys": [
+        "arxiv:2609.11042",
+        "title:t1terminalagentreinforcementlearningforlonghorizontasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11499",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T10:28:33.795667+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recursivecodeworldmodelsbuildingcomplexworldsthroughrecursivesceneprograms",
+      "identity_keys": [
+        "arxiv:2609.11499",
+        "title:recursivecodeworldmodelsbuildingcomplexworldsthroughrecursivesceneprograms"
+      ]
+    },
+    {
+      "canonical_id": "title:multitaskinteractiverobotfleetlearningwithvisualworldmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T10:28:34.184496+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "multitaskinteractiverobotfleetlearningwithvisualworldmodels",
+      "identity_keys": [
+        "title:multitaskinteractiverobotfleetlearningwithvisualworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11875",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T10:28:34.481348+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unimpaaunifiedmemorypredictionactionmodelviaactiongroundedtransitionmodeling",
+      "identity_keys": [
+        "arxiv:2609.11875",
+        "title:unimpaaunifiedmemorypredictionactionmodelviaactiongroundedtransitionmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11929",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T10:28:34.862133+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sensenovau15towardsnativeunifiedvisualintelligence",
+      "identity_keys": [
+        "arxiv:2609.11929",
+        "title:sensenovau15towardsnativeunifiedvisualintelligence"
+      ]
+    },
+    {
+      "canonical_id": "title:navigationwithlargelanguagemodelssemanticguessworkasaheuristicforplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T10:28:35.204048+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "navigationwithlargelanguagemodelssemanticguessworkasaheuristicforplanning",
+      "identity_keys": [
+        "title:navigationwithlargelanguagemodelssemanticguessworkasaheuristicforplanning"
+      ]
     }
   ]
 }
