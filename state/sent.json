@@ -8510,6 +8510,160 @@
         "arxiv:2609.11172",
         "title:beyondvisualqualityevaluatingphysicalconsistencyunderegomotionwithegogeneval"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.14.676067",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-11T22:57:21.890713+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.14.676067",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "spatialfuseraunifieddeeplearningframeworkforspatialmultiomicsdataintegrativeanalysis",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.14.676067",
+        "title:spatialfuseraunifieddeeplearningframeworkforspatialmultiomicsdataintegrativeanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11745",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T22:57:22.748995+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liveanimatestablelongformstreaminghumananimationinrealtime",
+      "identity_keys": [
+        "arxiv:2608.11745",
+        "title:liveanimatestablelongformstreaminghumananimationinrealtime"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12436",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T22:57:23.022790+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiauvadhocnetworkbasedtargettrackingavaluegradientguidancemultiagentdiffusionreinforcementlearningapproach",
+      "identity_keys": [
+        "arxiv:2608.12436",
+        "title:multiauvadhocnetworkbasedtargettrackingavaluegradientguidancemultiagentdiffusionreinforcementlearningapproach"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11739",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T22:57:23.261905+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "g05oneautoregressivestreamforrobotreasoningandaction",
+      "identity_keys": [
+        "arxiv:2608.11739",
+        "title:g05oneautoregressivestreamforrobotreasoningandaction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11793",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T22:57:23.829567+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "polarsympolargeometryawareattentionforcadfloorplanparsing",
+      "identity_keys": [
+        "arxiv:2608.11793",
+        "title:polarsympolargeometryawareattentionforcadfloorplanparsing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11738",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T22:57:24.322747+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "advancingmllmbaseduavimageunderstandingandreasoningabenchmarkandatrainingfreemultiagentsystem",
+      "identity_keys": [
+        "arxiv:2608.11738",
+        "title:advancingmllmbaseduavimageunderstandingandreasoningabenchmarkandatrainingfreemultiagentsystem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12036",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T22:57:25.182440+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mechanistaiasascientificinstrumentfordiscoveringthemechanismsofintelligence",
+      "identity_keys": [
+        "arxiv:2608.12036",
+        "title:mechanistaiasascientificinstrumentfordiscoveringthemechanismsofintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12078",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T22:57:25.702225+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "betterslotsbetterworldsrepresentationqualityrobustnessinobjectcentricworldmodels",
+      "identity_keys": [
+        "arxiv:2608.12078",
+        "title:betterslotsbetterworldsrepresentationqualityrobustnessinobjectcentricworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12476",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T22:57:26.020063+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "governedpersistentmemorysourceboundstatesemanticsandfailclosedreleaseforlonghorizonagents",
+      "identity_keys": [
+        "arxiv:2608.12476",
+        "title:governedpersistentmemorysourceboundstatesemanticsandfailclosedreleaseforlonghorizonagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12308",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T22:57:26.488341+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dreamflycausalmemoryandrecedinghorizondiffusionplanningforaerialvisionlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2608.12308",
+        "title:dreamflycausalmemoryandrecedinghorizondiffusionplanningforaerialvisionlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11739",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T22:57:26.892711+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "g05oneautoregressivestreamforrobotreasoningandaction",
+      "identity_keys": [
+        "arxiv:2608.11739",
+        "title:g05oneautoregressivestreamforrobotreasoningandaction"
+      ]
     }
   ]
 }
