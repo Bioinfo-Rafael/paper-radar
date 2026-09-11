@@ -8035,6 +8035,147 @@
         "arxiv:2609.09985",
         "title:vlxvranagenticawarevideoreasoningmodel"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11648",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T03:55:25.773578+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rddmpiresidualdenoisingdiffusionmodelforprobabilisticmultivariatetimeseriesimputation",
+      "identity_keys": [
+        "arxiv:2609.11648",
+        "title:rddmpiresidualdenoisingdiffusionmodelforprobabilisticmultivariatetimeseriesimputation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11341",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T03:55:26.059009+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "exploringdiffusiontransformersforcrossmodalaugmentationinmultimodalbrainstatedecoding",
+      "identity_keys": [
+        "arxiv:2609.11341",
+        "title:exploringdiffusiontransformersforcrossmodalaugmentationinmultimodalbrainstatedecoding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11265",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T03:55:26.548292+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "uncertaintydmdrestoringdiversityinfewstepautoregressivevideodistillation",
+      "identity_keys": [
+        "arxiv:2609.11265",
+        "title:uncertaintydmdrestoringdiversityinfewstepautoregressivevideodistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11655",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T03:55:26.768153+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "musecmomentumspectralclippingforstablemuontypetraining",
+      "identity_keys": [
+        "arxiv:2609.11655",
+        "title:musecmomentumspectralclippingforstablemuontypetraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11867",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T03:55:27.304895+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adamxcosinesimilaritymeetsgradientdescent",
+      "identity_keys": [
+        "arxiv:2609.11867",
+        "title:adamxcosinesimilaritymeetsgradientdescent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11873",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T03:55:28.912000+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thelastaibuiltbyhumanstowardgenuinerecursiveselfimprovement",
+      "identity_keys": [
+        "arxiv:2609.11873",
+        "title:thelastaibuiltbyhumanstowardgenuinerecursiveselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11042",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T03:55:29.157685+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "t1terminalagentreinforcementlearningforlonghorizontasks",
+      "identity_keys": [
+        "arxiv:2609.11042",
+        "title:t1terminalagentreinforcementlearningforlonghorizontasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10922",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T03:55:29.449198+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autorecsysharnessingautonomousresearchagentsforindustryscalerecommendersystem",
+      "identity_keys": [
+        "arxiv:2609.10922",
+        "title:autorecsysharnessingautonomousresearchagentsforindustryscalerecommendersystem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.10766",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T03:55:29.944497+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ruleofthumbexplainingartificialintelligencesystemsusingpartialinformation",
+      "identity_keys": [
+        "arxiv:2608.10766",
+        "title:ruleofthumbexplainingartificialintelligencesystemsusingpartialinformation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3767308.3835995",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T03:55:30.560791+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "r4dsgrelative4dscenegraphmemoryforobjectcentricquestionansweringinlongegocentricvideo",
+      "identity_keys": [
+        "arxiv:2608.11017",
+        "doi:10.1145/3767308.3835995",
+        "title:r4dsgrelative4dscenegraphmemoryforobjectcentricquestionansweringinlongegocentricvideo"
+      ]
     }
   ]
 }
