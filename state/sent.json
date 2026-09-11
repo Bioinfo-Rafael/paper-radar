@@ -8176,6 +8176,160 @@
         "doi:10.1145/3767308.3835995",
         "title:r4dsgrelative4dscenegraphmemoryforobjectcentricquestionansweringinlongegocentricvideo"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-026-03008-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-11T07:44:38.514102+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-026-03008-x",
+      "venue": "Nature Methods",
+      "title_key": "aunifiedframeworkformultiomicsdeconvolution",
+      "identity_keys": [
+        "doi:10.1038/s41592-026-03008-x",
+        "title:aunifiedframeworkformultiomicsdeconvolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11507",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T07:44:39.173270+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnessingintrinsicsubjectawareattentionforcontrollablemultisubjectvideogeneration",
+      "identity_keys": [
+        "arxiv:2609.11507",
+        "title:harnessingintrinsicsubjectawareattentionforcontrollablemultisubjectvideogeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11842",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T07:44:40.318275+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "modelawareschedulesimprovegenerationviafiberwiseoptimaltransport",
+      "identity_keys": [
+        "arxiv:2609.11842",
+        "title:modelawareschedulesimprovegenerationviafiberwiseoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11156",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T07:44:40.801990+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unih3unifyinghierarchicalhomogeneityandheterogeneityforallinonemedicalimagerestoration",
+      "identity_keys": [
+        "arxiv:2609.11156",
+        "title:unih3unifyinghierarchicalhomogeneityandheterogeneityforallinonemedicalimagerestoration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11892",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T07:44:41.853759+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "nuhaspeechbuildinggeneralpurposearabicspeechllms",
+      "identity_keys": [
+        "arxiv:2609.11892",
+        "title:nuhaspeechbuildinggeneralpurposearabicspeechllms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11228",
+      "category": "ml",
+      "first_sent_at": "2026-09-11T07:44:42.110943+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "solvingfewshotmultiobjectivemultitaskoptimizationviaiterativesequentialtransfer",
+      "identity_keys": [
+        "arxiv:2609.11228",
+        "title:solvingfewshotmultiobjectivemultitaskoptimizationviaiterativesequentialtransfer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11697",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T07:44:42.751503+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "actsafeguarddifferentiableandtrainingalignedconstraintenforcementforflowmatchingpolicies",
+      "identity_keys": [
+        "arxiv:2609.11697",
+        "title:actsafeguarddifferentiableandtrainingalignedconstraintenforcementforflowmatchingpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11445",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T07:44:43.009765+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "farmreadingfailuresignalsfromtheinternalpredictivestatesofafrozenroboticworldmodel",
+      "identity_keys": [
+        "arxiv:2609.11445",
+        "title:farmreadingfailuresignalsfromtheinternalpredictivestatesofafrozenroboticworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11174",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T07:44:43.294850+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "viscorediagnosingplanningrelevantqualityinlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2608.11174",
+        "title:viscorediagnosingplanningrelevantqualityinlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11308",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T07:44:44.460656+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "2amgroundingagentsidememoryasguidanceforsteerableactionmodelsinlonghorizonmanipulation",
+      "identity_keys": [
+        "arxiv:2609.11308",
+        "title:2amgroundingagentsidememoryasguidanceforsteerableactionmodelsinlonghorizonmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adq5046",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T07:44:44.618965+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adq5046",
+      "venue": "Science Robotics",
+      "title_key": "forcesforfreevisionbasedcontactforceestimationwithacomplianthand",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adq5046",
+        "title:forcesforfreevisionbasedcontactforceestimationwithacomplianthand"
+      ]
     }
   ]
 }
