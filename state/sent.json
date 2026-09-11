@@ -8440,6 +8440,76 @@
       "identity_keys": [
         "title:navigationwithlargelanguagemodelssemanticguessworkasaheuristicforplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01065-z",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T13:34:44.009843+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01065-z",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "learningtoadaptthroughbioinspiredgaitstrategiesforversatilequadrupedlocomotion",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01065-z",
+        "title:learningtoadaptthroughbioinspiredgaitstrategiesforversatilequadrupedlocomotion"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3626614",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T13:34:44.245354+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3626614",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "safeanddynamicallyfeasiblemotionplanningusingcontrollyapunovandbarrierfunctions",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3626614",
+        "title:safeanddynamicallyfeasiblemotionplanningusingcontrollyapunovandbarrierfunctions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11911",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T13:34:44.497659+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "artificialiddriveandpersistentalignmentinagenticai",
+      "identity_keys": [
+        "arxiv:2609.11911",
+        "title:artificialiddriveandpersistentalignmentinagenticai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11147",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T13:34:44.898364+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autonomouschemicalmechanisticdiscoverythroughagenticreasoningandvalidation",
+      "identity_keys": [
+        "arxiv:2609.11147",
+        "title:autonomouschemicalmechanisticdiscoverythroughagenticreasoningandvalidation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11172",
+      "category": "frontier",
+      "first_sent_at": "2026-09-11T13:34:45.179773+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondvisualqualityevaluatingphysicalconsistencyunderegomotionwithegogeneval",
+      "identity_keys": [
+        "arxiv:2609.11172",
+        "title:beyondvisualqualityevaluatingphysicalconsistencyunderegomotionwithegogeneval"
+      ]
     }
   ]
 }
