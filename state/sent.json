@@ -8923,6 +8923,73 @@
       "identity_keys": [
         "title:readysetplanplanningtogoalsetsusinggeneralizedbayesianinference"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11243",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T12:49:43.098287+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scimmrbenchmarkingmultistepevidencegroundedscientificreasoninginmultimodalagents",
+      "identity_keys": [
+        "arxiv:2609.11243",
+        "title:scimmrbenchmarkingmultistepevidencegroundedscientificreasoninginmultimodalagents"
+      ]
+    },
+    {
+      "canonical_id": "title:rt2visionlanguageactionmodelstransferwebknowledgetoroboticcontrol",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T12:49:43.548011+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "rt2visionlanguageactionmodelstransferwebknowledgetoroboticcontrol",
+      "identity_keys": [
+        "title:rt2visionlanguageactionmodelstransferwebknowledgetoroboticcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11807",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T12:49:44.075401+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "nearoptimalreinforcementlearningwithmultisteptransitionlookahead",
+      "identity_keys": [
+        "arxiv:2609.11807",
+        "title:nearoptimalreinforcementlearningwithmultisteptransitionlookahead"
+      ]
+    },
+    {
+      "canonical_id": "title:integratedhierarchicaldecisionmakingininversekinematicplanningandcontrol",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T12:49:44.252599+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "integratedhierarchicaldecisionmakingininversekinematicplanningandcontrol",
+      "identity_keys": [
+        "title:integratedhierarchicaldecisionmakingininversekinematicplanningandcontrol"
+      ]
+    },
+    {
+      "canonical_id": "title:rearrangementplanningforgeneralpartassembly",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T12:49:44.464837+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "rearrangementplanningforgeneralpartassembly",
+      "identity_keys": [
+        "title:rearrangementplanningforgeneralpartassembly"
+      ]
     }
   ]
 }
