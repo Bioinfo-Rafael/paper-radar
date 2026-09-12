@@ -8729,6 +8729,90 @@
       "identity_keys": [
         "title:nodtampgeneralizablelonghorizonplanningwithneuralobjectdescriptors"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12655",
+      "category": "ml",
+      "first_sent_at": "2026-09-12T07:43:15.800129+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingunderchallengeexecutablecertificatesandchallengeclosedoptimalityforneuralnetworks",
+      "identity_keys": [
+        "arxiv:2608.12655",
+        "title:trainingunderchallengeexecutablecertificatesandchallengeclosedoptimalityforneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11692",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T07:43:16.551364+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "huginenhancingvisionlanguageplanningforautonomouslogisticssorting",
+      "identity_keys": [
+        "arxiv:2608.11692",
+        "title:huginenhancingvisionlanguageplanningforautonomouslogisticssorting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12416",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T07:43:16.762777+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robosynchallengemasteringrealworlddexterityviageneralizingsynthesizedmanipulationskills",
+      "identity_keys": [
+        "arxiv:2608.12416",
+        "title:robosynchallengemasteringrealworlddexterityviageneralizingsynthesizedmanipulationskills"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12564",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T07:43:17.054988+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalingautomaticresearchagentsviaworldmodels",
+      "identity_keys": [
+        "arxiv:2608.12564",
+        "title:scalingautomaticresearchagentsviaworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3672542",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T07:43:17.609342+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3672542",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "iatigrisanincrementalandadaptivesamplingbasedplannerforonlineinformativepathplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3672542",
+        "title:iatigrisanincrementalandadaptivesamplingbasedplannerforonlineinformativepathplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11141",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T07:43:17.989753+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canllmsnormalizedatabasesabenchmarkandmultiagentframeworkforschemanormalization",
+      "identity_keys": [
+        "arxiv:2609.11141",
+        "title:canllmsnormalizedatabasesabenchmarkandmultiagentframeworkforschemanormalization"
+      ]
     }
   ]
 }
