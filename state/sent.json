@@ -8990,6 +8990,71 @@
       "identity_keys": [
         "title:rearrangementplanningforgeneralpartassembly"
       ]
+    },
+    {
+      "canonical_id": "title:liberoxrobustnesslitmusforvisionlanguageactionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T22:51:53.001440+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "liberoxrobustnesslitmusforvisionlanguageactionmodels",
+      "identity_keys": [
+        "title:liberoxrobustnesslitmusforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:memoryretrievalinvisuomotorpoliciesforlonghorizonrobotcontrol",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T22:51:53.177368+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "memoryretrievalinvisuomotorpoliciesforlonghorizonrobotcontrol",
+      "identity_keys": [
+        "title:memoryretrievalinvisuomotorpoliciesforlonghorizonrobotcontrol"
+      ]
+    },
+    {
+      "canonical_id": "title:modelbaseddiffusionoptimalcontrolformultirobotmotionplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T22:51:53.396716+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "modelbaseddiffusionoptimalcontrolformultirobotmotionplanning",
+      "identity_keys": [
+        "title:modelbaseddiffusionoptimalcontrolformultirobotmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:sayplangroundinglargelanguagemodelsusing3dscenegraphsforscalablerobottaskplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T22:51:56.113003+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "sayplangroundinglargelanguagemodelsusing3dscenegraphsforscalablerobottaskplanning",
+      "identity_keys": [
+        "title:sayplangroundinglargelanguagemodelsusing3dscenegraphsforscalablerobottaskplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:structuralconceptlearningviagraphattentionformultilevelrearrangementplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T22:51:56.760872+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "structuralconceptlearningviagraphattentionformultilevelrearrangementplanning",
+      "identity_keys": [
+        "title:structuralconceptlearningviagraphattentionformultilevelrearrangementplanning"
+      ]
     }
   ]
 }
