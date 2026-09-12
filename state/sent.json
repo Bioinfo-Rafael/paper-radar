@@ -8664,6 +8664,71 @@
         "arxiv:2608.11739",
         "title:g05oneautoregressivestreamforrobotreasoningandaction"
       ]
+    },
+    {
+      "canonical_id": "title:collaboratingvisualandparameterspacesforconsistentlonghorizonembodiedworldmodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T04:02:18.053811+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "collaboratingvisualandparameterspacesforconsistentlonghorizonembodiedworldmodel",
+      "identity_keys": [
+        "title:collaboratingvisualandparameterspacesforconsistentlonghorizonembodiedworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "title:hypothesisdrivenmodelexpansionunderuncertaintyforopenworldrobotplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T04:02:18.592210+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "hypothesisdrivenmodelexpansionunderuncertaintyforopenworldrobotplanning",
+      "identity_keys": [
+        "title:hypothesisdrivenmodelexpansionunderuncertaintyforopenworldrobotplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:openvlaanopensourcevisionlanguageactionmodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T04:02:18.999149+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "openvlaanopensourcevisionlanguageactionmodel",
+      "identity_keys": [
+        "title:openvlaanopensourcevisionlanguageactionmodel"
+      ]
+    },
+    {
+      "canonical_id": "title:informativepathplanningwithguaranteedestimationuncertainty",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T04:02:19.722842+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "informativepathplanningwithguaranteedestimationuncertainty",
+      "identity_keys": [
+        "title:informativepathplanningwithguaranteedestimationuncertainty"
+      ]
+    },
+    {
+      "canonical_id": "title:nodtampgeneralizablelonghorizonplanningwithneuralobjectdescriptors",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T04:02:20.401566+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "nodtampgeneralizablelonghorizonplanningwithneuralobjectdescriptors",
+      "identity_keys": [
+        "title:nodtampgeneralizablelonghorizonplanningwithneuralobjectdescriptors"
+      ]
     }
   ]
 }
