@@ -8813,6 +8813,116 @@
         "arxiv:2609.11141",
         "title:canllmsnormalizedatabasesabenchmarkandmultiagentframeworkforschemanormalization"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12107",
+      "category": "ml",
+      "first_sent_at": "2026-09-12T09:52:06.292941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "avatarforeverdecoupledparalleltrainingforhighqualityrealtimeinfiniteavatars",
+      "identity_keys": [
+        "arxiv:2608.12107",
+        "title:avatarforeverdecoupledparalleltrainingforhighqualityrealtimeinfiniteavatars"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.12522",
+      "category": "ml",
+      "first_sent_at": "2026-09-12T09:52:07.299411+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "varepsilonmemevoadaptivecrosstaskmemorytransferforllmprogramevolution",
+      "identity_keys": [
+        "arxiv:2608.12522",
+        "title:varepsilonmemevoadaptivecrosstaskmemorytransferforllmprogramevolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.11705",
+      "category": "ml",
+      "first_sent_at": "2026-09-12T09:52:07.461977+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "makingyourllmsmoreobjectivestabilizingllmsafetybehavioracrosstraitswithtraitinvariantsafetytuning",
+      "identity_keys": [
+        "arxiv:2608.11705",
+        "title:makingyourllmsmoreobjectivestabilizingllmsafetybehavioracrosstraitswithtraitinvariantsafetytuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11225",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T09:52:08.363103+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnessroboticosaunifiedembodiedagentruntimeforclosedloopquadrupedinspection",
+      "identity_keys": [
+        "arxiv:2609.11225",
+        "title:harnessroboticosaunifiedembodiedagentruntimeforclosedloopquadrupedinspection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11058",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T09:52:09.015690+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "emmiedgemultimodalintelligenceforcommunicationefficientmllminferenceviafusedrepresentationcompression",
+      "identity_keys": [
+        "arxiv:2609.11058",
+        "title:emmiedgemultimodalintelligenceforcommunicationefficientmllminferenceviafusedrepresentationcompression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11318",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T09:52:09.246222+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mrlhdrabenchmarkformultimodalrealworldlonghorizondeepresearchagents",
+      "identity_keys": [
+        "arxiv:2609.11318",
+        "title:mrlhdrabenchmarkformultimodalrealworldlonghorizondeepresearchagents"
+      ]
+    },
+    {
+      "canonical_id": "title:partingwithmisconceptionsaboutlearningbasedvehiclemotionplanning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T09:52:09.564750+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "partingwithmisconceptionsaboutlearningbasedvehiclemotionplanning",
+      "identity_keys": [
+        "title:partingwithmisconceptionsaboutlearningbasedvehiclemotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:readysetplanplanningtogoalsetsusinggeneralizedbayesianinference",
+      "category": "frontier",
+      "first_sent_at": "2026-09-12T09:52:09.809580+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "readysetplanplanningtogoalsetsusinggeneralizedbayesianinference",
+      "identity_keys": [
+        "title:readysetplanplanningtogoalsetsusinggeneralizedbayesianinference"
+      ]
     }
   ]
 }
