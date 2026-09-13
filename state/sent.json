@@ -9253,6 +9253,74 @@
         "doi:10.1109/tro.2025.3567525",
         "title:formulatingtheunicycleonthespherepathplanningproblemasalineartimevaryingsystem"
       ]
+    },
+    {
+      "canonical_id": "title:useraunifiedandextensiblesystemforonlinerealworldpolicylearninginembodiedai",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T13:55:21.394304+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "useraunifiedandextensiblesystemforonlinerealworldpolicylearninginembodiedai",
+      "identity_keys": [
+        "title:useraunifiedandextensiblesystemforonlinerealworldpolicylearninginembodiedai"
+      ]
+    },
+    {
+      "canonical_id": "title:xdiffvlaxembodieddiffusionactionheadsforvisionlanguageactionmodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T13:55:21.882109+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "xdiffvlaxembodieddiffusionactionheadsforvisionlanguageactionmodels",
+      "identity_keys": [
+        "title:xdiffvlaxembodieddiffusionactionheadsforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "title:vecqmdpvectorizedpomdpplanningoncpusforrealtimeautonomousdriving",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T13:55:22.351512+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "vecqmdpvectorizedpomdpplanningoncpusforrealtimeautonomousdriving",
+      "identity_keys": [
+        "title:vecqmdpvectorizedpomdpplanningoncpusforrealtimeautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3610176",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T13:55:22.592748+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3610176",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "anytimeprobabilisticallyconstrainedprovablyconvergentonlinebeliefspaceplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3610176",
+        "title:anytimeprobabilisticallyconstrainedprovablyconvergentonlinebeliefspaceplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1002/widm.70111",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T13:55:22.937786+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1002/widm.70111",
+      "venue": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+      "title_key": "exploringlargelanguagemodelbasedintelligentagentsdefinitionsmethodsandprospects",
+      "identity_keys": [
+        "doi:10.1002/widm.70111",
+        "openalex:w4390730779",
+        "title:exploringlargelanguagemodelbasedintelligentagentsdefinitionsmethodsandprospects"
+      ]
     }
   ]
 }
