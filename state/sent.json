@@ -9186,6 +9186,73 @@
         "doi:10.1109/tro.2025.3641869",
         "title:onlineapproachtoneartimeoptimaltaskspacetrajectoryplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01186-z",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T11:00:34.698309+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01186-z",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "arobotoperatingsystemframeworkforusinglargelanguagemodelsinembodiedai",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01186-z",
+        "title:arobotoperatingsystemframeworkforusinglargelanguagemodelsinembodiedai"
+      ]
+    },
+    {
+      "canonical_id": "title:towardslonglivedrobotscontinuallearningvlamodelsviareinforcementfinetuning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T11:00:36.019485+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "towardslonglivedrobotscontinuallearningvlamodelsviareinforcementfinetuning",
+      "identity_keys": [
+        "title:towardslonglivedrobotscontinuallearningvlamodelsviareinforcementfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "title:universalposepretrainingforgeneralizablevisionlanguageactionpolicies",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T11:00:36.328391+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "universalposepretrainingforgeneralizablevisionlanguageactionpolicies",
+      "identity_keys": [
+        "title:universalposepretrainingforgeneralizablevisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "title:tesdftetraencodedsigneddistancefieldformemoryefficientandaccuratecollisiondetection",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T11:00:36.793613+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "tesdftetraencodedsigneddistancefieldformemoryefficientandaccuratecollisiondetection",
+      "identity_keys": [
+        "title:tesdftetraencodedsigneddistancefieldformemoryefficientandaccuratecollisiondetection"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3567525",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T11:00:37.000061+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3567525",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "formulatingtheunicycleonthespherepathplanningproblemasalineartimevaryingsystem",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3567525",
+        "title:formulatingtheunicycleonthespherepathplanningproblemasalineartimevaryingsystem"
+      ]
     }
   ]
 }
