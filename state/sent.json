@@ -9321,6 +9321,145 @@
         "openalex:w4390730779",
         "title:exploringlargelanguagemodelbasedintelligentagentsdefinitionsmethodsandprospects"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.14172",
+      "category": "ml",
+      "first_sent_at": "2026-09-13T22:58:00.589121+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "conceptguidanceprecisetrainingfreelatentcontrolfortexttoimagegeneration",
+      "identity_keys": [
+        "arxiv:2608.14172",
+        "title:conceptguidanceprecisetrainingfreelatentcontrolfortexttoimagegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.14126",
+      "category": "ml",
+      "first_sent_at": "2026-09-13T22:58:02.504492+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bgaanoiseimmuneneuraldistillationframeworkformalicioussignatureextractioninhighentropyencryptedflows",
+      "identity_keys": [
+        "arxiv:2608.14126",
+        "title:bgaanoiseimmuneneuraldistillationframeworkformalicioussignatureextractioninhighentropyencryptedflows"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.14121",
+      "category": "ml",
+      "first_sent_at": "2026-09-13T22:58:02.824766+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "overcomingshortcutlearningingraphneuralnetworksthroughactiveexplanationguidance",
+      "identity_keys": [
+        "arxiv:2608.14121",
+        "title:overcomingshortcutlearningingraphneuralnetworksthroughactiveexplanationguidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.14854",
+      "category": "ml",
+      "first_sent_at": "2026-09-13T22:58:03.214586+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zeromelotesttimeevidencecalibrationwithmultimodalllmsforzeroshotmicrogesturerecognition",
+      "identity_keys": [
+        "arxiv:2608.14854",
+        "title:zeromelotesttimeevidencecalibrationwithmultimodalllmsforzeroshotmicrogesturerecognition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.14106",
+      "category": "ml",
+      "first_sent_at": "2026-09-13T22:58:03.373360+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "forecastcollapseintimeseriesfoundationmodels",
+      "identity_keys": [
+        "arxiv:2608.14106",
+        "title:forecastcollapseintimeseriesfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01272-2",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T22:58:04.246684+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01272-2",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "towardssharedembodiedintelligenceinhumanoidrobotsthroughoptimizationdevelopmentandtestingofthehumanawareergocubrobot",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01272-2",
+        "title:towardssharedembodiedintelligenceinhumanoidrobotsthroughoptimizationdevelopmentandtestingofthehumanawareergocubrobot"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s10994-026-07126-7",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T22:58:04.555602+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s10994-026-07126-7",
+      "venue": "Machine Learning",
+      "title_key": "imaginingtrajectoriesforanomalydetectioninreinforcementlearningfromimages",
+      "identity_keys": [
+        "doi:10.1007/s10994-026-07126-7",
+        "title:imaginingtrajectoriesforanomalydetectioninreinforcementlearningfromimages"
+      ]
+    },
+    {
+      "canonical_id": "title:06avlathatlearnsfromexperience",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T22:58:04.946388+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "06avlathatlearnsfromexperience",
+      "identity_keys": [
+        "title:06avlathatlearnsfromexperience"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3714647",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T22:58:05.392142+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3714647",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "lazydashalazyapproachforhypergraphbasedmultirobottaskandmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3714647",
+        "title:lazydashalazyapproachforhypergraphbasedmultirobottaskandmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3552346",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T22:58:05.575232+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3552346",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "coverlibclassifiersequippedexperiencelibrarybyiterativeproblemdistributioncoveragemaximizationfordomaintunedmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3552346",
+        "title:coverlibclassifiersequippedexperiencelibrarybyiterativeproblemdistributioncoveragemaximizationfordomaintunedmotionplanning"
+      ]
     }
   ]
 }
