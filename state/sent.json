@@ -9120,6 +9120,72 @@
       "identity_keys": [
         "title:synthesizingnavigationabstractionsforplanningwithportablemanipulationskills"
       ]
+    },
+    {
+      "canonical_id": "title:simulationdistillationpretrainingworldmodelsinsimulationforrapidrealworldadaptation",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T08:09:03.585117+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "simulationdistillationpretrainingworldmodelsinsimulationforrapidrealworldadaptation",
+      "identity_keys": [
+        "title:simulationdistillationpretrainingworldmodelsinsimulationforrapidrealworldadaptation"
+      ]
+    },
+    {
+      "canonical_id": "title:stereovlaenhancingvisionlanguageactionmodelswithstereovision",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T08:09:05.193902+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "stereovlaenhancingvisionlanguageactionmodelswithstereovision",
+      "identity_keys": [
+        "title:stereovlaenhancingvisionlanguageactionmodelswithstereovision"
+      ]
+    },
+    {
+      "canonical_id": "title:motionuncertaintyawarenextbestviewplanningformovingobjectreconstruction",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T08:09:05.744451+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "motionuncertaintyawarenextbestviewplanningformovingobjectreconstruction",
+      "identity_keys": [
+        "title:motionuncertaintyawarenextbestviewplanningformovingobjectreconstruction"
+      ]
+    },
+    {
+      "canonical_id": "title:winnertakeallcolumnrowsamplingformemoryefficientadaptationoflanguagemodel",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T08:09:06.020075+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "winnertakeallcolumnrowsamplingformemoryefficientadaptationoflanguagemodel",
+      "identity_keys": [
+        "title:winnertakeallcolumnrowsamplingformemoryefficientadaptationoflanguagemodel"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3641869",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T08:09:06.259688+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3641869",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "onlineapproachtoneartimeoptimaltaskspacetrajectoryplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3641869",
+        "title:onlineapproachtoneartimeoptimaltaskspacetrajectoryplanning"
+      ]
     }
   ]
 }
