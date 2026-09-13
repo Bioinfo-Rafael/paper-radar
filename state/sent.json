@@ -9055,6 +9055,71 @@
       "identity_keys": [
         "title:structuralconceptlearningviagraphattentionformultilevelrearrangementplanning"
       ]
+    },
+    {
+      "canonical_id": "title:whereareweinthesearchforanartificialvisualcortexforembodiedintelligence",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T04:13:33.778283+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "whereareweinthesearchforanartificialvisualcortexforembodiedintelligence",
+      "identity_keys": [
+        "title:whereareweinthesearchforanartificialvisualcortexforembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "title:pointactvisionlanguageactionmodelswithmultiscalepointactioninteraction",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T04:13:34.245490+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "pointactvisionlanguageactionmodelswithmultiscalepointactioninteraction",
+      "identity_keys": [
+        "title:pointactvisionlanguageactionmodelswithmultiscalepointactioninteraction"
+      ]
+    },
+    {
+      "canonical_id": "title:paralleldifferentiablereachabilityforlearningandplanningwithcertifiedneuraldynamicsandcontrollers",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T04:13:34.872513+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "paralleldifferentiablereachabilityforlearningandplanningwithcertifiedneuraldynamicsandcontrollers",
+      "identity_keys": [
+        "title:paralleldifferentiablereachabilityforlearningandplanningwithcertifiedneuraldynamicsandcontrollers"
+      ]
+    },
+    {
+      "canonical_id": "title:samplingbasedfollowtheleadermotionplanningformanipulatormountedcontinuumrobots",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T04:13:35.077004+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RSS",
+      "title_key": "samplingbasedfollowtheleadermotionplanningformanipulatormountedcontinuumrobots",
+      "identity_keys": [
+        "title:samplingbasedfollowtheleadermotionplanningformanipulatormountedcontinuumrobots"
+      ]
+    },
+    {
+      "canonical_id": "title:synthesizingnavigationabstractionsforplanningwithportablemanipulationskills",
+      "category": "frontier",
+      "first_sent_at": "2026-09-13T04:13:35.266569+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CoRL",
+      "title_key": "synthesizingnavigationabstractionsforplanningwithportablemanipulationskills",
+      "identity_keys": [
+        "title:synthesizingnavigationabstractionsforplanningwithportablemanipulationskills"
+      ]
     }
   ]
 }
