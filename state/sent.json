@@ -9460,6 +9460,79 @@
         "doi:10.1109/tro.2025.3552346",
         "title:coverlibclassifiersequippedexperiencelibrarybyiterativeproblemdistributioncoveragemaximizationfordomaintunedmotionplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.11159/mvml26.119",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T04:22:46.517476+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.11159/mvml26.119",
+      "venue": "Proceedings of the World Congress on Electrical Engineering and Computer Systems and Science",
+      "title_key": "automatedtoautonomousareviewofapplicationofagenticaifordynamicpreprocessinginfmripreppipelines",
+      "identity_keys": [
+        "doi:10.11159/mvml26.119",
+        "openalex:w7212245404",
+        "title:automatedtoautonomousareviewofapplicationofagenticaifordynamicpreprocessinginfmripreppipelines"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3686266",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T04:22:47.830231+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3686266",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "edgenearestneighborneighborfindingrevisitedinsamplingbasedmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3686266",
+        "title:edgenearestneighborneighborfindingrevisitedinsamplingbasedmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3731532",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T04:22:48.066899+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3731532",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "ergodictrajectoryplanningwithdynamicsensorfootprints",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3731532",
+        "title:ergodictrajectoryplanningwithdynamicsensorfootprints"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.66279/y29vex64",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T04:22:48.357896+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.66279/y29vex64",
+      "venue": "Journal of Smart Algorithms and Applications (JSAA)",
+      "title_key": "asystematicsurveyofllmbasedagenticaiframeworksformultiagentcoordinationandinteroperability",
+      "identity_keys": [
+        "doi:10.66279/y29vex64",
+        "openalex:w7204545067",
+        "title:asystematicsurveyofllmbasedagenticaiframeworksformultiagentcoordinationandinteroperability"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.65222/viral.2026.8.45.65",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T04:22:48.560664+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.65222/viral.2026.8.45.65",
+      "venue": "International Journal of Education Leadership Artificial Intelligence Computing Business Life Sciences and Society",
+      "title_key": "theimpactofclaudeagentsandautonomousaiagentsonhighereducationopportunitieschallengesandimplicationsforeducationalleadership",
+      "identity_keys": [
+        "doi:10.65222/viral.2026.8.45.65",
+        "openalex:w7204223451",
+        "title:theimpactofclaudeagentsandautonomousaiagentsonhighereducationopportunitieschallengesandimplicationsforeducationalleadership"
+      ]
     }
   ]
 }
