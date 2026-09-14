@@ -9533,6 +9533,92 @@
         "openalex:w7204223451",
         "title:theimpactofclaudeagentsandautonomousaiagentsonhighereducationopportunitieschallengesandimplicationsforeducationalleadership"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.13418",
+      "category": "ml",
+      "first_sent_at": "2026-09-14T08:41:55.186682+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wassersteinfilteringasampleselectionmethodforrobustdistributionlearning",
+      "identity_keys": [
+        "arxiv:2608.13418",
+        "title:wassersteinfilteringasampleselectionmethodforrobustdistributionlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.11873",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T08:41:55.873267+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.11873",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "thelastaibuiltbyhumanstowardgenuinerecursiveselfimprovement",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.11873",
+        "openalex:w7212220037",
+        "title:thelastaibuiltbyhumanstowardgenuinerecursiveselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s11063-026-11872-z",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T08:41:56.329670+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s11063-026-11872-z",
+      "venue": "Neural Processing Letters",
+      "title_key": "cmirlcausalmorphologyinvariantreinforcementlearningviamechanismseparatedworldmodels",
+      "identity_keys": [
+        "doi:10.1007/s11063-026-11872-z",
+        "title:cmirlcausalmorphologyinvariantreinforcementlearningviamechanismseparatedworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ads6790",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T08:41:56.893893+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ads6790",
+      "venue": "Science Robotics",
+      "title_key": "learningcontactrichwholebodymanipulationwithexampleguidedreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ads6790",
+        "title:learningcontactrichwholebodymanipulationwithexampleguidedreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.08.20.746074",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T08:41:57.425193+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.08.20.746074",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "title_key": "asareeananalyticalsandboxforagenticairesearchengineeringandexperimentation",
+      "identity_keys": [
+        "doi:10.64898/2026.08.20.746074",
+        "openalex:w7204191934",
+        "title:asareeananalyticalsandboxforagenticairesearchengineeringandexperimentation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3713725",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T08:41:58.556761+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3713725",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "firstplanthenevaluatemultitargetplanningwithpostplanningsuccessevaluationimproveslearningbasedgraspingpipelines",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3713725",
+        "title:firstplanthenevaluatemultitargetplanningwithpostplanningsuccessevaluationimproveslearningbasedgraspingpipelines"
+      ]
     }
   ]
 }
