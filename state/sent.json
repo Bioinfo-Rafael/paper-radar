@@ -9759,6 +9759,79 @@
         "doi:10.18653/v1/2024.acl-long.170",
         "title:aniterativeassociativememorymodelforempatheticresponsegeneration"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-00820-5",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T23:46:35.908550+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-00820-5",
+      "venue": "Nature",
+      "title_key": "worldmodelsareaislatestsensationwhataretheyandwhatcantheydo",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-00820-5",
+        "title:worldmodelsareaislatestsensationwhataretheyandwhatcantheydo"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/frobt.2026.1956418",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T23:46:36.480677+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/frobt.2026.1956418",
+      "venue": "Frontiers in Robotics and AI",
+      "title_key": "editorialembodiedneuromorphicaiforroboticperception",
+      "identity_keys": [
+        "doi:10.3389/frobt.2026.1956418",
+        "openalex:w7203771855",
+        "pubmed:42688494",
+        "title:editorialembodiedneuromorphicaiforroboticperception"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/robotics15080160",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T23:46:36.663165+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/robotics15080160",
+      "venue": "Robotics",
+      "title_key": "systematicliteraturereviewofvisionlanguageactionmodelsforgeneralistrobots",
+      "identity_keys": [
+        "doi:10.3390/robotics15080160",
+        "title:systematicliteraturereviewofvisionlanguageactionmodelsforgeneralistrobots"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-01059-w",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T23:46:37.350823+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-01059-w",
+      "venue": "Nature",
+      "title_key": "chinaisplanningtolandpeopleonthemoonandmightbeattheunitedstatestoit",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-01059-w",
+        "title:chinaisplanningtolandpeopleonthemoonandmightbeattheunitedstatestoit"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.66631/ijecs.2026.9.11.5",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T23:46:38.006158+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.66631/ijecs.2026.9.11.5",
+      "venue": "International Journal of Engineering and Creative Science",
+      "title_key": "aselfcorrectingagenticaiframeworkforautonomousreasoninganddecisionmaking",
+      "identity_keys": [
+        "doi:10.66631/ijecs.2026.9.11.5",
+        "openalex:w7204024927",
+        "title:aselfcorrectingagenticaiframeworkforautonomousreasoninganddecisionmaking"
+      ]
     }
   ]
 }
