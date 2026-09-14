@@ -9688,6 +9688,77 @@
       "identity_keys": [
         "title:apromptbasedknowledgegraphfoundationmodelforuniversalincontextreasoning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1504/ijhm.2026.154223",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T16:02:40.021192+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1504/ijhm.2026.154223",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "towardsgeneralembodiedintelligenceintegratinglargelanguagemodelsknowledgebasesandreasoningcapabilitiestobuildthenextgenerationofaiagents",
+      "identity_keys": [
+        "doi:10.1504/ijhm.2026.154223",
+        "openalex:w7165131551",
+        "title:towardsgeneralembodiedintelligenceintegratinglargelanguagemodelsknowledgebasesandreasoningcapabilitiestobuildthenextgenerationofaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13141",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T16:02:40.837983+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sassimpleattentionsparsificationviaendtoendoptimizationofcontextranking",
+      "identity_keys": [
+        "arxiv:2609.13141",
+        "title:sassimpleattentionsparsificationviaendtoendoptimizationofcontextranking"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3719232",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T16:02:41.235812+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3719232",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "sensitivityawarestagecontractsforrealtimecorridorconstrainedlocalpathplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3719232",
+        "title:sensitivityawarestagecontractsforrealtimecorridorconstrainedlocalpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.56",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T16:02:41.407888+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.56",
+      "venue": "EMNLP",
+      "title_key": "adazetaadaptivezerothordertensortrainadaptionformemoryefficientlargelanguagemodelsfinetuning",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.56",
+        "title:adazetaadaptivezerothordertensortrainadaptionformemoryefficientlargelanguagemodelsfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.170",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T16:02:41.854817+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.170",
+      "venue": "ACL",
+      "title_key": "aniterativeassociativememorymodelforempatheticresponsegeneration",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.170",
+        "title:aniterativeassociativememorymodelforempatheticresponsegeneration"
+      ]
     }
   ]
 }
