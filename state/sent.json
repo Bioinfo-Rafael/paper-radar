@@ -9619,6 +9619,75 @@
         "doi:10.1109/lra.2026.3713725",
         "title:firstplanthenevaluatemultitargetplanningwithpostplanningsuccessevaluationimproveslearningbasedgraspingpipelines"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3719233",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T11:30:02.540586+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3719233",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "memoactatkinsonshiffrininspiredhierarchicalmemoryaugmentedpolicyforroboticmanipulation",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3719233",
+        "title:memoactatkinsonshiffrininspiredhierarchicalmemoryaugmentedpolicyforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3711825",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T11:30:02.747398+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3711825",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "pacepassabilityandmemoryintegratedexplorationforuavsinlargescaleandclutteredenvironments",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3711825",
+        "title:pacepassabilityandmemoryintegratedexplorationforuavsinlargescaleandclutteredenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3711877",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T11:30:02.927832+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3711877",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "samplingbasedmotionplanningusingdmpsunderanovelscalingapproach",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3711877",
+        "title:samplingbasedmotionplanningusingdmpsunderanovelscalingapproach"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.194",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T11:30:03.356961+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.194",
+      "venue": "ACL",
+      "title_key": "amultitaskembedderforretrievalaugmentedllms",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.194",
+        "title:amultitaskembedderforretrievalaugmentedllms"
+      ]
+    },
+    {
+      "canonical_id": "title:apromptbasedknowledgegraphfoundationmodelforuniversalincontextreasoning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-14T11:30:03.921357+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS",
+      "title_key": "apromptbasedknowledgegraphfoundationmodelforuniversalincontextreasoning",
+      "identity_keys": [
+        "title:apromptbasedknowledgegraphfoundationmodelforuniversalincontextreasoning"
+      ]
     }
   ]
 }
