@@ -10194,6 +10194,73 @@
         "doi:10.18653/v1/2025.acl-long.37",
         "title:efficientandaccuratepromptoptimizationthebenefitofmemoryinexemplarguidedreflection"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14858",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T14:27:04.754320+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dreamrsirecursiveselfimprovementthroughevolvingworlds",
+      "identity_keys": [
+        "arxiv:2609.14858",
+        "title:dreamrsirecursiveselfimprovementthroughevolvingworlds"
+      ]
+    },
+    {
+      "canonical_id": "title:emmnemotionalmotionmemorynetworkforaudiodrivenemotionaltalkingfacegeneration",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T14:27:05.191247+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "emmnemotionalmotionmemorynetworkforaudiodrivenemotionaltalkingfacegeneration",
+      "identity_keys": [
+        "title:emmnemotionalmotionmemorynetworkforaudiodrivenemotionaltalkingfacegeneration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.105",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T14:27:05.381440+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.105",
+      "venue": "ACL",
+      "title_key": "exploringforgettinginlargelanguagemodelpretraining",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.105",
+        "title:exploringforgettinginlargelanguagemodelpretraining"
+      ]
+    },
+    {
+      "canonical_id": "title:fashionntmmultiturnfashionimageretrievalviacascadedmemory",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T14:27:05.669266+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "fashionntmmultiturnfashionimageretrievalviacascadedmemory",
+      "identity_keys": [
+        "title:fashionntmmultiturnfashionimageretrievalviacascadedmemory"
+      ]
+    },
+    {
+      "canonical_id": "title:fedmeftowardsmemoryefficientfederateddynamicpruning",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T14:27:05.861271+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "fedmeftowardsmemoryefficientfederateddynamicpruning",
+      "identity_keys": [
+        "title:fedmeftowardsmemoryefficientfederateddynamicpruning"
+      ]
     }
   ]
 }
