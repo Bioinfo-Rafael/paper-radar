@@ -9973,6 +9973,146 @@
         "doi:10.18653/v1/2025.acl-long.184",
         "title:battlingagainsttoughresisterstrategyplanningwithadversarialgamefornoncollaborativedialogues"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15239",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T08:29:26.939785+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "protoguideprototypedrivenguidanceforclassconditionalgraphgeneration",
+      "identity_keys": [
+        "arxiv:2609.15239",
+        "title:protoguideprototypedrivenguidanceforclassconditionalgraphgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15643",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T08:29:27.244392+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "principaltimesteprestrictedinitviasparsematrixdecompositioninflowmatching",
+      "identity_keys": [
+        "arxiv:2609.15643",
+        "title:principaltimesteprestrictedinitviasparsematrixdecompositioninflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15702",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T08:29:27.414042+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Zihao Wang, Backward SDEs-based Diffusion for Physics-Constrained Generation, Forty-third International Conference on Machine Learning 2026",
+      "title_key": "backwardsdesbaseddiffusionforphysicsconstrainedgeneration",
+      "identity_keys": [
+        "arxiv:2609.15702",
+        "title:backwardsdesbaseddiffusionforphysicsconstrainedgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15838",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T08:29:27.970090+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "permatrixoptimalityisnotenoughthreeleveloptimizationforlowrankllmcompression",
+      "identity_keys": [
+        "arxiv:2609.15838",
+        "title:permatrixoptimalityisnotenoughthreeleveloptimizationforlowrankllmcompression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15664",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T08:29:28.450847+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ciderscloudedgellmcollaborativelearningviaacceleratingpersonalizedbileveloptimization",
+      "identity_keys": [
+        "arxiv:2609.15664",
+        "title:ciderscloudedgellmcollaborativelearningviaacceleratingpersonalizedbileveloptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.10922",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T08:29:29.448661+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.10922",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "autorecsysharnessingautonomousresearchagentsforindustryscalerecommendersystem",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.10922",
+        "openalex:w7212233845",
+        "title:autorecsysharnessingautonomousresearchagentsforindustryscalerecommendersystem"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.185",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T08:29:30.006209+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.185",
+      "venue": "ACL",
+      "title_key": "beyondmemorizationthechallengeofrandommemoryaccessinlanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.185",
+        "title:beyondmemorizationthechallengeofrandommemoryaccessinlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "title:contextawareplanningandenvironmentawarememoryforinstructionfollowingembodiedagents",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T08:29:30.263109+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "contextawareplanningandenvironmentawarememoryforinstructionfollowingembodiedagents",
+      "identity_keys": [
+        "title:contextawareplanningandenvironmentawarememoryforinstructionfollowingembodiedagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.204",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T08:29:30.580431+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.204",
+      "venue": "ACL",
+      "title_key": "crayoncustomizedondevicellmviainstantadapterblendingandedgeserverhybridinference",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.204",
+        "title:crayoncustomizedondevicellmviainstantadapterblendingandedgeserverhybridinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.122",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T08:29:30.847328+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.122",
+      "venue": "EMNLP",
+      "title_key": "decodingtheechoesofvisionfromfmrimemorydisentanglingforpastsemanticinformation",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.122",
+        "title:decodingtheechoesofvisionfromfmrimemorydisentanglingforpastsemanticinformation"
+      ]
     }
   ]
 }
