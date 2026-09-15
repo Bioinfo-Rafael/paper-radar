@@ -10113,6 +10113,87 @@
         "doi:10.18653/v1/2024.emnlp-main.122",
         "title:decodingtheechoesofvisionfromfmrimemorydisentanglingforpastsemanticinformation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkag897",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-15T10:54:27.823633+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkag897",
+      "venue": "Nucleic Acids Research",
+      "title_key": "atranscriptionfactorregulatoryatlasforactivityinferenceandperturbationprediction",
+      "identity_keys": [
+        "doi:10.1093/nar/gkag897",
+        "title:atranscriptionfactorregulatoryatlasforactivityinferenceandperturbationprediction"
+      ]
+    },
+    {
+      "canonical_id": "title:doyourememberdensevideocaptioningwithcrossmodalmemoryretrieval",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T10:54:28.871501+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "doyourememberdensevideocaptioningwithcrossmodalmemoryretrieval",
+      "identity_keys": [
+        "title:doyourememberdensevideocaptioningwithcrossmodalmemoryretrieval"
+      ]
+    },
+    {
+      "canonical_id": "title:dreamwalkermentalplanningforcontinuousvisionlanguagenavigation",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T10:54:29.509692+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "dreamwalkermentalplanningforcontinuousvisionlanguagenavigation",
+      "identity_keys": [
+        "title:dreamwalkermentalplanningforcontinuousvisionlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "title:dualmemorynetworksaversatileadaptationapproachforvisionlanguagemodels",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T10:54:29.951685+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "dualmemorynetworksaversatileadaptationapproachforvisionlanguagemodels",
+      "identity_keys": [
+        "title:dualmemorynetworksaversatileadaptationapproachforvisionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.1",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T10:54:30.217416+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.1",
+      "venue": "ACL",
+      "title_key": "ecomscriptbenchamultitaskbenchmarkforecommercescriptplanningviastepwiseintentiondrivenproductassociation",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.1",
+        "title:ecomscriptbenchamultitaskbenchmarkforecommercescriptplanningviastepwiseintentiondrivenproductassociation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.37",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T10:54:30.521127+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.37",
+      "venue": "ACL",
+      "title_key": "efficientandaccuratepromptoptimizationthebenefitofmemoryinexemplarguidedreflection",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.37",
+        "title:efficientandaccuratepromptoptimizationthebenefitofmemoryinexemplarguidedreflection"
+      ]
     }
   ]
 }
