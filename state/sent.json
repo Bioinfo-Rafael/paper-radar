@@ -10261,6 +10261,174 @@
       "identity_keys": [
         "title:fedmeftowardsmemoryefficientfederateddynamicpruning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41587-025-02777-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-15T23:29:20.880195+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41587-025-02777-8",
+      "venue": "Nature Biotechnology",
+      "title_key": "systemaaframeworkforevaluatinggeneticperturbationresponsepredictionbeyondsystematicvariation",
+      "identity_keys": [
+        "doi:10.1038/s41587-025-02777-8",
+        "title:systemaaframeworkforevaluatinggeneticperturbationresponsepredictionbeyondsystematicvariation"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.17.676530",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-15T23:29:21.313846+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.17.676530",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "constructinggeneregulatorynetworkusingchatterjeesrankcorrelationwithsinglecelltranscriptomicdata",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.17.676530",
+        "title:constructinggeneregulatorynetworkusingchatterjeesrankcorrelationwithsinglecelltranscriptomicdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.11997",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T23:29:21.997368+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dcradiffusionconditionedrepresentationalignmentforrobusttimeserieslearning",
+      "identity_keys": [
+        "arxiv:2609.11997",
+        "title:dcradiffusionconditionedrepresentationalignmentforrobusttimeserieslearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12382",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T23:29:22.205457+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "representationbasedmaskeddiffusionmodel",
+      "identity_keys": [
+        "arxiv:2609.12382",
+        "title:representationbasedmaskeddiffusionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15841",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T23:29:23.024344+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfsupervisedauxiliarytaskdiscoveryforstablereinforcementlearninginstocktrading",
+      "identity_keys": [
+        "arxiv:2608.15841",
+        "title:selfsupervisedauxiliarytaskdiscoveryforstablereinforcementlearninginstocktrading"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15669",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T23:29:23.525513+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "largediscoverymodelsempiricallygroundedmodelbasedopenendedsearch",
+      "identity_keys": [
+        "arxiv:2608.15669",
+        "title:largediscoverymodelsempiricallygroundedmodelbasedopenendedsearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15679",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T23:29:23.996824+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "projectionfreemultilevelalgorithmsforstochasticconstrainedcompositionaloptimization",
+      "identity_keys": [
+        "arxiv:2609.15679",
+        "title:projectionfreemultilevelalgorithmsforstochasticconstrainedcompositionaloptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15669",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T23:29:24.757486+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "largediscoverymodelsempiricallygroundedmodelbasedopenendedsearch",
+      "identity_keys": [
+        "arxiv:2608.15669",
+        "title:largediscoverymodelsempiricallygroundedmodelbasedopenendedsearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15113",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T23:29:25.207928+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "legislatingworldmodelbasedplanningwithlegalreasoning",
+      "identity_keys": [
+        "arxiv:2609.15113",
+        "title:legislatingworldmodelbasedplanningwithlegalreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15781",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T23:29:25.415351+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whentheworldliesbackdoorattacksonlatentworldmodelsfordownstreamcontrol",
+      "identity_keys": [
+        "arxiv:2609.15781",
+        "title:whentheworldliesbackdoorattacksonlatentworldmodelsfordownstreamcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15636",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T23:29:25.656723+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "algorithmarchitecturecodesignforefficientvlainferenceviaspeculativeinferenceandverification",
+      "identity_keys": [
+        "arxiv:2608.15636",
+        "title:algorithmarchitecturecodesignforefficientvlainferenceviaspeculativeinferenceandverification"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13356",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T23:29:26.089893+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zgcm1afullyopenandextremelyefficientfoundationmodelformathandagenticsearch",
+      "identity_keys": [
+        "arxiv:2609.13356",
+        "title:zgcm1afullyopenandextremelyefficientfoundationmodelformathandagenticsearch"
+      ]
     }
   ]
 }
