@@ -9832,6 +9832,147 @@
         "openalex:w7204024927",
         "title:aselfcorrectingagenticaiframeworkforautonomousreasoninganddecisionmaking"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15341",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T04:17:25.691840+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "teatextencoderalignmentforrobustconcepterasureintexttoimagemodels",
+      "identity_keys": [
+        "arxiv:2608.15341",
+        "title:teatextencoderalignmentforrobustconcepterasureintexttoimagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15224",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T04:17:26.201933+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "structuringsemanticembeddingsforprincipleevaluationaprototypeguidedcontrastivelearningapproach",
+      "identity_keys": [
+        "arxiv:2608.15224",
+        "title:structuringsemanticembeddingsforprincipleevaluationaprototypeguidedcontrastivelearningapproach"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15336",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T04:17:26.509451+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sageorsemisupervisedadaptivescenegraphgenerationforoperatingrooms",
+      "identity_keys": [
+        "arxiv:2608.15336",
+        "title:sageorsemisupervisedadaptivescenegraphgenerationforoperatingrooms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15080",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T04:17:26.747631+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "apilotstudyofautocompletingtokenizers",
+      "identity_keys": [
+        "arxiv:2608.15080",
+        "title:apilotstudyofautocompletingtokenizers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15310",
+      "category": "ml",
+      "first_sent_at": "2026-09-15T04:17:27.413548+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fedadbclassanchordrivendualbranchfederatedlearningformitigatingforgetting",
+      "identity_keys": [
+        "arxiv:2608.15310",
+        "title:fedadbclassanchordrivendualbranchfederatedlearningformitigatingforgetting"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2608.16411",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T04:17:29.787948+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2608.16411",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "towardsriskfreeaiagentdeployment",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2608.16411",
+        "openalex:w7203715738",
+        "title:towardsriskfreeaiagentdeployment"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.279",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T04:17:30.036329+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.279",
+      "venue": "ACL",
+      "title_key": "areemergentabilitiesinlargelanguagemodelsjustincontextlearning",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.279",
+        "title:areemergentabilitiesinlargelanguagemodelsjustincontextlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.182",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T04:17:30.266904+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.182",
+      "venue": "ACL",
+      "title_key": "attributefirstthengeneratelocallyattributablegroundedtextgeneration",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.182",
+        "title:attributefirstthengeneratelocallyattributablegroundedtextgeneration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.165",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T04:17:30.500262+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.165",
+      "venue": "ACL",
+      "title_key": "autoactautomaticagentlearningfromscratchforqaviaselfplanning",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.165",
+        "title:autoactautomaticagentlearningfromscratchforqaviaselfplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.184",
+      "category": "frontier",
+      "first_sent_at": "2026-09-15T04:17:31.024381+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.184",
+      "venue": "ACL",
+      "title_key": "battlingagainsttoughresisterstrategyplanningwithadversarialgamefornoncollaborativedialogues",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.184",
+        "title:battlingagainsttoughresisterstrategyplanningwithadversarialgamefornoncollaborativedialogues"
+      ]
     }
   ]
 }
