@@ -10429,6 +10429,163 @@
         "arxiv:2609.13356",
         "title:zgcm1afullyopenandextremelyefficientfoundationmodelformathandagenticsearch"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.compbiolchem.2026.109369",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T04:13:02.944780+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.compbiolchem.2026.109369",
+      "venue": "Computational biology and chemistry",
+      "title_key": "mambagrnamambainspiredframeworkfornooverlapheldoutregulatoryedgeprediction",
+      "identity_keys": [
+        "doi:10.1016/j.compbiolchem.2026.109369",
+        "pubmed:42743800",
+        "title:mambagrnamambainspiredframeworkfornooverlapheldoutregulatoryedgeprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16626",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T04:13:03.628753+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jeweltrymaskfreescaleawarejewelryvirtualtryon",
+      "identity_keys": [
+        "arxiv:2609.16626",
+        "title:jeweltrymaskfreescaleawarejewelryvirtualtryon"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tnnls.2026.3698967",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T04:13:04.134562+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "temporallogicguideduniversaltaskrepresentationsforreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2608.15509",
+        "doi:10.1109/tnnls.2026.3698967",
+        "title:temporallogicguideduniversaltaskrepresentationsforreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16680",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T04:13:04.472631+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "littlemanaiagentforindustrialprocessoptimization",
+      "identity_keys": [
+        "arxiv:2609.16680",
+        "title:littlemanaiagentforindustrialprocessoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.24963/ijcai.2025/784",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T04:13:04.653055+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "In Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI 2025) (pp. 7047-7055)",
+      "title_key": "federatedstochasticbileveloptimizationwithfullyfirstordergradients",
+      "identity_keys": [
+        "arxiv:2609.16350",
+        "doi:10.24963/ijcai.2025/784",
+        "title:federatedstochasticbileveloptimizationwithfullyfirstordergradients"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16917",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T04:13:05.965616+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiagentlearningwithcooperationdrivenoptimizationdynamics",
+      "identity_keys": [
+        "arxiv:2609.16917",
+        "title:multiagentlearningwithcooperationdrivenoptimizationdynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16625",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T04:13:06.720121+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "auraagenticdiagnosisandrefinementforproductionrecommendersystemsatscale",
+      "identity_keys": [
+        "arxiv:2609.16625",
+        "title:auraagenticdiagnosisandrefinementforproductionrecommendersystemsatscale"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16724",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T04:13:07.112165+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "corrriskwmcorridorconditionedriskworldmodelingforsafetycriticaltrajectoryplanning",
+      "identity_keys": [
+        "arxiv:2609.16724",
+        "title:corrriskwmcorridorconditionedriskworldmodelingforsafetycriticaltrajectoryplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17210",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T04:13:07.498464+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fluxvlaengineaonestopvlaengineeringplatformforembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2609.17210",
+        "title:fluxvlaengineaonestopvlaengineeringplatformforembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15502",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T04:13:07.673689+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ecovlaenergyefficientdeviceedgecoinferenceforvisionlanguageactionmodelsunderrealtimeconstraints",
+      "identity_keys": [
+        "arxiv:2608.15502",
+        "title:ecovlaenergyefficientdeviceedgecoinferenceforvisionlanguageactionmodelsunderrealtimeconstraints"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15881",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T04:13:08.286440+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deployingfrontieragentictechnologyinmoosengeramultiphysicscapableaiassistant",
+      "identity_keys": [
+        "arxiv:2608.15881",
+        "title:deployingfrontieragentictechnologyinmoosengeramultiphysicscapableaiassistant"
+      ]
     }
   ]
 }
