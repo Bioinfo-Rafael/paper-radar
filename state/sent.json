@@ -10870,6 +10870,76 @@
         "arxiv:2608.15175",
         "title:lapfllmagentbasedpathfinderusingtheuavscenesdataset"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17123",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T14:16:45.134356+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aiforsciencewithgpt6astrathermaldesignandelectrothermalanalysisof2dcfet",
+      "identity_keys": [
+        "arxiv:2609.17123",
+        "title:aiforsciencewithgpt6astrathermaldesignandelectrothermalanalysisof2dcfet"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17115",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T14:16:45.503753+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "intrinsicrobotrewardingreusingvlarepresentationsforautonomousevaluationandpolicyimprovement",
+      "identity_keys": [
+        "arxiv:2609.17115",
+        "title:intrinsicrobotrewardingreusingvlarepresentationsforautonomousevaluationandpolicyimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16705",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T14:16:46.084511+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "therobotdatafactory",
+      "identity_keys": [
+        "arxiv:2609.16705",
+        "title:therobotdatafactory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15700",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T14:16:46.641490+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptivemixingofpoliciesfromsearchingandpoliciesfromlearning",
+      "identity_keys": [
+        "arxiv:2608.15700",
+        "title:adaptivemixingofpoliciesfromsearchingandpoliciesfromlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15715",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T14:16:46.857209+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuousquantumfeedbackcontrolviakrausparameterizedbeliefreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2608.15715",
+        "title:continuousquantumfeedbackcontrolviakrausparameterizedbeliefreinforcementlearning"
+      ]
     }
   ]
 }
