@@ -10586,6 +10586,146 @@
         "arxiv:2608.15881",
         "title:deployingfrontieragentictechnologyinmoosengeramultiphysicscapableaiassistant"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1137/24m1633662",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T08:19:55.935632+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/24m1633662",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "inverseevolutionlayersphysicsinformedregularizersforimagesegmentation",
+      "identity_keys": [
+        "doi:10.1137/24m1633662",
+        "title:inverseevolutionlayersphysicsinformedregularizersforimagesegmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17338",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T08:19:56.284849+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "typeivcodeclonedetectionvialayerwisenoncontrastiverepresentationlearning",
+      "identity_keys": [
+        "arxiv:2609.17338",
+        "title:typeivcodeclonedetectionvialayerwisenoncontrastiverepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16637",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T08:19:56.494725+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canknowledgetransferparametersbelearnedlepoketforefficientroboticvision",
+      "identity_keys": [
+        "arxiv:2609.16637",
+        "title:canknowledgetransferparametersbelearnedlepoketforefficientroboticvision"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16567",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T08:19:56.674099+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "counterfactualreasoningforrobustvisualquestionanswering",
+      "identity_keys": [
+        "arxiv:2609.16567",
+        "title:counterfactualreasoningforrobustvisualquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17331",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T08:19:57.039251+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfemergenceagentarchitecturebehaviorinertiahmmreflexivemetacognitionandsocialcontrastiveselfmodeling",
+      "identity_keys": [
+        "arxiv:2609.17331",
+        "title:selfemergenceagentarchitecturebehaviorinertiahmmreflexivemetacognitionandsocialcontrastiveselfmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16995",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T08:19:57.972082+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "paperdoctorevidencegroundedandactionablefeedbackforscientificpapersinprogress",
+      "identity_keys": [
+        "arxiv:2609.16995",
+        "title:paperdoctorevidencegroundedandactionablefeedbackforscientificpapersinprogress"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17325",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T08:19:58.594488+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "intrinsicmotivationinreinforcementlearningaresearchagendaforadaptiveselforganisation",
+      "identity_keys": [
+        "arxiv:2609.17325",
+        "title:intrinsicmotivationinreinforcementlearningaresearchagendaforadaptiveselforganisation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15309",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T08:19:58.796464+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physiologicalworldmodelsforhumanstatetransitions",
+      "identity_keys": [
+        "arxiv:2608.15309",
+        "title:physiologicalworldmodelsforhumanstatetransitions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16629",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T08:19:59.141174+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtooptimizeuavpathplanningfordatasensinginwirelesssensornetworks",
+      "identity_keys": [
+        "arxiv:2609.16629",
+        "title:learningtooptimizeuavpathplanningfordatasensinginwirelesssensornetworks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00950-3",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T08:19:59.382681+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00950-3",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "sequentialmemoryimprovessampleandmemoryefficiencyinepisodiccontrol",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00950-3",
+        "title:sequentialmemoryimprovessampleandmemoryefficiencyinepisodiccontrol"
+      ]
     }
   ]
 }
