@@ -10940,6 +10940,191 @@
         "arxiv:2608.15715",
         "title:continuousquantumfeedbackcontrolviakrausparameterizedbeliefreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.281460.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T23:27:58.164300+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.281460.125",
+      "venue": "Genome Research",
+      "title_key": "bayesianinferenceoflineagetreesbyjointanalysisofsinglecellmultimodallineagetracingdatawithbilint",
+      "identity_keys": [
+        "doi:10.1101/gr.281460.125",
+        "title:bayesianinferenceoflineagetreesbyjointanalysisofsinglecellmultimodallineagetracingdatawithbilint"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-77538-5",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T23:27:58.347428+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-77538-5",
+      "venue": "Nature Communications",
+      "title_key": "sctransmilbridgespatientleveldiseasestatesandsinglecelltranscriptomicsforcancerscreeningandheterogeneityinference",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-77538-5",
+        "openalex:w7212561851",
+        "title:sctransmilbridgespatientleveldiseasestatesandsinglecelltranscriptomicsforcancerscreeningandheterogeneityinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01111-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T23:27:58.584750+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01111-w",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "cosimecooperativemultiviewintegrationandscalableandinterpretablemodelexplainer",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01111-w",
+        "title:cosimecooperativemultiviewintegrationandscalableandinterpretablemodelexplainer"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.281431.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T23:27:58.778752+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.281431.125",
+      "venue": "Genome Research",
+      "title_key": "unifyingmultimodalsinglecelldatawithamixtureofexpertsvariationalautoencoderframework",
+      "identity_keys": [
+        "doi:10.1101/gr.281431.125",
+        "title:unifyingmultimodalsinglecelldatawithamixtureofexpertsvariationalautoencoderframework"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.18.676986",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T23:27:59.178362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.18.676986",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "lieotmapfftadifferentiablefittingframeworkcombiningliealgebraandfftacceleratedoptimaltransportforcryoemmaps",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.18.676986",
+        "title:lieotmapfftadifferentiablefittingframeworkcombiningliealgebraandfftacceleratedoptimaltransportforcryoemmaps"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17164",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T23:28:01.072983+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scenariodiffascenariolevelguidanceframeworkformultimodaltimeseriesforecastingextendedversion",
+      "identity_keys": [
+        "arxiv:2608.17164",
+        "title:scenariodiffascenariolevelguidanceframeworkformultimodaltimeseriesforecastingextendedversion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16225",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T23:28:01.904611+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pctpromptapromptguidedtransformerframeworkfordensepredictiontasksinpointclouds",
+      "identity_keys": [
+        "arxiv:2608.16225",
+        "title:pctpromptapromptguidedtransformerframeworkfordensepredictiontasksinpointclouds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16699",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T23:28:02.788594+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtopricewithpersuasion",
+      "identity_keys": [
+        "arxiv:2608.16699",
+        "title:learningtopricewithpersuasion"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1002/advs.76675",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T23:28:03.441936+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1002/advs.76675",
+      "venue": "Advanced Science",
+      "title_key": "closingtheempiricalloopautonomousaiagentsconductendtoendresearchwithhumanparticipants",
+      "identity_keys": [
+        "doi:10.1002/advs.76675",
+        "openalex:w7213206525",
+        "pubmed:42734488",
+        "title:closingtheempiricalloopautonomousaiagentsconductendtoendresearchwithhumanparticipants"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16679",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T23:28:04.033564+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aiforgamesinthefoundationmodelera",
+      "identity_keys": [
+        "arxiv:2609.16679",
+        "title:aiforgamesinthefoundationmodelera"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16885",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T23:28:04.249447+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "0vlaahierarchicalrobotfoundationmodelwithworldmodelguidedtesttimecomputation",
+      "identity_keys": [
+        "arxiv:2608.16885",
+        "title:0vlaahierarchicalrobotfoundationmodelwithworldmodelguidedtesttimecomputation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16234",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T23:28:04.457685+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gaussiandwmlanguagegrounded3dgaussiandrivingworldmodelforunifiedsceneunderstandingeditingandmultimodalgeneration",
+      "identity_keys": [
+        "arxiv:2608.16234",
+        "title:gaussiandwmlanguagegrounded3dgaussiandrivingworldmodelforunifiedsceneunderstandingeditingandmultimodalgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16844",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T23:28:05.904799+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "proteusincrementalmemoryactivationforlongcontextsequencemodeling",
+      "identity_keys": [
+        "arxiv:2608.16844",
+        "title:proteusincrementalmemoryactivationforlongcontextsequencemodeling"
+      ]
     }
   ]
 }
