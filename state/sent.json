@@ -10726,6 +10726,150 @@
         "doi:10.1038/s42256-024-00950-3",
         "title:sequentialmemoryimprovessampleandmemoryefficiencyinepisodiccontrol"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75107-4",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T10:38:26.492169+00:00",
+      "publication_status": "published",
+      "preprint_doi": "10.1101/2025.01.14.632931",
+      "published_doi": "10.1038/s41467-026-75107-4",
+      "venue": "Nature communications",
+      "title_key": "mixedpositiveandnegativefeedbackloopsdrivediversesinglecellgeneexpressiondynamics",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.01.14.632931",
+        "doi:10.1038/s41467-026-75107-4",
+        "openalex:w4406356748",
+        "pubmed:42744773",
+        "title:mixedpositiveandnegativefeedbackloopsdrivediversesinglecellgeneexpressiondynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag682",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-16T10:38:26.976090+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag682",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "scbalflowastagedflowmatchingframeworkforimbalancedsinglecelldrugperturbationprediction",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag682",
+        "pubmed:42745547",
+        "title:scbalflowastagedflowmatchingframeworkforimbalancedsinglecelldrugperturbationprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12113",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T10:38:27.959379+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "IEEE Conference on Decision and Control (CDC), 2026",
+      "title_key": "scorebasedoutliergenerationviacontrollingtheradonnikodymderivative",
+      "identity_keys": [
+        "arxiv:2609.12113",
+        "title:scorebasedoutliergenerationviacontrollingtheradonnikodymderivative"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14327",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T10:38:28.408455+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "nonparametricvariancepenalizedactorcriticstatisticalinferenceforrisksensitivereinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.14327",
+        "title:nonparametricvariancepenalizedactorcriticstatisticalinferenceforrisksensitivereinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16370",
+      "category": "ml",
+      "first_sent_at": "2026-09-16T10:38:28.864723+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fastconvergentmetarlviagradientclusteredbssamplingforedgecaching",
+      "identity_keys": [
+        "arxiv:2609.16370",
+        "title:fastconvergentmetarlviagradientclusteredbssamplingforedgecaching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15269",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T10:38:29.893362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "remembersmartervisualhistorycompressorandhyperbolicexperiencespaceforroboticmemory",
+      "identity_keys": [
+        "arxiv:2608.15269",
+        "title:remembersmartervisualhistorycompressorandhyperbolicexperiencespaceforroboticmemory"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aec7337",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T10:38:30.536150+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aec7337",
+      "venue": "Science",
+      "title_key": "endurancebeyond10billioncyclesinwurtziteferroelectricsbyconfiningnitrogenvacancies",
+      "identity_keys": [
+        "doi:10.1126/science.aec7337",
+        "title:endurancebeyond10billioncyclesinwurtziteferroelectricsbyconfiningnitrogenvacancies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15763",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T10:38:30.764900+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingagentstoevolvewiththeirharnesstaolivedigitalavataragenttechnicalreport",
+      "identity_keys": [
+        "arxiv:2608.15763",
+        "title:trainingagentstoevolvewiththeirharnesstaolivedigitalavataragenttechnicalreport"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15592",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T10:38:31.106191+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenentropyisnotenoughreclaiminglostsemanticsinllmoutputlengthprediction",
+      "identity_keys": [
+        "arxiv:2608.15592",
+        "title:whenentropyisnotenoughreclaiminglostsemanticsinllmoutputlengthprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.15175",
+      "category": "frontier",
+      "first_sent_at": "2026-09-16T10:38:31.428293+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lapfllmagentbasedpathfinderusingtheuavscenesdataset",
+      "identity_keys": [
+        "arxiv:2608.15175",
+        "title:lapfllmagentbasedpathfinderusingtheuavscenesdataset"
+      ]
     }
   ]
 }
