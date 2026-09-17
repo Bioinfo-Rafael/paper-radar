@@ -11337,6 +11337,93 @@
         "arxiv:2608.16760",
         "title:ontheprinciplesbehindneuralnetworkoptimizers"
       ]
+    },
+    {
+      "canonical_id": "doi:10.24963/ijcai.2026/708",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T10:51:46.770382+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.24963/ijcai.2026/708",
+      "venue": null,
+      "title_key": "amortizedmultiobjectiveoptimizationacrosstaskswithgenerativesolutionmodeling",
+      "identity_keys": [
+        "doi:10.24963/ijcai.2026/708",
+        "openalex:w4416358383",
+        "title:amortizedmultiobjectiveoptimizationacrosstaskswithgenerativesolutionmodeling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.17613/yx17f-txe17",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T10:51:47.232950+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.17613/yx17f-txe17",
+      "venue": "Knowledge Commons (Lakehead University)",
+      "title_key": "selfevolutionisnotenoughtowardahistoricallymaterialistaiforscientificproblemsolving",
+      "identity_keys": [
+        "doi:10.17613/yx17f-txe17",
+        "openalex:w7213396609",
+        "title:selfevolutionisnotenoughtowardahistoricallymaterialistaiforscientificproblemsolving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18193",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T10:51:47.558194+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wavegoworldmodelnavigationwithadaptiveexecutionforwheelleggedrobots",
+      "identity_keys": [
+        "arxiv:2609.18193",
+        "title:wavegoworldmodelnavigationwithadaptiveexecutionforwheelleggedrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16476",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T10:51:47.930888+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "exposingthelongtailinembodiedurbannavigationviascalablelearningfrominthewildvideos",
+      "identity_keys": [
+        "arxiv:2608.16476",
+        "title:exposingthelongtailinembodiedurbannavigationviascalablelearningfrominthewildvideos"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.30574/wjaets.2026.20.3.0374",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T10:52:33.489943+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.30574/wjaets.2026.20.3.0374",
+      "venue": "World Journal of Advanced Engineering Technology and Sciences",
+      "title_key": "evolutionaryenterpriseaiframeworkstransitioningfromcopilotassistancetoorchestratedautonomousagentexecutioninlargescaledigitalecosystems",
+      "identity_keys": [
+        "doi:10.30574/wjaets.2026.20.3.0374",
+        "openalex:w7213345771",
+        "title:evolutionaryenterpriseaiframeworkstransitioningfromcopilotassistancetoorchestratedautonomousagentexecutioninlargescaledigitalecosystems"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3600144",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T10:52:33.614598+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3600144",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "satp2asafetyawaretrajectorypredictionandplanningmodelforautonomousdriving",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3600144",
+        "title:satp2asafetyawaretrajectorypredictionandplanningmodelforautonomousdriving"
+      ]
     }
   ]
 }
