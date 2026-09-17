@@ -11267,6 +11267,76 @@
         "doi:10.1109/jiot.2026.3671268",
         "title:acomprehensivereviewofgenerativephysicalartificialintelligence"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18623",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T08:41:18.956017+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fivevlafastandeffectiveautonomousdrivingwithrecurrentactionmemory",
+      "identity_keys": [
+        "arxiv:2609.18623",
+        "title:fivevlafastandeffectiveautonomousdrivingwithrecurrentactionmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19104",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T08:41:19.160369+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rmuscleroboticmusclememoryforefficientvisionlanguageactionmodelinference",
+      "identity_keys": [
+        "arxiv:2609.19104",
+        "title:rmuscleroboticmusclememoryforefficientvisionlanguageactionmodelinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18430",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T08:41:19.422052+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "strucphysvideolearningphysicaldynamicsfromstructuredcaptionsandrobotactions",
+      "identity_keys": [
+        "arxiv:2609.18430",
+        "title:strucphysvideolearningphysicaldynamicsfromstructuredcaptionsandrobotactions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16889",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T08:41:19.957435+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dontdropthebatonlonghorizonrobotmanipulationviaagenticsubtaskexplorationandtransitionawarememory",
+      "identity_keys": [
+        "arxiv:2608.16889",
+        "title:dontdropthebatonlonghorizonrobotmanipulationviaagenticsubtaskexplorationandtransitionawarememory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.16760",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T08:41:20.746222+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ontheprinciplesbehindneuralnetworkoptimizers",
+      "identity_keys": [
+        "arxiv:2608.16760",
+        "title:ontheprinciplesbehindneuralnetworkoptimizers"
+      ]
     }
   ]
 }
