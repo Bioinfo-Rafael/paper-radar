@@ -11125,6 +11125,148 @@
         "arxiv:2608.16844",
         "title:proteusincrementalmemoryactivationforlongcontextsequencemodeling"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag652",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-17T04:20:58.744577+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag652",
+      "venue": "Bioinformatics",
+      "title_key": "mmveloadeepgenerativemodelforestimatingcellstatedependentdynamicsacrossmultiplemodalities",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag652",
+        "pubmed:42675615",
+        "title:mmveloadeepgenerativemodelforestimatingcellstatedependentdynamicsacrossmultiplemodalities"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18920",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T04:20:59.357298+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physvggtfeedforwarddensephysicalpropertyestimationfromasingleimage",
+      "identity_keys": [
+        "arxiv:2609.18920",
+        "title:physvggtfeedforwarddensephysicalpropertyestimationfromasingleimage"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18708",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T04:20:59.715225+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingcriticlearninginppounderstandingandmitigatingvalueflattening",
+      "identity_keys": [
+        "arxiv:2609.18708",
+        "title:rethinkingcriticlearninginppounderstandingandmitigatingvalueflattening"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19144",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T04:21:00.117838+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "azerothorderparadigmforllmpreferencealignment",
+      "identity_keys": [
+        "arxiv:2609.19144",
+        "title:azerothorderparadigmforllmpreferencealignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18416",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T04:21:00.369367+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gradientdescentwithstochasticsubspacesviapersistenceofmemory",
+      "identity_keys": [
+        "arxiv:2609.18416",
+        "title:gradientdescentwithstochasticsubspacesviapersistenceofmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18094",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T04:21:00.941713+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agoragitassharedmemoryforcollectiveautoresearch",
+      "identity_keys": [
+        "arxiv:2609.18094",
+        "title:agoragitassharedmemoryforcollectiveautoresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18326",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T04:21:01.469628+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "uavsmeetembodiedintelligencebridginghumanintentsandflyingdynamicsviaharnessingphysicaldigitalaiagents",
+      "identity_keys": [
+        "arxiv:2609.18326",
+        "title:uavsmeetembodiedintelligencebridginghumanintentsandflyingdynamicsviaharnessingphysicaldigitalaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17095",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T04:21:01.730088+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "European Conference on Computer Vision 2026",
+      "title_key": "inferencetimeattentionsteeringforvisionlanguageactiondrivingmodels",
+      "identity_keys": [
+        "arxiv:2608.17095",
+        "title:inferencetimeattentionsteeringforvisionlanguageactiondrivingmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17163",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T04:21:02.029684+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "qlearningwithworldmodels",
+      "identity_keys": [
+        "arxiv:2608.17163",
+        "title:qlearningwithworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/jiot.2026.3671268",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T04:21:02.206330+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "IEEE Internet of Things Journal, vol. 13, no. 10, pp. 20452-20476, 15 May 2026",
+      "title_key": "acomprehensivereviewofgenerativephysicalartificialintelligence",
+      "identity_keys": [
+        "arxiv:2609.18111",
+        "doi:10.1109/jiot.2026.3671268",
+        "title:acomprehensivereviewofgenerativephysicalartificialintelligence"
+      ]
     }
   ]
 }
