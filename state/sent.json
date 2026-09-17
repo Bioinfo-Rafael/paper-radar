@@ -11424,6 +11424,178 @@
         "doi:10.1109/tro.2025.3600144",
         "title:satp2asafetyawaretrajectorypredictionandplanningmodelforautonomousdriving"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1128/spectrum.03905-25",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-17T23:25:27.029782+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1128/spectrum.03905-25",
+      "venue": "Microbiology spectrum",
+      "title_key": "multiomicsinsightsintogrowthimpairmentmechanismsinchildrenwithpersistentdiarrhea",
+      "identity_keys": [
+        "doi:10.1128/spectrum.03905-25",
+        "pubmed:42752205",
+        "title:multiomicsinsightsintogrowthimpairmentmechanismsinchildrenwithpersistentdiarrhea"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bib/bbag513",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-17T23:25:27.179109+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bib/bbag513",
+      "venue": "Briefings in bioinformatics",
+      "title_key": "benchmarkingmethodsforinferringsinglecelltranscriptionfactoractivityusinglargescaleperturbationsequencingdata",
+      "identity_keys": [
+        "doi:10.1093/bib/bbag513",
+        "pubmed:42752548",
+        "title:benchmarkingmethodsforinferringsinglecelltranscriptionfactoractivityusinglargescaleperturbationsequencingdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18237",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T23:25:27.544888+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sobolevregularizedscoredifferenceestimationindiffusionmodels",
+      "identity_keys": [
+        "arxiv:2608.18237",
+        "title:sobolevregularizedscoredifferenceestimationindiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18063",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T23:25:27.801595+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "editbridgetowardsfaithfulandefficientultrahighresolutionimageediting",
+      "identity_keys": [
+        "arxiv:2608.18063",
+        "title:editbridgetowardsfaithfulandefficientultrahighresolutionimageediting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17666",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T23:25:27.977877+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "picardproximalmontecarloforparallelbayesianimagingwithscorebasedgenerativepriors",
+      "identity_keys": [
+        "arxiv:2608.17666",
+        "title:picardproximalmontecarloforparallelbayesianimagingwithscorebasedgenerativepriors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17288",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T23:25:28.360206+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "qinterferencememoryefficientphaseawarequantuminspiredattention",
+      "identity_keys": [
+        "arxiv:2608.17288",
+        "title:qinterferencememoryefficientphaseawarequantuminspiredattention"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17402",
+      "category": "ml",
+      "first_sent_at": "2026-09-17T23:26:13.868694+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moeviemixtureofexpertsvisionencoderforefficientimageandvideounderstanding",
+      "identity_keys": [
+        "arxiv:2608.17402",
+        "title:moeviemixtureofexpertsvisionencoderforefficientimageandvideounderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18279",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T23:26:14.360942+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acomprehensivereviewoflargelanguagemodelsfornanophotonicsfromsurrogatemodelingtoautonomousdesign",
+      "identity_keys": [
+        "arxiv:2608.18279",
+        "title:acomprehensivereviewoflargelanguagemodelsfornanophotonicsfromsurrogatemodelingtoautonomousdesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17959",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T23:26:14.742080+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardszeroshottasktransferwithneurosymbolicworldmodels",
+      "identity_keys": [
+        "arxiv:2608.17959",
+        "title:towardszeroshottasktransferwithneurosymbolicworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21440",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T23:26:15.107104+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geovlageometryawarevisionlanguageactionplanningviainternalizationofmapsemantics",
+      "identity_keys": [
+        "arxiv:2608.21440",
+        "title:geovlageometryawarevisionlanguageactionplanningviainternalizationofmapsemantics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18435",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T23:26:15.220536+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wetroboareproduciblerobotkitforcodingagentsinbiologicallaboratories",
+      "identity_keys": [
+        "arxiv:2609.18435",
+        "title:wetroboareproduciblerobotkitforcodingagentsinbiologicallaboratories"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-025-10097-9",
+      "category": "frontier",
+      "first_sent_at": "2026-09-17T23:27:01.277134+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-025-10097-9",
+      "venue": "Nature",
+      "title_key": "anagenticsystemforrarediseasediagnosiswithtraceablereasoning",
+      "identity_keys": [
+        "doi:10.1038/s41586-025-10097-9",
+        "openalex:w7130436101",
+        "pubmed:41708847",
+        "title:anagenticsystemforrarediseasediagnosiswithtraceablereasoning"
+      ]
     }
   ]
 }
