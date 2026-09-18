@@ -12032,6 +12032,175 @@
         "arxiv:2609.20349",
         "title:aqualitativemodelforreasoningaboutpathandsupport"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01069-9",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-18T22:58:29.794193+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01069-9",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "unifyingmultisamplenetworkinferencefrompriorknowledgeandomicsdatawithcorneto",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01069-9",
+        "title:unifyingmultisamplenetworkinferencefrompriorknowledgeandomicsdatawithcorneto"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fcvm.2026.1768762",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-18T22:58:30.174884+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fcvm.2026.1768762",
+      "venue": "Frontiers in cardiovascular medicine",
+      "title_key": "pvncenteredmultiomicsandsinglecellanalysessuggestsharedinflammatoryandimmunefeaturesinacutemyocardialinfarctionassociatedventriculararrhythmiaandatrialfibrillation",
+      "identity_keys": [
+        "doi:10.3389/fcvm.2026.1768762",
+        "pubmed:42755675",
+        "title:pvncenteredmultiomicsandsinglecellanalysessuggestsharedinflammatoryandimmunefeaturesinacutemyocardialinfarctionassociatedventriculararrhythmiaandatrialfibrillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19504",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T22:58:31.337376+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aplugininterpretationofconditioninginscorebaseddiffusionmodels",
+      "identity_keys": [
+        "arxiv:2608.19504",
+        "title:aplugininterpretationofconditioninginscorebaseddiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19000",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T22:58:31.565328+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "miseenscneimplicitlayoutemergenceindiffusiontransformersforhumanaidesigncocreation",
+      "identity_keys": [
+        "arxiv:2608.19000",
+        "title:miseenscneimplicitlayoutemergenceindiffusiontransformersforhumanaidesigncocreation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21443",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T22:58:31.882843+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "textguidedvisualdependencygraphlearningwithcrossmodalattentionpriors",
+      "identity_keys": [
+        "arxiv:2608.21443",
+        "title:textguidedvisualdependencygraphlearningwithcrossmodalattentionpriors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28652",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T22:58:32.227002+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ageneralizedoptimizationenginegoeforedgeaiinferenceacceleration",
+      "identity_keys": [
+        "arxiv:2608.28652",
+        "title:ageneralizedoptimizationenginegoeforedgeaiinferenceacceleration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18415",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T22:58:32.562051+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theroadtakentheroleofoptimizersattheedgeofstability",
+      "identity_keys": [
+        "arxiv:2608.18415",
+        "title:theroadtakentheroleofoptimizersattheedgeofstability"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-00994-z",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T22:58:33.136457+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-00994-z",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "largelanguagemodelsforscientificdiscoveryinmolecularpropertyprediction",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-00994-z",
+        "title:largelanguagemodelsforscientificdiscoveryinmolecularpropertyprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19047",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T22:58:33.315360+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eurekataskconditionedmetaagentorchestrationforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2608.19047",
+        "title:eurekataskconditionedmetaagentorchestrationforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18618",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T22:58:33.612507+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "labdexahierarchicalbenchmarkfordexterousmanipulationinlaboratories",
+      "identity_keys": [
+        "arxiv:2608.18618",
+        "title:labdexahierarchicalbenchmarkfordexterousmanipulationinlaboratories"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19066",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T22:58:33.927674+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gsvlaplugandplayviewpointcanonicalizationforfrozenvlapoliciesviagaussiansplatting",
+      "identity_keys": [
+        "arxiv:2608.19066",
+        "title:gsvlaplugandplayviewpointcanonicalizationforfrozenvlapoliciesviagaussiansplatting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19029",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T22:59:19.276162+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptivememoryandreflectionmultiagentsystemformedicalquestionanswering",
+      "identity_keys": [
+        "arxiv:2608.19029",
+        "title:adaptivememoryandreflectionmultiagentsystemformedicalquestionanswering"
+      ]
     }
   ]
 }
