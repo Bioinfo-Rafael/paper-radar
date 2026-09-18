@@ -11596,6 +11596,161 @@
         "pubmed:41708847",
         "title:anagenticsystemforrarediseasediagnosiswithtraceablereasoning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2025.101398",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-18T04:02:23.061275+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2025.101398",
+      "venue": "Cell systems",
+      "title_key": "sctraceenhancingcellfateinferencebyintegratingthelineagetracingandmultifacetedtranscriptomicsimilarityinformation",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2025.101398",
+        "pubmed:40934910",
+        "title:sctraceenhancingcellfateinferencebyintegratingthelineagetracingandmultifacetedtranscriptomicsimilarityinformation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19702",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T04:02:23.602456+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "understandingandexploitingdiagonalattentionsparsityinautoregressiveimagegeneration",
+      "identity_keys": [
+        "arxiv:2609.19702",
+        "title:understandingandexploitingdiagonalattentionsparsityinautoregressiveimagegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20722",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T04:02:23.955669+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deepnoirautonomoussteeringdiscoveryviaarchitecturalchronometryintransformermodels",
+      "identity_keys": [
+        "arxiv:2609.20722",
+        "title:deepnoirautonomoussteeringdiscoveryviaarchitecturalchronometryintransformermodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18184",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T04:02:24.330004+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "humancentricintelligenceintheeraoffoundationmodelsasurvey",
+      "identity_keys": [
+        "arxiv:2608.18184",
+        "title:humancentricintelligenceintheeraoffoundationmodelsasurvey"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20461",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T04:02:24.673505+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "correlationfreetransitionpathsamplingthroughshootingpointgenerationguidedbycommittorlearning",
+      "identity_keys": [
+        "arxiv:2609.20461",
+        "title:correlationfreetransitionpathsamplingthroughshootingpointgenerationguidedbycommittorlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17466",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T04:02:24.885893+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onlinegeneralizedsparseregressionhowdoesoverparametrizationhelp",
+      "identity_keys": [
+        "arxiv:2608.17466",
+        "title:onlinegeneralizedsparseregressionhowdoesoverparametrizationhelp"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20800",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T04:02:25.505625+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jepaanythinglearningpredictivemodelsacrossdifferentworlds",
+      "identity_keys": [
+        "arxiv:2609.20800",
+        "title:jepaanythinglearningpredictivemodelsacrossdifferentworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18234",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T04:02:25.878856+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gigabrainwbc05abehaviorworldmodelforrobusthumanoidwholebodytrackingwithenvironmentinteraction",
+      "identity_keys": [
+        "arxiv:2608.18234",
+        "title:gigabrainwbc05abehaviorworldmodelforrobusthumanoidwholebodytrackingwithenvironmentinteraction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20078",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T04:02:26.256165+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fliptoseeaprobabilisticstableplacementpriorforactivevisualexplorationviaregrasping",
+      "identity_keys": [
+        "arxiv:2609.20078",
+        "title:fliptoseeaprobabilisticstableplacementpriorforactivevisualexplorationviaregrasping"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19961",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T04:03:11.710851+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neurosymbolicagenticaifornetworkedlowaltitudeuavs",
+      "identity_keys": [
+        "arxiv:2609.19961",
+        "title:neurosymbolicagenticaifornetworkedlowaltitudeuavs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18261",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T04:03:11.899698+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cacheablebydesigntrainingmixtureofexpertsroutersforlocalityagainsttheedgememorybandwidthwallapreregisterednegativeresultwithasystemsmeasurementstudy",
+      "identity_keys": [
+        "arxiv:2608.18261",
+        "title:cacheablebydesigntrainingmixtureofexpertsroutersforlocalityagainsttheedgememorybandwidthwallapreregisterednegativeresultwithasystemsmeasurementstudy"
+      ]
     }
   ]
 }
