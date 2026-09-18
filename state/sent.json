@@ -11948,6 +11948,90 @@
         "arxiv:2609.20089",
         "title:unifiedplayersenhancetoolintegratedreasoninginagenticreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-025-02608-3",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-18T13:41:14.939730+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-025-02608-3",
+      "venue": "Nature Methods",
+      "title_key": "cell2fateinfersrnavelocitymodulestoimprovecellfateprediction",
+      "identity_keys": [
+        "doi:10.1038/s41592-025-02608-3",
+        "title:cell2fateinfersrnavelocitymodulestoimprovecellfateprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20519",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T13:41:16.205926+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "solpirecursivelyscalingautoresearchloopsforefficientagentharness",
+      "identity_keys": [
+        "arxiv:2609.20519",
+        "title:solpirecursivelyscalingautoresearchloopsforefficientagentharness"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18035",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T13:41:16.635568+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "plugandplaytrafficelementawarenessforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2608.18035",
+        "title:plugandplaytrafficelementawarenessforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3566198",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T13:41:17.432573+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3566198",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "modelpredictiveinferentialcontrolofneuralstatespacemodelsforautonomousvehiclemotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3566198",
+        "title:modelpredictiveinferentialcontrolofneuralstatespacemodelsforautonomousvehiclemotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20437",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T13:41:17.608584+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "amathematicalmodelofmotivatedemotionalmindcognitiveembodiedsystem",
+      "identity_keys": [
+        "arxiv:2609.20437",
+        "title:amathematicalmodelofmotivatedemotionalmindcognitiveembodiedsystem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20349",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T13:41:17.807856+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aqualitativemodelforreasoningaboutpathandsupport",
+      "identity_keys": [
+        "arxiv:2609.20349",
+        "title:aqualitativemodelforreasoningaboutpathandsupport"
+      ]
     }
   ]
 }
