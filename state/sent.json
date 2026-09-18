@@ -11751,6 +11751,118 @@
         "arxiv:2608.18261",
         "title:cacheablebydesigntrainingmixtureofexpertsroutersforlocalityagainsttheedgememorybandwidthwallapreregisterednegativeresultwithasystemsmeasurementstudy"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19907",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T08:01:36.331734+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gspianoptimizationdecoupledappearancedecompositionapproachforgeneratingpbrgaussianassets",
+      "identity_keys": [
+        "arxiv:2609.19907",
+        "title:gspianoptimizationdecoupledappearancedecompositionapproachforgeneratingpbrgaussianassets"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20592",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T08:01:36.882524+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "crystalmoturbomultiobjectivetrustregionbayesianoptimizationforhighprecisionjointcrystalstructurerefinement",
+      "identity_keys": [
+        "arxiv:2609.20592",
+        "title:crystalmoturbomultiobjectivetrustregionbayesianoptimizationforhighprecisionjointcrystalstructurerefinement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19812",
+      "category": "ml",
+      "first_sent_at": "2026-09-18T08:01:37.123682+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "absenceispresenceunderstandingvisualscenenegativeeventsundersafetycognitiveconstraint",
+      "identity_keys": [
+        "arxiv:2609.19812",
+        "title:absenceispresenceunderstandingvisualscenenegativeeventsundersafetycognitiveconstraint"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20034",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T08:01:37.969020+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "astronexworld10realtimeinteractiveworldmodelfoundation",
+      "identity_keys": [
+        "arxiv:2609.20034",
+        "title:astronexworld10realtimeinteractiveworldmodelfoundation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19863",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T08:01:38.251678+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "feelingterrainbeforecrossingworldmodelsforoffroadnavigation",
+      "identity_keys": [
+        "arxiv:2609.19863",
+        "title:feelingterrainbeforecrossingworldmodelsforoffroadnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20648",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T08:01:38.648243+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skipvlaskippingvlastepswithclassicalplanningforfastrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2609.20648",
+        "title:skipvlaskippingvlastepswithclassicalplanningforfastrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18282",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T08:01:39.099522+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfsupervisedincontextoperatorlearningforstochasticmeanfieldcontrol",
+      "identity_keys": [
+        "arxiv:2608.18282",
+        "title:selfsupervisedincontextoperatorlearningforstochasticmeanfieldcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.17415",
+      "category": "frontier",
+      "first_sent_at": "2026-09-18T08:01:39.372314+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spectralgradientorthogonalizationimprovesdifferentiallyprivatetrainingatscale",
+      "identity_keys": [
+        "arxiv:2608.17415",
+        "title:spectralgradientorthogonalizationimprovesdifferentiallyprivatetrainingatscale"
+      ]
     }
   ]
 }
