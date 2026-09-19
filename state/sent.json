@@ -12509,6 +12509,76 @@
         "doi:10.1109/tro.2025.3641759",
         "title:narrowpassagepathplanningviahomotopypreservingcollisionconstraintinterpolation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18734",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T13:06:51.252226+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cl4dcontrastivelanguage4dpretrainingforvisionlanguagereasoningindynamicscenes",
+      "identity_keys": [
+        "arxiv:2608.18734",
+        "title:cl4dcontrastivelanguage4dpretrainingforvisionlanguagereasoningindynamicscenes"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1177/02783649261477778",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T13:06:51.697351+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1177/02783649261477778",
+      "venue": "The International Journal of Robotics Research",
+      "title_key": "towardsthevisionsoundlanguageactionparadigmthehearframeworkforsoundcentricmanipulation",
+      "identity_keys": [
+        "doi:10.1177/02783649261477778",
+        "title:towardsthevisionsoundlanguageactionparadigmthehearframeworkforsoundcentricmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20820",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T13:06:52.140723+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "workspacemodelslightweightroboticmemoryviasaliencydrivensupervision",
+      "identity_keys": [
+        "arxiv:2609.20820",
+        "title:workspacemodelslightweightroboticmemoryviasaliencydrivensupervision"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20480",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T13:06:52.336623+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worstcasehiddenvehicletrajectorysearchinspatiotemporalocclusionregions",
+      "identity_keys": [
+        "arxiv:2609.20480",
+        "title:worstcasehiddenvehicletrajectorysearchinspatiotemporalocclusionregions"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01255-3",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T13:06:52.693954+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01255-3",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "algorithmhardwarecodesignofneuromorphicnetworkswithdualmemorypathways",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01255-3",
+        "title:algorithmhardwarecodesignofneuromorphicnetworkswithdualmemorypathways"
+      ]
     }
   ]
 }
