@@ -12201,6 +12201,160 @@
         "arxiv:2608.19029",
         "title:adaptivememoryandreflectionmultiagentsystemformedicalquestionanswering"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.280757.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-19T03:58:17.922247+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.280757.125",
+      "venue": "Genome Research",
+      "title_key": "recoveringgeneregulatorynetworksinsinglecellmultiomicsdatawithprismgrn",
+      "identity_keys": [
+        "doi:10.1101/gr.280757.125",
+        "title:recoveringgeneregulatorynetworksinsinglecellmultiomicsdatawithprismgrn"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.280985.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-19T03:58:18.054555+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.280985.125",
+      "venue": "Genome Research",
+      "title_key": "simultaneousmodelingofchromatinconformationchangesfrommultiplesinglecellinteractionmapswithchrommovie",
+      "identity_keys": [
+        "doi:10.1101/gr.280985.125",
+        "title:simultaneousmodelingofchromatinconformationchangesfrommultiplesinglecellinteractionmapswithchrommovie"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18767",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T03:58:18.625623+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gradientmiragetrainableyetlabelunidentifiablegradientsinlargelanguagemodelsplitlearning",
+      "identity_keys": [
+        "arxiv:2608.18767",
+        "title:gradientmiragetrainableyetlabelunidentifiablegradientsinlargelanguagemodelsplitlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19425",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T03:58:19.010692+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scapescenarioconditionedsimulationaugmentedpolicyevaluation",
+      "identity_keys": [
+        "arxiv:2608.19425",
+        "title:scapescenarioconditionedsimulationaugmentedpolicyevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19080",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T03:58:19.239326+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spkelicitingstructuredpriorknowledgeforinterpretableoutofdistributiondetectioninrealtimeobjectdetection",
+      "identity_keys": [
+        "arxiv:2608.19080",
+        "title:spkelicitingstructuredpriorknowledgeforinterpretableoutofdistributiondetectioninrealtimeobjectdetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18742",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T03:58:19.471677+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "regularisediterativegeneralisedleastsquareswithoptimalselectionofthehyperparameterforidentifyingnonlinearphenomenologicalmodels",
+      "identity_keys": [
+        "arxiv:2608.18742",
+        "title:regularisediterativegeneralisedleastsquareswithoptimalselectionofthehyperparameterforidentifyingnonlinearphenomenologicalmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19085",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T03:58:19.971984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dawamdecisionalignedfuturelatentsfordrivingworldmodels",
+      "identity_keys": [
+        "arxiv:2608.19085",
+        "title:dawamdecisionalignedfuturelatentsfordrivingworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18746",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T03:58:20.096930+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "decisionmetricalignmentinlatentworldmodelsdiagnosticsandactionconditionedobjectivesformpcplanning",
+      "identity_keys": [
+        "arxiv:2608.18746",
+        "title:decisionmetricalignmentinlatentworldmodelsdiagnosticsandactionconditionedobjectivesformpcplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18647",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T03:58:20.217537+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "progressiveexperiencefusionformultitaskworldmodelcontrolinendovascularnavigation",
+      "identity_keys": [
+        "arxiv:2608.18647",
+        "title:progressiveexperiencefusionformultitaskworldmodelcontrolinendovascularnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18669",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T03:58:20.350837+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reinforcedplanningwithlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2608.18669",
+        "title:reinforcedplanningwithlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19298",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T03:59:05.662889+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scenegtmmaconformalmappingbasedsceneawaretransferablegnntransformerdualgraphinteractionframeworkformapmatching",
+      "identity_keys": [
+        "arxiv:2608.19298",
+        "title:scenegtmmaconformalmappingbasedsceneawaretransferablegnntransformerdualgraphinteractionframeworkformapmatching"
+      ]
     }
   ]
 }
