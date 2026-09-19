@@ -12355,6 +12355,90 @@
         "arxiv:2608.19298",
         "title:scenegtmmaconformalmappingbasedsceneawaretransferablegnntransformerdualgraphinteractionframeworkformapmatching"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/iccv51701.2025.01418",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T07:46:54.361884+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/iccv51701.2025.01418",
+      "venue": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+      "title_key": "photolithographyoverlaymapgenerationwithimplicitknowledgedistillationdiffusiontransformer",
+      "identity_keys": [
+        "doi:10.1109/iccv51701.2025.01418",
+        "title:photolithographyoverlaymapgenerationwithimplicitknowledgedistillationdiffusiontransformer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18410",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T07:46:54.790998+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roleconditionedsubtokenroutingforefficientvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2608.18410",
+        "title:roleconditionedsubtokenroutingforefficientvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19793",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T07:46:55.162096+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aismartglassesforwearableintelligencefromegocentricsensingtoagenticpersonalization",
+      "identity_keys": [
+        "arxiv:2609.19793",
+        "title:aismartglassesforwearableintelligencefromegocentricsensingtoagenticpersonalization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19801",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T07:46:55.282934+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deliverygymanrlenvironmentforlonghorizonembodiedagentplanningwithadaptivecurriculum",
+      "identity_keys": [
+        "arxiv:2609.19801",
+        "title:deliverygymanrlenvironmentforlonghorizonembodiedagentplanningwithadaptivecurriculum"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19947",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T07:46:55.994348+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "notallaiagentsareequalcharacterizingresourceandperformancedynamics",
+      "identity_keys": [
+        "arxiv:2609.19947",
+        "title:notallaiagentsareequalcharacterizingresourceandperformancedynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19013",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T07:46:56.139022+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnesscontinuallearningcontinualadaptationbeyondmodelparameters",
+      "identity_keys": [
+        "arxiv:2608.19013",
+        "title:harnesscontinuallearningcontinualadaptationbeyondmodelparameters"
+      ]
     }
   ]
 }
