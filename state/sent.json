@@ -12439,6 +12439,76 @@
         "arxiv:2608.19013",
         "title:harnesscontinuallearningcontinualadaptationbeyondmodelparameters"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20756",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T10:04:31.660166+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "optedonpolicyfinetuningforendtoenddrivingusingarenderfreeteacher",
+      "identity_keys": [
+        "arxiv:2609.20756",
+        "title:optedonpolicyfinetuningforendtoenddrivingusingarenderfreeteacher"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.18840",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T10:04:31.889459+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondplacementandarticulationusagedrivencodescenesforembodiedinteraction",
+      "identity_keys": [
+        "arxiv:2608.18840",
+        "title:beyondplacementandarticulationusagedrivencodescenesforembodiedinteraction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20791",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T10:04:34.996548+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stageguardlearningstagetransitionsforlonghorizonrobottasksviaagenticdistillation",
+      "identity_keys": [
+        "arxiv:2609.20791",
+        "title:stageguardlearningstagetransitionsforlonghorizonrobottasksviaagenticdistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19878",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T10:04:35.245602+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "uniladirlatentdiffusionunifiesmultimodalreasoning",
+      "identity_keys": [
+        "arxiv:2609.19878",
+        "title:uniladirlatentdiffusionunifiesmultimodalreasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3641759",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T10:04:35.675205+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3641759",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "narrowpassagepathplanningviahomotopypreservingcollisionconstraintinterpolation",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3641759",
+        "title:narrowpassagepathplanningviahomotopypreservingcollisionconstraintinterpolation"
+      ]
     }
   ]
 }
