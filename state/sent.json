@@ -12579,6 +12579,189 @@
         "doi:10.1038/s42256-026-01255-3",
         "title:algorithmhardwarecodesignofneuromorphicnetworkswithdualmemorypathways"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.09.16.751974",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-19T22:38:40.782846+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.09.16.751974",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "title_key": "mappingheterogeneitydriversinhumanpscderivedlimbalstemcelldifferentiationthroughsinglecellmultimodalanalysis",
+      "identity_keys": [
+        "doi:10.64898/2026.09.16.751974",
+        "openalex:w7213495186",
+        "title:mappingheterogeneitydriversinhumanpscderivedlimbalstemcelldifferentiationthroughsinglecellmultimodalanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41540-025-00569-z",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-19T22:38:41.000888+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41540-025-00569-z",
+      "venue": "npj Systems Biology and Applications",
+      "title_key": "datadriveninferenceofbooleannetworksfromtranscriptomestopredictcellulardifferentiationandreprogramming",
+      "identity_keys": [
+        "doi:10.1038/s41540-025-00569-z",
+        "title:datadriveninferenceofbooleannetworksfromtranscriptomestopredictcellulardifferentiationandreprogramming"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.23.678064",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-19T22:38:41.220894+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.23.678064",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "otrmsdageneralizationoftherootmeansquaredeviationforaligningunequallengthproteinstructures",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.23.678064",
+        "title:otrmsdageneralizationoftherootmeansquaredeviationforaligningunequallengthproteinstructures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20562",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T22:38:41.669881+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "conditionalindependenceregularizeddistributionalautoencodersformixedtypedata",
+      "identity_keys": [
+        "arxiv:2608.20562",
+        "title:conditionalindependenceregularizeddistributionalautoencodersformixedtypedata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19540",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T22:38:41.810433+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuousadversarialmeanflowtransfer",
+      "identity_keys": [
+        "arxiv:2608.19540",
+        "title:continuousadversarialmeanflowtransfer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19587",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T22:38:42.142729+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unregularizedconvergenceofsingleloopentropyregularizednaturalactorcritic",
+      "identity_keys": [
+        "arxiv:2608.19587",
+        "title:unregularizedconvergenceofsingleloopentropyregularizednaturalactorcritic"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1137/24m1653513",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T22:38:42.393820+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/24m1653513",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "anadaptivelyinexactfirstordermethodforbileveloptimizationwithapplicationtohyperparameterlearning",
+      "identity_keys": [
+        "doi:10.1137/24m1653513",
+        "title:anadaptivelyinexactfirstordermethodforbileveloptimizationwithapplicationtohyperparameterlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20016",
+      "category": "ml",
+      "first_sent_at": "2026-09-19T22:39:27.723462+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "emergenceofcooperationareputationmodulatedreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2608.20016",
+        "title:emergenceofcooperationareputationmodulatedreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01110-x",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T22:39:28.410583+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01110-x",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "towardsagenticscienceforadvancingscientificdiscovery",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01110-x",
+        "title:towardsagenticscienceforadvancingscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20065",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T22:39:28.699204+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "orthogonaljepafactorizedpredictivestatesforlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2608.20065",
+        "title:orthogonaljepafactorizedpredictivestatesforlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19779",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T22:39:28.861508+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anirreduciblequantumadvantageinaligningworldmodelswithreality",
+      "identity_keys": [
+        "arxiv:2608.19779",
+        "title:anirreduciblequantumadvantageinaligningworldmodelswithreality"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20111",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T22:39:29.084971+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "planningorientedendtoendautonomousdrivingarchitecturesevaluationandemergingparadigms",
+      "identity_keys": [
+        "arxiv:2608.20111",
+        "title:planningorientedendtoendautonomousdrivingarchitecturesevaluationandemergingparadigms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19661",
+      "category": "frontier",
+      "first_sent_at": "2026-09-19T22:39:29.296898+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmodelgroundedllmplanningforauvandasvnavigationnearoffshorewindfarms",
+      "identity_keys": [
+        "arxiv:2608.19661",
+        "title:worldmodelgroundedllmplanningforauvandasvnavigationnearoffshorewindfarms"
+      ]
     }
   ]
 }
