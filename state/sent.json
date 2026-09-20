@@ -12846,6 +12846,77 @@
         "doi:10.1038/d41586-026-00844-x",
         "title:rammageddonhitslabsaidrivenmemoryshortageisimpactingscience"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19804",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T10:23:17.870100+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptphysicsawarediffusionbasedworldmodelsforadaptivepredictivetransferablehvaccontrol",
+      "identity_keys": [
+        "arxiv:2608.19804",
+        "title:adaptphysicsawarediffusionbasedworldmodelsforadaptivepredictivetransferablehvaccontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19891",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T10:23:18.288992+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eximovlmguidedexplorationofvlapolicies",
+      "identity_keys": [
+        "arxiv:2608.19891",
+        "title:eximovlmguidedexplorationofvlapolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3707233",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T10:23:18.536656+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3707233",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "anovelmodelfor3dmotionplanningforageneralizeddubinsvehiclewithpitchandyawrateconstraints",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3707233",
+        "title:anovelmodelfor3dmotionplanningforageneralizeddubinsvehiclewithpitchandyawrateconstraints"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.24963/ijcai.2026/896",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T10:24:04.040025+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.24963/ijcai.2026/896",
+      "venue": null,
+      "title_key": "asurveyonvaluealignmentinagenticaisystems",
+      "identity_keys": [
+        "doi:10.24963/ijcai.2026/896",
+        "openalex:w7213391790",
+        "title:asurveyonvaluealignmentinagenticaisystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19701",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T10:24:04.135487+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondmemorymajoritylatentsourcereasoningformultiagentmemoryarbitration",
+      "identity_keys": [
+        "arxiv:2608.19701",
+        "title:beyondmemorymajoritylatentsourcereasoningformultiagentmemoryarbitration"
+      ]
     }
   ]
 }
