@@ -12917,6 +12917,76 @@
         "arxiv:2608.19701",
         "title:beyondmemorymajoritylatentsourcereasoningformultiagentmemoryarbitration"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19964",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T13:40:41.965191+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gmarkgroundedmultiagentreasoningforcooperativedrivingviaknowledgegraphs",
+      "identity_keys": [
+        "arxiv:2608.19964",
+        "title:gmarkgroundedmultiagentreasoningforcooperativedrivingviaknowledgegraphs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20202",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T13:40:42.114863+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memtrapbenchbenchmarkingcognitivetrapsinllmmemoryuse",
+      "identity_keys": [
+        "arxiv:2608.20202",
+        "title:memtrapbenchbenchmarkingcognitivetrapsinllmmemoryuse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20237",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T13:40:42.222959+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rulecompliantvisualspatialplanningformultimodallargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2608.20237",
+        "title:rulecompliantvisualspatialplanningformultimodallargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20083",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T13:40:42.340682+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sabetqatemporalknowledgegraphquestionanswering",
+      "identity_keys": [
+        "arxiv:2608.20083",
+        "title:sabetqatemporalknowledgegraphquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19842",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T13:40:42.479713+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "saposinglerolloutautoregressivepolicyoptimizationforagenticreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2608.19842",
+        "title:saposinglerolloutautoregressivepolicyoptimizationforagenticreinforcementlearning"
+      ]
     }
   ]
 }
