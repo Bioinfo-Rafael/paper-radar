@@ -12762,6 +12762,90 @@
         "arxiv:2608.19661",
         "title:worldmodelgroundedllmplanningforauvandasvnavigationnearoffshorewindfarms"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20065",
+      "category": "ml",
+      "first_sent_at": "2026-09-20T04:19:33.595288+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "orthogonaljepafactorizedpredictivestatesforlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2608.20065",
+        "title:orthogonaljepafactorizedpredictivestatesforlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01036-4",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T04:19:33.920382+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01036-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "robotplanningwithllms",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01036-4",
+        "title:robotplanningwithllms"
+      ]
+    },
+    {
+      "canonical_id": "openalex:w7213371152",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T04:19:34.312926+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv (Cornell University)",
+      "title_key": "positioningmanuscriptsinthescientificlandscapewithagenticai",
+      "identity_keys": [
+        "openalex:w7213371152",
+        "title:positioningmanuscriptsinthescientificlandscapewithagenticai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20314",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T04:19:34.459730+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "midtoolmidtrainingdatasynthesisforagentictooluse",
+      "identity_keys": [
+        "arxiv:2608.20314",
+        "title:midtoolmidtrainingdatasynthesisforagentictooluse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.19669",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T04:19:34.638628+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scaffoldingmindsoptimizinglatentvisualtargetrepresentationsformultimodalreasoning",
+      "identity_keys": [
+        "arxiv:2608.19669",
+        "title:scaffoldingmindsoptimizinglatentvisualtargetrepresentationsformultimodalreasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-00844-x",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T04:20:19.801613+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-00844-x",
+      "venue": "Nature",
+      "title_key": "rammageddonhitslabsaidrivenmemoryshortageisimpactingscience",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-00844-x",
+        "title:rammageddonhitslabsaidrivenmemoryshortageisimpactingscience"
+      ]
     }
   ]
 }
