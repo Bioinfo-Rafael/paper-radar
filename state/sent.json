@@ -12987,6 +12987,175 @@
         "arxiv:2608.19842",
         "title:saposinglerolloutautoregressivepolicyoptimizationforagenticreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1002/imt2.70165",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-20T22:56:06.865595+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1002/imt2.70165",
+      "venue": null,
+      "title_key": "multiomicsdrivenprecisionmedicine",
+      "identity_keys": [
+        "doi:10.1002/imt2.70165",
+        "pubmed:42656953",
+        "title:multiomicsdrivenprecisionmedicine"
+      ]
+    },
+    {
+      "canonical_id": "openalex:w7213483286",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-20T22:56:07.133177+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "VTechWorks (Virginia Tech)",
+      "title_key": "singlecellandspatialtranscriptomicdissectionofbraincellularresponsestonutritionalandinjuryperturbations",
+      "identity_keys": [
+        "openalex:w7213483286",
+        "title:singlecellandspatialtranscriptomicdissectionofbraincellularresponsestonutritionalandinjuryperturbations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20748",
+      "category": "ml",
+      "first_sent_at": "2026-09-20T22:56:07.923771+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generatingmultiviewadversarialexamplesforvisualgeometrygroundedtransformer",
+      "identity_keys": [
+        "arxiv:2608.20748",
+        "title:generatingmultiviewadversarialexamplesforvisualgeometrygroundedtransformer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20794",
+      "category": "ml",
+      "first_sent_at": "2026-09-20T22:56:08.292086+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "knowingbutnotsayingpreventingfactualaccessfailuresinllmsftviarecallanchoreddistillation",
+      "identity_keys": [
+        "arxiv:2608.20794",
+        "title:knowingbutnotsayingpreventingfactualaccessfailuresinllmsftviarecallanchoreddistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21044",
+      "category": "ml",
+      "first_sent_at": "2026-09-20T22:56:08.525916+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "socializeddivisionandcollaborationrethinkingclassincrementallearningunderoptimizationconflicts",
+      "identity_keys": [
+        "arxiv:2608.21044",
+        "title:socializeddivisionandcollaborationrethinkingclassincrementallearningunderoptimizationconflicts"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21539",
+      "category": "ml",
+      "first_sent_at": "2026-09-20T22:56:08.692019+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "federatedcontinuallearningasadistributeddriftpluspenaltycontrolproblem",
+      "identity_keys": [
+        "arxiv:2608.21539",
+        "title:federatedcontinuallearningasadistributeddriftpluspenaltycontrolproblem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20777",
+      "category": "ml",
+      "first_sent_at": "2026-09-20T22:56:08.989054+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "treeofconcernshierarchicalmultiagentdebateforunstatedlimitationextractioninscientificcritique",
+      "identity_keys": [
+        "arxiv:2608.20777",
+        "title:treeofconcernshierarchicalmultiagentdebateforunstatedlimitationextractioninscientificcritique"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20686",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T22:56:09.775800+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cdrlcertificationdrivenreinforcementlearningforneutrinoflavormodeldiscovery",
+      "identity_keys": [
+        "arxiv:2608.20686",
+        "title:cdrlcertificationdrivenreinforcementlearningforneutrinoflavormodeldiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21204",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T22:56:10.194480+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondimitationselfimprovingrobotpoliciesviaoffpolicyqplanning",
+      "identity_keys": [
+        "arxiv:2608.21204",
+        "title:beyondimitationselfimprovingrobotpoliciesviaoffpolicyqplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20890",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T22:56:10.569322+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acollaborativemultimodalityinteractionforvlabasedendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2608.20890",
+        "title:acollaborativemultimodalityinteractionforvlabasedendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20661",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T22:56:10.985777+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "auditablebyconstructionanontologydrivenframeworkfortrustworthyllmanalyticsinenterprisefinance",
+      "identity_keys": [
+        "arxiv:2608.20661",
+        "title:auditablebyconstructionanontologydrivenframeworkfortrustworthyllmanalyticsinenterprisefinance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21690",
+      "category": "frontier",
+      "first_sent_at": "2026-09-20T22:56:11.138157+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "contextasanenvironmentprogrammaticcontextmanagementforlonghorizonagents",
+      "identity_keys": [
+        "arxiv:2608.21690",
+        "title:contextasanenvironmentprogrammaticcontextmanagementforlonghorizonagents"
+      ]
     }
   ]
 }
