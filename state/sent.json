@@ -13296,6 +13296,134 @@
         "arxiv:2609.22040",
         "title:primeperceptionfeedbackwithsituationalmemoryembeddingsinvlamodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/wacv61042.2026.00741",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T08:40:01.101787+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026, pp. 7679-7688",
+      "title_key": "memetagkeyworddrivenmemeclassificationthroughtagembeddingreconstruction",
+      "identity_keys": [
+        "arxiv:2609.20962",
+        "doi:10.1109/wacv61042.2026.00741",
+        "title:memetagkeyworddrivenmemeclassificationthroughtagembeddingreconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21391",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T08:40:01.223496+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wsnerfamambadrivenworldstateawareadaptivedeblurringneuralradiancefield",
+      "identity_keys": [
+        "arxiv:2609.21391",
+        "title:wsnerfamambadrivenworldstateawareadaptivedeblurringneuralradiancefield"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1049/cvi2.70059",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T08:40:01.530362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "IET Computer Vision, 2026, e70059",
+      "title_key": "atvitareatargetedmultiviewvisiontransformerwithcrossattentionandmultiscalepatchingforplanttraitrecognitioninherbariumimages",
+      "identity_keys": [
+        "arxiv:2608.21067",
+        "doi:10.1049/cvi2.70059",
+        "title:atvitareatargetedmultiviewvisiontransformerwithcrossattentionandmultiscalepatchingforplanttraitrecognitioninherbariumimages"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21492",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T08:40:01.873716+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "logictrackauditingreasoningtrajectoriesoflargelanguagemodelswithformallogicsolvers",
+      "identity_keys": [
+        "arxiv:2609.21492",
+        "title:logictrackauditingreasoningtrajectoriesoflargelanguagemodelswithformallogicsolvers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21740",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T08:40:02.462109+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sandwichresidualsparameterefficienttesttimeadaptationofworldmodels",
+      "identity_keys": [
+        "arxiv:2609.21740",
+        "title:sandwichresidualsparameterefficienttesttimeadaptationofworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21712",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T08:40:02.786455+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zytworldarealtimecontrollableworldmodelforclosedloopautonomousdrivingsimulation",
+      "identity_keys": [
+        "arxiv:2609.21712",
+        "title:zytworldarealtimecontrollableworldmodelforclosedloopautonomousdrivingsimulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21502",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T08:40:03.172786+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptiveworldmemory3dfoundationmodelforscalable3dmappinglocalizationandrendering",
+      "identity_keys": [
+        "arxiv:2609.21502",
+        "title:adaptiveworldmemory3dfoundationmodelforscalable3dmappinglocalizationandrendering"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3697183",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T08:40:03.341605+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3697183",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "fastandscalablegametheoretictrajectoryplanningwithintentionaluncertainties",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3697183",
+        "title:fastandscalablegametheoretictrajectoryplanningwithintentionaluncertainties"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21027",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T08:40:03.521649+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dontsolvejustcomparetinyadvisorsforruntimeinterventioninllmagents",
+      "identity_keys": [
+        "arxiv:2608.21027",
+        "title:dontsolvejustcomparetinyadvisorsforruntimeinterventioninllmagents"
+      ]
     }
   ]
 }
