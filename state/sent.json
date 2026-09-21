@@ -13494,6 +13494,147 @@
         "arxiv:2608.21544",
         "title:forgotteninweightsrecoveredbytoolsagentictoolunlearningforllmagents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-77838-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-21T15:54:05.871447+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-77838-w",
+      "venue": "Nature Communications",
+      "title_key": "beargrnsystematicassessmentofsinglecellmultiomicsbasedgeneregulatorynetworkinferencemethods",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-77838-w",
+        "openalex:w7213535722",
+        "title:beargrnsystematicassessmentofsinglecellmultiomicsbasedgeneregulatorynetworkinferencemethods"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.09.27.678816",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-21T15:54:06.229289+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.09.27.678816",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "chrompolymerdbahighresolutiondatabaseofsinglecell3dchromatinstructuresforfunctionalgenomics",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.09.27.678816",
+        "title:chrompolymerdbahighresolutiondatabaseofsinglecell3dchromatinstructuresforfunctionalgenomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21858",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T15:54:06.835933+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "llmsarefewshotdecisionmakersgeneralizedcontextawaremicrogridfrequencycontrolthroughpromptdecisiontransformer",
+      "identity_keys": [
+        "arxiv:2608.21858",
+        "title:llmsarefewshotdecisionmakersgeneralizedcontextawaremicrogridfrequencycontrolthroughpromptdecisiontransformer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21702",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T15:54:07.003664+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromassociationtocausationimprovingretrievalprecisionofretrievalaugmentedgenerationviacausalrelationsandanattentionmechanism",
+      "identity_keys": [
+        "arxiv:2608.21702",
+        "title:fromassociationtocausationimprovingretrievalprecisionofretrievalaugmentedgenerationviacausalrelationsandanattentionmechanism"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21815",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T15:54:07.475893+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "resilientconcurrentcausaldiscoveryfortopologicaleventsequences",
+      "identity_keys": [
+        "arxiv:2608.21815",
+        "title:resilientconcurrentcausaldiscoveryfortopologicaleventsequences"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21976",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T15:54:08.172379+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "closedloopaiachievescertifiableengineeringdesign",
+      "identity_keys": [
+        "arxiv:2608.21976",
+        "title:closedloopaiachievescertifiableengineeringdesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22014",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T15:54:08.338196+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dynacontextselfimprovingdynamiccontextualizationofoptimizedpromptsforheterogeneousparameterextraction",
+      "identity_keys": [
+        "arxiv:2608.22014",
+        "title:dynacontextselfimprovingdynamiccontextualizationofoptimizedpromptsforheterogeneousparameterextraction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22035",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T15:54:08.749177+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ludiscriptscriptstyle01anagenticsystemforsociallyintelligentrobots",
+      "identity_keys": [
+        "arxiv:2608.22035",
+        "title:ludiscriptscriptstyle01anagenticsystemforsociallyintelligentrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21327",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T15:54:09.344100+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deepreinforcementlearningwithbufferedquantileobjectives",
+      "identity_keys": [
+        "arxiv:2609.21327",
+        "title:deepreinforcementlearningwithbufferedquantileobjectives"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21735",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T15:54:09.522080+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gemmpcbalancingexplorationandexploitationthroughexpertguidedplanning",
+      "identity_keys": [
+        "arxiv:2609.21735",
+        "title:gemmpcbalancingexplorationandexploitationthroughexpertguidedplanning"
+      ]
     }
   ]
 }
