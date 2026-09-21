@@ -13156,6 +13156,146 @@
         "arxiv:2608.21690",
         "title:contextasanenvironmentprogrammaticcontextmanagementforlonghorizonagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21251",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T04:19:59.721335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geometryawarediffusionguidanceviacurvatureadaptivetubularcorrection",
+      "identity_keys": [
+        "arxiv:2609.21251",
+        "title:geometryawarediffusionguidanceviacurvatureadaptivetubularcorrection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21012",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T04:19:59.996561+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromastaticmultilevelsmallsemanticcodebooktoadynamicsinglelevellargesemanticcodebookforgenerativerecommendation",
+      "identity_keys": [
+        "arxiv:2608.21012",
+        "title:fromastaticmultilevelsmallsemanticcodebooktoadynamicsinglelevellargesemanticcodebookforgenerativerecommendation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21136",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T04:20:00.342714+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stream3dv2geometricsemanticfusionenhancedstreamingzeroshot3dsceneunderstanding",
+      "identity_keys": [
+        "arxiv:2608.21136",
+        "title:stream3dv2geometricsemanticfusionenhancedstreamingzeroshot3dsceneunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21165",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T04:20:00.798335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "specoptcontactdiffreasoningforagenticmoleculeoptimizationtowardbindingspecificity",
+      "identity_keys": [
+        "arxiv:2609.21165",
+        "title:specoptcontactdiffreasoningforagenticmoleculeoptimizationtowardbindingspecificity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21108",
+      "category": "ml",
+      "first_sent_at": "2026-09-21T04:20:46.584573+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "refineppolearningcontinuouscontrolpoliciesbyiterativeactionrefinement",
+      "identity_keys": [
+        "arxiv:2609.21108",
+        "title:refineppolearningcontinuouscontrolpoliciesbyiterativeactionrefinement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20699",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T04:20:47.205524+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "artimoagentdrivenarticulatedmeshanimation",
+      "identity_keys": [
+        "arxiv:2608.20699",
+        "title:artimoagentdrivenarticulatedmeshanimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22055",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T04:20:48.254582+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "benchmarkingworldmodelsforcontinuallearningoncompositionaltasks",
+      "identity_keys": [
+        "arxiv:2609.22055",
+        "title:benchmarkingworldmodelsforcontinuallearningoncompositionaltasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21448",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T04:20:48.365091+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboticmultiphaseinteractionmanipulatingcoupledliquidandsoliddynamicswithaworldmodel",
+      "identity_keys": [
+        "arxiv:2609.21448",
+        "title:roboticmultiphaseinteractionmanipulatingcoupledliquidandsoliddynamicswithaworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.20936",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T04:20:48.553225+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graphoperatorworldmodelsformorphologyparametergeneralizationincontinuouscontrol",
+      "identity_keys": [
+        "arxiv:2608.20936",
+        "title:graphoperatorworldmodelsformorphologyparametergeneralizationincontinuouscontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22040",
+      "category": "frontier",
+      "first_sent_at": "2026-09-21T04:20:48.944584+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "primeperceptionfeedbackwithsituationalmemoryembeddingsinvlamodels",
+      "identity_keys": [
+        "arxiv:2609.22040",
+        "title:primeperceptionfeedbackwithsituationalmemoryembeddingsinvlamodels"
+      ]
     }
   ]
 }
