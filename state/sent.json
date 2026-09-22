@@ -13635,6 +13635,160 @@
         "arxiv:2609.21735",
         "title:gemmpcbalancingexplorationandexploitationthroughexpertguidedplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.279551.124",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-22T04:13:47.732236+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.279551.124",
+      "venue": "Genome Research",
+      "title_key": "diffusionbasedgenerationofgeneregulatorynetworksfromscrnaseqdatawithdignet",
+      "identity_keys": [
+        "doi:10.1101/gr.279551.124",
+        "title:diffusionbasedgenerationofgeneregulatorynetworksfromscrnaseqdatawithdignet"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24346",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T04:13:50.584824+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "laddergraphguideddiffusionlanguagemodelsforefficientmultihopreasoning",
+      "identity_keys": [
+        "arxiv:2609.24346",
+        "title:laddergraphguideddiffusionlanguagemodelsforefficientmultihopreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24197",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T04:13:50.695869+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hspecparallelspeculativedecodingwithoutadraftersidekvcache",
+      "identity_keys": [
+        "arxiv:2609.24197",
+        "title:hspecparallelspeculativedecodingwithoutadraftersidekvcache"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24380",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T04:13:50.994672+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "informationtimeproximalpolicyoptimization",
+      "identity_keys": [
+        "arxiv:2609.24380",
+        "title:informationtimeproximalpolicyoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24564",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T04:13:51.297806+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hyperclipfinetuningclipforopenvocabularysemanticsegmentationinhyperbolicspace",
+      "identity_keys": [
+        "arxiv:2609.24564",
+        "title:hyperclipfinetuningclipforopenvocabularysemanticsegmentationinhyperbolicspace"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24947",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T04:13:51.439318+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningphysicsfromanimperfectancestor",
+      "identity_keys": [
+        "arxiv:2609.24947",
+        "title:learningphysicsfromanimperfectancestor"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24526",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T04:13:51.914604+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mevlmaunifiedvlmforembodiedcognitionandagentcoordination",
+      "identity_keys": [
+        "arxiv:2609.24526",
+        "title:mevlmaunifiedvlmforembodiedcognitionandagentcoordination"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24682",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T04:13:52.064592+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinklikeaworldmodelactlikeavladistillingworldmodelrepresentationsintocompactrobotpolicies",
+      "identity_keys": [
+        "arxiv:2609.24682",
+        "title:thinklikeaworldmodelactlikeavladistillingworldmodelrepresentationsintocompactrobotpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24124",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T04:13:52.474341+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "activearenabenchmarkingandunderstandingactiveperceptioninroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2609.24124",
+        "title:activearenabenchmarkingandunderstandingactiveperceptioninroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adv3604",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T04:13:52.698219+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adv3604",
+      "venue": "Science Robotics",
+      "title_key": "attentionbasedmapencodingforlearninggeneralizedleggedlocomotion",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adv3604",
+        "title:attentionbasedmapencodingforlearninggeneralizedleggedlocomotion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21740",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T04:13:52.840536+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "counteraligncounterfactualsupervisionforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.21740",
+        "title:counteraligncounterfactualsupervisionforvisionlanguageactionmodels"
+      ]
     }
   ]
 }
