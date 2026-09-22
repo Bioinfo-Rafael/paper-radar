@@ -14042,6 +14042,149 @@
         "doi:10.1109/tro.2025.3600138",
         "title:urplannerauniversalparadigmforcollisionfreeroboticmotionplanningbasedondeepreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bib/bbag486",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-22T23:26:50.454233+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bib/bbag486",
+      "venue": "Briefings in bioinformatics",
+      "title_key": "gillespiebasedsimulationandinferencefornonmarkovianstochasticreactionnetworks",
+      "identity_keys": [
+        "doi:10.1093/bib/bbag486",
+        "pubmed:42770838",
+        "title:gillespiebasedsimulationandinferencefornonmarkovianstochasticreactionnetworks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5194/gmd-19-8915-2026",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T23:26:51.176007+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5194/gmd-19-8915-2026",
+      "venue": "Geoscientific model development",
+      "title_key": "direct10adiffusionbasedgenerativemodelfordenseseasurfacetemperaturereconstructionsfromsparsesatelliteobservations",
+      "identity_keys": [
+        "doi:10.5194/gmd-19-8915-2026",
+        "openalex:w7213980141",
+        "title:direct10adiffusionbasedgenerativemodelfordenseseasurfacetemperaturereconstructionsfromsparsesatelliteobservations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22419",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T23:26:51.597020+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robustbimanualvisionlanguageactionmodelsviaembarrassinglysimplemodalitymasking",
+      "identity_keys": [
+        "arxiv:2608.22419",
+        "title:robustbimanualvisionlanguageactionmodelsviaembarrassinglysimplemodalitymasking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22368",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T23:26:51.749076+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diditin87minutesalabelfreesoftmaxtolinearadaptationofvisiontransformersforobjectdetection",
+      "identity_keys": [
+        "arxiv:2608.22368",
+        "title:diditin87minutesalabelfreesoftmaxtolinearadaptationofvisiontransformersforobjectdetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22224",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T23:26:53.355622+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frekoolearningcontinuousspectraldynamicsfortemporaldomaingeneralization",
+      "identity_keys": [
+        "arxiv:2608.22224",
+        "title:frekoolearningcontinuousspectraldynamicsfortemporaldomaingeneralization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.17817",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T23:26:53.872667+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.17817",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "reflectionsontrustingtrustrevisitedcontaminatingselfmodifyingaicodingagentswithpoisonedbenchmarks",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.17817",
+        "openalex:w7213510894",
+        "title:reflectionsontrustingtrustrevisitedcontaminatingselfmodifyingaicodingagentswithpoisonedbenchmarks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22381",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T23:26:54.462777+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graftgraphdistilledgenerativeretrievalforfacetawarescientificliteratureexploration",
+      "identity_keys": [
+        "arxiv:2608.22381",
+        "title:graftgraphdistilledgenerativeretrievalforfacetawarescientificliteratureexploration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22310",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T23:26:54.847100+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "herohumanprofileenhancedretrievaloptimizationframeworkforlongtermagentmemory",
+      "identity_keys": [
+        "arxiv:2608.22310",
+        "title:herohumanprofileenhancedretrievaloptimizationframeworkforlongtermagentmemory"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/robotics15100181",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T23:26:55.589340+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/robotics15100181",
+      "venue": "Robotics",
+      "title_key": "multistepobstructionreasoningfortargetorientedgraspsequencegenerationinclutteredscenes",
+      "identity_keys": [
+        "doi:10.3390/robotics15100181",
+        "title:multistepobstructionreasoningfortargetorientedgraspsequencegenerationinclutteredscenes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23986",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T23:26:55.754940+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jevmemsystemonecontrolledagenticmemoryforefficientaiagents",
+      "identity_keys": [
+        "arxiv:2609.23986",
+        "title:jevmemsystemonecontrolledagenticmemoryforefficientaiagents"
+      ]
     }
   ]
 }
