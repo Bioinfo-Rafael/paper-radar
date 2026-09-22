@@ -13972,6 +13972,76 @@
         "doi:10.1038/d41586-026-00768-6",
         "title:memorylossisfuelledbygutmicrobesinageingmice"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24133",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T14:05:20.731614+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phraselevelroboticguqinperformancebimanualmotionplanningandaudiotactileinteractionmonitoring",
+      "identity_keys": [
+        "arxiv:2609.24133",
+        "title:phraselevelroboticguqinperformancebimanualmotionplanningandaudiotactileinteractionmonitoring"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24984",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T14:05:20.953938+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldcrafterconsistentvideoworldmodelwithimplicit3dawarememory",
+      "identity_keys": [
+        "arxiv:2609.24984",
+        "title:worldcrafterconsistentvideoworldmodelwithimplicit3dawarememory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24411",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T14:05:21.302092+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zevaegoegocentricmidtrainingwithincontextcausallearningforrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2609.24411",
+        "title:zevaegoegocentricmidtrainingwithincontextcausallearningforrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3582816",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T14:05:21.828756+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3582816",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "toleadortofollowadaptiverobottaskplanninginhumanrobotcollaboration",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3582816",
+        "title:toleadortofollowadaptiverobottaskplanninginhumanrobotcollaboration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3600138",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T14:05:22.349953+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3600138",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "urplannerauniversalparadigmforcollisionfreeroboticmotionplanningbasedondeepreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3600138",
+        "title:urplannerauniversalparadigmforcollisionfreeroboticmotionplanningbasedondeepreinforcementlearning"
+      ]
     }
   ]
 }
