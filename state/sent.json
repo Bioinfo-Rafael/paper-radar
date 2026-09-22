@@ -13789,6 +13789,105 @@
         "arxiv:2608.21740",
         "title:counteraligncounterfactualsupervisionforvisionlanguageactionmodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkag368",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-22T08:20:36.385795+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkag368",
+      "venue": "Nucleic Acids Research",
+      "title_key": "singlecelltrajectoryinferencefordetectingtransienteventsinbiologicalprocesses",
+      "identity_keys": [
+        "doi:10.1093/nar/gkag368",
+        "title:singlecelltrajectoryinferencefordetectingtransienteventsinbiologicalprocesses"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24226",
+      "category": "ml",
+      "first_sent_at": "2026-09-22T08:20:36.994051+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "srprnetsemanticandrelationalpromptrefinementforautomatedsambasedinstancesegmentation",
+      "identity_keys": [
+        "arxiv:2609.24226",
+        "title:srprnetsemanticandrelationalpromptrefinementforautomatedsambasedinstancesegmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24170",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T08:20:37.679312+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anunexpectedrobotpolicyearlyevaluationsofgpt6astraonrobodojoandbeyond",
+      "identity_keys": [
+        "arxiv:2609.24170",
+        "title:anunexpectedrobotpolicyearlyevaluationsofgpt6astraonrobodojoandbeyond"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24118",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T08:20:38.143185+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "careexperienceguidedatomiccorrectiveexecutionforvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2609.24118",
+        "title:careexperienceguidedatomiccorrectiveexecutionforvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3613532",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T08:20:38.343459+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3613532",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "objectcentrickinodynamicplanningfornonprehensilerobotrearrangementmanipulation",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3613532",
+        "title:objectcentrickinodynamicplanningfornonprehensilerobotrearrangementmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tkde.2026.3736532",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T08:20:38.796362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dataagentsagenticdatasystems",
+      "identity_keys": [
+        "arxiv:2609.24137",
+        "doi:10.1109/tkde.2026.3736532",
+        "title:dataagentsagenticdatasystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21897",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T08:20:39.102436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromsolverfeedbacktofaithfulplansmultirolereinforcementlearningforsymbolicplanning",
+      "identity_keys": [
+        "arxiv:2608.21897",
+        "title:fromsolverfeedbacktofaithfulplansmultirolereinforcementlearningforsymbolicplanning"
+      ]
     }
   ]
 }
