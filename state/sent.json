@@ -13888,6 +13888,90 @@
         "arxiv:2608.21897",
         "title:fromsolverfeedbacktofaithfulplansmultirolereinforcementlearningforsymbolicplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-025-02854-5",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-22T10:46:15.211356+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-025-02854-5",
+      "venue": "Nature Methods",
+      "title_key": "scoobymodelingmultimodalgenomicprofilesfromdnasequenceatsinglecellresolution",
+      "identity_keys": [
+        "doi:10.1038/s41592-025-02854-5",
+        "title:scoobymodelingmultimodalgenomicprofilesfromdnasequenceatsinglecellresolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24749",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T10:46:16.078519+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "djepaadecisionalignedlatentworldmodel",
+      "identity_keys": [
+        "arxiv:2609.24749",
+        "title:djepaadecisionalignedlatentworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24271",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T10:46:16.281778+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mebrain10memorycognitionandactionforevolvingembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2609.24271",
+        "title:mebrain10memorycognitionandactionforevolvingembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24313",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T10:46:16.561647+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neuidoneuralintrinsicdynamicsoperatorforphysicsinformed4dworldmodels",
+      "identity_keys": [
+        "arxiv:2609.24313",
+        "title:neuidoneuralintrinsicdynamicsoperatorforphysicsinformed4dworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.21928",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T10:46:16.782753+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "guardianbenchasamesceneinstructioncontrastivebenchmarkforlatentcontextualriskinembodiedai",
+      "identity_keys": [
+        "arxiv:2608.21928",
+        "title:guardianbenchasamesceneinstructioncontrastivebenchmarkforlatentcontextualriskinembodiedai"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-00768-6",
+      "category": "frontier",
+      "first_sent_at": "2026-09-22T10:46:17.251612+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-00768-6",
+      "venue": "Nature",
+      "title_key": "memorylossisfuelledbygutmicrobesinageingmice",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-00768-6",
+        "title:memorylossisfuelledbygutmicrobesinageingmice"
+      ]
     }
   ]
 }
