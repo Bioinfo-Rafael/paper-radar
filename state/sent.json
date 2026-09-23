@@ -14185,6 +14185,162 @@
         "arxiv:2609.23986",
         "title:jevmemsystemonecontrolledagenticmemoryforefficientaiagents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1014041",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-23T04:10:27.329021+00:00",
+      "publication_status": "published",
+      "preprint_doi": "10.64898/2026.02.19.706743",
+      "published_doi": "10.1371/journal.pcbi.1014041",
+      "venue": "bioRxiv",
+      "title_key": "otknnaneighborhoodawareoptimaltransportframeworkforaligningspatialtranscriptomicsdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.02.19.706743",
+        "doi:10.1371/journal.pcbi.1014041",
+        "pubmed:42771689",
+        "title:otknnaneighborhoodawareoptimaltransportframeworkforaligningspatialtranscriptomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26375",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T04:10:27.985603+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kwaimindtechnicalreport",
+      "identity_keys": [
+        "arxiv:2609.26375",
+        "title:kwaimindtechnicalreport"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26737",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T04:10:28.118168+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffusioninducedspatialattentionoverlappingcommunitydetection",
+      "identity_keys": [
+        "arxiv:2609.26737",
+        "title:diffusioninducedspatialattentionoverlappingcommunitydetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26598",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T04:10:28.291788+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unlockingcrossscenariophysicallayersecurityamixtureofexpertsframeworkwithgenerativediffusionmodels",
+      "identity_keys": [
+        "arxiv:2609.26598",
+        "title:unlockingcrossscenariophysicallayersecurityamixtureofexpertsframeworkwithgenerativediffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25860",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T04:10:28.513382+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "matchfusionexplicitimplicitinstancematchingforspatiotemporalmultimodalautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.25860",
+        "title:matchfusionexplicitimplicitinstancematchingforspatiotemporalmultimodalautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26481",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T04:11:13.862411+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "behaviorisnotenoughamechanismbasedevaluationofsocialnormemergenceinllmsocieties",
+      "identity_keys": [
+        "arxiv:2609.26481",
+        "title:behaviorisnotenoughamechanismbasedevaluationofsocialnormemergenceinllmsocieties"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26299",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T04:11:14.261700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "foredriveforesightguidedendtoendautonomousdrivingwithaplanningrelevantlatentworldmodel",
+      "identity_keys": [
+        "arxiv:2609.26299",
+        "title:foredriveforesightguidedendtoendautonomousdrivingwithaplanningrelevantlatentworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25627",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T04:11:14.384116+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "machembodiedu0unifiedunderstandingandgenerationmodelforembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2609.25627",
+        "title:machembodiedu0unifiedunderstandingandgenerationmodelforembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22294",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T04:11:14.556918+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondinstanceslotssemanticallyrichworldmodelsforphysicalinteractionplanning",
+      "identity_keys": [
+        "arxiv:2608.22294",
+        "title:beyondinstanceslotssemanticallyrichworldmodelsforphysicalinteractionplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22278",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T04:11:14.662821+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dreammimiclearningvisuomotorwholebodylocomanipulationviaworldmodel",
+      "identity_keys": [
+        "arxiv:2608.22278",
+        "title:dreammimiclearningvisuomotorwholebodylocomanipulationviaworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25666",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T04:11:59.980484+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deployingfoundationmodelsforembodiednavigation",
+      "identity_keys": [
+        "arxiv:2609.25666",
+        "title:deployingfoundationmodelsforembodiednavigation"
+      ]
     }
   ]
 }
