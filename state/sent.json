@@ -14341,6 +14341,132 @@
         "arxiv:2609.25666",
         "title:deployingfoundationmodelsforembodiednavigation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25881",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T14:20:26.640685+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "delvingintoasymmetricinformationdynamicsforhighfidelityvirtualtryon",
+      "identity_keys": [
+        "arxiv:2609.25881",
+        "title:delvingintoasymmetricinformationdynamicsforhighfidelityvirtualtryon"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26300",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T14:20:27.023130+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "compkvcompensationawarekvselectionforlongcontextllminference",
+      "identity_keys": [
+        "arxiv:2609.26300",
+        "title:compkvcompensationawarekvselectionforlongcontextllminference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1137/25m1754790",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T14:20:27.396486+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/25m1754790",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "highdimensionalanalysisofridgeregressionfornonidenticallydistributeddatawithavarianceprofile",
+      "identity_keys": [
+        "doi:10.1137/25m1754790",
+        "title:highdimensionalanalysisofridgeregressionfornonidenticallydistributeddatawithavarianceprofile"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26620",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T14:20:27.527976+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geocomposergeometrygroundedphotographiccompositioninstruction",
+      "identity_keys": [
+        "arxiv:2609.26620",
+        "title:geocomposergeometrygroundedphotographiccompositioninstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26499",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T14:20:28.340904+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generalizingmanipulationskillswithalocalcodingagent",
+      "identity_keys": [
+        "arxiv:2609.26499",
+        "title:generalizingmanipulationskillswithalocalcodingagent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22421",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T14:20:28.675919+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whereworldmodelsbreaknaturalinputfailurediscovery",
+      "identity_keys": [
+        "arxiv:2608.22421",
+        "title:whereworldmodelsbreaknaturalinputfailurediscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26360",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T14:20:29.034934+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalfloorplanguidedvisionlanguageexplorationforembodiedquestionanswering",
+      "identity_keys": [
+        "arxiv:2609.26360",
+        "title:hierarchicalfloorplanguidedvisionlanguageexplorationforembodiedquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26520",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T14:20:29.245983+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "matemultiagentvirtualteleoperationplatformforhumanoidcollaborationdatacollection",
+      "identity_keys": [
+        "arxiv:2609.26520",
+        "title:matemultiagentvirtualteleoperationplatformforhumanoidcollaborationdatacollection"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3688102",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T14:21:14.794145+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3688102",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "anewapproachtomotionplanningin3dforadubinsvehiclespecialcaseonasphere",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3688102",
+        "title:anewapproachtomotionplanningin3dforadubinsvehiclespecialcaseonasphere"
+      ]
     }
   ]
 }
