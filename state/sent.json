@@ -14467,6 +14467,132 @@
         "doi:10.1109/tro.2026.3688102",
         "title:anewapproachtomotionplanningin3dforadubinsvehiclespecialcaseonasphere"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-025-03505-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-23T23:21:25.188052+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-025-03505-w",
+      "venue": "Genome Biology",
+      "title_key": "multitaskbenchmarkingofspatiallyresolvedgeneexpressionsimulationmodels",
+      "identity_keys": [
+        "doi:10.1186/s13059-025-03505-w",
+        "title:multitaskbenchmarkingofspatiallyresolvedgeneexpressionsimulationmodels"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.08.30.748070",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-23T23:21:26.242901+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.08.30.748070",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "stochasticbiophysicsofcellularradiosensitivityfrommolecularnoiseandrepairkineticstoevolutionarydemographics",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.08.30.748070",
+        "title:stochasticbiophysicsofcellularradiosensitivityfrommolecularnoiseandrepairkineticstoevolutionarydemographics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23181",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T23:21:26.705317+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cyberfactoryscalingcybersecuritycapabilitieswithinstancesfromthewild",
+      "identity_keys": [
+        "arxiv:2608.23181",
+        "title:cyberfactoryscalingcybersecuritycapabilitieswithinstancesfromthewild"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25036",
+      "category": "ml",
+      "first_sent_at": "2026-09-23T23:21:27.018095+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "4dgsjepatemporallycompositionaljointembeddingpredictionfordynamicgaussiansplatting",
+      "identity_keys": [
+        "arxiv:2609.25036",
+        "title:4dgsjepatemporallycompositionaljointembeddingpredictionfordynamicgaussiansplatting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23875",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T23:21:27.916833+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aifindsaway",
+      "identity_keys": [
+        "arxiv:2608.23875",
+        "title:aifindsaway"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.22971",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T23:21:28.257234+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "parallelworldtesttimescalingforembodiedreasoning",
+      "identity_keys": [
+        "arxiv:2608.22971",
+        "title:parallelworldtesttimescalingforembodiedreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26007",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T23:21:28.392243+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skytopiamonoculardronenavigationwithactionconditionedlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2609.26007",
+        "title:skytopiamonoculardronenavigationwithactionconditionedlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26293",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T23:21:28.495444+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dualfrontierwhencananagenttrustitsworldmodel",
+      "identity_keys": [
+        "arxiv:2609.26293",
+        "title:dualfrontierwhencananagenttrustitsworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25652",
+      "category": "frontier",
+      "first_sent_at": "2026-09-23T23:22:13.844788+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gamedirectordecouplinggameplaylogicfromrenderingforplayerconfigurablegameworldmodels",
+      "identity_keys": [
+        "arxiv:2609.25652",
+        "title:gamedirectordecouplinggameplaylogicfromrenderingforplayerconfigurablegameworldmodels"
+      ]
     }
   ]
 }
