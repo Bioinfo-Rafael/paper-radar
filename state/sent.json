@@ -14733,6 +14733,118 @@
         "arxiv:2608.23353",
         "title:formuevollmguidedevolutionfordiscoveringsolverefficientmixedintegerprogrammingformulations"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27656",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T08:18:42.954466+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "internw0afoundationalphysicalworldmodelforefficientrealworldinteractions",
+      "identity_keys": [
+        "arxiv:2609.27656",
+        "title:internw0afoundationalphysicalworldmodelforefficientrealworldinteractions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27303",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T08:18:44.375382+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liveassistantlearningwhetherwhenandwhomtoassistinrealworldlivesocialstreams",
+      "identity_keys": [
+        "arxiv:2609.27303",
+        "title:liveassistantlearningwhetherwhenandwhomtoassistinrealworldlivesocialstreams"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27572",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T08:18:44.768195+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dcrldecouplingandcouplingreinforcementlearningviapolicyrewardmanifoldalignment",
+      "identity_keys": [
+        "arxiv:2609.27572",
+        "title:dcrldecouplingandcouplingreinforcementlearningviapolicyrewardmanifoldalignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27308",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T08:18:45.764827+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedswecodingagentsforlonghorizondexterousrobotics",
+      "identity_keys": [
+        "arxiv:2609.27308",
+        "title:embodiedswecodingagentsforlonghorizondexterousrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28256",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T08:18:46.015117+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "membodiedrecurrentassociativememoryforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2609.28256",
+        "title:membodiedrecurrentassociativememoryforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aea7639",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T08:18:46.305029+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aea7639",
+      "venue": "Science Robotics",
+      "title_key": "bioinspiredmultimodalrobotics",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aea7639",
+        "title:bioinspiredmultimodalrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27332",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T08:18:46.725877+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stablegeometrywithdivergenttaskevidenceforefficientlonghorizonagentcompression",
+      "identity_keys": [
+        "arxiv:2609.27332",
+        "title:stablegeometrywithdivergenttaskevidenceforefficientlonghorizonagentcompression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23329",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T08:18:46.957531+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkingbeyondvideosunifyingvideoreasoninganddeepresearchforopenworldvideoagents",
+      "identity_keys": [
+        "arxiv:2608.23329",
+        "title:thinkingbeyondvideosunifyingvideoreasoninganddeepresearchforopenworldvideoagents"
+      ]
     }
   ]
 }
