@@ -15000,6 +15000,105 @@
         "openalex:w7214074909",
         "title:buildingpracticalaiskillswithagenerativeaiandagenticaicourseinindore"
       ]
+    },
+    {
+      "canonical_id": "pubmed:42780219",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-24T23:41:33.939152+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ArXiv",
+      "title_key": "flowlotlinearizedoptimaltransportforflowcytometryanalysis",
+      "identity_keys": [
+        "pubmed:42780219",
+        "title:flowlotlinearizedoptimaltransportforflowcytometryanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.09.11.750809",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-24T23:41:34.690658+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.09.11.750809",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "empiricalestimationofambientcontaminationincombinatorialsinglecellmethodsusingmultireferencemapping",
+      "identity_keys": [
+        "doi:10.64898/2026.09.11.750809",
+        "pubmed:42779630",
+        "title:empiricalestimationofambientcontaminationincombinatorialsinglecellmethodsusingmultireferencemapping"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25116",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T23:41:35.478845+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "grapegradientrefinementandprogressawareexploitationforqueryefficienthighdimensionalbayesianoptimization",
+      "identity_keys": [
+        "arxiv:2608.25116",
+        "title:grapegradientrefinementandprogressawareexploitationforqueryefficienthighdimensionalbayesianoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24855",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T23:41:36.023679+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "leflowgenerativelatentflowplanningforworldmodels",
+      "identity_keys": [
+        "arxiv:2608.24855",
+        "title:leflowgenerativelatentflowplanningforworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24603",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T23:41:36.616357+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gripperawarevisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.24603",
+        "title:gripperawarevisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-11015-3",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T23:41:36.943892+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-11015-3",
+      "venue": "Nature",
+      "title_key": "electricallycontrollablesuperconductingmemoryeffectinute2",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-11015-3",
+        "title:electricallycontrollablesuperconductingmemoryeffectinute2"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27279",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T23:41:37.115096+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ensimementitystructuredindexingforlongtermagentmemory",
+      "identity_keys": [
+        "arxiv:2609.27279",
+        "title:ensimementitystructuredindexingforlongtermagentmemory"
+      ]
     }
   ]
 }
