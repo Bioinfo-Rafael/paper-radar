@@ -14915,6 +14915,91 @@
         "doi:10.1038/s42256-026-01254-4",
         "title:neuralsamplingfromcognitivemapsenablesgoaldirectedimaginationandplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-025-09997-7",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-24T14:19:51.477667+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-025-09997-7",
+      "venue": "Nature",
+      "title_key": "dissectinggeneregulatorynetworksgoverninghumancorticalcellfate",
+      "identity_keys": [
+        "doi:10.1038/s41586-025-09997-7",
+        "title:dissectinggeneregulatorynetworksgoverninghumancorticalcellfate"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ado1010",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T14:19:52.871740+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ado1010",
+      "venue": "Science Robotics",
+      "title_key": "montecarlotreesearchwithspectralexpansionforplanningwithdynamicalsystems",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ado1010",
+        "title:montecarlotreesearchwithspectralexpansionforplanningwithdynamicalsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27450",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T14:19:53.061135+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beeinterventionadaptiverealworldreinforcementlearningwithvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2609.27450",
+        "title:beeinterventionadaptiverealworldreinforcementlearningwithvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28161",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T14:19:53.393210+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dissectingadvantageguidedposttrainingforvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2609.28161",
+        "title:dissectingadvantageguidedposttrainingforvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3734032",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T14:19:53.592452+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3734032",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "embodiedrobotmanipulationintheeraoffoundationmodelsplanningandlearningperspectives",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3734032",
+        "title:embodiedrobotmanipulationintheeraoffoundationmodelsplanningandlearningperspectives"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.22910475",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T14:19:54.057129+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.22910475",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "buildingpracticalaiskillswithagenerativeaiandagenticaicourseinindore",
+      "identity_keys": [
+        "doi:10.5281/zenodo.22910475",
+        "openalex:w7214074909",
+        "title:buildingpracticalaiskillswithagenerativeaiandagenticaicourseinindore"
+      ]
     }
   ]
 }
