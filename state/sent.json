@@ -14593,6 +14593,146 @@
         "arxiv:2609.25652",
         "title:gamedirectordecouplinggameplaylogicfromrenderingforplayerconfigurablegameworldmodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28272",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T04:02:24.983186+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsefficientreasoninglearningcausalshortcutsfordiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.28272",
+        "title:towardsefficientreasoninglearningcausalshortcutsfordiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27658",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T04:02:25.228653+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "privatedecentralizedoptimizationwithnoisereductionandbiascorrection",
+      "identity_keys": [
+        "arxiv:2609.27658",
+        "title:privatedecentralizedoptimizationwithnoisereductionandbiascorrection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27233",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T04:02:25.885044+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "distillingsequentialcomputationintransformerlanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.27233",
+        "title:distillingsequentialcomputationintransformerlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27291",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T04:02:26.383901+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ngnlearningneuralnetworksizeasadifferentiablecount",
+      "identity_keys": [
+        "arxiv:2609.27291",
+        "title:ngnlearningneuralnetworksizeasadifferentiablecount"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28122",
+      "category": "ml",
+      "first_sent_at": "2026-09-24T04:02:26.773243+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "npboostneuralprocesseswithgradientboostedfixedeffects",
+      "identity_keys": [
+        "arxiv:2609.28122",
+        "title:npboostneuralprocesseswithgradientboostedfixedeffects"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28247",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T04:02:27.547606+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "controllingcollectivesofaiagentsinreasoningspacewithspatialtransformers",
+      "identity_keys": [
+        "arxiv:2609.28247",
+        "title:controllingcollectivesofaiagentsinreasoningspacewithspatialtransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28431",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T04:02:27.732912+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "limabridginglongtermimaginationtorealtimedexterousmanipulationviaasynchronousdiffusion",
+      "identity_keys": [
+        "arxiv:2609.28431",
+        "title:limabridginglongtermimaginationtorealtimedexterousmanipulationviaasynchronousdiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28184",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T04:02:28.113996+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlmscandescribebutnotmeasureobjectcentricsceneunderstandingforroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2609.28184",
+        "title:vlmscandescribebutnotmeasureobjectcentricsceneunderstandingforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23658",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T04:02:28.433503+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "elastickvcacheforllmservingaworkingreclamationmechanismandwhychunkedprefillalreadyclosesthegap",
+      "identity_keys": [
+        "arxiv:2608.23658",
+        "title:elastickvcacheforllmservingaworkingreclamationmechanismandwhychunkedprefillalreadyclosesthegap"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23353",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T04:02:28.641099+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "formuevollmguidedevolutionfordiscoveringsolverefficientmixedintegerprogrammingformulations",
+      "identity_keys": [
+        "arxiv:2608.23353",
+        "title:formuevollmguidedevolutionfordiscoveringsolverefficientmixedintegerprogrammingformulations"
+      ]
     }
   ]
 }
