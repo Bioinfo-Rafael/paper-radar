@@ -14845,6 +14845,76 @@
         "arxiv:2608.23329",
         "title:thinkingbeyondvideosunifyingvideoreasoninganddeepresearchforopenworldvideoagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.23336",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T10:50:31.039171+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cancodingagentsbuildrobustbaselinesaskillbasedapproachforautomatingthemedicalimagingmodeldevelopmentpipeline",
+      "identity_keys": [
+        "arxiv:2608.23336",
+        "title:cancodingagentsbuildrobustbaselinesaskillbasedapproachforautomatingthemedicalimagingmodeldevelopmentpipeline"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28416",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T10:50:31.367795+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenteditingworldmodelrethinkingworldmodelingforllmagents",
+      "identity_keys": [
+        "arxiv:2609.28416",
+        "title:agenteditingworldmodelrethinkingworldmodelingforllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28314",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T10:50:31.768899+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tandemtaskandmotionplanningwithasneededdemonstrationsforefficientvisionlanguageactionmodelfinetuning",
+      "identity_keys": [
+        "arxiv:2609.28314",
+        "title:tandemtaskandmotionplanningwithasneededdemonstrationsforefficientvisionlanguageactionmodelfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28366",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T10:50:32.129000+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anchorreasoningavisualgroundingandcausalreasoningdatasetinlongtailautonomousdrivingscenarios",
+      "identity_keys": [
+        "arxiv:2609.28366",
+        "title:anchorreasoningavisualgroundingandcausalreasoningdatasetinlongtailautonomousdrivingscenarios"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01254-4",
+      "category": "frontier",
+      "first_sent_at": "2026-09-24T10:50:32.239834+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01254-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "neuralsamplingfromcognitivemapsenablesgoaldirectedimaginationandplanning",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01254-4",
+        "title:neuralsamplingfromcognitivemapsenablesgoaldirectedimaginationandplanning"
+      ]
     }
   ]
 }
