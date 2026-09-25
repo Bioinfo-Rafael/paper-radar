@@ -15184,6 +15184,76 @@
         "arxiv:2608.24571",
         "title:jointoptimizationoftoolcreationanduseforlargelanguagemodelagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29802",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T08:33:28.917465+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtoideateforscientificimpact",
+      "identity_keys": [
+        "arxiv:2609.29802",
+        "title:learningtoideateforscientificimpact"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30199",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T08:33:29.214832+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "explorationbenchmeasuringaisystemsexplorationinverifiablealienworlds",
+      "identity_keys": [
+        "arxiv:2609.30199",
+        "title:explorationbenchmeasuringaisystemsexplorationinverifiablealienworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29204",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T08:33:29.687527+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adahvlaadaptiveharnessesforlonghorizonvisionlanguageactionexecution",
+      "identity_keys": [
+        "arxiv:2609.29204",
+        "title:adahvlaadaptiveharnessesforlonghorizonvisionlanguageactionexecution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24485",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T08:33:30.088115+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neuralparkerareinforcementlearningplannerforirregularparkingenvironments",
+      "identity_keys": [
+        "arxiv:2608.24485",
+        "title:neuralparkerareinforcementlearningplannerforirregularparkingenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01078-8",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T08:34:15.516156+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01078-8",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "asemanticenhancedmultimodalremotesensingfoundationmodelforearthobservation",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01078-8",
+        "title:asemanticenhancedmultimodalremotesensingfoundationmodelforearthobservation"
+      ]
     }
   ]
 }
