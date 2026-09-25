@@ -15254,6 +15254,122 @@
         "doi:10.1038/s42256-025-01078-8",
         "title:asemanticenhancedmultimodalremotesensingfoundationmodelforearthobservation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.07.01.735965",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-25T10:54:32.142009+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "delphaipredictsheterogeneousperturbationresponseswithlearnedsinglecellfitness",
+      "identity_keys": [
+        "doi:10.64898/2026.07.01.735965",
+        "s2:6abe325b82d3aa999e9ab55a413c1efcd7c4e82f",
+        "title:delphaipredictsheterogeneousperturbationresponseswithlearnedsinglecellfitness"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/comst.2026.3690542",
+      "category": "ml",
+      "first_sent_at": "2026-09-25T10:54:32.908244+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/comst.2026.3690542",
+      "venue": "IEEE Communications Surveys & Tutorials",
+      "title_key": "generativeaimeets6gandbeyonddiffusionmodelsforsemanticcommunications",
+      "identity_keys": [
+        "doi:10.1109/comst.2026.3690542",
+        "openalex:w4416191160",
+        "title:generativeaimeets6gandbeyonddiffusionmodelsforsemanticcommunications"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-72292-0",
+      "category": "ml",
+      "first_sent_at": "2026-09-25T10:54:33.124958+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-72292-0",
+      "venue": "Nature Communications",
+      "title_key": "fundiffdiffusionmodelsoverfunctionspacesforphysicsinformedgenerativemodeling",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-72292-0",
+        "openalex:w4416763299",
+        "pubmed:42036410",
+        "title:fundiffdiffusionmodelsoverfunctionspacesforphysicsinformedgenerativemodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24794",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T10:54:34.845119+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cafeselfimprovingsearchagentsneedcoevolvingfeedback",
+      "identity_keys": [
+        "arxiv:2608.24794",
+        "title:cafeselfimprovingsearchagentsneedcoevolvingfeedback"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30036",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T10:54:35.564067+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aimshorttoreachfaryourfrozenworldmodelcanplanbetterthanyouthink",
+      "identity_keys": [
+        "arxiv:2609.30036",
+        "title:aimshorttoreachfaryourfrozenworldmodelcanplanbetterthanyouthink"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29171",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T10:54:35.772071+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "representationworldmodellearningstatestransitionandexecutableplansinrepresentation",
+      "identity_keys": [
+        "arxiv:2609.29171",
+        "title:representationworldmodellearningstatestransitionandexecutableplansinrepresentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29744",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T10:54:36.670515+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "betweenthecommitsprocesserrorandclaimreliabilityinawhollyaiauthoredcodebase",
+      "identity_keys": [
+        "arxiv:2609.29744",
+        "title:betweenthecommitsprocesserrorandclaimreliabilityinawhollyaiauthoredcodebase"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25163",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T10:54:36.846960+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bayesianflownetworksforofflinetrajectoryplanning",
+      "identity_keys": [
+        "arxiv:2608.25163",
+        "title:bayesianflownetworksforofflinetrajectoryplanning"
+      ]
     }
   ]
 }
