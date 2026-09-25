@@ -15099,6 +15099,91 @@
         "arxiv:2609.27279",
         "title:ensimementitystructuredindexingforlongtermagentmemory"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/icassp55912.2026.11460626",
+      "category": "ml",
+      "first_sent_at": "2026-09-25T04:14:43.440374+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physicsanddatadriventransformermambaframeworkforflowfield",
+      "identity_keys": [
+        "arxiv:2609.29087",
+        "doi:10.1109/icassp55912.2026.11460626",
+        "title:physicsanddatadriventransformermambaframeworkforflowfield"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29892",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T04:14:44.016683+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "qwenplanneragentaclosedloopaiforaiframeworkforrealworldmobileplanneragents",
+      "identity_keys": [
+        "arxiv:2609.29892",
+        "title:qwenplanneragentaclosedloopaiforaiframeworkforrealworldmobileplanneragents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28675",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T04:14:44.405445+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiagentselfimprovingreinforcementlearningforvideoreasoning",
+      "identity_keys": [
+        "arxiv:2608.28675",
+        "title:multiagentselfimprovingreinforcementlearningforvideoreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30264",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T04:14:44.924877+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adwmactiondiscriminativeworldmodelsforcounterfactualmodelpredictivecontrol",
+      "identity_keys": [
+        "arxiv:2609.30264",
+        "title:adwmactiondiscriminativeworldmodelsforcounterfactualmodelpredictivecontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30150",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T04:14:46.298904+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graphbasedinferenceandtopologyawaremultiagentreinforcementlearningforlargescalerailwaynetworkmanagement",
+      "identity_keys": [
+        "arxiv:2609.30150",
+        "title:graphbasedinferenceandtopologyawaremultiagentreinforcementlearningforlargescalerailwaynetworkmanagement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24571",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T04:14:46.492971+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jointoptimizationoftoolcreationanduseforlargelanguagemodelagents",
+      "identity_keys": [
+        "arxiv:2608.24571",
+        "title:jointoptimizationoftoolcreationanduseforlargelanguagemodelagents"
+      ]
     }
   ]
 }
