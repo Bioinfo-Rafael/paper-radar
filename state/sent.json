@@ -15370,6 +15370,76 @@
         "arxiv:2608.25163",
         "title:bayesianflownetworksforofflinetrajectoryplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29861",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T14:34:28.393871+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gpt6astralightsupembodiednavigationevaluationinzeroshotvisionandlanguagenavigationincontinuousenvironments",
+      "identity_keys": [
+        "arxiv:2609.29861",
+        "title:gpt6astralightsupembodiednavigationevaluationinzeroshotvisionandlanguagenavigationincontinuousenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29091",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T14:34:28.763835+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frompassiveexecutiontoactiveexplorationagenticembodiedmanipulationinrealisticenvironments",
+      "identity_keys": [
+        "arxiv:2609.29091",
+        "title:frompassiveexecutiontoactiveexplorationagenticembodiedmanipulationinrealisticenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29735",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T14:34:29.465895+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "c3mcrosssessionmultimodalmemorymaintenanceforlonghorizontasks",
+      "identity_keys": [
+        "arxiv:2609.29735",
+        "title:c3mcrosssessionmultimodalmemorymaintenanceforlonghorizontasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24369",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T14:34:29.597941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dorecipeshavepersonascharacterizingandgeneratingcreatorstyleinattributedproceduralgraphs",
+      "identity_keys": [
+        "arxiv:2608.24369",
+        "title:dorecipeshavepersonascharacterizingandgeneratingcreatorstyleinattributedproceduralgraphs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.24570",
+      "category": "frontier",
+      "first_sent_at": "2026-09-25T14:34:29.747381+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evidxevidenceawareactivediagnosiswithscaffoldedllmagents",
+      "identity_keys": [
+        "arxiv:2608.24570",
+        "title:evidxevidenceawareactivediagnosiswithscaffoldedllmagents"
+      ]
     }
   ]
 }
