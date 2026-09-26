@@ -15766,6 +15766,77 @@
         "doi:10.1109/tro.2025.3644358",
         "title:curvatureconstrainedvectorfieldformotionplanningofnonholonomicrobots"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27754",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T23:17:49.325090+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "efficientautointerpretabilityofaimodelsinbiology",
+      "identity_keys": [
+        "arxiv:2608.27754",
+        "title:efficientautointerpretabilityofaimodelsinbiology"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26788",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T23:17:49.913439+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "decouplingplanningandcontrolforinstructableagents",
+      "identity_keys": [
+        "arxiv:2608.26788",
+        "title:decouplingplanningandcontrolforinstructableagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27328",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T23:17:50.110111+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "r2mbenchevaluatingrevisitmemoryviarelativeconsistencyininteractivevideoworldmodels",
+      "identity_keys": [
+        "arxiv:2608.27328",
+        "title:r2mbenchevaluatingrevisitmemoryviarelativeconsistencyininteractivevideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27609",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T23:17:50.580059+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phrvlaplanninghorizonreasoningforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2608.27609",
+        "title:phrvlaplanninghorizonreasoningforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.58602/jaiti.v4i3.307",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T23:17:50.934187+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.58602/jaiti.v4i3.307",
+      "venue": "Journal of Artificial Intelligence and Technology Information (JAITI)",
+      "title_key": "applicationofaiagenticworkflowalgorithmsincontemporarybusinessprocessautomation",
+      "identity_keys": [
+        "doi:10.58602/jaiti.v4i3.307",
+        "openalex:w7214232257",
+        "title:applicationofaiagenticworkflowalgorithmsincontemporarybusinessprocessautomation"
+      ]
     }
   ]
 }
