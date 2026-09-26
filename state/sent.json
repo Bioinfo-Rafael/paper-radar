@@ -15609,6 +15609,91 @@
         "arxiv:2609.30147",
         "title:graspgeneratingrevisingandassessingforstrategicplanningwithagenticai"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-77381-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-26T10:37:58.105574+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-77381-8",
+      "venue": "Nature communications",
+      "title_key": "glmprioragenomiclanguagemodelfortransferablesequencederivedpriorsingeneregulatorynetworkinference",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-77381-8",
+        "pubmed:42791261",
+        "title:glmprioragenomiclanguagemodelfortransferablesequencederivedpriorsingeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aem5190",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T10:37:58.790895+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aem5190",
+      "venue": "Science",
+      "title_key": "sciencestillhasexpertisewhatitslostisauthority",
+      "identity_keys": [
+        "doi:10.1126/science.aem5190",
+        "title:sciencestillhasexpertisewhatitslostisauthority"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29444",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T10:37:58.936560+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "itersynthrethinkingdeepsearchagentsviaroledecouplediterativesynthesis",
+      "identity_keys": [
+        "arxiv:2609.29444",
+        "title:itersynthrethinkingdeepsearchagentsviaroledecouplediterativesynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30186",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T10:37:59.086210+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jevmobilejevasanexecutorformobileguiagents",
+      "identity_keys": [
+        "arxiv:2609.30186",
+        "title:jevmobilejevasanexecutorformobileguiagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3588720",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T10:37:59.300203+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3588720",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "amultilevelsimilarityapproachforsingleviewobjectgraspingmatchingplanningandfinetuning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3588720",
+        "title:amultilevelsimilarityapproachforsingleviewobjectgraspingmatchingplanningandfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25559",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T10:37:59.494258+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adavdradaptivetooluseandreflectionforvideodeepresearch",
+      "identity_keys": [
+        "arxiv:2608.25559",
+        "title:adavdradaptivetooluseandreflectionforvideodeepresearch"
+      ]
     }
   ]
 }
