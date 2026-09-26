@@ -15440,6 +15440,105 @@
         "arxiv:2608.24570",
         "title:evidxevidenceawareactivediagnosiswithscaffoldedllmagents"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.09.24.754259",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-26T04:21:22.221899+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.09.24.754259",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "perturbbridgeconditionallatentschrodingerbridgeforsinglecellperturbationprediction",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.09.24.754259",
+        "title:perturbbridgeconditionallatentschrodingerbridgeforsinglecellperturbationprediction"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1014801",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-26T04:21:22.408648+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pcbi.1014801",
+      "venue": "PLoS computational biology",
+      "title_key": "topologicallybasedparameterinferenceforagentbasedmodelselectionfromspatiotemporalcellulardata",
+      "identity_keys": [
+        "doi:10.1371/journal.pcbi.1014801",
+        "pubmed:42789676",
+        "title:topologicallybasedparameterinferenceforagentbasedmodelselectionfromspatiotemporalcellulardata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26334",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T04:21:23.189099+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "proofevolveneurosymbolicevolutionforformalautomatedtheoremproving",
+      "identity_keys": [
+        "arxiv:2608.26334",
+        "title:proofevolveneurosymbolicevolutionforformalautomatedtheoremproving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25660",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T04:21:23.377595+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkproberespondimprovinglargelanguagemodelsasjudgesofresearchideanovelty",
+      "identity_keys": [
+        "arxiv:2608.25660",
+        "title:thinkproberespondimprovinglargelanguagemodelsasjudgesofresearchideanovelty"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26418",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T04:21:24.596083+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "redwoodafrontieraiacceleratordesignedverifiedanddeployedfromscratchin2weeksbyai",
+      "identity_keys": [
+        "arxiv:2608.26418",
+        "title:redwoodafrontieraiacceleratordesignedverifiedanddeployedfromscratchin2weeksbyai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25927",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T04:21:27.760822+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "codeworldmodelcodingagentasworldbrain",
+      "identity_keys": [
+        "arxiv:2608.25927",
+        "title:codeworldmodelcodingagentasworldbrain"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26292",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T04:21:28.167556+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onscopeclassificationandcurrentknowledgeeditingbenchmarksanegativeresultwithinlayasagradientfreecasestudy",
+      "identity_keys": [
+        "arxiv:2608.26292",
+        "title:onscopeclassificationandcurrentknowledgeeditingbenchmarksanegativeresultwithinlayasagradientfreecasestudy"
+      ]
     }
   ]
 }
