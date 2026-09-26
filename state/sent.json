@@ -15694,6 +15694,78 @@
         "arxiv:2608.25559",
         "title:adavdradaptivetooluseandreflectionforvideodeepresearch"
       ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.22949609",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T13:46:39.469474+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.22949609",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "aiselfiterationoptimizationatthelimitappliedtechnologiesmathematicaldynamicsverificationarchitecturesandsaferecursiveimprovementisaflagshipscaleresearchvolumeexploringhowartificialintelligencesystemsmayimprovetheirowncapabilitiesthroughstructuredmeasurableandverifiableiterativeprocesses",
+      "identity_keys": [
+        "doi:10.5281/zenodo.22949609",
+        "openalex:w7214321370",
+        "title:aiselfiterationoptimizationatthelimitappliedtechnologiesmathematicaldynamicsverificationarchitecturesandsaferecursiveimprovementisaflagshipscaleresearchvolumeexploringhowartificialintelligencesystemsmayimprovetheirowncapabilitiesthroughstructuredmeasurableandverifiableiterativeprocesses"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3732824",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T13:46:39.741355+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3732824",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "flowvlavisualchainofthoughtbasedmotionreasoningforvisionlanguageactionmodels",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3732824",
+        "title:flowvlavisualchainofthoughtbasedmotionreasoningforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.62643/ijerst.2026.v22.n3.4654",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T13:46:40.142239+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.62643/ijerst.2026.v22.n3.4654",
+      "venue": "International Journal of Engineering Research and Science & Technology",
+      "title_key": "selfevolvingaiagentwithskillmemory",
+      "identity_keys": [
+        "doi:10.62643/ijerst.2026.v22.n3.4654",
+        "openalex:w7214201607",
+        "title:selfevolvingaiagentwithskillmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29913",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T13:47:25.373043+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "miloefficientmanyshotincontextlearningwithblockwiselowrankcompression",
+      "identity_keys": [
+        "arxiv:2609.29913",
+        "title:miloefficientmanyshotincontextlearningwithblockwiselowrankcompression"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3644358",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T13:47:25.913711+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3644358",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "curvatureconstrainedvectorfieldformotionplanningofnonholonomicrobots",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3644358",
+        "title:curvatureconstrainedvectorfieldformotionplanningofnonholonomicrobots"
+      ]
     }
   ]
 }
