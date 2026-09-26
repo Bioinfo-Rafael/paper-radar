@@ -15539,6 +15539,76 @@
         "arxiv:2608.26292",
         "title:onscopeclassificationandcurrentknowledgeeditingbenchmarksanegativeresultwithinlayasagradientfreecasestudy"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25572",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T08:14:52.292842+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "confalwmconfidenceguidedactivelearningforactionconditionedworldmodels",
+      "identity_keys": [
+        "arxiv:2608.25572",
+        "title:confalwmconfidenceguidedactivelearningforactionconditionedworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.25666",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T08:14:52.412967+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "prismprojectionintegratedsamplingbasedmpcwithbayesiancosttuningforbimanualmanipulation",
+      "identity_keys": [
+        "arxiv:2608.25666",
+        "title:prismprojectionintegratedsamplingbasedmpcwithbayesiancosttuningforbimanualmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.26239",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T08:14:52.584291+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wallssscalinglonghorizonworldmodelsvianextscaleautoregression",
+      "identity_keys": [
+        "arxiv:2608.26239",
+        "title:wallssscalinglonghorizonworldmodelsvianextscaleautoregression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29166",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T08:14:52.701257+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnesspaianevolvingharnessforphysicalai",
+      "identity_keys": [
+        "arxiv:2609.29166",
+        "title:harnesspaianevolvingharnessforphysicalai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30147",
+      "category": "frontier",
+      "first_sent_at": "2026-09-26T08:15:38.043728+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graspgeneratingrevisingandassessingforstrategicplanningwithagenticai",
+      "identity_keys": [
+        "arxiv:2609.30147",
+        "title:graspgeneratingrevisingandassessingforstrategicplanningwithagenticai"
+      ]
     }
   ]
 }
