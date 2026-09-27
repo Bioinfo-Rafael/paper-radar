@@ -15837,6 +15837,76 @@
         "openalex:w7214232257",
         "title:applicationofaiagenticworkflowalgorithmsincontemporarybusinessprocessautomation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29394",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T04:41:26.406516+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "racapagenticreasoningactingandcodingaspoliciesforevolvablerobotlearning",
+      "identity_keys": [
+        "arxiv:2609.29394",
+        "title:racapagenticreasoningactingandcodingaspoliciesforevolvablerobotlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adz1543",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T04:41:26.675484+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adz1543",
+      "venue": "Science Robotics",
+      "title_key": "howfoundationmodelswillrevolutionizerobotswarms",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adz1543",
+        "title:howfoundationmodelswillrevolutionizerobotswarms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29421",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T04:41:27.183978+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rufusairanopenllmposttrainingrecipe",
+      "identity_keys": [
+        "arxiv:2609.29421",
+        "title:rufusairanopenllmposttrainingrecipe"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29875",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T04:41:27.360421+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whencanagentsforgettheirreasoningiclrforlonghorizonagentcontextcompression",
+      "identity_keys": [
+        "arxiv:2609.29875",
+        "title:whencanagentsforgettheirreasoningiclrforlonghorizonagentcontextcompression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.27046",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T04:41:27.660551+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "performancefoundationsofparalleldistributedreasoninglanguagemodels",
+      "identity_keys": [
+        "arxiv:2608.27046",
+        "title:performancefoundationsofparalleldistributedreasoninglanguagemodels"
+      ]
     }
   ]
 }
