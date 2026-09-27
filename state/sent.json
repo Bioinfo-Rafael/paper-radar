@@ -16036,6 +16036,104 @@
         "openalex:w7151398194",
         "title:applicationsoflargelanguagemodelsinradiationoncologyfromworkflowautomationtoclinicalintelligence"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28909",
+      "category": "ml",
+      "first_sent_at": "2026-09-27T23:31:43.694942+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coarsetofineiterativeadversarialneuralcellularautomataformedicalimagesynthesis",
+      "identity_keys": [
+        "arxiv:2608.28909",
+        "title:coarsetofineiterativeadversarialneuralcellularautomataformedicalimagesynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28799",
+      "category": "ml",
+      "first_sent_at": "2026-09-27T23:31:44.069553+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "separablenonnegativematrixfactorizationusingpoweredratioofnormsregularization",
+      "identity_keys": [
+        "arxiv:2608.28799",
+        "title:separablenonnegativematrixfactorizationusingpoweredratioofnormsregularization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adt3842",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T23:31:44.648461+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adt3842",
+      "venue": "Science Robotics",
+      "title_key": "advancingscientificdiscoverywiththeaidofrobotics",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adt3842",
+        "title:advancingscientificdiscoverywiththeaidofrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28279",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T23:31:45.146895+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stegnavspatiotemporaleventgraphreasoningformultimodallifelongobjectnavigation",
+      "identity_keys": [
+        "arxiv:2608.28279",
+        "title:stegnavspatiotemporaleventgraphreasoningformultimodallifelongobjectnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28790",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T23:31:45.358040+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "astraagenticsystemforticketresolutionandanalysis",
+      "identity_keys": [
+        "arxiv:2608.28790",
+        "title:astraagenticsystemforticketresolutionandanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.28075",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T23:31:45.569687+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "planalongthewayeventtriggeredfoundationmodelplanningfortampexecutioninpartiallyobservablemanipulation",
+      "identity_keys": [
+        "arxiv:2608.28075",
+        "title:planalongthewayeventtriggeredfoundationmodelplanningfortampexecutioninpartiallyobservablemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aeh3697",
+      "category": "frontier",
+      "first_sent_at": "2026-09-27T23:31:45.722538+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aeh3697",
+      "venue": "Science",
+      "title_key": "gianttunnelingelectroresistanceinslidingferroelectrics",
+      "identity_keys": [
+        "doi:10.1126/science.aeh3697",
+        "title:gianttunnelingelectroresistanceinslidingferroelectrics"
+      ]
     }
   ]
 }
