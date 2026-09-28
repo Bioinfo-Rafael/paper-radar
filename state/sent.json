@@ -16134,6 +16134,180 @@
         "doi:10.1126/science.aeh3697",
         "title:gianttunnelingelectroresistanceinslidingferroelectrics"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-024-02586-y",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-28T17:36:41.050266+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-024-02586-y",
+      "venue": "Nature Methods",
+      "title_key": "udasequniversaldropletmicrofluidicsbasedcombinatorialindexingformassivescalemultimodalsinglecellsequencing",
+      "identity_keys": [
+        "doi:10.1038/s41592-024-02586-y",
+        "openalex:w4406628659",
+        "pubmed:39833568",
+        "title:udasequniversaldropletmicrofluidicsbasedcombinatorialindexingformassivescalemultimodalsinglecellsequencing"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.slads.2026.100032",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-28T17:36:41.477918+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.slads.2026.100032",
+      "venue": "Statistical Learning and Data Science",
+      "title_key": "variationalinferencemethodsforsinglecellgenomics",
+      "identity_keys": [
+        "doi:10.1016/j.slads.2026.100032",
+        "openalex:w7214438128",
+        "title:variationalinferencemethodsforsinglecellgenomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31050",
+      "category": "ml",
+      "first_sent_at": "2026-09-28T17:36:42.235654+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wherecomputemattersheterogeneousattentionforefficientvideodiffusion",
+      "identity_keys": [
+        "arxiv:2609.31050",
+        "title:wherecomputemattersheterogeneousattentionforefficientvideodiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31159",
+      "category": "ml",
+      "first_sent_at": "2026-09-28T17:36:42.954467+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ECML PKDD 2026, Sep 2026, Naples, Italy",
+      "title_key": "momentumguidedfederatedsplitdistillationforpersonalizedtemporaledgeintelligence",
+      "identity_keys": [
+        "arxiv:2609.31159",
+        "title:momentumguidedfederatedsplitdistillationforpersonalizedtemporaledgeintelligence"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/mci.2026.3729548",
+      "category": "ml",
+      "first_sent_at": "2026-09-28T17:36:43.184160+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "IEEE Computational Intelligence Magazine, 2026",
+      "title_key": "aoinetstructuralfaceaoiguidedeyegazetrackrepresentationlearningforautismspectrumdisorderdetection",
+      "identity_keys": [
+        "arxiv:2608.29289",
+        "doi:10.1109/mci.2026.3729548",
+        "title:aoinetstructuralfaceaoiguidedeyegazetrackrepresentationlearningforautismspectrumdisorderdetection"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3767308.3835409",
+      "category": "ml",
+      "first_sent_at": "2026-09-28T17:36:43.729163+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sgpdfusesemanticallyguidedphysicsdisentanglementgeneralmultimodalimagefusion",
+      "identity_keys": [
+        "arxiv:2608.29220",
+        "doi:10.1145/3767308.3835409",
+        "title:sgpdfusesemanticallyguidedphysicsdisentanglementgeneralmultimodalimagefusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30732",
+      "category": "ml",
+      "first_sent_at": "2026-09-28T17:36:45.436205+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trssqpatrustregionmethodforconstrainedstochasticoptimizationunderheavytailednoise",
+      "identity_keys": [
+        "arxiv:2609.30732",
+        "title:trssqpatrustregionmethodforconstrainedstochasticoptimizationunderheavytailednoise"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.29892",
+      "category": "frontier",
+      "first_sent_at": "2026-09-28T17:36:46.306128+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.29892",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "qwenplanneragentaclosedloopaiforaiframeworkforrealworldmobileplanneragents",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.29892",
+        "openalex:w7214316330",
+        "title:qwenplanneragentaclosedloopaiforaiframeworkforrealworldmobileplanneragents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31186",
+      "category": "frontier",
+      "first_sent_at": "2026-09-28T17:36:46.565688+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evolutionarysafetyofrecursiveselfimprovingaitaxonomyriskdiscoveryandevaluation",
+      "identity_keys": [
+        "arxiv:2609.31186",
+        "title:evolutionarysafetyofrecursiveselfimprovingaitaxonomyriskdiscoveryandevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31568",
+      "category": "frontier",
+      "first_sent_at": "2026-09-28T17:36:46.779378+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deepeduv1efficientandscalableagenticllmsforvietnameseeducation",
+      "identity_keys": [
+        "arxiv:2609.31568",
+        "title:deepeduv1efficientandscalableagenticllmsforvietnameseeducation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29100",
+      "category": "frontier",
+      "first_sent_at": "2026-09-28T17:36:47.173116+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agrisimagriculturalsimulationplatformforembodiedintelligenceevaluationingreenhouserobotics",
+      "identity_keys": [
+        "arxiv:2608.29100",
+        "title:agrisimagriculturalsimulationplatformforembodiedintelligenceevaluationingreenhouserobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29005",
+      "category": "frontier",
+      "first_sent_at": "2026-09-28T17:36:48.046104+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adegradationtolerancebenchmarkforcameraonlyendtoenddriving",
+      "identity_keys": [
+        "arxiv:2608.29005",
+        "title:adegradationtolerancebenchmarkforcameraonlyendtoenddriving"
+      ]
     }
   ]
 }
