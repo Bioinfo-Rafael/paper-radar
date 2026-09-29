@@ -16463,6 +16463,175 @@
         "arxiv:2609.35738",
         "title:harnesslearningenablesgeneralizabletesttimeadaptation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2025.101399",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-29T15:36:47.858175+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2025.101399",
+      "venue": "Cell Systems",
+      "title_key": "dynamicalinformationenablesinferenceofgeneregulationatsinglecellscale",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2025.101399",
+        "title:dynamicalinformationenablesinferenceofgeneregulationatsinglecellscale"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.10.28.685172",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-29T15:36:48.243071+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.10.28.685172",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "stat1p53dynamicsprogramcellfatethroughp21andpuma",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.10.28.685172",
+        "title:stat1p53dynamicsprogramcellfatethroughp21andpuma"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29907",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T15:36:49.665321+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffusionbasedinversedesignofdielectricresonatormetasurfacesforshapingsmartelectromagneticenvironments",
+      "identity_keys": [
+        "arxiv:2608.29907",
+        "title:diffusionbasedinversedesignofdielectricresonatormetasurfacesforshapingsmartelectromagneticenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29997",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T15:36:49.936091+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "discretediffusionbridgesforspatiotemporallyalignedimagetranslationandgeneration",
+      "identity_keys": [
+        "arxiv:2608.29997",
+        "title:discretediffusionbridgesforspatiotemporallyalignedimagetranslationandgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29899",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T15:36:50.384546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reignrefurbishedembeddingswithintegratedguidancenetworksforefficientcontextlengthscaling",
+      "identity_keys": [
+        "arxiv:2608.29899",
+        "title:reignrefurbishedembeddingswithintegratedguidancenetworksforefficientcontextlengthscaling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35505",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T15:36:50.740485+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anrlviewofopdleastsquarepolicydistillationforsampleefficientllmreasoning",
+      "identity_keys": [
+        "arxiv:2609.35505",
+        "title:anrlviewofopdleastsquarepolicydistillationforsampleefficientllmreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35541",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T15:36:51.023622+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtherobustnessmechanismwithbileveloptimization",
+      "identity_keys": [
+        "arxiv:2609.35541",
+        "title:learningtherobustnessmechanismwithbileveloptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.2139/ssrn.7245419",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T15:36:51.610870+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asystematicsurveyofagenticskillsarchitecturelifecycleandsecurity",
+      "identity_keys": [
+        "arxiv:2608.29596",
+        "doi:10.2139/ssrn.7245419",
+        "title:asystematicsurveyofagenticskillsarchitecturelifecycleandsecurity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35315",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T15:36:52.474179+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "collaborativeprincipleevolutionviaevidencetransferforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2609.35315",
+        "title:collaborativeprincipleevolutionviaevidencetransferforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.30047",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T15:36:52.804477+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canllmagentsdiscoverevaluatingcreativityonmlengineeringtasks",
+      "identity_keys": [
+        "arxiv:2608.30047",
+        "title:canllmagentsdiscoverevaluatingcreativityonmlengineeringtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35078",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T15:36:53.464672+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "refinedrivereliablefailureguidedlearningforvisionlanguageactiondriving",
+      "identity_keys": [
+        "arxiv:2609.35078",
+        "title:refinedrivereliablefailureguidedlearningforvisionlanguageactiondriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35432",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T15:36:53.629606+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfevolvingcodingagentsfromdigitalprogramstophysicalworldintelligence",
+      "identity_keys": [
+        "arxiv:2609.35432",
+        "title:selfevolvingcodingagentsfromdigitalprogramstophysicalworldintelligence"
+      ]
     }
   ]
 }
