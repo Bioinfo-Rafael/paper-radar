@@ -16308,6 +16308,161 @@
         "arxiv:2608.29005",
         "title:adegradationtolerancebenchmarkforcameraonlyendtoenddriving"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.xgen.2026.101367",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-29T05:11:22.865810+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.xgen.2026.101367",
+      "venue": "Cell genomics",
+      "title_key": "singlecellmultiomicsacrossninemammalsrevealscelltypespecificregulatoryconservationinthebrain",
+      "identity_keys": [
+        "doi:10.1016/j.xgen.2026.101367",
+        "pubmed:42805172",
+        "title:singlecellmultiomicsacrossninemammalsrevealscelltypespecificregulatoryconservationinthebrain"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35469",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T05:11:24.100195+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingcausalactiontokenizationwithconditionalannealinginflowmatching",
+      "identity_keys": [
+        "arxiv:2609.35469",
+        "title:rethinkingcausalactiontokenizationwithconditionalannealinginflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29029",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T05:11:24.238772+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flowjeparobustlatentdynamicsforjepaworldmodelsviaflowmatching",
+      "identity_keys": [
+        "arxiv:2608.29029",
+        "title:flowjeparobustlatentdynamicsforjepaworldmodelsviaflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35502",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T05:11:24.631383+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "structuredlatentmodelingforsupervisedmultimodalinformationdecomposition",
+      "identity_keys": [
+        "arxiv:2609.35502",
+        "title:structuredlatentmodelingforsupervisedmultimodalinformationdecomposition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35107",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T05:11:25.045662+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doatlas2afoundationforselfevolvingcausalbiomedicaldiscovery",
+      "identity_keys": [
+        "arxiv:2609.35107",
+        "title:doatlas2afoundationforselfevolvingcausalbiomedicaldiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35515",
+      "category": "ml",
+      "first_sent_at": "2026-09-29T05:11:25.192354+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mechbenchcanaiscientificagentsdiscovermechanismsbeyondphenomenallaws",
+      "identity_keys": [
+        "arxiv:2609.35515",
+        "title:mechbenchcanaiscientificagentsdiscovermechanismsbeyondphenomenallaws"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35515",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T05:11:25.896925+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mechbenchcanaiscientificagentsdiscovermechanismsbeyondphenomenallaws",
+      "identity_keys": [
+        "arxiv:2609.35515",
+        "title:mechbenchcanaiscientificagentsdiscovermechanismsbeyondphenomenallaws"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35052",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T05:11:26.247125+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "opisaninputgroundedbenchmarkformultiobjectmemoryinvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2609.35052",
+        "title:opisaninputgroundedbenchmarkformultiobjectmemoryinvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29434",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T05:11:26.419352+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doeslatentplanningsurvivepointcloudsactionconditionedjepaworldmodelsforgeometricobservationsandgoals",
+      "identity_keys": [
+        "arxiv:2608.29434",
+        "title:doeslatentplanningsurvivepointcloudsactionconditionedjepaworldmodelsforgeometricobservationsandgoals"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29078",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T05:11:26.798223+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dreamdeploymenttimedemonstrationgenerationviarealtosimforscalablepolicyadaptation",
+      "identity_keys": [
+        "arxiv:2608.29078",
+        "title:dreamdeploymenttimedemonstrationgenerationviarealtosimforscalablepolicyadaptation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35738",
+      "category": "frontier",
+      "first_sent_at": "2026-09-29T05:12:12.244204+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnesslearningenablesgeneralizabletesttimeadaptation",
+      "identity_keys": [
+        "arxiv:2609.35738",
+        "title:harnesslearningenablesgeneralizabletesttimeadaptation"
+      ]
     }
   ]
 }
