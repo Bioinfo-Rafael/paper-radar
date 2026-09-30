@@ -16916,6 +16916,77 @@
         "doi:10.1109/tro.2024.3507993",
         "title:integratingoneshotviewplanningwithasinglenextbestviewvialongtailmultiviewsampling"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38164",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T11:38:34.106440+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rhoafoundationforefficientlyadaptablevlamodels",
+      "identity_keys": [
+        "arxiv:2609.38164",
+        "title:rhoafoundationforefficientlyadaptablevlamodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29998",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T11:38:34.262799+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theinterventiongapinlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2608.29998",
+        "title:theinterventiongapinlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37432",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T11:38:34.826570+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "loopedactordepthrecurrentreasoningmodelsforreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.37432",
+        "title:loopedactordepthrecurrentreasoningmodelsforreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.23986",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T11:38:34.974196+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.23986",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "jevmemsystemonecontrolledagenticmemoryforefficientaiagents",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.23986",
+        "openalex:w7213995952",
+        "title:jevmemsystemonecontrolledagenticmemoryforefficientaiagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3603501",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T11:38:35.127796+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3603501",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "dynamicchargingrendezvousandmotionplanningforamultiagvteamincludingamobilecharginghost",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3603501",
+        "title:dynamicchargingrendezvousandmotionplanningforamultiagvteamincludingamobilecharginghost"
+      ]
     }
   ]
 }
