@@ -16632,6 +16632,177 @@
         "arxiv:2609.35432",
         "title:selfevolvingcodingagentsfromdigitalprogramstophysicalworldintelligence"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.ecoenv.2026.120870",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-30T05:09:41.023356+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.ecoenv.2026.120870",
+      "venue": "Ecotoxicology and environmental safety",
+      "title_key": "integratednetworktoxicologyandmultiomicsanalysesrevealthemechanismsunderlyingtrimethyltinchlorideinducedepilepsyandtheameliorativeeffectsofastaxanthinvianfkb1andil6",
+      "identity_keys": [
+        "doi:10.1016/j.ecoenv.2026.120870",
+        "pubmed:42810259",
+        "title:integratednetworktoxicologyandmultiomicsanalysesrevealthemechanismsunderlyingtrimethyltinchlorideinducedepilepsyandtheameliorativeeffectsofastaxanthinvianfkb1andil6"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag723",
+      "category": "bioinfo",
+      "first_sent_at": "2026-09-30T05:09:41.611223+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag723",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "scurluncertaintysharpenedrepresentationlearningforsinglecellmultiomicsclustering",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag723",
+        "pubmed:42809236",
+        "title:scurluncertaintysharpenedrepresentationlearningforsinglecellmultiomicsclustering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38133",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T05:09:42.029743+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiagentflowmatchingwithdecoupledgenerativeguidance",
+      "identity_keys": [
+        "arxiv:2609.38133",
+        "title:multiagentflowmatchingwithdecoupledgenerativeguidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37632",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T05:09:42.142595+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "proctiprototyperefinedglobalconditioningfordiffusionbasedtimeseriesimputation",
+      "identity_keys": [
+        "arxiv:2609.37632",
+        "title:proctiprototyperefinedglobalconditioningfordiffusionbasedtimeseriesimputation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29819",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T05:09:42.655263+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phasornetlearningstructurefromfrequencyforrealtimestereomatching",
+      "identity_keys": [
+        "arxiv:2608.29819",
+        "title:phasornetlearningstructurefromfrequencyforrealtimestereomatching"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1162/neco.a.1502",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T05:09:43.013828+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Neural Computation (2026) 38(4): 602-650",
+      "title_key": "multiclasslinearperceptronswithmultiplicativemargins",
+      "identity_keys": [
+        "arxiv:2608.30028",
+        "doi:10.1162/neco.a.1502",
+        "title:multiclasslinearperceptronswithmultiplicativemargins"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37670",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T05:10:28.453639+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "meanflowadvantagestablerewardfinetuningforfewstepaveragevelocitygenerators",
+      "identity_keys": [
+        "arxiv:2609.37670",
+        "title:meanflowadvantagestablerewardfinetuningforfewstepaveragevelocitygenerators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35560",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T05:10:29.081341+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldplay2extendingrealtimeinteractiveworldmodelsincontrolandhorizon",
+      "identity_keys": [
+        "arxiv:2609.35560",
+        "title:worldplay2extendingrealtimeinteractiveworldmodelsincontrolandhorizon"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37810",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T05:10:29.321144+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "exploreexecuteevolveaskillacquisitionandreuseloopforembodiedagents",
+      "identity_keys": [
+        "arxiv:2609.37810",
+        "title:exploreexecuteevolveaskillacquisitionandreuseloopforembodiedagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38078",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T05:10:29.598989+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "motormindscaffoldinggeneralvisionlanguagemodelsforzeroshotrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2609.38078",
+        "title:motormindscaffoldinggeneralvisionlanguagemodelsforzeroshotrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.29537",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T05:10:30.275163+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agmachievementgroundedmemoryforclosedloopagentswithfrozenvlapolicies",
+      "identity_keys": [
+        "arxiv:2608.29537",
+        "title:agmachievementgroundedmemoryforclosedloopagentswithfrozenvlapolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01098-4",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T05:10:30.594991+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01098-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "aunifiedpretraineddeeplearningframeworkforcrosstaskreactionperformancepredictionandsynthesisplanning",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01098-4",
+        "title:aunifiedpretraineddeeplearningframeworkforcrosstaskreactionperformancepredictionandsynthesisplanning"
+      ]
     }
   ]
 }
