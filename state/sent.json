@@ -16803,6 +16803,119 @@
         "doi:10.1038/s42256-025-01098-4",
         "title:aunifiedpretraineddeeplearningframeworkforcrosstaskreactionperformancepredictionandsynthesisplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38156",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T09:16:27.875939+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dma2pixelspacedistributionmatchingwithadversarialandanchorlosses",
+      "identity_keys": [
+        "arxiv:2609.38156",
+        "title:dma2pixelspacedistributionmatchingwithadversarialandanchorlosses"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38016",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T09:16:28.287870+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "brainsadabraininspiredsafeautonomousdrivingcontrolframeworkwithdynamicfearorientedconstraintondualpolicy",
+      "identity_keys": [
+        "arxiv:2609.38016",
+        "title:brainsadabraininspiredsafeautonomousdrivingcontrolframeworkwithdynamicfearorientedconstraintondualpolicy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37884",
+      "category": "ml",
+      "first_sent_at": "2026-09-30T09:16:28.627521+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "topoembedxageneralframeworkforrepresentationlearningontopologicaldomains",
+      "identity_keys": [
+        "arxiv:2609.37884",
+        "title:topoembedxageneralframeworkforrepresentationlearningontopologicaldomains"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.70777/si.v3i3.18734",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T09:16:29.799516+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.70777/si.v3i3.18734",
+      "venue": "SuperIntelligence - Robotics - Safety & Alignment",
+      "title_key": "scientisttwopioneeringthehumanknowledgefrontierwithautonomousai",
+      "identity_keys": [
+        "doi:10.70777/si.v3i3.18734",
+        "openalex:w7213611819",
+        "title:scientisttwopioneeringthehumanknowledgefrontierwithautonomousai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37441",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T09:16:30.085384+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anisotropicrepresentationsimproveplanninginjepaworldmodels",
+      "identity_keys": [
+        "arxiv:2609.37441",
+        "title:anisotropicrepresentationsimproveplanninginjepaworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37644",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T09:16:30.268447+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondasinglelatentspaceaduallatentworldmodelforlonghorizonplanning",
+      "identity_keys": [
+        "arxiv:2609.37644",
+        "title:beyondasinglelatentspaceaduallatentworldmodelforlonghorizonplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.29669",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T09:16:30.500055+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doworldmodelsmakebetterrobotsasurveyofevaluationbenchmarksforpredictiveembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2609.29669",
+        "title:doworldmodelsmakebetterrobotsasurveyofevaluationbenchmarksforpredictiveembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2024.3507993",
+      "category": "frontier",
+      "first_sent_at": "2026-09-30T09:16:30.780675+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2024.3507993",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "integratingoneshotviewplanningwithasinglenextbestviewvialongtailmultiviewsampling",
+      "identity_keys": [
+        "doi:10.1109/tro.2024.3507993",
+        "title:integratingoneshotviewplanningwithasinglenextbestviewvialongtailmultiviewsampling"
+      ]
     }
   ]
 }
