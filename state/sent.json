@@ -17211,6 +17211,146 @@
         "doi:10.1109/tro.2025.3546789",
         "title:probabilisticpathplanningforwheelleggedroverindenseenvironmentbasedonextendedmdpandconfigurationtopologyanalysis"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39531",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T09:51:43.373799+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "weirdoweakresidualregularizeddoobshtransformdiffusionalignment",
+      "identity_keys": [
+        "arxiv:2609.39531",
+        "title:weirdoweakresidualregularizeddoobshtransformdiffusionalignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40075",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T09:51:43.653592+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acceleratedalgorithmforsparseregularizedpartialoptimaltransport",
+      "identity_keys": [
+        "arxiv:2609.40075",
+        "title:acceleratedalgorithmforsparseregularizedpartialoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39605",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T09:51:43.791827+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fomoforgettheconceptdontmissoutonthesceneinselectivevideounlearning",
+      "identity_keys": [
+        "arxiv:2609.39605",
+        "title:fomoforgettheconceptdontmissoutonthesceneinselectivevideounlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39553",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T09:52:29.247048+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "effgsefficientandhighfidelitygaussiansplatting",
+      "identity_keys": [
+        "arxiv:2609.39553",
+        "title:effgsefficientandhighfidelitygaussiansplatting"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3849709",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T09:52:29.599948+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3849709",
+      "venue": "ACM AI Letters",
+      "title_key": "programmedinterventionstopreventdelusionsfromexcessiveuseofconversationalaibots",
+      "identity_keys": [
+        "doi:10.1145/3849709",
+        "title:programmedinterventionstopreventdelusionsfromexcessiveuseofconversationalaibots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40340",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T09:52:30.516226+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evoduetbilevelcoevolutionofwebsearchingandtasksolvingforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2609.40340",
+        "title:evoduetbilevelcoevolutionofwebsearchingandtasksolvingforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00365",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T09:52:30.663546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "drclawanaiscientistworkspaceforviberesearch",
+      "identity_keys": [
+        "arxiv:2609.00365",
+        "title:drclawanaiscientistworkspaceforviberesearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39727",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T09:52:31.043820+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "overforgereasoningthroughstrategiesandtacticshelpscooperativelifelongadaptation",
+      "identity_keys": [
+        "arxiv:2609.39727",
+        "title:overforgereasoningthroughstrategiesandtacticshelpscooperativelifelongadaptation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01239-3",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T09:52:31.182570+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01239-3",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "fromembodiedintelligencetophysicalai",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01239-3",
+        "title:fromembodiedintelligencetophysicalai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39579",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T09:52:31.502336+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "avertvlnabstentionawarevisualerrorrecoveryandtrainingforvisionandlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2609.39579",
+        "title:avertvlnabstentionawarevisualerrorrecoveryandtrainingforvisionandlanguagenavigation"
+      ]
     }
   ]
 }
