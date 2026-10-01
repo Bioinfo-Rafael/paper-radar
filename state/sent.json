@@ -17351,6 +17351,91 @@
         "arxiv:2609.39579",
         "title:avertvlnabstentionawarevisualerrorrecoveryandtrainingforvisionandlanguagenavigation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/jrsssb/qkag126",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T12:13:09.845960+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/jrsssb/qkag126",
+      "venue": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+      "title_key": "anoptimaltransportbasedgenerativemodelforbayesianposteriorsampling",
+      "identity_keys": [
+        "doi:10.1093/jrsssb/qkag126",
+        "openalex:w4414827886",
+        "title:anoptimaltransportbasedgenerativemodelforbayesianposteriorsampling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728345",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T12:13:10.384082+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728345",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "world4rldiffusionworldmodelsforpolicyrefinementwithreinforcementlearningforroboticmanipulation",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728345",
+        "title:world4rldiffusionworldmodelsforpolicyrefinementwithreinforcementlearningforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39751",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T12:13:10.566025+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondpolicyalignmentclosingtheplanninglearningloopforrobotcontrolwithlearnedworldmodels",
+      "identity_keys": [
+        "arxiv:2609.39751",
+        "title:beyondpolicyalignmentclosingtheplanninglearningloopforrobotcontrolwithlearnedworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39794",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T12:13:10.934145+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "inlinememorymeetsreusableskillsmemorycentricframeworkforvisionlanguageactionmodel",
+      "identity_keys": [
+        "arxiv:2609.39794",
+        "title:inlinememorymeetsreusableskillsmemorycentricframeworkforvisionlanguageactionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.30952",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T12:13:11.327106+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onepolicyisenoughsingleagentreinforcementlearningoutperformstreesearchforchemistrytoollearning",
+      "identity_keys": [
+        "arxiv:2608.30952",
+        "title:onepolicyisenoughsingleagentreinforcementlearningoutperformstreesearchforchemistrytoollearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01084-w",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T12:13:56.949770+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01084-w",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "mechanisticunderstandingandvalidationoflargeaimodelswithsemanticlens",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01084-w",
+        "title:mechanisticunderstandingandvalidationoflargeaimodelswithsemanticlens"
+      ]
     }
   ]
 }
