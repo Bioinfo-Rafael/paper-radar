@@ -16987,6 +16987,90 @@
         "doi:10.1109/tro.2025.3603501",
         "title:dynamicchargingrendezvousandmotionplanningforamultiagvteamincludingamobilecharginghost"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.10.05.680519",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-01T00:29:16.243771+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.10.05.680519",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "addressingmultiplefacetsofligandreceptornetworkinferenceincludingsinglecellproteomics",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.10.05.680519",
+        "title:addressingmultiplefacetsofligandreceptornetworkinferenceincludingsinglecellproteomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00188",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T00:29:17.552368+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zimablueevolvinggeneralizableworldactionmodelsthroughscalablevideopretraining",
+      "identity_keys": [
+        "arxiv:2609.00188",
+        "title:zimablueevolvinggeneralizableworldactionmodelsthroughscalablevideopretraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00455",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T00:29:17.679555+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsabeliefbasedworldmodelforllmagents",
+      "identity_keys": [
+        "arxiv:2609.00455",
+        "title:towardsabeliefbasedworldmodelforllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37686",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T00:29:18.066072+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "engiworldwhatcanfrontieragentsdeliverinprofessionalengineeringenvironments",
+      "identity_keys": [
+        "arxiv:2609.37686",
+        "title:engiworldwhatcanfrontieragentsdeliverinprofessionalengineeringenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.robot.2026.105565",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T00:29:18.273530+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.robot.2026.105565",
+      "venue": "Robotics and Autonomous Systems",
+      "title_key": "llmbasedreasoningforroboticplanningrobustnesstotaskandenvironmentalcomplexity",
+      "identity_keys": [
+        "doi:10.1016/j.robot.2026.105565",
+        "title:llmbasedreasoningforroboticplanningrobustnesstotaskandenvironmentalcomplexity"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.robot.2026.105567",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T00:29:18.436277+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.robot.2026.105567",
+      "venue": "Robotics and Autonomous Systems",
+      "title_key": "visiondrivencollaborativepathplanningforautonomousmultiuavswarmsinmaritimeandcoastalenvironmentsusingdeepreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1016/j.robot.2026.105567",
+        "title:visiondrivencollaborativepathplanningforautonomousmultiuavswarmsinmaritimeandcoastalenvironmentsusingdeepreinforcementlearning"
+      ]
     }
   ]
 }
