@@ -17071,6 +17071,146 @@
         "doi:10.1016/j.robot.2026.105567",
         "title:visiondrivencollaborativepathplanningforautonomousmultiuavswarmsinmaritimeandcoastalenvironmentsusingdeepreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39548",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T05:06:47.202582+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningnormaldiffusiondynamicsforbackdoordefenseintexttoimagemodels",
+      "identity_keys": [
+        "arxiv:2609.39548",
+        "title:learningnormaldiffusiondynamicsforbackdoordefenseintexttoimagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00189",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T05:06:47.350291+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eliteweightedsupervisedfinetuningforgoaldirectedmolecularoptimization",
+      "identity_keys": [
+        "arxiv:2609.00189",
+        "title:eliteweightedsupervisedfinetuningforgoaldirectedmolecularoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39967",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T05:06:47.680049+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatlimitsrecursivereasoningmodelsoptimizationarchitectureandtesttimescaling",
+      "identity_keys": [
+        "arxiv:2609.39967",
+        "title:whatlimitsrecursivereasoningmodelsoptimizationarchitectureandtesttimescaling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.00284",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T05:06:47.827969+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wisdomwirelesssparsedecisiontransformerwithmixtureofexpertsformultitaskmobilenetworkoptimization",
+      "identity_keys": [
+        "arxiv:2609.00284",
+        "title:wisdomwirelesssparsedecisiontransformerwithmixtureofexpertsformultitaskmobilenetworkoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40312",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T05:07:33.359393+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "compressionfootprintsassecuritysignalsformodelpoisoningdefenseinfederatedlearning",
+      "identity_keys": [
+        "arxiv:2609.40312",
+        "title:compressionfootprintsassecuritysignalsformodelpoisoningdefenseinfederatedlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40177",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T05:07:33.877345+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "socialwmsafetyawarelatentworldmodelsforrobotsocialnavigation",
+      "identity_keys": [
+        "arxiv:2609.40177",
+        "title:socialwmsafetyawarelatentworldmodelsforrobotsocialnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2608.30692",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T05:07:34.035223+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canvideoworldmodelstrackunobservedworldstates",
+      "identity_keys": [
+        "arxiv:2608.30692",
+        "title:canvideoworldmodelstrackunobservedworldstates"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39665",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T05:07:35.365252+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chronographfunctional4dscenegraphswithvisionlanguagemodelsforinteractionunderstandingandgroundedplanning",
+      "identity_keys": [
+        "arxiv:2609.39665",
+        "title:chronographfunctional4dscenegraphswithvisionlanguagemodelsforinteractionunderstandingandgroundedplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39473",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T05:07:35.638431+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondtheshadowsofplatoscaveevaluatingfalsememoryinautonomousagentsviacounterfactualreasoning",
+      "identity_keys": [
+        "arxiv:2609.39473",
+        "title:beyondtheshadowsofplatoscaveevaluatingfalsememoryinautonomousagentsviacounterfactualreasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3546789",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T05:07:35.786521+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3546789",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "probabilisticpathplanningforwheelleggedroverindenseenvironmentbasedonextendedmdpandconfigurationtopologyanalysis",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3546789",
+        "title:probabilisticpathplanningforwheelleggedroverindenseenvironmentbasedonextendedmdpandconfigurationtopologyanalysis"
+      ]
     }
   ]
 }
