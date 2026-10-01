@@ -17436,6 +17436,149 @@
         "doi:10.1038/s42256-025-01084-w",
         "title:mechanisticunderstandingandvalidationoflargeaimodelswithsemanticlens"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.09.19.752897",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-01T16:15:58.763971+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.09.19.752897",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "cmacadeeplearningframeworkforabsolutecardiomyocytetranscriptionalageestimation",
+      "identity_keys": [
+        "doi:10.64898/2026.09.19.752897",
+        "pubmed:42818044",
+        "title:cmacadeeplearningframeworkforabsolutecardiomyocytetranscriptionalageestimation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.09.25.754573",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-01T16:15:59.123519+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.09.25.754573",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "sherlockstructuredrepresentationlearningandcausalinferenceofdownstreamperturbationeffects",
+      "identity_keys": [
+        "doi:10.64898/2026.09.25.754573",
+        "pubmed:42818046",
+        "title:sherlockstructuredrepresentationlearningandcausalinferenceofdownstreamperturbationeffects"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.09.29.755382",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-01T16:15:59.401769+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.09.29.755382",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "areducedmechanisticmodelforaquaticdecompositionofahumanbody",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.09.29.755382",
+        "title:areducedmechanisticmodelforaquaticdecompositionofahumanbody"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05525",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T16:16:00.187835+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "divaexploitingcrossstepconditionalpropagationforvisualjailbreaksindiscretediffusionvisionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.05525",
+        "title:divaexploitingcrossstepconditionalpropagationforvisualjailbreaksindiscretediffusionvisionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39709",
+      "category": "ml",
+      "first_sent_at": "2026-10-01T16:16:00.392246+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "btc3dblendedtileconditioningfordetailenhancingimageto3dgeneration",
+      "identity_keys": [
+        "arxiv:2609.39709",
+        "title:btc3dblendedtileconditioningfordetailenhancingimageto3dgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39685",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T16:16:01.595622+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robocoachworldmodelsasactivecoachesforcompositionalrobotskills",
+      "identity_keys": [
+        "arxiv:2609.39685",
+        "title:robocoachworldmodelsasactivecoachesforcompositionalrobotskills"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s11633-026-1694-1",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T16:16:01.758868+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asurveyonselfimprovingtesttimeintelligencefeedbackdrivenadaptinglearningandscalingatinference",
+      "identity_keys": [
+        "arxiv:2609.01679",
+        "doi:10.1007/s11633-026-1694-1",
+        "title:asurveyonselfimprovingtesttimeintelligencefeedbackdrivenadaptinglearningandscalingatinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40222",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T16:16:02.536129+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "locispatiallinearmemoryforstreamingworldmodels",
+      "identity_keys": [
+        "arxiv:2609.40222",
+        "title:locispatiallinearmemoryforstreamingworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aea1822",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T16:16:03.020185+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aea1822",
+      "venue": "Science Robotics",
+      "title_key": "fromautonomytoallianceroboticfoundationmodelsmustlearnwithusnotjustforus",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aea1822",
+        "title:fromautonomytoallianceroboticfoundationmodelsmustlearnwithusnotjustforus"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40169",
+      "category": "frontier",
+      "first_sent_at": "2026-10-01T16:16:03.413844+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningfromresearchtowardlifelongagentharnessevolution",
+      "identity_keys": [
+        "arxiv:2609.40169",
+        "title:learningfromresearchtowardlifelongagentharnessevolution"
+      ]
     }
   ]
 }
