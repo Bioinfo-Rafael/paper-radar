@@ -18030,6 +18030,76 @@
         "arxiv:2609.01111",
         "title:clintracebenchsourceverifiablelongitudinalclinicalreasoningoverehrderiveddialogues"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13236",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T15:38:33.306308+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfevolvingaiforhumanoidsmechanismssafetyandevaluationofpostdeploymentselfimprovement",
+      "identity_keys": [
+        "arxiv:2609.13236",
+        "title:selfevolvingaiforhumanoidsmechanismssafetyandevaluationofpostdeploymentselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03067",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T15:38:34.841277+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gpuacceleratedastrodynamicsworldmodelsforspacecraftrendezvousandproximityoperations",
+      "identity_keys": [
+        "arxiv:2609.03067",
+        "title:gpuacceleratedastrodynamicsworldmodelsforspacecraftrendezvousandproximityoperations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02193",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T15:38:35.255612+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalcontinuousdiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.02193",
+        "title:hierarchicalcontinuousdiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01729",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T15:38:35.425611+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "functionstructuredreinforcementlearningwithexecutableverifiersformathematicalreasoning",
+      "identity_keys": [
+        "arxiv:2610.01729",
+        "title:functionstructuredreinforcementlearningwithexecutableverifiersformathematicalreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02181",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T15:38:35.635550+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "omniseeknativetoolintegrationformultiturnaudiovisualreasoning",
+      "identity_keys": [
+        "arxiv:2610.02181",
+        "title:omniseeknativetoolintegrationformultiturnaudiovisualreasoning"
+      ]
     }
   ]
 }
