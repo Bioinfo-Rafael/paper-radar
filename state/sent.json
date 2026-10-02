@@ -17821,6 +17821,75 @@
         "arxiv:2609.01045",
         "title:agentfactorytowardsautomatedagenticsystemdesignandoptimization"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1002/aisy.70562",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T09:23:41.386776+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1002/aisy.70562",
+      "venue": "Advanced Intelligent Systems",
+      "title_key": "graphneuralnetworkbasedreinforcementlearningfordecentralizedmultirobotmanipulation",
+      "identity_keys": [
+        "doi:10.1002/aisy.70562",
+        "title:graphneuralnetworkbasedreinforcementlearningfordecentralizedmultirobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3723292",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T09:23:41.527502+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3723292",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "acomplementaritybasedframeworkforsoftrobotcontactmodelingandplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3723292",
+        "title:acomplementaritybasedframeworkforsoftrobotcontactmodelingandplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728285",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T09:23:44.333140+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728285",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "aerodiffusionrealtimequadrotortrajectoryplanningindynamicenvironmentsviaconditionaldiffusion",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728285",
+        "title:aerodiffusionrealtimequadrotortrajectoryplanningindynamicenvironmentsviaconditionaldiffusion"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-01736-w",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T09:23:44.514306+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-01736-w",
+      "venue": "Nature",
+      "title_key": "briefingchatwhentotrusteyewitnessmemoryaccordingtoscience",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-01736-w",
+        "title:briefingchatwhentotrusteyewitnessmemoryaccordingtoscience"
+      ]
+    },
+    {
+      "canonical_id": "title:gameformergametheoreticmodelingandlearningoftransformerbasedinteractivepredictionandplanningforautonomousdriving",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T09:23:44.692068+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "gameformergametheoreticmodelingandlearningoftransformerbasedinteractivepredictionandplanningforautonomousdriving",
+      "identity_keys": [
+        "title:gameformergametheoreticmodelingandlearningoftransformerbasedinteractivepredictionandplanningforautonomousdriving"
+      ]
     }
   ]
 }
