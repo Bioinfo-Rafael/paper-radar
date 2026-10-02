@@ -17579,6 +17579,108 @@
         "arxiv:2609.40169",
         "title:learningfromresearchtowardlifelongagentharnessevolution"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag727",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-02T00:31:28.380005+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag727",
+      "venue": "Bioinformatics",
+      "title_key": "scldmaconditionaldiffusionframeworkforsinglecellperturbationprediction",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag727",
+        "openalex:w7214574483",
+        "pubmed:42804716",
+        "title:scldmaconditionaldiffusionframeworkforsinglecellperturbationprediction"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.26435",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T00:31:28.936341+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.26435",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "onestepgenerativesurrogatemodelsviablocktriangularjointdrifting",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.26435",
+        "openalex:w7214083660",
+        "title:onestepgenerativesurrogatemodelsviablocktriangularjointdrifting"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.robot.2026.105585",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T00:31:29.731874+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.robot.2026.105585",
+      "venue": "Robotics and Autonomous Systems",
+      "title_key": "adeepreinforcementlearningapproachforauvdualarmcollaborativemanipulationplanningundercurrentdisturbances",
+      "identity_keys": [
+        "doi:10.1016/j.robot.2026.105585",
+        "title:adeepreinforcementlearningapproachforauvdualarmcollaborativemanipulationplanningundercurrentdisturbances"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.23053853",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T00:31:29.894608+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.23053853",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "capsuleatomicfilefirstlongtermmemorywithboundeddriftforautonomousaiagents",
+      "identity_keys": [
+        "doi:10.5281/zenodo.23053853",
+        "openalex:w7214903986",
+        "title:capsuleatomicfilefirstlongtermmemorywithboundeddriftforautonomousaiagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.34190/ecgbl.20.2.5134",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T00:31:30.076681+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.34190/ecgbl.20.2.5134",
+      "venue": "European Conference on Games Based Learning",
+      "title_key": "marketforcesplayingwithriskinbusinessplanningforgames",
+      "identity_keys": [
+        "doi:10.34190/ecgbl.20.2.5134",
+        "title:marketforcesplayingwithriskinbusinessplanningforgames"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3738474",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T00:31:30.243451+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3738474",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "sandosafeautonomoustrajectoryplanningfordynamicunknownenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3738474",
+        "title:sandosafeautonomoustrajectoryplanningfordynamicunknownenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.269",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T00:31:30.391790+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.269",
+      "venue": "EMNLP",
+      "title_key": "forgettingcurveareliablemethodforevaluatingmemorizationcapabilityforlongcontextmodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.269",
+        "title:forgettingcurveareliablemethodforevaluatingmemorizationcapabilityforlongcontextmodels"
+      ]
     }
   ]
 }
