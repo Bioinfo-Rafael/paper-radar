@@ -17681,6 +17681,146 @@
         "doi:10.18653/v1/2024.emnlp-main.269",
         "title:forgettingcurveareliablemethodforevaluatingmemorizationcapabilityforlongcontextmodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01494",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T04:54:09.871210+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lettheheadstalkbeyonddiagonalgraphattention",
+      "identity_keys": [
+        "arxiv:2610.01494",
+        "title:lettheheadstalkbeyonddiagonalgraphattention"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01530",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T04:54:10.084200+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "calibratingpredictiontimelinessthroughmultiobjectivehyperparameteroptimizationforremainingusefullifeprediction",
+      "identity_keys": [
+        "arxiv:2610.01530",
+        "title:calibratingpredictiontimelinessthroughmultiobjectivehyperparameteroptimizationforremainingusefullifeprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01649",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T04:54:10.810139+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "crossgmngraphmetanetworksforcrossarchitectureweightspacetransformations",
+      "identity_keys": [
+        "arxiv:2610.01649",
+        "title:crossgmngraphmetanetworksforcrossarchitectureweightspacetransformations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01537",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T04:54:56.207533+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fedfitfederatedfinetuningofllmsviavectorbankparameterizationandquantization",
+      "identity_keys": [
+        "arxiv:2610.01537",
+        "title:fedfitfederatedfinetuningofllmsviavectorbankparameterizationandquantization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01548",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T04:54:56.319986+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rangegrpopolicyoptimizationviapairwiserelationsamongrewardintervals",
+      "identity_keys": [
+        "arxiv:2610.01548",
+        "title:rangegrpopolicyoptimizationviapairwiserelationsamongrewardintervals"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01827",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T04:54:57.411749+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scientificdiscoveryundervalidationcongestionviamultifidelitypairwiserankings",
+      "identity_keys": [
+        "arxiv:2610.01827",
+        "title:scientificdiscoveryundervalidationcongestionviamultifidelitypairwiserankings"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02161",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T04:54:57.684853+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "duomindenablingdistributedmultirobotcoordinationwithsemanticcommunication",
+      "identity_keys": [
+        "arxiv:2610.02161",
+        "title:duomindenablingdistributedmultirobotcoordinationwithsemanticcommunication"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01856",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T04:54:57.946493+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chunkvlaamparallelactionchunkingforvisionlanguageactionrobotcontrolinadditivemanufacturing",
+      "identity_keys": [
+        "arxiv:2610.01856",
+        "title:chunkvlaamparallelactionchunkingforvisionlanguageactionrobotcontrolinadditivemanufacturing"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-025-02319-x",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T04:54:58.480382+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-025-02319-x",
+      "venue": "Nature",
+      "title_key": "brazilmustnotweakenenvironmentalplanningrules",
+      "identity_keys": [
+        "doi:10.1038/d41586-025-02319-x",
+        "title:brazilmustnotweakenenvironmentalplanningrules"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01045",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T04:54:58.606946+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentfactorytowardsautomatedagenticsystemdesignandoptimization",
+      "identity_keys": [
+        "arxiv:2609.01045",
+        "title:agentfactorytowardsautomatedagenticsystemdesignandoptimization"
+      ]
     }
   ]
 }
