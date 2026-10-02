@@ -17890,6 +17890,146 @@
       "identity_keys": [
         "title:gameformergametheoreticmodelingandlearningoftransformerbasedinteractivepredictionandplanningforautonomousdriving"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01815",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T11:38:10.877300+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "debiasanythingfairnesswithdiversitywithoutsupervisionindiffusionmodels",
+      "identity_keys": [
+        "arxiv:2610.01815",
+        "title:debiasanythingfairnesswithdiversitywithoutsupervisionindiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01933",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T11:38:11.153535+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "errorcorrectedinferencetimescalingforimperfectdiffusionmodels",
+      "identity_keys": [
+        "arxiv:2610.01933",
+        "title:errorcorrectedinferencetimescalingforimperfectdiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00929",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T11:38:11.542370+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "platonictaskarithmetic",
+      "identity_keys": [
+        "arxiv:2610.00929",
+        "title:platonictaskarithmetic"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02190",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T11:38:12.715068+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "40th Conference on Neural Information Processing Systems (NeurIPS 2026)",
+      "title_key": "trustthedirectionsearchthestepzeroandfirstordermethodsforllmfinetuning",
+      "identity_keys": [
+        "arxiv:2610.02190",
+        "title:trustthedirectionsearchthestepzeroandfirstordermethodsforllmfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01458",
+      "category": "ml",
+      "first_sent_at": "2026-10-02T11:38:12.875696+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingprobabilitybasedreinforcementlearningfromposteriorconcentration",
+      "identity_keys": [
+        "arxiv:2610.01458",
+        "title:rethinkingprobabilitybasedreinforcementlearningfromposteriorconcentration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01373",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T11:38:13.694691+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningcommutetimepreservingworldmodelsforplanning",
+      "identity_keys": [
+        "arxiv:2610.01373",
+        "title:learningcommutetimepreservingworldmodelsforplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01614",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T11:38:13.907836+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "oneirafromopenendedgenerationtoopenworldinteractioninvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2610.01614",
+        "title:oneirafromopenendedgenerationtoopenworldinteractioninvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02205",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T11:38:14.115773+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rowbenchdovideomodelsrenderwhattheprogramspecifies",
+      "identity_keys": [
+        "arxiv:2610.02205",
+        "title:rowbenchdovideomodelsrenderwhattheprogramspecifies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01834",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T11:38:14.794560+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "SAO Workshop at the 1st ACM Conference on AI and Agentic Systems (ACM CAIS 2026)",
+      "title_key": "architectingconversationaldatasystemsforstatelessllmapisthehydrationproxypattern",
+      "identity_keys": [
+        "arxiv:2609.01834",
+        "title:architectingconversationaldatasystemsforstatelessllmapisthehydrationproxypattern"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.01111",
+      "category": "frontier",
+      "first_sent_at": "2026-10-02T11:38:15.070835+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "clintracebenchsourceverifiablelongitudinalclinicalreasoningoverehrderiveddialogues",
+      "identity_keys": [
+        "arxiv:2609.01111",
+        "title:clintracebenchsourceverifiablelongitudinalclinicalreasoningoverehrderiveddialogues"
+      ]
     }
   ]
 }
