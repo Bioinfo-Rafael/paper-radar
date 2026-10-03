@@ -18380,6 +18380,199 @@
         "arxiv:2609.03201",
         "title:memorylacememorylifecycleawareconsolidationandevidenceretrieval"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.04.24.720560",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-03T14:15:24.372638+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.04.24.720560",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "title_key": "amultimodalllmknowledgefusionframeworkforpredictingsinglecellgeneticperturbationeffects",
+      "identity_keys": [
+        "doi:10.64898/2026.04.24.720560",
+        "openalex:w7160182526",
+        "title:amultimodalllmknowledgefusionframeworkforpredictingsinglecellgeneticperturbationeffects"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/gigascience/giag012",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-03T14:15:24.571411+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/gigascience/giag012",
+      "venue": "GigaScience",
+      "title_key": "aninterpretablegraphregularizedoptimaltransportframeworkfordiagonalsinglecellintegrativeanalysis",
+      "identity_keys": [
+        "doi:10.1093/gigascience/giag012",
+        "openalex:w7128389775",
+        "pubmed:41661124",
+        "title:aninterpretablegraphregularizedoptimaltransportframeworkfordiagonalsinglecellintegrativeanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.21428617",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-03T14:15:24.763450+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.21428617",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "artificialintelligenceandmultiomicsintegrationforpredictingstemcellfateaconceptualframework",
+      "identity_keys": [
+        "doi:10.5281/zenodo.21428617",
+        "openalex:w7169659170",
+        "title:artificialintelligenceandmultiomicsintegrationforpredictingstemcellfateaconceptualframework"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2602.08976",
+      "category": "ml",
+      "first_sent_at": "2026-10-03T14:15:25.468211+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2602.08976",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "distributionallyrobustoptimizationviagenerativeambiguitymodeling",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2602.08976",
+        "openalex:w7128545373",
+        "title:distributionallyrobustoptimizationviagenerativeambiguitymodeling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2606.18071",
+      "category": "ml",
+      "first_sent_at": "2026-10-03T14:15:25.601542+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2606.18071",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "volterragenerativemodels",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2606.18071",
+        "openalex:w7165052174",
+        "title:volterragenerativemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.15167/angella-paolo_phd2026-07-27",
+      "category": "ml",
+      "first_sent_at": "2026-10-03T14:15:25.822228+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.15167/angella-paolo_phd2026-07-27",
+      "venue": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+      "title_key": "generativemodelsforinverseproblems",
+      "identity_keys": [
+        "doi:10.15167/angella-paolo_phd2026-07-27",
+        "openalex:w7172492144",
+        "title:generativemodelsforinverseproblems"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2605.22507",
+      "category": "ml",
+      "first_sent_at": "2026-10-03T14:15:26.088417+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2605.22507",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "generativemodelingbyvaluedriventransport",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2605.22507",
+        "openalex:w7162078005",
+        "title:generativemodelingbyvaluedriventransport"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1073/pnas.2613187123",
+      "category": "ml",
+      "first_sent_at": "2026-10-03T14:15:27.328306+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1073/pnas.2613187123",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "title_key": "agenerativemodelforbipartitegenesharingnetworks",
+      "identity_keys": [
+        "doi:10.1073/pnas.2613187123",
+        "openalex:w7171633737",
+        "pubmed:42525515",
+        "title:agenerativemodelforbipartitegenesharingnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02038",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T14:15:27.928475+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mimirphysicsgroundedllmagentsforlonghorizonirrigationcontrol",
+      "identity_keys": [
+        "arxiv:2610.02038",
+        "title:mimirphysicsgroundedllmagentsforlonghorizonirrigationcontrol"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64388/irev10i4-1723620",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T14:15:28.485507+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64388/irev10i4-1723620",
+      "venue": "Iconic Research and Engineering Journals",
+      "title_key": "aiagentdrivenautonomousservicedeliveryinsaudiarabiaaframeworkforintelligenttelecomandenterpriseoperationsundervision2030",
+      "identity_keys": [
+        "doi:10.64388/irev10i4-1723620",
+        "openalex:w7215124884",
+        "title:aiagentdrivenautonomousservicedeliveryinsaudiarabiaaframeworkforintelligenttelecomandenterpriseoperationsundervision2030"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01781",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T14:15:28.625181+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "qlearningforreachabilityinmecfreemdps",
+      "identity_keys": [
+        "arxiv:2610.01781",
+        "title:qlearningforreachabilityinmecfreemdps"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02231",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T14:15:28.780855+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phoenixnestvideoevidencegroundedmultimodalagentframeworkforautomatedvideointerviewassessment",
+      "identity_keys": [
+        "arxiv:2609.02231",
+        "title:phoenixnestvideoevidencegroundedmultimodalagentframeworkforautomatedvideointerviewassessment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02292",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T14:15:28.945212+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scxrouterstreamingzeroshotmodelselectionwithadecoderkvclassifierandarealworldtaskontology",
+      "identity_keys": [
+        "arxiv:2609.02292",
+        "title:scxrouterstreamingzeroshotmodelselectionwithadecoderkvclassifierandarealworldtaskontology"
+      ]
     }
   ]
 }
