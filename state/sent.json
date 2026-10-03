@@ -18573,6 +18573,120 @@
         "arxiv:2609.02292",
         "title:scxrouterstreamingzeroshotmodelselectionwithadecoderkvclassifierandarealworldtaskontology"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-025-03784-3",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-03T23:28:11.055763+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-025-03784-3",
+      "venue": "Genome biology",
+      "title_key": "xcell20robustalgorithmforcelltypeproportionestimationpredictsresponsetoimmunecheckpointblockade",
+      "identity_keys": [
+        "doi:10.1186/s13059-025-03784-3",
+        "pubmed:41044684",
+        "title:xcell20robustalgorithmforcelltypeproportionestimationpredictsresponsetoimmunecheckpointblockade"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.04.20.649300",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-03T23:28:11.688151+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.04.20.649300",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "timeseriesrnaseqanddatadrivennetworkinferenceunveildynamicsofcellactivationsurvivalandcrosstalkinchroniclymphocyticleukaemiainvitromodels",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.04.20.649300",
+        "title:timeseriesrnaseqanddatadrivennetworkinferenceunveildynamicsofcellactivationsurvivalandcrosstalkinchroniclymphocyticleukaemiainvitromodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/iccv51701.2025.01401",
+      "category": "ml",
+      "first_sent_at": "2026-10-03T23:28:12.064141+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/iccv51701.2025.01401",
+      "venue": null,
+      "title_key": "summdiffgenerativemodelingofvideosummarizationwithdiffusion",
+      "identity_keys": [
+        "doi:10.1109/iccv51701.2025.01401",
+        "openalex:w4415313809",
+        "title:summdiffgenerativemodelingofvideosummarizationwithdiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04290",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T23:28:12.711666+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evidenceintegrationinlargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.04290",
+        "title:evidenceintegrationinlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05552",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T23:28:12.981685+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anagentmodelabstractionforhumanaiteamingcognitivecoupling",
+      "identity_keys": [
+        "arxiv:2609.05552",
+        "title:anagentmodelabstractionforhumanaiteamingcognitivecoupling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04364",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T23:28:13.096747+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalableedgeassistedfusionandpathpredictionforconnectedautonomousvehicles",
+      "identity_keys": [
+        "arxiv:2609.04364",
+        "title:scalableedgeassistedfusionandpathpredictionforconnectedautonomousvehicles"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01780",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T23:28:13.446743+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "realcompanionbenchmarkinghumanunderstandingfromreasoningoverlongitudinalrealworldconversations",
+      "identity_keys": [
+        "arxiv:2610.01780",
+        "title:realcompanionbenchmarkinghumanunderstandingfromreasoningoverlongitudinalrealworldconversations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01566",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T23:28:58.682745+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsoptimalpolicyimprovement",
+      "identity_keys": [
+        "arxiv:2610.01566",
+        "title:towardsoptimalpolicyimprovement"
+      ]
     }
   ]
 }
