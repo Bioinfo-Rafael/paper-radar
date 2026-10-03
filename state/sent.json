@@ -18100,6 +18100,76 @@
         "arxiv:2610.02181",
         "title:omniseeknativetoolintegrationformultiturnaudiovisualreasoning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3726383",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T00:17:18.498410+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3726383",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "castcounterfactuallabelsimproveinstructionfollowinginvisionlanguageactionmodels",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3726383",
+        "title:castcounterfactuallabelsimproveinstructionfollowinginvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01509",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T00:17:19.007076+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sharpeningtaxinposttraining",
+      "identity_keys": [
+        "arxiv:2610.01509",
+        "title:sharpeningtaxinposttraining"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3661719",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T00:17:19.205212+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3661719",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "cacoveragepathplanningalgorithmforunknownenvironmentsusingrapidlycoveringgraphs",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3661719",
+        "title:cacoveragepathplanningalgorithmforunknownenvironmentsusingrapidlycoveringgraphs"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3719196",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T00:17:19.426635+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3719196",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "gossippgraphandobservabilitybasedsignalsynchronizedinformativepathplanningforactivelocalizationofbenthicfauna",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3719196",
+        "title:gossippgraphandobservabilitybasedsignalsynchronizedinformativepathplanningforactivelocalizationofbenthicfauna"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-02254-5",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T00:17:19.625663+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-02254-5",
+      "venue": "Nature",
+      "title_key": "thepastisanopencanofwormsastimulatedmemoryexhibition",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-02254-5",
+        "title:thepastisanopencanofwormsastimulatedmemoryexhibition"
+      ]
     }
   ]
 }
