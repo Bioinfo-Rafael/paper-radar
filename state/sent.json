@@ -18240,6 +18240,76 @@
         "arxiv:2609.02339",
         "title:agimazepredictiondatasetsacompactbenchmarkforlearningworlddynamicswithtransformers"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01754",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T08:48:55.921085+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Transactions on Machine Learning Research, August 2026",
+      "title_key": "cogvaduatrainingfreecognitivereasoningframeworkforvideoanomalydetectionandunderstanding",
+      "identity_keys": [
+        "arxiv:2610.01754",
+        "title:cogvaduatrainingfreecognitivereasoningframeworkforvideoanomalydetectionandunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01513",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T08:48:56.129685+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "decisiontitantesttimetrainingforlongtermmemoryinofflinereinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.01513",
+        "title:decisiontitantesttimetrainingforlongtermmemoryinofflinereinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02196",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T08:48:56.292445+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "interevolvetesttimeevolutionofrewardprogramsforhumanoidlocomanipulation",
+      "identity_keys": [
+        "arxiv:2610.02196",
+        "title:interevolvetesttimeevolutionofrewardprogramsforhumanoidlocomanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03151",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T08:48:56.486338+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "baspcommunicationefficientbatchawaresequenceparallelismforllmtraining",
+      "identity_keys": [
+        "arxiv:2609.03151",
+        "title:baspcommunicationefficientbatchawaresequenceparallelismforllmtraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05539",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T08:48:56.620539+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "duallatentmemoryroutingforvisionlanguagereasoning",
+      "identity_keys": [
+        "arxiv:2609.05539",
+        "title:duallatentmemoryroutingforvisionlanguagereasoning"
+      ]
     }
   ]
 }
