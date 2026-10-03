@@ -18170,6 +18170,76 @@
         "doi:10.1038/d41586-026-02254-5",
         "title:thepastisanopencanofwormsastimulatedmemoryexhibition"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04264",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T04:37:26.605395+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spectraltargetphysicallatentstructuringforjepastyleworldmodels",
+      "identity_keys": [
+        "arxiv:2609.04264",
+        "title:spectraltargetphysicallatentstructuringforjepastyleworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02200",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T04:37:27.108274+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vistaavisualharnessforreasoninginaninteractiveworld",
+      "identity_keys": [
+        "arxiv:2610.02200",
+        "title:vistaavisualharnessforreasoninginaninteractiveworld"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01618",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T04:37:27.257620+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentsaresystemsnotmodelsrethinkingagenticevaluation",
+      "identity_keys": [
+        "arxiv:2610.01618",
+        "title:agentsaresystemsnotmodelsrethinkingagenticevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02163",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T04:37:27.547090+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autocompactlearningwhentocompactcontextinlonghorizoncodingagents",
+      "identity_keys": [
+        "arxiv:2610.02163",
+        "title:autocompactlearningwhentocompactcontextinlonghorizoncodingagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.02339",
+      "category": "frontier",
+      "first_sent_at": "2026-10-03T04:37:27.723841+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agimazepredictiondatasetsacompactbenchmarkforlearningworlddynamicswithtransformers",
+      "identity_keys": [
+        "arxiv:2609.02339",
+        "title:agimazepredictiondatasetsacompactbenchmarkforlearningworlddynamicswithtransformers"
+      ]
     }
   ]
 }
