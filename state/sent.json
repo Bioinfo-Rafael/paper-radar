@@ -18970,6 +18970,105 @@
         "arxiv:2609.04453",
         "title:whenloadbalancinggoestoofarexpertpruninginoverdispersedmixtureofexpertsmodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.30988",
+      "category": "ml",
+      "first_sent_at": "2026-10-04T23:45:05.243190+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.30988",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "phoenixsrgenerativeheterogeneousdistillationunleashesefficientmodelsforrealworldsuperresolution",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.30988",
+        "openalex:w7214679354",
+        "title:phoenixsrgenerativeheterogeneousdistillationunleashesefficientmodelsforrealworldsuperresolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05770",
+      "category": "ml",
+      "first_sent_at": "2026-10-04T23:45:05.703230+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "raptorroleawareprivatetrainingformixtureofexperts",
+      "identity_keys": [
+        "arxiv:2609.05770",
+        "title:raptorroleawareprivatetrainingformixtureofexperts"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04871",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T23:45:06.575361+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autolrautomatingthepathfromresearchtolaunchreviewinindustrialrecommendersystems",
+      "identity_keys": [
+        "arxiv:2609.04871",
+        "title:autolrautomatingthepathfromresearchtolaunchreviewinindustrialrecommendersystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05331",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T23:45:07.785042+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptationneedsinroboticsystemsassessingbehaviortreesandtheirenhancement",
+      "identity_keys": [
+        "arxiv:2609.05331",
+        "title:adaptationneedsinroboticsystemsassessingbehaviortreesandtheirenhancement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04917",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T23:45:08.286993+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "artificialintelligenceinequityandcryptomarketsprogressprofitabilityevidenceandthelimitsofautomatedinvesting",
+      "identity_keys": [
+        "arxiv:2609.04917",
+        "title:artificialintelligenceinequityandcryptomarketsprogressprofitabilityevidenceandthelimitsofautomatedinvesting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04971",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T23:45:08.490195+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beaconkvkeyvaluecachecompressionguidedbybeaconqueriesforefficientlargereasoningmodelinference",
+      "identity_keys": [
+        "arxiv:2609.04971",
+        "title:beaconkvkeyvaluecachecompressionguidedbybeaconqueriesforefficientlargereasoningmodelinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04770",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T23:45:08.670798+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuouscognitivecoverageforautonomousrobotsviaeventdependentcognitivetreatmentandlearning",
+      "identity_keys": [
+        "arxiv:2609.04770",
+        "title:continuouscognitivecoverageforautonomousrobotsviaeventdependentcognitivetreatmentandlearning"
+      ]
     }
   ]
 }
