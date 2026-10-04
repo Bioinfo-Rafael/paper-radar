@@ -18900,6 +18900,76 @@
         "arxiv:2609.04010",
         "title:unlockinglosslessspeedupsinllmsviadiscretediffusion"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03952",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T14:45:06.295905+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldrewardrewardmodelingforcameraconditionedworldmodels",
+      "identity_keys": [
+        "arxiv:2609.03952",
+        "title:worldrewardrewardmodelingforcameraconditionedworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728316",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T14:45:06.630633+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728316",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "robotindependentintelligencewhenlanguagevanishesinvisionlanguageactionmodels",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728316",
+        "title:robotindependentintelligencewhenlanguagevanishesinvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04355",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T14:45:06.785470+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlaprecisionasymmetriccobootstrappingforefficientrealworldonlinerlofvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2609.04355",
+        "title:vlaprecisionasymmetriccobootstrappingforefficientrealworldonlinerlofvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03718",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T14:45:07.163665+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatdocaesimulationagentsreallyneedbeyondagenericharness",
+      "identity_keys": [
+        "arxiv:2609.03718",
+        "title:whatdocaesimulationagentsreallyneedbeyondagenericharness"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04453",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T14:45:52.688252+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenloadbalancinggoestoofarexpertpruninginoverdispersedmixtureofexpertsmodels",
+      "identity_keys": [
+        "arxiv:2609.04453",
+        "title:whenloadbalancinggoestoofarexpertpruninginoverdispersedmixtureofexpertsmodels"
+      ]
     }
   ]
 }
