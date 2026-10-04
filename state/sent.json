@@ -18828,6 +18828,78 @@
         "arxiv:2609.03915",
         "title:rulememactiverulememoryforlongtermconversationalagents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.31562",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T11:34:28.694037+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.31562",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "agenticeconomiesforautonomousscientificdiscovery",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.31562",
+        "openalex:w7214619401",
+        "title:agenticeconomiesforautonomousscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.32091",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T11:34:28.897504+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.32091",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "memoryasmiddlewareforselfimprovingaiagents",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.32091",
+        "openalex:w7214702299",
+        "title:memoryasmiddlewareforselfimprovingaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04005",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T11:34:29.834962+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theduallyflatgeometryofplanningasinference",
+      "identity_keys": [
+        "arxiv:2609.04005",
+        "title:theduallyflatgeometryofplanningasinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03938",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T11:34:30.067588+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Proceedings of the 9th ICAPS Workshop on Hierarchical Planning (HPlan 2026)",
+      "title_key": "towardsnumericaltohtnplanningwithsmtbasedhtnsatencoding",
+      "identity_keys": [
+        "arxiv:2609.03938",
+        "title:towardsnumericaltohtnplanningwithsmtbasedhtnsatencoding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04010",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T11:34:30.410217+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unlockinglosslessspeedupsinllmsviadiscretediffusion",
+      "identity_keys": [
+        "arxiv:2609.04010",
+        "title:unlockinglosslessspeedupsinllmsviadiscretediffusion"
+      ]
     }
   ]
 }
