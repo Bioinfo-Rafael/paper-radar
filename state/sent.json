@@ -18687,6 +18687,76 @@
         "arxiv:2610.01566",
         "title:towardsoptimalpolicyimprovement"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04552",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T05:08:13.747460+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continualfieldadaptivemodelscfamsforpostdeploymentphysicalai",
+      "identity_keys": [
+        "arxiv:2609.04552",
+        "title:continualfieldadaptivemodelscfamsforpostdeploymentphysicalai"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3726379",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T05:08:14.020612+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3726379",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "peafowlperceptionenhancedmultiviewvisionlanguageactionforbimanualmanipulation",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3726379",
+        "title:peafowlperceptionenhancedmultiviewvisionlanguageactionforbimanualmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-10355-4",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T05:08:14.264187+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-10355-4",
+      "venue": "Nature",
+      "title_key": "retractionnotemultisensorylearningbindsneuronsintoacrossmodalmemoryengram",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-10355-4",
+        "title:retractionnotemultisensorylearningbindsneuronsintoacrossmodalmemoryengram"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3730290",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T05:08:59.457050+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3730290",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "onlinepersonalizedtrajectoryplanningoflowerlimbexoskeletonrobotsbasedonkernelizedmovementprimitives",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3730290",
+        "title:onlinepersonalizedtrajectoryplanningoflowerlimbexoskeletonrobotsbasedonkernelizedmovementprimitives"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728337",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T05:08:59.642211+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728337",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "planningalignedtokencompressionforlongcontextautonomousdriving",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728337",
+        "title:planningalignedtokencompressionforlongcontextautonomousdriving"
+      ]
     }
   ]
 }
