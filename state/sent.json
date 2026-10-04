@@ -18757,6 +18757,77 @@
         "doi:10.1109/lra.2026.3728337",
         "title:planningalignedtokencompressionforlongcontextautonomousdriving"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3723315",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T09:14:56.819701+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3723315",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "vpwemnonmarkovianvisuomotorpolicywithworkingandepisodicmemory",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3723315",
+        "title:vpwemnonmarkovianvisuomotorpolicywithworkingandepisodicmemory"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.16680",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T09:14:56.930338+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.16680",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "littlemanaiagentforindustrialprocessoptimization",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.16680",
+        "openalex:w7213503564",
+        "title:littlemanaiagentforindustrialprocessoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04438",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T09:14:57.024699+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "icmbenchpersonlevelidentityreasoninginmultimodalagentswithlongtermmemory",
+      "identity_keys": [
+        "arxiv:2609.04438",
+        "title:icmbenchpersonlevelidentityreasoninginmultimodalagentswithlongtermmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03619",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T09:14:57.133025+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rememberandreweightenhancingmultiagentdebatewithexperiencememoryandconfidenceestimation",
+      "identity_keys": [
+        "arxiv:2609.03619",
+        "title:rememberandreweightenhancingmultiagentdebatewithexperiencememoryandconfidenceestimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.03915",
+      "category": "frontier",
+      "first_sent_at": "2026-10-04T09:15:42.345328+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rulememactiverulememoryforlongtermconversationalagents",
+      "identity_keys": [
+        "arxiv:2609.03915",
+        "title:rulememactiverulememoryforlongtermconversationalagents"
+      ]
     }
   ]
 }
