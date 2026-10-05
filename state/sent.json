@@ -19181,6 +19181,75 @@
         "arxiv:2609.04963",
         "title:fractalbasinstraplatentreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03587",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T09:55:51.533166+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "avljepapreventingcausaldynamicsinformationcollapseinjointembeddingpredictivearchitectureworldmodels",
+      "identity_keys": [
+        "arxiv:2610.03587",
+        "title:avljepapreventingcausaldynamicsinformationcollapseinjointembeddingpredictivearchitectureworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03137",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T09:55:51.715014+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "keepingjepaworldmodelsplannablewhenlittleoftheframemoves",
+      "identity_keys": [
+        "arxiv:2610.03137",
+        "title:keepingjepaworldmodelsplannablewhenlittleoftheframemoves"
+      ]
+    },
+    {
+      "canonical_id": "title:holodecklanguageguidedgenerationof3dembodiedaienvironments",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T09:55:51.835802+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "holodecklanguageguidedgenerationof3dembodiedaienvironments",
+      "identity_keys": [
+        "title:holodecklanguageguidedgenerationof3dembodiedaienvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04893",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T09:55:52.833280+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reasoningwithoutinferencecostlatentsemanticscaffoldingforrobotvlapolicies",
+      "identity_keys": [
+        "arxiv:2609.04893",
+        "title:reasoningwithoutinferencecostlatentsemanticscaffoldingforrobotvlapolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-11031-3",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T09:55:53.118750+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-11031-3",
+      "venue": "Nature",
+      "title_key": "lsp2linksearlylifediettoadulttranslationandlifespanindrosophila",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-11031-3",
+        "title:lsp2linksearlylifediettoadulttranslationandlifespanindrosophila"
+      ]
     }
   ]
 }
