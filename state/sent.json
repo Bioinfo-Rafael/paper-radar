@@ -19250,6 +19250,76 @@
         "doi:10.1038/s41586-026-11031-3",
         "title:lsp2linksearlylifediettoadulttranslationandlifespanindrosophila"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03395",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T13:05:20.139516+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bidirectionalvoronoibiasedexplorationcurriculumforreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.03395",
+        "title:bidirectionalvoronoibiasedexplorationcurriculumforreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.ady5526",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T13:05:20.599586+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.ady5526",
+      "venue": "Science",
+      "title_key": "antiferroelectrichafniadowntothe2dlimit",
+      "identity_keys": [
+        "doi:10.1126/science.ady5526",
+        "title:antiferroelectrichafniadowntothe2dlimit"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03458",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T13:05:20.788611+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anearzeromonitorreadoutisnotevidenceofbehavioralcontrol",
+      "identity_keys": [
+        "arxiv:2610.03458",
+        "title:anearzeromonitorreadoutisnotevidenceofbehavioralcontrol"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.219",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T13:05:21.388708+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.219",
+      "venue": "ACL",
+      "title_key": "instructoncechatconsistentlyinmultipleroundsanefficienttuningframeworkfordialogue",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.219",
+        "title:instructoncechatconsistentlyinmultipleroundsanefficienttuningframeworkfordialogue"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.232",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T13:05:21.786495+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.232",
+      "venue": "ACL",
+      "title_key": "intuitiveordependentinvestigatingllmsbehaviorstyletoconflictingprompts",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.232",
+        "title:intuitiveordependentinvestigatingllmsbehaviorstyletoconflictingprompts"
+      ]
     }
   ]
 }
