@@ -19069,6 +19069,118 @@
         "arxiv:2609.04770",
         "title:continuouscognitivecoverageforautonomousrobotsviaeventdependentcognitivetreatmentandlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03120",
+      "category": "ml",
+      "first_sent_at": "2026-10-05T04:53:57.645787+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "indistributionforcingforlongvideogenerationattesttime",
+      "identity_keys": [
+        "arxiv:2610.03120",
+        "title:indistributionforcingforlongvideogenerationattesttime"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03313",
+      "category": "ml",
+      "first_sent_at": "2026-10-05T04:53:57.936661+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sdecastprobabilisticweatherforecastingincontinuoustimewithneuralsdes",
+      "identity_keys": [
+        "arxiv:2610.03313",
+        "title:sdecastprobabilisticweatherforecastingincontinuoustimewithneuralsdes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02968",
+      "category": "ml",
+      "first_sent_at": "2026-10-05T04:53:58.326924+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reasoningwithevidencenotmerelyrationalesverifiablepreferenceproofsforllmbasedrecommendation",
+      "identity_keys": [
+        "arxiv:2610.02968",
+        "title:reasoningwithevidencenotmerelyrationalesverifiablepreferenceproofsforllmbasedrecommendation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03476",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T04:53:59.025201+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mobiagentduallooprecursivepolicyselfimprovementforlonghorizonmobilemanipulation",
+      "identity_keys": [
+        "arxiv:2610.03476",
+        "title:mobiagentduallooprecursivepolicyselfimprovementforlonghorizonmobilemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02975",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T04:53:59.405820+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reliableselfevolutionwithimperfectproxyrewards",
+      "identity_keys": [
+        "arxiv:2610.02975",
+        "title:reliableselfevolutionwithimperfectproxyrewards"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03092",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T04:53:59.771774+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ultradiscoveryabductiveexplorationinaninterconnectedepistemicallyopenuniverse",
+      "identity_keys": [
+        "arxiv:2610.03092",
+        "title:ultradiscoveryabductiveexplorationinaninterconnectedepistemicallyopenuniverse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05178",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T04:54:00.101622+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liberorecoverbeyondtasksuccesstowardsfailurerecoveryinroboticmanipulationmodels",
+      "identity_keys": [
+        "arxiv:2609.05178",
+        "title:liberorecoverbeyondtasksuccesstowardsfailurerecoveryinroboticmanipulationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.04963",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T04:54:00.496022+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fractalbasinstraplatentreasoning",
+      "identity_keys": [
+        "arxiv:2609.04963",
+        "title:fractalbasinstraplatentreasoning"
+      ]
     }
   ]
 }
