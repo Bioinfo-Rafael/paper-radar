@@ -19320,6 +19320,90 @@
         "doi:10.18653/v1/2024.acl-long.232",
         "title:intuitiveordependentinvestigatingllmsbehaviorstyletoconflictingprompts"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06155",
+      "category": "ml",
+      "first_sent_at": "2026-10-05T18:12:53.275584+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "expertlensvisualizingembeddingspacesforposthocexplainabilityinmoeenhancedretrievers",
+      "identity_keys": [
+        "arxiv:2609.06155",
+        "title:expertlensvisualizingembeddingspacesforposthocexplainabilityinmoeenhancedretrievers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05807",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T18:12:54.002568+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "molparsermobileultrafastocsrsystemforlargescalechemicalliteraturemining",
+      "identity_keys": [
+        "arxiv:2609.05807",
+        "title:molparsermobileultrafastocsrsystemforlargescalechemicalliteraturemining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06099",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T18:12:54.372402+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pastelpanoramicalignmentformonocular4dscenereconstruction",
+      "identity_keys": [
+        "arxiv:2609.06099",
+        "title:pastelpanoramicalignmentformonocular4dscenereconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05834",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T18:12:54.470002+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningcounterfactualworldmodelsforembodiedreasoningunderpartialobservability",
+      "identity_keys": [
+        "arxiv:2609.05834",
+        "title:learningcounterfactualworldmodelsforembodiedreasoningunderpartialobservability"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06208",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T18:12:54.703384+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromgazetomeaningatrainingfreeaiagentforunifiedgroundingandexplanation",
+      "identity_keys": [
+        "arxiv:2609.06208",
+        "title:fromgazetomeaningatrainingfreeaiagentforunifiedgroundingandexplanation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06006",
+      "category": "frontier",
+      "first_sent_at": "2026-10-05T18:13:39.889989+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memoryindeeptimeseriesmodels",
+      "identity_keys": [
+        "arxiv:2609.06006",
+        "title:memoryindeeptimeseriesmodels"
+      ]
     }
   ]
 }
