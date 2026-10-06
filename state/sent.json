@@ -19545,6 +19545,161 @@
         "arxiv:2610.04351",
         "title:locosplatrealtimefeedforward3dgaussiansplattingwithminimal3dreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02232",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-06T05:41:09.899204+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generalizablesinglecellperturbationresponsepredictionusingenergyguidedflowmatching",
+      "identity_keys": [
+        "arxiv:2610.02232",
+        "s2:d1650965e69cce0d2747741b25d6408050e76061",
+        "title:generalizablesinglecellperturbationresponsepredictionusingenergyguidedflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05996",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T05:41:10.474285+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "epicworldmodelexplorationdrivenplanningwithlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.05996",
+        "title:epicworldmodelexplorationdrivenplanningwithlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06844",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T05:41:10.686510+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtoreadthecontextualtokensindiffusiontransformers",
+      "identity_keys": [
+        "arxiv:2610.06844",
+        "title:learningtoreadthecontextualtokensindiffusiontransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06415",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T05:41:11.085615+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingfreetransformermergingviasequentiallocaloperatoralignment",
+      "identity_keys": [
+        "arxiv:2610.06415",
+        "title:trainingfreetransformermergingviasequentiallocaloperatoralignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06725",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T05:41:11.339196+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "branchmoebalanceawaretreeroutingforlargeembeddingmodels",
+      "identity_keys": [
+        "arxiv:2610.06725",
+        "title:branchmoebalanceawaretreeroutingforlargeembeddingmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06401",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T05:41:56.796847+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "raisedselfdistillationforrobustnesstopromptinjectioninllmagents",
+      "identity_keys": [
+        "arxiv:2610.06401",
+        "title:raisedselfdistillationforrobustnesstopromptinjectioninllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06269",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T05:41:57.334518+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evolvinginthoughtspacetrainingasmallmodelattesttimeunlocksbetterdiscoveries",
+      "identity_keys": [
+        "arxiv:2610.06269",
+        "title:evolvinginthoughtspacetrainingasmallmodelattesttimeunlocksbetterdiscoveries"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06805",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T05:41:57.553713+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hjepaendtoendlearningofhierarchicalworldmodelsforvisualplanning",
+      "identity_keys": [
+        "arxiv:2610.06805",
+        "title:hjepaendtoendlearningofhierarchicalworldmodelsforvisualplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05996",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T05:41:57.697229+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "epicworldmodelexplorationdrivenplanningwithlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.05996",
+        "title:epicworldmodelexplorationdrivenplanningwithlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05985",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T05:42:43.076271+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "abraininspiredhierarchicalframeworkforzeroshotrobottaskreasoningandexecution",
+      "identity_keys": [
+        "arxiv:2609.05985",
+        "title:abraininspiredhierarchicalframeworkforzeroshotrobottaskreasoningandexecution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06263",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T05:42:43.416463+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondtheflagclinicalframingclosesthemoderationgapinsuicideriskmeasurement",
+      "identity_keys": [
+        "arxiv:2609.06263",
+        "title:beyondtheflagclinicalframingclosesthemoderationgapinsuicideriskmeasurement"
+      ]
     }
   ]
 }
