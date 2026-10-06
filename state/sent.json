@@ -19812,6 +19812,134 @@
         "arxiv:2609.05782",
         "title:distillingvisionlanguagemodelsforondevicefireunderstanding"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkaf630",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-06T12:28:59.047212+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkaf630",
+      "venue": "Nucleic Acids Research",
+      "title_key": "learninginterpretablerepresentationsofsinglecellmultiomicsdatawithmultioutputgaussianprocesses",
+      "identity_keys": [
+        "doi:10.1093/nar/gkaf630",
+        "title:learninginterpretablerepresentationsofsinglecellmultiomicsdatawithmultioutputgaussianprocesses"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.02232",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-06T12:29:00.162734+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.02232",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "generalizablesinglecellperturbationresponsepredictionusingenergyguidedflowmatching",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.02232",
+        "openalex:w7220417896",
+        "title:generalizablesinglecellperturbationresponsepredictionusingenergyguidedflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.01.756056",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-06T12:29:00.594483+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.01.756056",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "identifiableinverseoptimaltransportforsinglecellstatetransitions",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.01.756056",
+        "title:identifiableinverseoptimaltransportforsinglecellstatetransitions"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2609.38920",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T12:29:01.527576+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2609.38920",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "learningwheretosteernoisespacegeometryforefficientofflinemultiobjectiveoptimizationwithgenerativemodels",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2609.38920",
+        "openalex:w7215035232",
+        "title:learningwheretosteernoisespacegeometryforefficientofflinemultiobjectiveoptimizationwithgenerativemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06008",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T12:29:02.221792+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ultrasoundoperatorguidanceusingworldmodelingandretrievalbasedactionplanning",
+      "identity_keys": [
+        "arxiv:2610.06008",
+        "title:ultrasoundoperatorguidanceusingworldmodelingandretrievalbasedactionplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06009",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T12:29:02.574882+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howtolearnfromwhatahumanwouldavoidinterventionawareworldmodelswithrealworldrlfordexterousmanipulation",
+      "identity_keys": [
+        "arxiv:2609.06009",
+        "title:howtolearnfromwhatahumanwouldavoidinterventionawareworldmodelswithrealworldrlfordexterousmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06843",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T12:29:03.077431+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recursivevideoincontextlearningforagenticrobot",
+      "identity_keys": [
+        "arxiv:2610.06843",
+        "title:recursivevideoincontextlearningforagenticrobot"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06271",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T12:29:03.412009+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlazofastzerothorderadaptationforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.06271",
+        "title:vlazofastzerothorderadaptationforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06071",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T12:29:03.827565+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generatinginstancegeneratorsinpddlplanning",
+      "identity_keys": [
+        "arxiv:2609.06071",
+        "title:generatinginstancegeneratorsinpddlplanning"
+      ]
     }
   ]
 }
