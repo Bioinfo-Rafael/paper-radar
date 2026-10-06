@@ -19404,6 +19404,147 @@
         "arxiv:2609.06006",
         "title:memoryindeeptimeseriesmodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04624",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T01:38:34.867362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "backwardconsistentdiffusionsamplingforsparselyobservedpdeinverseproblems",
+      "identity_keys": [
+        "arxiv:2610.04624",
+        "title:backwardconsistentdiffusionsamplingforsparselyobservedpdeinverseproblems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04038",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T01:38:34.980155+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "protectingsensitivedatainimagesynthesisviapacprivateadaptationfordiffusionmodels",
+      "identity_keys": [
+        "arxiv:2610.04038",
+        "title:protectingsensitivedatainimagesynthesisviapacprivateadaptationfordiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04518",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T01:38:35.331833+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lengthgeneralizationneedsproperregularization",
+      "identity_keys": [
+        "arxiv:2610.04518",
+        "title:lengthgeneralizationneedsproperregularization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04588",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T01:38:35.460545+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "variationalquantumattentionformoleculargraphlearning",
+      "identity_keys": [
+        "arxiv:2610.04588",
+        "title:variationalquantumattentionformoleculargraphlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04517",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T01:39:20.837108+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evocastreliableautonomousresearchagentsforiterativeforecastingarchitectureevolution",
+      "identity_keys": [
+        "arxiv:2610.04517",
+        "title:evocastreliableautonomousresearchagentsforiterativeforecastingarchitectureevolution"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/icra57385.2026.11696593",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T01:39:21.238726+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA), Vienna, Austria, 2026, pp. 4643-4650",
+      "title_key": "leveragingcosteffectiveroboticsfork12stemeducationthroughwaterqualitymonitoringtasks",
+      "identity_keys": [
+        "arxiv:2610.04565",
+        "doi:10.1109/icra57385.2026.11696593",
+        "title:leveragingcosteffectiveroboticsfork12stemeducationthroughwaterqualitymonitoringtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04540",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T01:39:21.891961+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dreamformerdreamimitationwithatransformerworldmodelforlanguageconditionedroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2610.04540",
+        "title:dreamformerdreamimitationwithatransformerworldmodelforlanguageconditionedroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06302",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T01:39:22.020396+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cstwmacausallystructuredworldmodelforembodiedvisualtracking",
+      "identity_keys": [
+        "arxiv:2609.06302",
+        "title:cstwmacausallystructuredworldmodelforembodiedvisualtracking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06251",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T01:39:22.513868+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mobilevlar120rlenhancedreasoningformobilerobotcontrol",
+      "identity_keys": [
+        "arxiv:2609.06251",
+        "title:mobilevlar120rlenhancedreasoningformobilerobotcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04351",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T01:39:23.299056+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "locosplatrealtimefeedforward3dgaussiansplattingwithminimal3dreasoning",
+      "identity_keys": [
+        "arxiv:2610.04351",
+        "title:locosplatrealtimefeedforward3dgaussiansplattingwithminimal3dreasoning"
+      ]
     }
   ]
 }
