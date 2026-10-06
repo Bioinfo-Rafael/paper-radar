@@ -19940,6 +19940,147 @@
         "arxiv:2609.06071",
         "title:generatinginstancegeneratorsinpddlplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-025-03823-z",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-06T15:50:42.467399+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-025-03823-z",
+      "venue": "Genome biology",
+      "title_key": "cisformerascalablecrossmodalitygenerationframeworkfordecodingtranscriptionalregulationatsinglecellresolution",
+      "identity_keys": [
+        "doi:10.1186/s13059-025-03823-z",
+        "pubmed:41053815",
+        "title:cisformerascalablecrossmodalitygenerationframeworkfordecodingtranscriptionalregulationatsinglecellresolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06651",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T15:50:43.256752+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "swiftexplorertrainingfreediffusionmodelalignmentwithswiftdiversityexploration",
+      "identity_keys": [
+        "arxiv:2609.06651",
+        "title:swiftexplorertrainingfreediffusionmodelalignmentwithswiftdiversityexploration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06546",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T15:50:43.681791+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "introductorynotesonlearning2",
+      "identity_keys": [
+        "arxiv:2609.06546",
+        "title:introductorynotesonlearning2"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06581",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T15:50:43.954782+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "readingdecodertrajectoriestrainingfreecounterfactualquerytrajectoryreliabilityforsmallobjectdetection",
+      "identity_keys": [
+        "arxiv:2609.06581",
+        "title:readingdecodertrajectoriestrainingfreecounterfactualquerytrajectoryreliabilityforsmallobjectdetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06460",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T15:50:44.618768+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atheoreticalframeworkformaskedpretrainingmpt",
+      "identity_keys": [
+        "arxiv:2609.06460",
+        "title:atheoreticalframeworkformaskedpretrainingmpt"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06366",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T15:50:45.620232+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autokdautonomousknowledgediscovery",
+      "identity_keys": [
+        "arxiv:2609.06366",
+        "title:autokdautonomousknowledgediscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06823",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T15:50:46.060368+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generalistopenworldtemporalperception",
+      "identity_keys": [
+        "arxiv:2609.06823",
+        "title:generalistopenworldtemporalperception"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06852",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T15:50:46.402894+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "contextflowincontextflowmatchingforrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2609.06852",
+        "title:contextflowincontextflowmatchingforrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06647",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T15:50:46.839102+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lograscalingllmreinforcementlearningwithlowrankgradientsketches",
+      "identity_keys": [
+        "arxiv:2610.06647",
+        "title:lograscalingllmreinforcementlearningwithlowrankgradientsketches"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06557",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T15:50:47.017418+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hiddeninplainsighttheoverlookedsignificanceofcanonicalelementsforextremellmsparsity",
+      "identity_keys": [
+        "arxiv:2609.06557",
+        "title:hiddeninplainsighttheoverlookedsignificanceofcanonicalelementsforextremellmsparsity"
+      ]
     }
   ]
 }
