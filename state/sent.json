@@ -19700,6 +19700,118 @@
         "arxiv:2609.06263",
         "title:beyondtheflagclinicalframingclosesthemoderationgapinsuicideriskmeasurement"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06259",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T09:44:12.480354+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "oclpdeagenerativeframeworkforpdeinverseproblemswithobservationcomplementarylatents",
+      "identity_keys": [
+        "arxiv:2610.06259",
+        "title:oclpdeagenerativeframeworkforpdeinverseproblemswithobservationcomplementarylatents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06559",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T09:44:13.194059+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mirttransformersfortruthfulgenerativeauctionswithwholefeedpermutationexternalities",
+      "identity_keys": [
+        "arxiv:2610.06559",
+        "title:mirttransformersfortruthfulgenerativeauctionswithwholefeedpermutationexternalities"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06578",
+      "category": "ml",
+      "first_sent_at": "2026-10-06T09:44:13.902594+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dgamuondecoupledgeometryalignedadaptivescalingformuon",
+      "identity_keys": [
+        "arxiv:2610.06578",
+        "title:dgamuondecoupledgeometryalignedadaptivescalingformuon"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06250",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T09:44:14.523087+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generativeworldmodelsenablepredictivecontroloflasermeltpooldynamics",
+      "identity_keys": [
+        "arxiv:2610.06250",
+        "title:generativeworldmodelsenablepredictivecontroloflasermeltpooldynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06582",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T09:44:14.865796+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mindtheexecutiongapactionsemanticmismatchinworldmodelcontrol",
+      "identity_keys": [
+        "arxiv:2610.06582",
+        "title:mindtheexecutiongapactionsemanticmismatchinworldmodelcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06469",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T09:44:15.274727+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "odysseyaclosedloopbenchmarkforlonghorizonrealworlddrivingwithexplicitnavigationroutes",
+      "identity_keys": [
+        "arxiv:2610.06469",
+        "title:odysseyaclosedloopbenchmarkforlonghorizonrealworlddrivingwithexplicitnavigationroutes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06181",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T09:44:15.846256+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diamondagentagenticcontroloffederatedhpcresourcesasaservice",
+      "identity_keys": [
+        "arxiv:2609.06181",
+        "title:diamondagentagenticcontroloffederatedhpcresourcesasaservice"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.05782",
+      "category": "frontier",
+      "first_sent_at": "2026-10-06T09:44:16.023449+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "distillingvisionlanguagemodelsforondevicefireunderstanding",
+      "identity_keys": [
+        "arxiv:2609.05782",
+        "title:distillingvisionlanguagemodelsforondevicefireunderstanding"
+      ]
     }
   ]
 }
