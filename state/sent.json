@@ -20081,6 +20081,107 @@
         "arxiv:2609.06557",
         "title:hiddeninplainsighttheoverlookedsignificanceofcanonicalelementsforextremellmsparsity"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1014838",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-07T00:16:10.279553+00:00",
+      "publication_status": "published",
+      "preprint_doi": "10.64898/2026.03.31.715390",
+      "published_doi": "10.1371/journal.pcbi.1014838",
+      "venue": "bioRxiv",
+      "title_key": "cardamomotamechanisticoptimaltransportbasedframeworkforgeneregulatorynetworkinferencetrajectoryreconstructionandgenerativemodeling",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.03.31.715390",
+        "doi:10.1371/journal.pcbi.1014838",
+        "pubmed:42837408",
+        "title:cardamomotamechanisticoptimaltransportbasedframeworkforgeneregulatorynetworkinferencetrajectoryreconstructionandgenerativemodeling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pone.0359164",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-07T00:16:10.437624+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pone.0359164",
+      "venue": "PloS one",
+      "title_key": "gpdhtadualheadtransformerwithsupervisedcontrastivelearningforsharedgenepretrainingandsinglecellgrnprediction",
+      "identity_keys": [
+        "doi:10.1371/journal.pone.0359164",
+        "pubmed:42837364",
+        "title:gpdhtadualheadtransformerwithsupervisedcontrastivelearningforsharedgenepretrainingandsinglecellgrnprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06761",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T00:16:11.465611+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latslevyadaptivetreesamplingforfeedbackdrivendiversetargetdiscovery",
+      "identity_keys": [
+        "arxiv:2609.06761",
+        "title:latslevyadaptivetreesamplingforfeedbackdrivendiversetargetdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06820",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T00:16:12.083909+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diagnosinganddynamicallyfilteringoccupancyworldmodelsforactivemapping",
+      "identity_keys": [
+        "arxiv:2609.06820",
+        "title:diagnosinganddynamicallyfilteringoccupancyworldmodelsforactivemapping"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05162",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T00:16:12.418656+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memadaptercounterfactualadaptationagainstmemoryinducedsycophancy",
+      "identity_keys": [
+        "arxiv:2610.05162",
+        "title:memadaptercounterfactualadaptationagainstmemoryinducedsycophancy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06476",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T00:16:12.649258+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onemllmonecallefficientzeroshotvisionandlanguagenavigationviaspatialawarewaypoints",
+      "identity_keys": [
+        "arxiv:2609.06476",
+        "title:onemllmonecallefficientzeroshotvisionandlanguagenavigationviaspatialawarewaypoints"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06180",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T00:16:13.404897+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anluenablingincontexttimeseriesanomalydetectioninfoundationmodelsviacounterfactualsupervision",
+      "identity_keys": [
+        "arxiv:2610.06180",
+        "title:anluenablingincontexttimeseriesanomalydetectioninfoundationmodelsviacounterfactualsupervision"
+      ]
     }
   ]
 }
