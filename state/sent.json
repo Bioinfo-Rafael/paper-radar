@@ -20392,6 +20392,76 @@
         "arxiv:2609.06721",
         "title:companionstyleqaassistanceinegovision"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07935",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T12:21:40.190028+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sigmaselfimprovingalignmentgeneralizationfromamodelspec",
+      "identity_keys": [
+        "arxiv:2610.07935",
+        "title:sigmaselfimprovingalignmentgeneralizationfromamodelspec"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06810",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T12:21:40.445405+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "octnneuraloctrepresentationsforrobotguidedprecisionintervention",
+      "identity_keys": [
+        "arxiv:2609.06810",
+        "title:octnneuraloctrepresentationsforrobotguidedprecisionintervention"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07907",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T12:21:40.678779+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuousmemorymachines",
+      "identity_keys": [
+        "arxiv:2610.07907",
+        "title:continuousmemorymachines"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08102",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T12:22:25.890141+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dsvmemevaluatingmultimodalmemoryinprofessionalworkflowsformllmagents",
+      "identity_keys": [
+        "arxiv:2610.08102",
+        "title:dsvmemevaluatingmultimodalmemoryinprofessionalworkflowsformllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22258",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T12:22:25.991691+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rsclawevolutionenvironmentfeedbackdrivenevolutionforlightweightremotesensingagentsinlonghorizontasks",
+      "identity_keys": [
+        "arxiv:2609.22258",
+        "title:rsclawevolutionenvironmentfeedbackdrivenevolutionforlightweightremotesensingagentsinlonghorizontasks"
+      ]
     }
   ]
 }
