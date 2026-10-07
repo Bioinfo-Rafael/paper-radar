@@ -20182,6 +20182,146 @@
         "arxiv:2610.06180",
         "title:anluenablingincontexttimeseriesanomalydetectioninfoundationmodelsviacounterfactualsupervision"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07884",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T05:11:45.992837+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learnedadaptivemultiresolutiondiffusionimaging",
+      "identity_keys": [
+        "arxiv:2610.07884",
+        "title:learnedadaptivemultiresolutiondiffusionimaging"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08537",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T05:11:46.174823+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flowcfsparsecounterfactualexplanationsformixedtypetabulardatausingflowmatching",
+      "identity_keys": [
+        "arxiv:2610.08537",
+        "title:flowcfsparsecounterfactualexplanationsformixedtypetabulardatausingflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08475",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T05:11:46.662477+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningpdesolutionoperatorswithvariableinitialconditionsvialatentdynamicsnetworks",
+      "identity_keys": [
+        "arxiv:2610.08475",
+        "title:learningpdesolutionoperatorswithvariableinitialconditionsvialatentdynamicsnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08341",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T05:11:47.154283+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diprunetaskawaretokenpruningwithdualimportanceforefficientmultimodallanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.08341",
+        "title:diprunetaskawaretokenpruningwithdualimportanceforefficientmultimodallanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07284",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T05:11:47.789892+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "empiricalbayesspectralpartialpoolingacrossrelatedtasks",
+      "identity_keys": [
+        "arxiv:2610.07284",
+        "title:empiricalbayesspectralpartialpoolingacrossrelatedtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08780",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T05:11:48.445395+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "depthworld3dworldmodelforrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2610.08780",
+        "title:depthworld3dworldmodelforrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08350",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T05:11:48.620571+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howmuchplanningisenoughreducingsearchandcomputationinworldmodelplanning",
+      "identity_keys": [
+        "arxiv:2610.08350",
+        "title:howmuchplanningisenoughreducingsearchandcomputationinworldmodelplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08541",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T05:11:50.004417+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "microneuralpoliciesforsaferealtimeroboticcontrol",
+      "identity_keys": [
+        "arxiv:2610.08541",
+        "title:microneuralpoliciesforsaferealtimeroboticcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06702",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T05:11:50.327079+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "parserreadinparallelreasonindepthforlongcontextllmagents",
+      "identity_keys": [
+        "arxiv:2609.06702",
+        "title:parserreadinparallelreasonindepthforlongcontextllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06758",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T05:11:50.488403+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticvisualgenerationfromgenerativemodelstoagenticcontrol",
+      "identity_keys": [
+        "arxiv:2609.06758",
+        "title:agenticvisualgenerationfromgenerativemodelstoagenticcontrol"
+      ]
     }
   ]
 }
