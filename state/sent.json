@@ -20322,6 +20322,76 @@
         "arxiv:2609.06758",
         "title:agenticvisualgenerationfromgenerativemodelstoagenticcontrol"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08627",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T09:41:32.872844+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "parallelpredictiveworldmodelsforaccurateandefficientlonghorizonplanning",
+      "identity_keys": [
+        "arxiv:2610.08627",
+        "title:parallelpredictiveworldmodelsforaccurateandefficientlonghorizonplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08220",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T09:41:33.041433+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vommicollectingandleveragingportabledemonstrationsformobilemanipulation",
+      "identity_keys": [
+        "arxiv:2610.08220",
+        "title:vommicollectingandleveragingportabledemonstrationsformobilemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06331",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T09:41:33.740523+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geometricdistributionalcontrollearningprogresswithpartialstructuralknowledge",
+      "identity_keys": [
+        "arxiv:2609.06331",
+        "title:geometricdistributionalcontrollearningprogresswithpartialstructuralknowledge"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07954",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T09:41:34.268062+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "revisitingnumericalforecastingmodelsforlanguagebasedtrajectoryprediction",
+      "identity_keys": [
+        "arxiv:2610.07954",
+        "title:revisitingnumericalforecastingmodelsforlanguagebasedtrajectoryprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.06721",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T09:41:34.457555+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "companionstyleqaassistanceinegovision",
+      "identity_keys": [
+        "arxiv:2609.06721",
+        "title:companionstyleqaassistanceinegovision"
+      ]
     }
   ]
 }
