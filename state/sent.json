@@ -20462,6 +20462,176 @@
         "arxiv:2609.22258",
         "title:rsclawevolutionenvironmentfeedbackdrivenevolutionforlightweightremotesensingagentsinlonghorizontasks"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkaf1494",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-07T16:15:26.327732+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkaf1494",
+      "venue": "Nucleic Acids Research",
+      "title_key": "interpretabletrajectoryinferencewithsinglecelllinearadaptivenegativebinomialexpressionsclanetesting",
+      "identity_keys": [
+        "doi:10.1093/nar/gkaf1494",
+        "title:interpretabletrajectoryinferencewithsinglecelllinearadaptivenegativebinomialexpressionsclanetesting"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.07.687323",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-07T16:15:26.715700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.07.687323",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "beyondsyntheticlethalityinlargescalemetabolicandregulatorynetworkmodelsviageneticminimalinterventionsets",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.07.687323",
+        "title:beyondsyntheticlethalityinlargescalemetabolicandregulatorynetworkmodelsviageneticminimalinterventionsets"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s44163-026-02418-2",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T16:15:27.350841+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s44163-026-02418-2",
+      "venue": "Discover Artificial Intelligence",
+      "title_key": "generativemodelsforinteractivecontentcreationandunderstandinginsmartimaging",
+      "identity_keys": [
+        "doi:10.1007/s44163-026-02418-2",
+        "openalex:w7220411639",
+        "title:generativemodelsforinteractivecontentcreationandunderstandinginsmartimaging"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07213",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T16:15:27.773290+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unravelingtherealworkingmechanismandinherentflawsofgaeamethodforinterpretingtransformerprocessesfromaneconomicperspective",
+      "identity_keys": [
+        "arxiv:2609.07213",
+        "title:unravelingtherealworkingmechanismandinherentflawsofgaeamethodforinterpretingtransformerprocessesfromaneconomicperspective"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07078",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T16:15:28.030040+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "oneforallgeneralistfoundationmodelforcrosssensorskeletonrepresentationlearning",
+      "identity_keys": [
+        "arxiv:2609.07078",
+        "title:oneforallgeneralistfoundationmodelforcrosssensorskeletonrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07755",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T16:15:30.870036+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atheoreticalanalysisofgeneralizationdynamicsinneuralnetworksundergradientdescentwithweightdecay",
+      "identity_keys": [
+        "arxiv:2609.07755",
+        "title:atheoreticalanalysisofgeneralizationdynamicsinneuralnetworksundergradientdescentwithweightdecay"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07009",
+      "category": "ml",
+      "first_sent_at": "2026-10-07T16:15:31.233638+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neucmetowarddynamicmultimodalcontinuallearningvianeuralcombinatoricsofmultipleexperts",
+      "identity_keys": [
+        "arxiv:2609.07009",
+        "title:neucmetowarddynamicmultimodalcontinuallearningvianeuralcombinatoricsofmultipleexperts"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.23196552",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T16:15:32.172797+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.23196552",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "evecovaracertifiedrecursiveselfimprovementviasquarerootreservetransportmemorypreservingadaptationandauditableselfmodification",
+      "identity_keys": [
+        "doi:10.5281/zenodo.23196552",
+        "openalex:w7220669358",
+        "title:evecovaracertifiedrecursiveselfimprovementviasquarerootreservetransportmemorypreservingadaptationandauditableselfmodification"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07135",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T16:15:32.659414+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "nutribenchkitchenbenchmarkingembodiedaifornutritionmanagement",
+      "identity_keys": [
+        "arxiv:2609.07135",
+        "title:nutribenchkitchenbenchmarkingembodiedaifornutritionmanagement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07126",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T16:15:32.814514+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondtasksuccessstagewisereliabilityofworldmodelplanningundersensingdegradation",
+      "identity_keys": [
+        "arxiv:2609.07126",
+        "title:beyondtasksuccessstagewisereliabilityofworldmodelplanningundersensingdegradation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07470",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T16:15:33.004100+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "measuringlanguagetransferinrobotpoliciesaddinggreektoacosmos3visionlanguageactionpolicy",
+      "identity_keys": [
+        "arxiv:2609.07470",
+        "title:measuringlanguagetransferinrobotpoliciesaddinggreektoacosmos3visionlanguageactionpolicy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07299",
+      "category": "frontier",
+      "first_sent_at": "2026-10-07T16:15:33.960810+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmodelsunderasynchronoussensorobservations",
+      "identity_keys": [
+        "arxiv:2609.07299",
+        "title:worldmodelsunderasynchronoussensorobservations"
+      ]
     }
   ]
 }
