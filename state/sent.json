@@ -20996,6 +20996,76 @@
         "arxiv:2609.07108",
         "title:onlinedraftcotrainingforspeculativedecodinginlargescalelongcontextrlposttraining"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08673",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T16:17:09.025898+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bidetabraininspireddataefficienttactileadaptationforunseensensors",
+      "identity_keys": [
+        "arxiv:2609.08673",
+        "title:bidetabraininspireddataefficienttactileadaptationforunseensensors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10426",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T16:17:09.388665+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cotracedatarecipesfortrainingterminalagentswithharnessmodelcoevolution",
+      "identity_keys": [
+        "arxiv:2610.10426",
+        "title:cotracedatarecipesfortrainingterminalagentswithharnessmodelcoevolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09870",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T16:17:09.647577+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deadlineawaremultiagentreinforcementlearningfortsnbasedvehicularedgenetworks",
+      "identity_keys": [
+        "arxiv:2610.09870",
+        "title:deadlineawaremultiagentreinforcementlearningfortsnbasedvehicularedgenetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10533",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T16:17:09.845963+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "engrameditdecoupledknowledgeupdatesinllmsthroughconditionalmemory",
+      "identity_keys": [
+        "arxiv:2610.10533",
+        "title:engrameditdecoupledknowledgeupdatesinllmsthroughconditionalmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08938",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T16:17:10.209783+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "egosisfromfactorizedvisualegotransitionstomotioncanonicalspatialevidenceforuavreasoning",
+      "identity_keys": [
+        "arxiv:2609.08938",
+        "title:egosisfromfactorizedvisualegotransitionstomotioncanonicalspatialevidenceforuavreasoning"
+      ]
     }
   ]
 }
