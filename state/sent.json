@@ -20856,6 +20856,76 @@
         "arxiv:2609.07664",
         "title:accuracyisnotenoughadivergencebasedapproachtoevaluatefidelitylossinquantizedllms"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09785",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T09:58:42.922674+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ultraworldlearninginteractiveultrasoundworldmodelsfromuntrackedclinicalvideoswithacousticsamplingmap",
+      "identity_keys": [
+        "arxiv:2610.09785",
+        "title:ultraworldlearninginteractiveultrasoundworldmodelsfromuntrackedclinicalvideoswithacousticsamplingmap"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10515",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T09:58:43.112866+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robojepascalingroboticlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.10515",
+        "title:robojepascalingroboticlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07094",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T09:58:43.236908+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cascadeaspatiotemporalcausalreasoningrepresentationanddatasetfordriving",
+      "identity_keys": [
+        "arxiv:2609.07094",
+        "title:cascadeaspatiotemporalcausalreasoningrepresentationanddatasetfordriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10526",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T09:58:43.926317+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rephrasebeforeyouactcharacterizingandmitigatinglanguagesensitivityinvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.10526",
+        "title:rephrasebeforeyouactcharacterizingandmitigatinglanguagesensitivityinvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07529",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T09:58:44.755399+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coerdefendingagainstadaptiveindirectpromptinjectionviaadversarialcoevolutionandrefinement",
+      "identity_keys": [
+        "arxiv:2609.07529",
+        "title:coerdefendingagainstadaptiveindirectpromptinjectionviaadversarialcoevolutionandrefinement"
+      ]
     }
   ]
 }
