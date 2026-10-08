@@ -20926,6 +20926,76 @@
         "arxiv:2609.07529",
         "title:coerdefendingagainstadaptiveindirectpromptinjectionviaadversarialcoevolutionandrefinement"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10274",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T12:31:18.127318+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sparseplanninginvisualworldmodelsviacostgradients",
+      "identity_keys": [
+        "arxiv:2610.10274",
+        "title:sparseplanninginvisualworldmodelsviacostgradients"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09763",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T12:31:18.438382+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondpolicysupportinteractionconstrainedofflinereinforcementlearningforautonomousdriving",
+      "identity_keys": [
+        "arxiv:2610.09763",
+        "title:beyondpolicysupportinteractionconstrainedofflinereinforcementlearningforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10447",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T12:31:19.844208+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agoodselfteachermeetsthestudentwheretheyarejointonpolicylearningandteaching",
+      "identity_keys": [
+        "arxiv:2610.10447",
+        "title:agoodselfteachermeetsthestudentwheretheyarejointonpolicylearningandteaching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07966",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T12:31:19.999773+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "metakvadaptivekvcachecompressionforconstrainedllminference",
+      "identity_keys": [
+        "arxiv:2609.07966",
+        "title:metakvadaptivekvcachecompressionforconstrainedllminference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07108",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T12:31:20.158373+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onlinedraftcotrainingforspeculativedecodinginlargescalelongcontextrlposttraining",
+      "identity_keys": [
+        "arxiv:2609.07108",
+        "title:onlinedraftcotrainingforspeculativedecodinginlargescalelongcontextrlposttraining"
+      ]
     }
   ]
 }
