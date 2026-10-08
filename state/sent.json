@@ -20632,6 +20632,90 @@
         "arxiv:2609.07299",
         "title:worldmodelsunderasynchronoussensorobservations"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07409",
+      "category": "ml",
+      "first_sent_at": "2026-10-08T00:35:52.446948+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rafmseralightweightmultimodalemotionrecognitionframeworkforrealtimebehavioralmonitoringinsurveillancesystems",
+      "identity_keys": [
+        "arxiv:2609.07409",
+        "title:rafmseralightweightmultimodalemotionrecognitionframeworkforrealtimebehavioralmonitoringinsurveillancesystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08215",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T00:35:53.395020+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learn2playbenchhowwelldollmagentslearnfromexperienceinunfamiliarenvironments",
+      "identity_keys": [
+        "arxiv:2610.08215",
+        "title:learn2playbenchhowwelldollmagentslearnfromexperienceinunfamiliarenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07719",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T00:35:53.746536+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aradiographicworldmodelforclinicalreasoningandevidencegeneration",
+      "identity_keys": [
+        "arxiv:2609.07719",
+        "title:aradiographicworldmodelforclinicalreasoningandevidencegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08726",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T00:35:54.204951+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "egolaplearningfromegocentrichumandatathroughlanguageactionreasoning",
+      "identity_keys": [
+        "arxiv:2610.08726",
+        "title:egolaplearningfromegocentrichumandatathroughlanguageactionreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08388",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T00:35:54.544515+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "foresightovergraphreasoningbeyondlocalhorizonsforknowledgebasequestionanswering",
+      "identity_keys": [
+        "arxiv:2610.08388",
+        "title:foresightovergraphreasoningbeyondlocalhorizonsforknowledgebasequestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08025",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T00:35:54.867090+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "elicitingselfverificationinmultimodalreasoningagentswithreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.08025",
+        "title:elicitingselfverificationinmultimodalreasoningagentswithreinforcementlearning"
+      ]
     }
   ]
 }
