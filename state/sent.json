@@ -20716,6 +20716,146 @@
         "arxiv:2609.08025",
         "title:elicitingselfverificationinmultimodalreasoningagentswithreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08989",
+      "category": "ml",
+      "first_sent_at": "2026-10-08T05:22:03.961029+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "laserlatentspaceadjointmatchingforsupportconstrainedentropyregularizedofflinerl",
+      "identity_keys": [
+        "arxiv:2610.08989",
+        "title:laserlatentspaceadjointmatchingforsupportconstrainedentropyregularizedofflinerl"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09969",
+      "category": "ml",
+      "first_sent_at": "2026-10-08T05:22:04.248449+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trptqhighaccuracyintegeronlytransformerposttrainingquantizationviataylorregionreformulation",
+      "identity_keys": [
+        "arxiv:2610.09969",
+        "title:trptqhighaccuracyintegeronlytransformerposttrainingquantizationviataylorregionreformulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09690",
+      "category": "ml",
+      "first_sent_at": "2026-10-08T05:22:49.552896+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "navilossanunderwaternavigationawaredualresidualobjectiveforphysicsconsistentlearning",
+      "identity_keys": [
+        "arxiv:2610.09690",
+        "title:navilossanunderwaternavigationawaredualresidualobjectiveforphysicsconsistentlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09784",
+      "category": "ml",
+      "first_sent_at": "2026-10-08T05:22:49.715708+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cirsegcoarsetofineintensityrobustliversegmentationwithsourcefreecontinualtesttimeadaptation",
+      "identity_keys": [
+        "arxiv:2610.09784",
+        "title:cirsegcoarsetofineintensityrobustliversegmentationwithsourcefreecontinualtesttimeadaptation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10396",
+      "category": "ml",
+      "first_sent_at": "2026-10-08T05:22:49.933746+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gaussiandensitysplattingnetwork",
+      "identity_keys": [
+        "arxiv:2610.10396",
+        "title:gaussiandensitysplattingnetwork"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10183",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T05:22:50.282786+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "videoevolvecoevolvingmemoryandretrievalforlongvideounderstanding",
+      "identity_keys": [
+        "arxiv:2610.10183",
+        "title:videoevolvecoevolvingmemoryandretrievalforlongvideounderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09940",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T05:22:50.570477+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "junotamingpredictivelatentsforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.09940",
+        "title:junotamingpredictivelatentsforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10390",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T05:23:35.901017+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "explicitgeometricchainofthoughtforvisionlanguageactioninautonomousdriving",
+      "identity_keys": [
+        "arxiv:2610.10390",
+        "title:explicitgeometricchainofthoughtforvisionlanguageactioninautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01274-0",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T05:23:36.336114+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01274-0",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "aneuralnetworkmodeloffreerecalllearnsmultiplememorystrategies",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01274-0",
+        "title:aneuralnetworkmodeloffreerecalllearnsmultiplememorystrategies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.07664",
+      "category": "frontier",
+      "first_sent_at": "2026-10-08T05:23:36.469569+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "accuracyisnotenoughadivergencebasedapproachtoevaluatefidelitylossinquantizedllms",
+      "identity_keys": [
+        "arxiv:2609.07664",
+        "title:accuracyisnotenoughadivergencebasedapproachtoevaluatefidelitylossinquantizedllms"
+      ]
     }
   ]
 }
