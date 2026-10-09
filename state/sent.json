@@ -21500,6 +21500,90 @@
         "doi:10.18653/v1/2024.acl-long.172",
         "title:longbenchabilingualmultitaskbenchmarkforlongcontextunderstanding"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.10.15.682661",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-09T16:03:34.802182+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.10.15.682661",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "perturbationawarerepresentationlearningforinvivogeneticscreens",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.10.15.682661",
+        "title:perturbationawarerepresentationlearningforinvivogeneticscreens"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09957",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T16:03:35.823913+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondverifiedanswerssolverinformedselfdistillationforbootstrappingoperationsresearchlanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.09957",
+        "title:beyondverifiedanswerssolverinformedselfdistillationforbootstrappingoperationsresearchlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12299",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T16:03:36.210325+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiagentegocentricworldmodelwithfinegrainedembodiedinteraction",
+      "identity_keys": [
+        "arxiv:2610.12299",
+        "title:multiagentegocentricworldmodelwithfinegrainedembodiedinteraction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12285",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T16:03:36.449728+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "plawvlapredictivelatentworldmodelingforvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2610.12285",
+        "title:plawvlapredictivelatentworldmodelingforvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11771",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T16:03:36.923043+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pathtimevlapathtimedecouplingforfactorizedposttrainingofvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2610.11771",
+        "title:pathtimevlapathtimedecouplingforfactorizedposttrainingofvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10781",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T16:03:37.478905+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Zhang, S., Wang, Z., Chang, X.-W., & Precup, D. (2026). From connectivity to rewards: Dense reward learning with directed state graphs. Transactions on Machine Learning Research. https://openreview.net/forum?id=F65zrefsjB",
+      "title_key": "fromconnectivitytorewardsdenserewardlearningwithdirectedstategraphs",
+      "identity_keys": [
+        "arxiv:2609.10781",
+        "title:fromconnectivitytorewardsdenserewardlearningwithdirectedstategraphs"
+      ]
     }
   ]
 }
