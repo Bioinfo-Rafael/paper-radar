@@ -21430,6 +21430,76 @@
         "doi:10.18653/v1/2024.emnlp-main.149",
         "title:lemoeadvancedmixtureofexpertsadaptorforlifelongmodeleditingoflargelanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11794",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T12:19:34.161171+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memento3modelbasedrecursiveselfimprovementthroughreflectiverulebooks",
+      "identity_keys": [
+        "arxiv:2610.11794",
+        "title:memento3modelbasedrecursiveselfimprovementthroughreflectiverulebooks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12407",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T12:19:34.570497+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lewamajepaworldactionmodelwithdiffusionsteeringbasedmpc",
+      "identity_keys": [
+        "arxiv:2610.12407",
+        "title:lewamajepaworldactionmodelwithdiffusionsteeringbasedmpc"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12368",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T12:19:34.913918+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "litenwmefficientlatentworldmodelsforonboardvisualnavigationinthewild",
+      "identity_keys": [
+        "arxiv:2610.12368",
+        "title:litenwmefficientlatentworldmodelsforonboardvisualnavigationinthewild"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.142",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T12:19:35.371914+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.142",
+      "venue": "ACL",
+      "title_key": "longcontextlanguagemodelingwithparallelcontextencoding",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.142",
+        "title:longcontextlanguagemodelingwithparallelcontextencoding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.172",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T12:19:35.563652+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.172",
+      "venue": "ACL",
+      "title_key": "longbenchabilingualmultitaskbenchmarkforlongcontextunderstanding",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.172",
+        "title:longbenchabilingualmultitaskbenchmarkforlongcontextunderstanding"
+      ]
     }
   ]
 }
