@@ -21066,6 +21066,91 @@
         "arxiv:2609.08938",
         "title:egosisfromfactorizedvisualegotransitionstomotioncanonicalspatialevidenceforuavreasoning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1073/pnas.2602630123",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-09T00:50:30.634306+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1073/pnas.2602630123",
+      "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+      "title_key": "latentcausaldiffusionsforsinglecellperturbationmodeling",
+      "identity_keys": [
+        "doi:10.1073/pnas.2602630123",
+        "pubmed:42848419",
+        "title:latentcausaldiffusionsforsinglecellperturbationmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09943",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T00:50:31.928527+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "manywaystosucceeddiversitydrivenrlfinetuningforvlageneralization",
+      "identity_keys": [
+        "arxiv:2610.09943",
+        "title:manywaystosucceeddiversitydrivenrlfinetuningforvlageneralization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10321",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T00:50:32.601395+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "estimatinguncodedcrashfactorswithtabularfoundationandsystemonemodelskumotabularandjev",
+      "identity_keys": [
+        "arxiv:2610.10321",
+        "title:estimatinguncodedcrashfactorswithtabularfoundationandsystemonemodelskumotabularandjev"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10091",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T00:50:32.803302+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "experienceindexartifactgroundedmemory",
+      "identity_keys": [
+        "arxiv:2610.10091",
+        "title:experienceindexartifactgroundedmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09156",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T00:50:32.988209+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reciteagenticreasoningforfaithfulcitation",
+      "identity_keys": [
+        "arxiv:2609.09156",
+        "title:reciteagenticreasoningforfaithfulcitation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.08452",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T00:50:33.169339+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "srposetwiserelativepolicyoptimizationformultiagentsystems",
+      "identity_keys": [
+        "arxiv:2609.08452",
+        "title:srposetwiserelativepolicyoptimizationformultiagentsystems"
+      ]
     }
   ]
 }
