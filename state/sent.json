@@ -21151,6 +21151,160 @@
         "arxiv:2609.08452",
         "title:srposetwiserelativepolicyoptimizationformultiagentsystems"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.02.756177",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-09T05:25:17.135773+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.02.756177",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "stavelodecipheringspatiotemporalcellulardynamicsviaspatialrnavelocityinferencefromspatialtranscriptomicsdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.02.756177",
+        "title:stavelodecipheringspatiotemporalcellulardynamicsviaspatialrnavelocityinferencefromspatialtranscriptomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11746",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T05:25:17.820102+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "streamingawarediffusionforrealtimevideosuperresolutionviacrossstepattention",
+      "identity_keys": [
+        "arxiv:2610.11746",
+        "title:streamingawarediffusionforrealtimevideosuperresolutionviacrossstepattention"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11549",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T05:25:18.084171+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "c4equivariantflowmatchingonanisotropicpowerdiagramgraphsformicrostructuregeneration",
+      "identity_keys": [
+        "arxiv:2610.11549",
+        "title:c4equivariantflowmatchingonanisotropicpowerdiagramgraphsformicrostructuregeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12340",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T05:25:18.344009+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ambientdiscretediffusionusingthewrongdataattherighttimefordataefficientlearning",
+      "identity_keys": [
+        "arxiv:2610.12340",
+        "title:ambientdiscretediffusionusingthewrongdataattherighttimefordataefficientlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12048",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T05:25:18.919057+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "donottrainawayuncertaintyearlyuncertaintyanchoredcalibration",
+      "identity_keys": [
+        "arxiv:2610.12048",
+        "title:donottrainawayuncertaintyearlyuncertaintyanchoredcalibration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12428",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T05:25:19.100119+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS 2026 Workshop SaTQuML: Secure and Trustworthy Quantum Machine Learning, NeurIPS 2026 Workshop",
+      "title_key": "towardjointoptimizationofcircuitdepthandtrainingdatasizeinadaptivelygrownquantumclassifiers",
+      "identity_keys": [
+        "arxiv:2610.12428",
+        "title:towardjointoptimizationofcircuitdepthandtrainingdatasizeinadaptivelygrownquantumclassifiers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12016",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T05:25:19.667808+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "causaldreamerlearningpredictiveworldmodelswithlatentdisentanglement",
+      "identity_keys": [
+        "arxiv:2610.12016",
+        "title:causaldreamerlearningpredictiveworldmodelswithlatentdisentanglement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12090",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T05:25:20.115798+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recomposeandrefinelatentreasoningflowsforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.12090",
+        "title:recomposeandrefinelatentreasoningflowsforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12185",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T05:25:20.326989+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "resettleroboticrecoverythroughdisagreementtriggeredretrievalandefficientcorrectivecontrol",
+      "identity_keys": [
+        "arxiv:2610.12185",
+        "title:resettleroboticrecoverythroughdisagreementtriggeredretrievalandefficientcorrectivecontrol"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.77",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T05:25:20.838206+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.77",
+      "venue": "ACL",
+      "title_key": "kvlatentdimensionallevelkvcachereductionwithfrequencyawarerotarypositionalembedding",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.77",
+        "title:kvlatentdimensionallevelkvcachereductionwithfrequencyawarerotarypositionalembedding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.99",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T05:25:21.022543+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.99",
+      "venue": "ACL",
+      "title_key": "l4qparameterefficientquantizationawarefinetuningonlargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.99",
+        "title:l4qparameterefficientquantizationawarefinetuningonlargelanguagemodels"
+      ]
     }
   ]
 }
