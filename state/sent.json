@@ -21305,6 +21305,131 @@
         "doi:10.18653/v1/2025.acl-long.99",
         "title:l4qparameterefficientquantizationawarefinetuningonlargelanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11857",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T09:56:17.553658+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "posefreefeedforward3dinpaintingvialearnablemaskattentionandsupporttokenrefinement",
+      "identity_keys": [
+        "arxiv:2610.11857",
+        "title:posefreefeedforward3dinpaintingvialearnablemaskattentionandsupporttokenrefinement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11685",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T09:56:17.739091+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hi3d30twinkle3dobjectspecific3dassetgenerationwithhighresolution",
+      "identity_keys": [
+        "arxiv:2610.11685",
+        "title:hi3d30twinkle3dobjectspecific3dassetgenerationwithhighresolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12370",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T09:56:18.090219+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bileveloptimizationfordatadrivenlearningofkoopmanembeddingsusingkernelbasedautoencoders",
+      "identity_keys": [
+        "arxiv:2610.12370",
+        "title:bileveloptimizationfordatadrivenlearningofkoopmanembeddingsusingkernelbasedautoencoders"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10793",
+      "category": "ml",
+      "first_sent_at": "2026-10-09T09:56:18.471733+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "calibratingambiguitysetviadiagnostictransportfordistributionallyrobustoptimization",
+      "identity_keys": [
+        "arxiv:2610.10793",
+        "title:calibratingambiguitysetviadiagnostictransportfordistributionallyrobustoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12369",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T09:56:19.452140+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedturingmachinesstatefulcodeforrobotrecursiveselfimprovement",
+      "identity_keys": [
+        "arxiv:2610.12369",
+        "title:embodiedturingmachinesstatefulcodeforrobotrecursiveselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12190",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T09:56:19.703815+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "datasensebenchthefirststeptowardanaiscientist",
+      "identity_keys": [
+        "arxiv:2610.12190",
+        "title:datasensebenchthefirststeptowardanaiscientist"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11899",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T09:56:20.282222+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "formsofllmintegratedapplicationsfromllmchatstoautonomousaiagentsystem",
+      "identity_keys": [
+        "arxiv:2610.11899",
+        "title:formsofllmintegratedapplicationsfromllmchatstoautonomousaiagentsystem"
+      ]
+    },
+    {
+      "canonical_id": "title:learningrobustrepresentationswithinformationbottleneckandmemorynetworkforrgbdbasedgesturerecognition",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T09:56:20.488610+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "learningrobustrepresentationswithinformationbottleneckandmemorynetworkforrgbdbasedgesturerecognition",
+      "identity_keys": [
+        "title:learningrobustrepresentationswithinformationbottleneckandmemorynetworkforrgbdbasedgesturerecognition"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.149",
+      "category": "frontier",
+      "first_sent_at": "2026-10-09T09:56:20.700067+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.149",
+      "venue": "EMNLP",
+      "title_key": "lemoeadvancedmixtureofexpertsadaptorforlifelongmodeleditingoflargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.149",
+        "title:lemoeadvancedmixtureofexpertsadaptorforlifelongmodeleditingoflargelanguagemodels"
+      ]
     }
   ]
 }
