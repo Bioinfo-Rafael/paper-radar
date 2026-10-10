@@ -21654,6 +21654,76 @@
         "arxiv:2609.09981",
         "title:optimalvalueinferenceforreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11971",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T05:09:43.626200+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "capablecapabilityawarepolicyadaptationviabehaviorallatentencoding",
+      "identity_keys": [
+        "arxiv:2610.11971",
+        "title:capablecapabilityawarepolicyadaptationviabehaviorallatentencoding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11896",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T05:09:44.028136+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "automatedassemblyinstructiongenerationfromcadmodelsusinggroundedlargelanguagemodelsahumanintheloopframework",
+      "identity_keys": [
+        "arxiv:2610.11896",
+        "title:automatedassemblyinstructiongenerationfromcadmodelsusinggroundedlargelanguagemodelsahumanintheloopframework"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11920",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T05:09:44.413588+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eventcentricmemorywithqueryawaregraphaugmentationforlongtermconversationalagents",
+      "identity_keys": [
+        "arxiv:2610.11920",
+        "title:eventcentricmemorywithqueryawaregraphaugmentationforlongtermconversationalagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09764",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T05:09:44.576556+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "socialrlrefiningllmssocialintelligencethroughmultiturnreinforcementlearningandrewarddesign",
+      "identity_keys": [
+        "arxiv:2609.09764",
+        "title:socialrlrefiningllmssocialintelligencethroughmultiturnreinforcementlearningandrewarddesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10263",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T05:09:44.900691+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatshouldanagentforgetseparatingwhatisstoredfromwhatisused",
+      "identity_keys": [
+        "arxiv:2609.10263",
+        "title:whatshouldanagentforgetseparatingwhatisstoredfromwhatisused"
+      ]
     }
   ]
 }
