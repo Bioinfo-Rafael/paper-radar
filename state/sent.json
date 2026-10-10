@@ -21794,6 +21794,75 @@
         "doi:10.18653/v1/2024.acl-long.269",
         "title:mapcodermultiagentcodegenerationforcompetitiveproblemsolving"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.05398",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T11:38:34.365369+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.05398",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "mmposttrainbenchbenchmarkingautonomousresearchformultimodalposttraining",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.05398",
+        "openalex:w7220713910",
+        "title:mmposttrainbenchbenchmarkingautonomousresearchformultimodalposttraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11803",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T11:38:34.548068+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "praxislearningdynamicsofselfimprovingmodelswithsymbolicarchives",
+      "identity_keys": [
+        "arxiv:2610.11803",
+        "title:praxislearningdynamicsofselfimprovingmodelswithsymbolicarchives"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11723",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T11:38:34.876549+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiworldbenchdoindependentlycontrolledviewsdescribeonesharedworld",
+      "identity_keys": [
+        "arxiv:2610.11723",
+        "title:multiworldbenchdoindependentlycontrolledviewsdescribeonesharedworld"
+      ]
+    },
+    {
+      "canonical_id": "title:maskplanmaskedgenerativelayoutplanningfrompartialinput",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T11:38:35.245350+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "maskplanmaskedgenerativelayoutplanningfrompartialinput",
+      "identity_keys": [
+        "title:maskplanmaskedgenerativelayoutplanningfrompartialinput"
+      ]
+    },
+    {
+      "canonical_id": "title:mbptrackimproving3dpointcloudtrackingwithmemorynetworksandboxpriors",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T11:39:20.588354+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "mbptrackimproving3dpointcloudtrackingwithmemorynetworksandboxpriors",
+      "identity_keys": [
+        "title:mbptrackimproving3dpointcloudtrackingwithmemorynetworksandboxpriors"
+      ]
     }
   ]
 }
