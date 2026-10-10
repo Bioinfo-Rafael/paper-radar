@@ -21584,6 +21584,76 @@
         "arxiv:2609.10781",
         "title:fromconnectivitytorewardsdenserewardlearningwithdirectedstategraphs"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1117/12.3130059",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T00:25:19.930238+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1117/12.3130059",
+      "venue": "International Conference on Robots and Multi-Agent Systems (RMAS 2026)",
+      "title_key": "reinforcementlearningbasedstripallocationoptimizationformultiuavcooperativecoverage",
+      "identity_keys": [
+        "doi:10.1117/12.3130059",
+        "title:reinforcementlearningbasedstripallocationoptimizationformultiuavcooperativecoverage"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11696",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T00:25:20.287226+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "a3dcharacterizationframeworkforintelligentsequentialdecisionmaking",
+      "identity_keys": [
+        "arxiv:2610.11696",
+        "title:a3dcharacterizationframeworkforintelligentsequentialdecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11810",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T00:25:20.532231+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seekandviewreasoningformultiviewspatialunderstanding",
+      "identity_keys": [
+        "arxiv:2610.11810",
+        "title:seekandviewreasoningformultiviewspatialunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.10385",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T00:25:21.092133+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moonwalkmediatingoperationswithintentevidenceactionalignmentacrossjuniorsupervisorreviewworkflowsinanimationvfxpreproduction",
+      "identity_keys": [
+        "arxiv:2609.10385",
+        "title:moonwalkmediatingoperationswithintentevidenceactionalignmentacrossjuniorsupervisorreviewworkflowsinanimationvfxpreproduction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.09981",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T00:25:21.305678+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "optimalvalueinferenceforreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.09981",
+        "title:optimalvalueinferenceforreinforcementlearning"
+      ]
     }
   ]
 }
