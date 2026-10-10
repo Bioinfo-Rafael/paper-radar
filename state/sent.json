@@ -21961,6 +21961,77 @@
         "arxiv:2610.12005",
         "title:testtimecomputefortabularfoundationmodelsmechanismsgainsandlimits"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12278",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T23:59:41.042418+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "amortizedlowrankadaptationformodelbasedreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.12278",
+        "title:amortizedlowrankadaptationformodelbasedreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12465",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T23:59:41.442168+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "abalanceddatadietaddressingtheexplorationbottleneckinmegascalerlforrobotcontrol",
+      "identity_keys": [
+        "arxiv:2610.12465",
+        "title:abalanceddatadietaddressingtheexplorationbottleneckinmegascalerlforrobotcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12281",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T23:59:41.966597+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unlockingtheregulatorygenomebyargusanevidenceconstrainedagenticframeworkforinterpretingsinglenucleotidevariants",
+      "identity_keys": [
+        "arxiv:2610.12281",
+        "title:unlockingtheregulatorygenomebyargusanevidenceconstrainedagenticframeworkforinterpretingsinglenucleotidevariants"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.12688/f1000research.190729.1",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T23:59:42.223054+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.12688/f1000research.190729.1",
+      "venue": "F1000Research",
+      "title_key": "governingagenticaiinhealthcareasystematicreviewofautonomousdecisionmakingclinicalsafetyandpublicaccountability",
+      "identity_keys": [
+        "doi:10.12688/f1000research.190729.1",
+        "openalex:w7220445517",
+        "title:governingagenticaiinhealthcareasystematicreviewofautonomousdecisionmakingclinicalsafetyandpublicaccountability"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13324",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T23:59:42.447487+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "decouplingerrorattributionincloudnativegraphragadataintegritydiagnosticframework",
+      "identity_keys": [
+        "arxiv:2609.13324",
+        "title:decouplingerrorattributionincloudnativegraphragadataintegritydiagnosticframework"
+      ]
     }
   ]
 }
