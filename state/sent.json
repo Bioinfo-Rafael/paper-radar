@@ -21863,6 +21863,104 @@
       "identity_keys": [
         "title:mbptrackimproving3dpointcloudtrackingwithmemorynetworksandboxpriors"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12079",
+      "category": "ml",
+      "first_sent_at": "2026-10-10T15:10:35.976861+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalprototypeemergenceinmodernhopfieldmodels",
+      "identity_keys": [
+        "arxiv:2609.12079",
+        "title:hierarchicalprototypeemergenceinmodernhopfieldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12036",
+      "category": "ml",
+      "first_sent_at": "2026-10-10T15:10:36.665073+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pelicansim10ageneralworldmodelsimulatorforembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2609.12036",
+        "title:pelicansim10ageneralworldmodelsimulatorforembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12090",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T15:10:37.418987+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doesvideomemoryusewhatitretrievesacausalauditofmemoryspecificity",
+      "identity_keys": [
+        "arxiv:2609.12090",
+        "title:doesvideomemoryusewhatitretrievesacausalauditofmemoryspecificity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12036",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T15:10:37.693520+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pelicansim10ageneralworldmodelsimulatorforembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2609.12036",
+        "title:pelicansim10ageneralworldmodelsimulatorforembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12333",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T15:10:37.877784+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "riconeuralsimulationofrigidbodyinteractionsvialocalcontactreasoning",
+      "identity_keys": [
+        "arxiv:2610.12333",
+        "title:riconeuralsimulationofrigidbodyinteractionsvialocalcontactreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12343",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T15:10:38.229412+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reasoninginformedvisualediting",
+      "identity_keys": [
+        "arxiv:2610.12343",
+        "title:reasoninginformedvisualediting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12005",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T15:10:38.413507+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "testtimecomputefortabularfoundationmodelsmechanismsgainsandlimits",
+      "identity_keys": [
+        "arxiv:2610.12005",
+        "title:testtimecomputefortabularfoundationmodelsmechanismsgainsandlimits"
+      ]
     }
   ]
 }
