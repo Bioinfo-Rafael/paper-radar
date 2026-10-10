@@ -21724,6 +21724,76 @@
         "arxiv:2609.10263",
         "title:whatshouldanagentforgetseparatingwhatisstoredfromwhatisused"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12235",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T09:18:57.749829+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "languagemodelsasairesearchworldmodels",
+      "identity_keys": [
+        "arxiv:2610.12235",
+        "title:languagemodelsasairesearchworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.11287",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T09:18:58.262692+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "remorylearningresidualmemoryforcontextcompaction",
+      "identity_keys": [
+        "arxiv:2610.11287",
+        "title:remorylearningresidualmemoryforcontextcompaction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12060",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T09:18:58.446603+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lookbackthinkaheadvisualmemoryondemandforefficientmultimodalreasoning",
+      "identity_keys": [
+        "arxiv:2610.12060",
+        "title:lookbackthinkaheadvisualmemoryondemandforefficientmultimodalreasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.122",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T09:18:58.608856+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.122",
+      "venue": "ACL",
+      "title_key": "lrquantlearnableandrobustposttrainingquantizationforlargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.122",
+        "title:lrquantlearnableandrobustposttrainingquantizationforlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.269",
+      "category": "frontier",
+      "first_sent_at": "2026-10-10T09:18:58.782907+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.269",
+      "venue": "ACL",
+      "title_key": "mapcodermultiagentcodegenerationforcompetitiveproblemsolving",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.269",
+        "title:mapcodermultiagentcodegenerationforcompetitiveproblemsolving"
+      ]
     }
   ]
 }
