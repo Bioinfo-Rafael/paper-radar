@@ -22100,6 +22100,73 @@
       "identity_keys": [
         "title:memoryandanticipationtransformerforonlineactionunderstanding"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3717195",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T09:36:08.800937+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3717195",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "humandemonstrationinterventionfusionforhumanmachinecollaborativedecisionmakingpathplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3717195",
+        "title:humandemonstrationinterventionfusionforhumanmachinecollaborativedecisionmakingpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3723335",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T09:36:09.063396+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3723335",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "musetargetguidedmultimodalscoringensembleforsafeautonomousplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3723335",
+        "title:musetargetguidedmultimodalscoringensembleforsafeautonomousplanning"
+      ]
+    },
+    {
+      "canonical_id": "title:memoryscalableandsimplifiedfunctionalmaplearning",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T09:36:09.284723+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "memoryscalableandsimplifiedfunctionalmaplearning",
+      "identity_keys": [
+        "title:memoryscalableandsimplifiedfunctionalmaplearning"
+      ]
+    },
+    {
+      "canonical_id": "title:memotrlongtermmemoryaugmentedtransformerformultiobjecttracking",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T09:36:09.557828+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "memotrlongtermmemoryaugmentedtransformerformultiobjecttracking",
+      "identity_keys": [
+        "title:memotrlongtermmemoryaugmentedtransformerformultiobjecttracking"
+      ]
+    },
+    {
+      "canonical_id": "title:moviechatfromdensetokentosparsememoryforlongvideounderstanding",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T09:36:09.778470+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "moviechatfromdensetokentosparsememoryforlongvideounderstanding",
+      "identity_keys": [
+        "title:moviechatfromdensetokentosparsememoryforlongvideounderstanding"
+      ]
     }
   ]
 }
