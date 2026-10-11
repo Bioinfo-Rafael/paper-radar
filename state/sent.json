@@ -22032,6 +22032,74 @@
         "arxiv:2609.13324",
         "title:decouplingerrorattributionincloudnativegraphragadataintegritydiagnosticframework"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3726342",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T04:59:27.080116+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3726342",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "mapfworldactionworldmodelformultiagentpathfinding",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3726342",
+        "title:mapfworldactionworldmodelformultiagentpathfinding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3726334",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T04:59:27.527033+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3726334",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "heuristicgraphsforpathplanninginobstaclefields",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3726334",
+        "title:heuristicgraphsforpathplanninginobstaclefields"
+      ]
+    },
+    {
+      "canonical_id": "title:meacapmemoryaugmentedzeroshotimagecaptioning",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T04:59:27.722345+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "meacapmemoryaugmentedzeroshotimagecaptioning",
+      "identity_keys": [
+        "title:meacapmemoryaugmentedzeroshotimagecaptioning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.129",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T04:59:27.997123+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.129",
+      "venue": "ACL",
+      "title_key": "meftmemoryefficientfinetuningthroughsparseadapter",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.129",
+        "title:meftmemoryefficientfinetuningthroughsparseadapter"
+      ]
+    },
+    {
+      "canonical_id": "title:memoryandanticipationtransformerforonlineactionunderstanding",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T04:59:28.163637+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "memoryandanticipationtransformerforonlineactionunderstanding",
+      "identity_keys": [
+        "title:memoryandanticipationtransformerforonlineactionunderstanding"
+      ]
     }
   ]
 }
