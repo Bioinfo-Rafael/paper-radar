@@ -22167,6 +22167,75 @@
       "identity_keys": [
         "title:moviechatfromdensetokentosparsememoryforlongvideounderstanding"
       ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.184",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T11:52:14.240483+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.184",
+      "venue": "ACL",
+      "title_key": "oceangptalargelanguagemodelforoceansciencetasks",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.184",
+        "title:oceangptalargelanguagemodelforoceansciencetasks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aec3917",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T11:52:14.646951+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aec3917",
+      "venue": "Science",
+      "title_key": "highcapacityassociativememoryinaquantumopticalspinglass",
+      "identity_keys": [
+        "doi:10.1126/science.aec3917",
+        "title:highcapacityassociativememoryinaquantumopticalspinglass"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.291",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T11:52:14.829240+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.291",
+      "venue": "ACL",
+      "title_key": "mplugdocowl2highresolutioncompressingforocrfreemultipagedocumentunderstanding",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.291",
+        "title:mplugdocowl2highresolutioncompressingforocrfreemultipagedocumentunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.38",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T11:52:15.053465+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.38",
+      "venue": "EMNLP",
+      "title_key": "msiagentincorporatingmultiscaleinsightintoembodiedagentsforsuperiorplanninganddecisionmaking",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.38",
+        "title:msiagentincorporatingmultiscaleinsightintoembodiedagentsforsuperiorplanninganddecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "title:nerfcodecneuralfeaturecompressionmeetsneuralradiancefieldsformemoryefficientscenerepresentation",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T11:52:15.308917+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "nerfcodecneuralfeaturecompressionmeetsneuralradiancefieldsformemoryefficientscenerepresentation",
+      "identity_keys": [
+        "title:nerfcodecneuralfeaturecompressionmeetsneuralradiancefieldsformemoryefficientscenerepresentation"
+      ]
     }
   ]
 }
