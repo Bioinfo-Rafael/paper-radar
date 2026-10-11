@@ -22236,6 +22236,146 @@
       "identity_keys": [
         "title:nerfcodecneuralfeaturecompressionmeetsneuralradiancefieldsformemoryefficientscenerepresentation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12899",
+      "category": "ml",
+      "first_sent_at": "2026-10-11T15:31:15.674479+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physicalstateguideddiffusionsamplingforfullwaveforminversion",
+      "identity_keys": [
+        "arxiv:2609.12899",
+        "title:physicalstateguideddiffusionsamplingforfullwaveforminversion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13048",
+      "category": "ml",
+      "first_sent_at": "2026-10-11T15:31:16.267044+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mcrl2multiresourcecrossattentionbasedrepresentationlearningaugmentedreinforcementlearningforcloudmicroservicescheduling",
+      "identity_keys": [
+        "arxiv:2609.13048",
+        "title:mcrl2multiresourcecrossattentionbasedrepresentationlearningaugmentedreinforcementlearningforcloudmicroservicescheduling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13141",
+      "category": "ml",
+      "first_sent_at": "2026-10-11T15:31:16.617855+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sassimpleattentionsparsificationviaendtoendoptimizationofcontextranking",
+      "identity_keys": [
+        "arxiv:2609.13141",
+        "title:sassimpleattentionsparsificationviaendtoendoptimizationofcontextranking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12863",
+      "category": "ml",
+      "first_sent_at": "2026-10-11T15:31:17.216185+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "genortwinasemanticmiddlewareforintegratingoperationaldiscoursewithmathematicaloptimization",
+      "identity_keys": [
+        "arxiv:2609.12863",
+        "title:genortwinasemanticmiddlewareforintegratingoperationaldiscoursewithmathematicaloptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12765",
+      "category": "ml",
+      "first_sent_at": "2026-10-11T15:31:17.564082+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "highprobabilityconvergenceofsgdviabatchedupdates",
+      "identity_keys": [
+        "arxiv:2609.12765",
+        "title:highprobabilityconvergenceofsgdviabatchedupdates"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12422",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T15:31:18.348921+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalbeliefmodelingforzeroshotopponentadaptationinpartiallyobservablemultiagentnavigation",
+      "identity_keys": [
+        "arxiv:2609.12422",
+        "title:hierarchicalbeliefmodelingforzeroshotopponentadaptationinpartiallyobservablemultiagentnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13436",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T15:31:18.506887+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardselfadaptivephysicalaicanllmagentsmanagelonghorizonphysicaltasks",
+      "identity_keys": [
+        "arxiv:2609.13436",
+        "title:towardselfadaptivephysicalaicanllmagentsmanagelonghorizonphysicaltasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12541",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T15:31:19.004369+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentaspolicyforroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2609.12541",
+        "title:agentaspolicyforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13335",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T15:31:19.251023+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bridgingthoughtandactiontaminglonghorizoninstabilityinopensourcellmagentswithametatoolenhancedrosframework",
+      "identity_keys": [
+        "arxiv:2609.13335",
+        "title:bridgingthoughtandactiontaminglonghorizoninstabilityinopensourcellmagentswithametatoolenhancedrosframework"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3730224",
+      "category": "frontier",
+      "first_sent_at": "2026-10-11T15:31:19.680793+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3730224",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "aunifiedframeworkformissiongainawareproactiveplanningandcontrolofautonomousmobilerobots",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3730224",
+        "title:aunifiedframeworkformissiongainawareproactiveplanningandcontrolofautonomousmobilerobots"
+      ]
     }
   ]
 }
