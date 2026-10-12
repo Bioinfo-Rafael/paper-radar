@@ -22628,6 +22628,104 @@
         "arxiv:2609.12404",
         "title:vrlbenchbenchmarkingagentsoncomputercontroltasksunderfinitetrialbudgets"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13333",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T10:07:50.550795+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lethedefendingagainstunauthorizedimagetovideogenerationviavaluediversitycollapse",
+      "identity_keys": [
+        "arxiv:2610.13333",
+        "title:lethedefendingagainstunauthorizedimagetovideogenerationviavaluediversitycollapse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13317",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T10:07:50.742349+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sbnoschrdingerbridgeneuraloperatorfortheforwardandinverseproblemsundermissinginformation",
+      "identity_keys": [
+        "arxiv:2610.13317",
+        "title:sbnoschrdingerbridgeneuraloperatorfortheforwardandinverseproblemsundermissinginformation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13194",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T10:07:51.260676+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "janusenhancinglonghorizonautonomousresearchwithcoevolvingworldmodels",
+      "identity_keys": [
+        "arxiv:2610.13194",
+        "title:janusenhancinglonghorizonautonomousresearchwithcoevolvingworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13706",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T10:07:51.729109+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "glimpsegloballocalindexingwithmultiprecisionspectralencodingforexplorablevideoworldmodels",
+      "identity_keys": [
+        "arxiv:2610.13706",
+        "title:glimpsegloballocalindexingwithmultiprecisionspectralencodingforexplorablevideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13409",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T10:07:51.889362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "maneuverflowmaneuverhypothesisgenerationwithfutureevidencefortrajectoryevaluationandrefinementinendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2610.13409",
+        "title:maneuverflowmaneuverhypothesisgenerationwithfutureevidencefortrajectoryevaluationandrefinementinendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3737703",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T10:07:52.489886+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3737703",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "ultrafastsamplingbasedkinodynamicplanningviadifferentialflatness",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3737703",
+        "title:ultrafastsamplingbasedkinodynamicplanningviadifferentialflatness"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.242",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T10:07:52.716458+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.242",
+      "venue": "ACL",
+      "title_key": "onthelimitoflanguagemodelsasplanningformalizers",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.242",
+        "title:onthelimitoflanguagemodelsasplanningformalizers"
+      ]
     }
   ]
 }
