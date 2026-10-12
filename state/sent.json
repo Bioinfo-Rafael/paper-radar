@@ -22826,6 +22826,118 @@
         "doi:10.18653/v1/2024.emnlp-main.111",
         "title:psfutureapseudofuturebasedzeroshotadaptivepolicyforsimultaneousmachinetranslation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13956",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T18:50:28.926093+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tabbyanopenpretrainingrecipefortimeseriesfoundationmodels",
+      "identity_keys": [
+        "arxiv:2609.13956",
+        "title:tabbyanopenpretrainingrecipefortimeseriesfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13892",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T18:50:29.348941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cyclotlearningquadraticoptimaltransportmapsviasynchronizedforwardbackwardinterpolants",
+      "identity_keys": [
+        "arxiv:2609.13892",
+        "title:cyclotlearningquadraticoptimaltransportmapsviasynchronizedforwardbackwardinterpolants"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13917",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T18:50:29.645404+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningthroughenergyrefinementandmanifoldprojectionacooperativeebmaeframework",
+      "identity_keys": [
+        "arxiv:2609.13917",
+        "title:learningthroughenergyrefinementandmanifoldprojectionacooperativeebmaeframework"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13819",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T18:50:32.563213+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "benchmarkingoptimizerstosolveinverseproblemswithdifferentiablephysicssimulators",
+      "identity_keys": [
+        "arxiv:2609.13819",
+        "title:benchmarkingoptimizerstosolveinverseproblemswithdifferentiablephysicssimulators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13771",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T18:50:33.176352+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "homeostaticcontinuallearning",
+      "identity_keys": [
+        "arxiv:2609.13771",
+        "title:homeostaticcontinuallearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13679",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T18:50:34.043127+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howtobettertrainvlaslessonslearnedfromtherealichallengeaticra2026",
+      "identity_keys": [
+        "arxiv:2609.13679",
+        "title:howtobettertrainvlaslessonslearnedfromtherealichallengeaticra2026"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13845",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T18:50:34.246419+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "leplanneraniterativeamortizedcontrollerforworldmodels",
+      "identity_keys": [
+        "arxiv:2609.13845",
+        "title:leplanneraniterativeamortizedcontrollerforworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13667",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T18:50:34.604013+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geoskillexperiencedrivenhierarchicalskilllearningwithcollaborativerevisionforgeospatialagents",
+      "identity_keys": [
+        "arxiv:2609.13667",
+        "title:geoskillexperiencedrivenhierarchicalskilllearningwithcollaborativerevisionforgeospatialagents"
+      ]
     }
   ]
 }
