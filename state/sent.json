@@ -22488,6 +22488,146 @@
         "arxiv:2609.12413",
         "title:sokrethinkingjailbreakingintheeraofagenticaiattacksdefensesandpracticalconsideration"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13369",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T05:13:37.015476+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "openingtheblackboxofclassifierfreeguidanceviainformationbottleneck",
+      "identity_keys": [
+        "arxiv:2610.13369",
+        "title:openingtheblackboxofclassifierfreeguidanceviainformationbottleneck"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13264",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T05:13:37.671673+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cvopdcontrastivevisiononpolicydistillation",
+      "identity_keys": [
+        "arxiv:2610.13264",
+        "title:cvopdcontrastivevisiononpolicydistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13261",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T05:13:37.880762+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dataadaptivemahalanobismetriclearningforcrossheadattentionintransformers",
+      "identity_keys": [
+        "arxiv:2610.13261",
+        "title:dataadaptivemahalanobismetriclearningforcrossheadattentionintransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13871",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T05:13:38.356649+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "partiallyinformedstochasticoptimizationviazerothorderresidualtracking",
+      "identity_keys": [
+        "arxiv:2610.13871",
+        "title:partiallyinformedstochasticoptimizationviazerothorderresidualtracking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13470",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T05:13:38.582551+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graftoodgraftingoutofdistributionexemplarsintoadvantageweightedrectificationforvideorewardoptimization",
+      "identity_keys": [
+        "arxiv:2610.13470",
+        "title:graftoodgraftingoutofdistributionexemplarsintoadvantageweightedrectificationforvideorewardoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13376",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T05:13:39.225193+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "endorsiphysicalevidencedrivenrecursiveimprovementofendoscopicrobotpolicies",
+      "identity_keys": [
+        "arxiv:2610.13376",
+        "title:endorsiphysicalevidencedrivenrecursiveimprovementofendoscopicrobotpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13453",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T05:13:39.918744+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reflectvlainternalizingreflectiveguidanceviadualpathonpolicyselfdistillationforautonomousdriving",
+      "identity_keys": [
+        "arxiv:2610.13453",
+        "title:reflectvlainternalizingreflectiveguidanceviadualpathonpolicyselfdistillationforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13262",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T05:13:40.151846+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dualstreammemoryforvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2610.13262",
+        "title:dualstreammemoryforvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19167",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T05:13:40.610164+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tomemoriesandbeyondfromrememberingtoknowingyouacrosslongtermmultimodalpersonalarchives",
+      "identity_keys": [
+        "arxiv:2609.19167",
+        "title:tomemoriesandbeyondfromrememberingtoknowingyouacrosslongtermmultimodalpersonalarchives"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12404",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T05:13:40.905004+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vrlbenchbenchmarkingagentsoncomputercontroltasksunderfinitetrialbudgets",
+      "identity_keys": [
+        "arxiv:2609.12404",
+        "title:vrlbenchbenchmarkingagentsoncomputercontroltasksunderfinitetrialbudgets"
+      ]
     }
   ]
 }
