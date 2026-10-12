@@ -22726,6 +22726,106 @@
         "doi:10.18653/v1/2025.acl-long.242",
         "title:onthelimitoflanguagemodelsasplanningformalizers"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01010-0",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-12T13:57:07.268737+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01010-0",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "optimaltransportforgeneratingtransitionstatesinchemicalreactions",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01010-0",
+        "title:optimaltransportforgeneratingtransitionstatesinchemicalreactions"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tpami.2026.3673244",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T13:57:08.525579+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tpami.2026.3673244",
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "title_key": "bridginggenerativeanddiscriminativenoisylabellearningviadirectionagnosticemformulation",
+      "identity_keys": [
+        "doi:10.1109/tpami.2026.3673244",
+        "openalex:w7135021996",
+        "pubmed:41811717",
+        "title:bridginggenerativeanddiscriminativenoisylabellearningviadirectionagnosticemformulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13912",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T13:57:09.146465+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rsianythingunlockingrecursiveselfimprovementwithworldmodels",
+      "identity_keys": [
+        "arxiv:2610.13912",
+        "title:rsianythingunlockingrecursiveselfimprovementwithworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13504",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T13:57:09.711656+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondtemporalproximityexplanatoryworldmodelsforcreditassignmentinreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.13504",
+        "title:beyondtemporalproximityexplanatoryworldmodelsforcreditassignmentinreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13438",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T13:57:10.378614+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rollouttimeinterventionunlockingagenticreinforcementlearningbeyondpolicylimits",
+      "identity_keys": [
+        "arxiv:2610.13438",
+        "title:rollouttimeinterventionunlockingagenticreinforcementlearningbeyondpolicylimits"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.43",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T13:57:10.642584+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.43",
+      "venue": "EMNLP",
+      "title_key": "parameterefficientsparsitycraftingfromdensetomixtureofexpertsforinstructiontuningongeneraltasks",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.43",
+        "title:parameterefficientsparsitycraftingfromdensetomixtureofexpertsforinstructiontuningongeneraltasks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.111",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T13:57:10.906878+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.111",
+      "venue": "EMNLP",
+      "title_key": "psfutureapseudofuturebasedzeroshotadaptivepolicyforsimultaneousmachinetranslation",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.111",
+        "title:psfutureapseudofuturebasedzeroshotadaptivepolicyforsimultaneousmachinetranslation"
+      ]
     }
   ]
 }
