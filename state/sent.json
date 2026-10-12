@@ -22376,6 +22376,118 @@
         "doi:10.1109/lra.2026.3730224",
         "title:aunifiedframeworkformissiongainawareproactiveplanningandcontrolofautonomousmobilerobots"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12874",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T00:11:35.151641+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "videotok4da4dawarevideotokenizerforcompactworldrepresentation",
+      "identity_keys": [
+        "arxiv:2609.12874",
+        "title:videotok4da4dawarevideotokenizerforcompactworldrepresentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12705",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T00:11:35.445602+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "experthtrunifiedhandwrittentextrecognitionwithmultitasklearningandsparsemixtureofexperts",
+      "identity_keys": [
+        "arxiv:2609.12705",
+        "title:experthtrunifiedhandwrittentextrecognitionwithmultitasklearningandsparsemixtureofexperts"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13526",
+      "category": "ml",
+      "first_sent_at": "2026-10-12T00:11:35.811833+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "afamilyofspectralconjugategradientalgorithmsderivedbyleastsquaresapproximationsbasedonamodifiedquasinewtonupdatewithapplicationtoarevisedrobustbinaryclassificationmodel",
+      "identity_keys": [
+        "arxiv:2609.13526",
+        "title:afamilyofspectralconjugategradientalgorithmsderivedbyleastsquaresapproximationsbasedonamodifiedquasinewtonupdatewithapplicationtoarevisedrobustbinaryclassificationmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12454",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T00:11:36.245006+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bridgingvisionfoundationmodelpriorswithclipforspatialawarefewshotanomalydetectioninmedicalimages",
+      "identity_keys": [
+        "arxiv:2609.12454",
+        "title:bridgingvisionfoundationmodelpriorswithclipforspatialawarefewshotanomalydetectioninmedicalimages"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12607",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T00:11:36.406922+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "directpreferencedensityalignmentforconversationalaudioequalization",
+      "identity_keys": [
+        "arxiv:2609.12607",
+        "title:directpreferencedensityalignmentforconversationalaudioequalization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13566",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T00:11:36.547128+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "planningorlearningreliabilityandcostinmultiassetmaintenance",
+      "identity_keys": [
+        "arxiv:2609.13566",
+        "title:planningorlearningreliabilityandcostinmultiassetmaintenance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13545",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T00:11:36.697380+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "runtimeincrementaltransformerforreinforcementlearningbasedadaptivecontrol",
+      "identity_keys": [
+        "arxiv:2609.13545",
+        "title:runtimeincrementaltransformerforreinforcementlearningbasedadaptivecontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.12413",
+      "category": "frontier",
+      "first_sent_at": "2026-10-12T00:11:36.902177+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sokrethinkingjailbreakingintheeraofagenticaiattacksdefensesandpracticalconsideration",
+      "identity_keys": [
+        "arxiv:2609.12413",
+        "title:sokrethinkingjailbreakingintheeraofagenticaiattacksdefensesandpracticalconsideration"
+      ]
     }
   ]
 }
