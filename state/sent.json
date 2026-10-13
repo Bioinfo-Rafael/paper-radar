@@ -23163,6 +23163,90 @@
         "arxiv:2609.14138",
         "title:limbolifelonginferencetimememoryandbudgetoptimizationforllmagents"
       ]
+    },
+    {
+      "canonical_id": "openalex:w7221495802",
+      "category": "ml",
+      "first_sent_at": "2026-10-13T13:13:22.519812+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "eScholarship (California Digital Library)",
+      "title_key": "generativemodelsindecentralizedmultiagentdecisionmaking",
+      "identity_keys": [
+        "openalex:w7221495802",
+        "title:generativemodelsindecentralizedmultiagentdecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13098",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T13:13:23.124325+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vetrexecutiongroundedselfimprovingagentforsymbolicgraphicsreasoning",
+      "identity_keys": [
+        "arxiv:2610.13098",
+        "title:vetrexecutiongroundedselfimprovingagentforsymbolicgraphicsreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13348",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T13:13:23.513937+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "testtimememoryconstruction",
+      "identity_keys": [
+        "arxiv:2610.13348",
+        "title:testtimememoryconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13731",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T13:13:23.751785+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trustworthyagenticaiacomprehensivecybersecurityandsystemssurveyonthreatlandscapesdefensearchitecturesandopenchallenges",
+      "identity_keys": [
+        "arxiv:2609.13731",
+        "title:trustworthyagenticaiacomprehensivecybersecurityandsystemssurveyonthreatlandscapesdefensearchitecturesandopenchallenges"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.1",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T13:13:23.926814+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.1",
+      "venue": "ACL",
+      "title_key": "quantizedsidetuningfastandmemoryefficienttuningofquantizedlargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.1",
+        "title:quantizedsidetuningfastandmemoryefficienttuningofquantizedlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13925",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T13:14:09.406700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canmachinesreasonnonverbally",
+      "identity_keys": [
+        "arxiv:2610.13925",
+        "title:canmachinesreasonnonverbally"
+      ]
     }
   ]
 }
