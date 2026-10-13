@@ -23008,6 +23008,76 @@
         "arxiv:2609.14066",
         "title:gramragorchestratingmultiagentmultistepreasoningviagraphmemorywithreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13816",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T06:12:48.474015+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dreamtoremembercontinualsteeringofgeneralistrobotpolicieswithworldmodels",
+      "identity_keys": [
+        "arxiv:2610.13816",
+        "title:dreamtoremembercontinualsteeringofgeneralistrobotpolicieswithworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.13812",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T06:12:49.182370+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geomvlaunifyingscenemotionandactionin3d",
+      "identity_keys": [
+        "arxiv:2609.13812",
+        "title:geomvlaunifyingscenemotionandactionin3d"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13239",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T06:12:49.587872+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jagdirectboxpredictionforefficientvisualgrounding",
+      "identity_keys": [
+        "arxiv:2610.13239",
+        "title:jagdirectboxpredictionforefficientvisualgrounding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13330",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T06:12:49.849575+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "maskeddiffusionlanguageagentsfortoolintegratedchemicalreasoning",
+      "identity_keys": [
+        "arxiv:2610.13330",
+        "title:maskeddiffusionlanguageagentsfortoolintegratedchemicalreasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3637148",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T06:12:50.194649+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3637148",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "dbecbsinteractionawaremultirobotkinodynamicmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3637148",
+        "title:dbecbsinteractionawaremultirobotkinodynamicmotionplanning"
+      ]
     }
   ]
 }
