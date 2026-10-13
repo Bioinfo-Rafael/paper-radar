@@ -23078,6 +23078,91 @@
         "doi:10.1109/tro.2025.3637148",
         "title:dbecbsinteractionawaremultirobotkinodynamicmotionplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag747",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-13T09:59:50.475615+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag747",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "dynamicgraphpriorguidedlatentadaptationforgeneralizablesinglecellperturbationresponseprediction",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag747",
+        "pubmed:42865067",
+        "title:dynamicgraphpriorguidedlatentadaptationforgeneralizablesinglecellperturbationresponseprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14073",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T09:59:51.053344+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lpacwmalearnedphysicaladjudicatorformotionreasoningwithcounterfactualworldmodels",
+      "identity_keys": [
+        "arxiv:2609.14073",
+        "title:lpacwmalearnedphysicaladjudicatorformotionreasoningwithcounterfactualworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13790",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T09:59:51.338010+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "occludebenchcanvlmsfindwhatsmissing",
+      "identity_keys": [
+        "arxiv:2610.13790",
+        "title:occludebenchcanvlmsfindwhatsmissing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13781",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T09:59:51.522947+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "simvtasimulationgroundedvideotrajectoryalignmentfordrivingworldactionmodels",
+      "identity_keys": [
+        "arxiv:2610.13781",
+        "title:simvtasimulationgroundedvideotrajectoryalignmentfordrivingworldactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13832",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T09:59:51.644122+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spatialasminternalizingactivementalizationforspatialreasoning",
+      "identity_keys": [
+        "arxiv:2610.13832",
+        "title:spatialasminternalizingactivementalizationforspatialreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14138",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T10:00:36.892097+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "limbolifelonginferencetimememoryandbudgetoptimizationforllmagents",
+      "identity_keys": [
+        "arxiv:2609.14138",
+        "title:limbolifelonginferencetimememoryandbudgetoptimizationforllmagents"
+      ]
     }
   ]
 }
