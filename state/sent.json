@@ -22938,6 +22938,76 @@
         "arxiv:2609.13667",
         "title:geoskillexperiencedrivenhierarchicalskilllearningwithcollaborativerevisionforgeospatialagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13862",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T02:21:38.126453+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "btagentdeployingonboardrobotagentswithbehaviortreesandmultifidelityevaluation",
+      "identity_keys": [
+        "arxiv:2610.13862",
+        "title:btagentdeployingonboardrobotagentswithbehaviortreesandmultifidelityevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22278",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T02:21:39.139315+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "devigrasprobustvisualmobilegraspingforquadrupedmanipulatorsunderdegradedperception",
+      "identity_keys": [
+        "arxiv:2609.22278",
+        "title:devigrasprobustvisualmobilegraspingforquadrupedmanipulatorsunderdegradedperception"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13197",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T02:21:39.721261+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doeslearningrecurrentnetworksmatterinpartiallyobservablerl",
+      "identity_keys": [
+        "arxiv:2610.13197",
+        "title:doeslearningrecurrentnetworksmatterinpartiallyobservablerl"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13132",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T02:21:39.971825+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dpminddifferentiallyprivatememoryguidedlongcontextinference",
+      "identity_keys": [
+        "arxiv:2610.13132",
+        "title:dpminddifferentiallyprivatememoryguidedlongcontextinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14066",
+      "category": "frontier",
+      "first_sent_at": "2026-10-13T02:21:40.177672+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gramragorchestratingmultiagentmultistepreasoningviagraphmemorywithreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.14066",
+        "title:gramragorchestratingmultiagentmultistepreasoningviagraphmemorywithreinforcementlearning"
+      ]
     }
   ]
 }
