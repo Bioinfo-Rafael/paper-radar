@@ -23247,6 +23247,160 @@
         "arxiv:2610.13925",
         "title:canmachinesreasonnonverbally"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cell.2025.11.031",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-14T00:12:40.995896+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cell.2025.11.031",
+      "venue": "Cell",
+      "title_key": "chronicmetabolicstressdrivesdevelopmentalprogramsandlossoftissuefunctionsinnontransformedliverthatmirrortumorstatesandstratifysurvival",
+      "identity_keys": [
+        "doi:10.1016/j.cell.2025.11.031",
+        "title:chronicmetabolicstressdrivesdevelopmentalprogramsandlossoftissuefunctionsinnontransformedliverthatmirrortumorstatesandstratifysurvival"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16073",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T00:12:41.677171+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theimmutablepastformalizingstatemutabilityandconflictresolutioninmutablerag",
+      "identity_keys": [
+        "arxiv:2609.16073",
+        "title:theimmutablepastformalizingstatemutabilityandconflictresolutioninmutablerag"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14636",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T00:12:41.970709+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "knowwhentostopwheretorestartacceleratingmultiturnagenticonpolicydistillation",
+      "identity_keys": [
+        "arxiv:2609.14636",
+        "title:knowwhentostopwheretorestartacceleratingmultiturnagenticonpolicydistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14591",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T00:12:42.350726+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pathwiseindividualrationalityinfederatedlearningamechanismarchitecturecodesign",
+      "identity_keys": [
+        "arxiv:2609.14591",
+        "title:pathwiseindividualrationalityinfederatedlearningamechanismarchitecturecodesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14246",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T00:12:42.545080+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jointoptimizationforfederatedlearningandtransmissionoverunreliablewirelessnetworkswithheterogeneousdata",
+      "identity_keys": [
+        "arxiv:2609.14246",
+        "title:jointoptimizationforfederatedlearningandtransmissionoverunreliablewirelessnetworkswithheterogeneousdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14779",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T00:12:42.821702+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "funcr1incentivizingmathematicalfunctionreasoninginmultimodallargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.14779",
+        "title:funcr1incentivizingmathematicalfunctionreasoninginmultimodallargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14709",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T00:12:43.605781+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "animmuneworldmodelformultiscaleforecastingandtherapeutichypothesisgeneration",
+      "identity_keys": [
+        "arxiv:2609.14709",
+        "title:animmuneworldmodelformultiscaleforecastingandtherapeutichypothesisgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14738",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T00:12:43.816979+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "appliedscientistautomatedscientificrevisionthroughiterativeaireviewing",
+      "identity_keys": [
+        "arxiv:2609.14738",
+        "title:appliedscientistautomatedscientificrevisionthroughiterativeaireviewing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14268",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T00:12:44.465409+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningcommunicationconditionedgenerativepoliciesfordecentralizedmultiagentcollisionavoidance",
+      "identity_keys": [
+        "arxiv:2609.14268",
+        "title:learningcommunicationconditionedgenerativepoliciesfordecentralizedmultiagentcollisionavoidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39601",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T00:12:44.718194+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "groundingpiagroundingfoundationmodeltowardsphysicalintelligencewithvisualprimitives",
+      "identity_keys": [
+        "arxiv:2609.39601",
+        "title:groundingpiagroundingfoundationmodeltowardsphysicalintelligencewithvisualprimitives"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14716",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T00:12:45.309590+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Hector Munoz-Avila, David W. Aha, and Paola Rizzo, \"Moral Rebel Agents: Decision-Making Under Conflicting Obligations,\" Proceedings of the Thirteenth Annual Conference on Advances in Cognitive Systems, 2026",
+      "title_key": "moralrebelagentsdecisionmakingunderconflictingobligations",
+      "identity_keys": [
+        "arxiv:2609.14716",
+        "title:moralrebelagentsdecisionmakingunderconflictingobligations"
+      ]
     }
   ]
 }
