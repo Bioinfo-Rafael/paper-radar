@@ -23781,6 +23781,118 @@
         "arxiv:2609.16056",
         "title:managingactionpreconditionsinneurosymbolicrlthreeplacementstrategiesforembodiedagents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-026-03236-1",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-14T23:34:23.202536+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-026-03236-1",
+      "venue": "Nature Methods",
+      "title_key": "powerfulandaccuratecasecontrolanalysisofspatialmoleculardatawithdeeplearningdefinedtissuemicroniches",
+      "identity_keys": [
+        "doi:10.1038/s41592-026-03236-1",
+        "title:powerfulandaccuratecasecontrolanalysisofspatialmoleculardatawithdeeplearningdefinedtissuemicroniches"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.06.11.658833",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-14T23:34:23.562158+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.06.11.658833",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "lazynetinterpretableodemodelingofsparsecrisprsinglecellscreensrevealsnewbiologicalinsights",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.06.11.658833",
+        "title:lazynetinterpretableodemodelingofsparsecrisprsinglecellscreensrevealsnewbiologicalinsights"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15274",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T23:34:24.047669+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "drainingfictitiousknotsrestoringdistanceawarenessguaranteesforhighdimensionalsplinenetworks",
+      "identity_keys": [
+        "arxiv:2609.15274",
+        "title:drainingfictitiousknotsrestoringdistanceawarenessguaranteesforhighdimensionalsplinenetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16245",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T23:34:24.530984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "metacognitivesteeringlearningthestructureofscientificjudgment",
+      "identity_keys": [
+        "arxiv:2609.16245",
+        "title:metacognitivesteeringlearningthestructureofscientificjudgment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18790",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T23:34:24.835238+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eqcequilibriumenergycontrolforintrospectivelifelongrobotlearning",
+      "identity_keys": [
+        "arxiv:2610.18790",
+        "title:eqcequilibriumenergycontrolforintrospectivelifelongrobotlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18650",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T23:34:25.312683+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "forkcastpredictiverecoveryforvisionlanguageactionpoliciesviacounterfactualfutures",
+      "identity_keys": [
+        "arxiv:2610.18650",
+        "title:forkcastpredictiverecoveryforvisionlanguageactionpoliciesviacounterfactualfutures"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aed3627",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T23:34:25.855255+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aed3627",
+      "venue": "Science Robotics",
+      "title_key": "systemdesignoftheultramobilityvehicleadrivingbalancingandjumpingbicyclerobot",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aed3627",
+        "title:systemdesignoftheultramobilityvehicleadrivingbalancingandjumpingbicyclerobot"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16268",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T23:34:26.411189+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spurioustoolusewhenrlagentslearnthewrongreasontoact",
+      "identity_keys": [
+        "arxiv:2609.16268",
+        "title:spurioustoolusewhenrlagentslearnthewrongreasontoact"
+      ]
     }
   ]
 }
