@@ -23640,6 +23640,77 @@
         "arxiv:2609.14605",
         "title:anoteongoalbasedhierarchicalrl"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18449",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T10:58:42.427401+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autonomoussciencebenchevaluatingaiagentsforautonomousscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.18449",
+        "title:autonomoussciencebenchevaluatingaiagentsforautonomousscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18089",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T10:58:42.637086+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onesidedverificationunderlimitedexpertreview",
+      "identity_keys": [
+        "arxiv:2610.18089",
+        "title:onesidedverificationunderlimitedexpertreview"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18792",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T10:58:43.106010+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "searselfevolvingagenticrobotics",
+      "identity_keys": [
+        "arxiv:2610.18792",
+        "title:searselfevolvingagenticrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14211",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T10:58:43.587278+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ecasanedgecontrolledagenticsystemforvalidationgatedscientificapplicationexecution",
+      "identity_keys": [
+        "arxiv:2609.14211",
+        "title:ecasanedgecontrolledagenticsystemforvalidationgatedscientificapplicationexecution"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3798063.3837321",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T10:58:44.822107+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "edgeharanedgenativecompactsensorfoundationmodelforhumanactivityrecognition",
+      "identity_keys": [
+        "arxiv:2609.14498",
+        "doi:10.1145/3798063.3837321",
+        "title:edgeharanedgenativecompactsensorfoundationmodelforhumanactivityrecognition"
+      ]
     }
   ]
 }
