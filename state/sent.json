@@ -23711,6 +23711,76 @@
         "doi:10.1145/3798063.3837321",
         "title:edgeharanedgenativecompactsensorfoundationmodelforhumanactivityrecognition"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18845",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T14:31:32.056954+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thelastremotesensingmodelbuiltbyhumanscastinganyearthobservationtaskasrecursiveselfimprovement",
+      "identity_keys": [
+        "arxiv:2610.18845",
+        "title:thelastremotesensingmodelbuiltbyhumanscastinganyearthobservationtaskasrecursiveselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18867",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T14:31:33.313557+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedevoselfimprovingcodingagentsforphysicalintelligence",
+      "identity_keys": [
+        "arxiv:2610.18867",
+        "title:embodiedevoselfimprovingcodingagentsforphysicalintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18381",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T14:31:33.729092+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "benchmarkinginteractionorientedaerialmobilityacrossheterogeneousenvironments",
+      "identity_keys": [
+        "arxiv:2610.18381",
+        "title:benchmarkinginteractionorientedaerialmobilityacrossheterogeneousenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14426",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T14:31:34.052010+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningbaseddynamicobstacleavoidanceforauavusingonlythreerangesensors",
+      "identity_keys": [
+        "arxiv:2609.14426",
+        "title:learningbaseddynamicobstacleavoidanceforauavusingonlythreerangesensors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16056",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T14:31:34.245800+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "managingactionpreconditionsinneurosymbolicrlthreeplacementstrategiesforembodiedagents",
+      "identity_keys": [
+        "arxiv:2609.16056",
+        "title:managingactionpreconditionsinneurosymbolicrlthreeplacementstrategiesforembodiedagents"
+      ]
     }
   ]
 }
