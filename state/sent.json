@@ -23401,6 +23401,119 @@
         "arxiv:2609.14716",
         "title:moralrebelagentsdecisionmakingunderconflictingobligations"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bib/bbag560",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-14T04:21:07.992322+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bib/bbag560",
+      "venue": "Briefings in bioinformatics",
+      "title_key": "anintegrativemultiomicsmodelingframeworkforchemotherapyresponsepredictionthroughmicrornatargetregulatorysignatures",
+      "identity_keys": [
+        "doi:10.1093/bib/bbag560",
+        "pubmed:42867970",
+        "title:anintegrativemultiomicsmodelingframeworkforchemotherapyresponsepredictionthroughmicrornatargetregulatorysignatures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14937",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T04:21:11.246597+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "predictinghowmodelpropensitiesgeneralizeoutofdistribution",
+      "identity_keys": [
+        "arxiv:2610.14937",
+        "title:predictinghowmodelpropensitiesgeneralizeoutofdistribution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14414",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T04:21:11.526067+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "priorinformedgeneralizablelowrankrepresentationlearningviaregularizedadversarialreweighting",
+      "identity_keys": [
+        "arxiv:2610.14414",
+        "title:priorinformedgeneralizablelowrankrepresentationlearningviaregularizedadversarialreweighting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18025",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T04:21:12.111067+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sheldonreasoningthroughdualsearchoverhypothesisandobservationspaces",
+      "identity_keys": [
+        "arxiv:2610.18025",
+        "title:sheldonreasoningthroughdualsearchoverhypothesisandobservationspaces"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18355",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T04:21:12.471686+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aboterunifiedembodiedreasoningthroughagenticdatamodelcoevolution",
+      "identity_keys": [
+        "arxiv:2610.18355",
+        "title:aboterunifiedembodiedreasoningthroughagenticdatamodelcoevolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18082",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T04:21:12.787299+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "failurerecoveryviabeliefupdatesandworldmodelingforlonghorizonagents",
+      "identity_keys": [
+        "arxiv:2610.18082",
+        "title:failurerecoveryviabeliefupdatesandworldmodelingforlonghorizonagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14561",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T04:21:12.962410+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "glamtrainingalatentworldmodeloverglobalspatiotemporalmemoryforactiveexplorationandnavigation",
+      "identity_keys": [
+        "arxiv:2609.14561",
+        "title:glamtrainingalatentworldmodeloverglobalspatiotemporalmemoryforactiveexplorationandnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14840",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T04:21:58.511550+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "elagentepotentehighthroughputagenticatomisticsimulations",
+      "identity_keys": [
+        "arxiv:2609.14840",
+        "title:elagentepotentehighthroughputagenticatomisticsimulations"
+      ]
     }
   ]
 }
