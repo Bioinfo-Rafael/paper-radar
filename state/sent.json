@@ -23514,6 +23514,132 @@
         "arxiv:2609.14840",
         "title:elagentepotentehighthroughputagenticatomisticsimulations"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18472",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T08:21:38.412103+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "simplifyingandimprovingonpolicydistillationforfewstepdiffusion",
+      "identity_keys": [
+        "arxiv:2610.18472",
+        "title:simplifyingandimprovingonpolicydistillationforfewstepdiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18621",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T08:21:38.571870+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deterministicpredictionasglobalvelocityflowmatchingforprobabilistictimeseriesforecast",
+      "identity_keys": [
+        "arxiv:2610.18621",
+        "title:deterministicpredictionasglobalvelocityflowmatchingforprobabilistictimeseriesforecast"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18057",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T08:21:38.924465+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frompolicyevaluationtooffpolicycontrolprovableemergenceofincontextqlearning",
+      "identity_keys": [
+        "arxiv:2610.18057",
+        "title:frompolicyevaluationtooffpolicycontrolprovableemergenceofincontextqlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18097",
+      "category": "ml",
+      "first_sent_at": "2026-10-14T08:21:39.329150+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aptfeedbackdrivenagenticposttrainingfortexttoimagegeneration",
+      "identity_keys": [
+        "arxiv:2610.18097",
+        "title:aptfeedbackdrivenagenticposttrainingfortexttoimagegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18774",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T08:21:39.830695+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "greenwamaworldfoundationmodelforrobotics",
+      "identity_keys": [
+        "arxiv:2610.18774",
+        "title:greenwamaworldfoundationmodelforrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18836",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T08:21:40.091010+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "planbenchcanexistingvlmsgowellbeyondperceptiontoreasonandplaninembodiedworlds",
+      "identity_keys": [
+        "arxiv:2610.18836",
+        "title:planbenchcanexistingvlmsgowellbeyondperceptiontoreasonandplaninembodiedworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18874",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T08:21:40.769882+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chunkactactionchunkingforagenticrobotics",
+      "identity_keys": [
+        "arxiv:2610.18874",
+        "title:chunkactactionchunkingforagenticrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14219",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T08:21:40.966014+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "taskspecifiedactivemetrologicalinspectionwithmeasurementsteeredvlamanipulationanddeterministicevidencegating",
+      "identity_keys": [
+        "arxiv:2609.14219",
+        "title:taskspecifiedactivemetrologicalinspectionwithmeasurementsteeredvlamanipulationanddeterministicevidencegating"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.14605",
+      "category": "frontier",
+      "first_sent_at": "2026-10-14T08:21:41.364353+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anoteongoalbasedhierarchicalrl",
+      "identity_keys": [
+        "arxiv:2609.14605",
+        "title:anoteongoalbasedhierarchicalrl"
+      ]
     }
   ]
 }
