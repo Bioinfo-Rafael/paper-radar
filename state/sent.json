@@ -24048,6 +24048,147 @@
         "arxiv:2609.15820",
         "title:algoevoselfevolvingagenticsearchforautomatedalgorithmdiscovery"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20369",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T07:57:14.386977+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "realrefineneuraloperatorsviaaligningdynamicalflow",
+      "identity_keys": [
+        "arxiv:2610.20369",
+        "title:realrefineneuraloperatorsviaaligningdynamicalflow"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s42484-026-00459-5",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T07:57:14.551003+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s42484-026-00459-5",
+      "venue": "Quantum Machine Intelligence",
+      "title_key": "physicsinspiredgenerativeaimodelsviarealhardwarebasednoisyquantumdiffusion",
+      "identity_keys": [
+        "doi:10.1007/s42484-026-00459-5",
+        "openalex:w4412581815",
+        "title:physicsinspiredgenerativeaimodelsviarealhardwarebasednoisyquantumdiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19831",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T07:57:15.072927+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ctiaodecontinuoustimeintervariableattentionforlongtermtimeseriesforecasting",
+      "identity_keys": [
+        "arxiv:2610.19831",
+        "title:ctiaodecontinuoustimeintervariableattentionforlongtermtimeseriesforecasting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20251",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T07:57:16.353920+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026 Workshops and Challenges",
+      "title_key": "contrastiveuncertaintylearningforrobustmultistructuresegmentationinlowerpelvicmr",
+      "identity_keys": [
+        "arxiv:2610.20251",
+        "title:contrastiveuncertaintylearningforrobustmultistructuresegmentationinlowerpelvicmr"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19588",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T07:57:16.750919+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "projectedwassersteinfisherraoflowsforhawkesbackgroundintensityestimation",
+      "identity_keys": [
+        "arxiv:2610.19588",
+        "title:projectedwassersteinfisherraoflowsforhawkesbackgroundintensityestimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20609",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T07:57:17.780664+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "safedrivevlanavigationconditionedworldmodeldreamingforconflictawareendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2610.20609",
+        "title:safedrivevlanavigationconditionedworldmodeldreamingforconflictawareendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19795",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T07:57:18.010776+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "statecraftaugmentingvideoworldmodelswithabstractstatereasoning",
+      "identity_keys": [
+        "arxiv:2610.19795",
+        "title:statecraftaugmentingvideoworldmodelswithabstractstatereasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20134",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T07:57:18.188324+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tactileguidedrobotlearningfromrepresentationlearningtofoundationmodels",
+      "identity_keys": [
+        "arxiv:2610.20134",
+        "title:tactileguidedrobotlearningfromrepresentationlearningtofoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15989",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T07:57:18.658789+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "corruptplanscleantracesevadingchainofthoughtmonitoringwithplaninjection",
+      "identity_keys": [
+        "arxiv:2609.15989",
+        "title:corruptplanscleantracesevadingchainofthoughtmonitoringwithplaninjection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15973",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T07:57:18.872302+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "discoveryfoundationmodelstowardopenendeddiscoveryintelligence",
+      "identity_keys": [
+        "arxiv:2609.15973",
+        "title:discoveryfoundationmodelstowardopenendeddiscoveryintelligence"
+      ]
     }
   ]
 }
