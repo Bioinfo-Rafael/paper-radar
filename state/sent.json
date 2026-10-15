@@ -23893,6 +23893,161 @@
         "arxiv:2609.16268",
         "title:spurioustoolusewhenrlagentslearnthewrongreasontoact"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s43588-026-01054-1",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-15T03:59:26.975645+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s43588-026-01054-1",
+      "venue": "Nature Computational Science",
+      "title_key": "cellartaunifiedframeworkforextractingsinglecellinformationfromhighresolutionspatialtranscriptomics",
+      "identity_keys": [
+        "doi:10.1038/s43588-026-01054-1",
+        "title:cellartaunifiedframeworkforextractingsinglecellinformationfromhighresolutionspatialtranscriptomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/978-3-032-37032-7_1",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T03:59:27.424861+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Computer Vision - ECCV 2026. Lecture Notes in Computer Science, vol. 17075, pp. 1-19. Springer, 2026",
+      "title_key": "omniposerflexiblehumanmotionrecoveryinthewildwithmaskedflowmatching",
+      "identity_keys": [
+        "arxiv:2610.19857",
+        "doi:10.1007/978-3-032-37032-7_1",
+        "title:omniposerflexiblehumanmotionrecoveryinthewildwithmaskedflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20220",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T03:59:27.678146+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "glanceforcingmakingbidirectionaldiffusionautoregressiveataglance",
+      "identity_keys": [
+        "arxiv:2610.20220",
+        "title:glanceforcingmakingbidirectionaldiffusionautoregressiveataglance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19187",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T03:59:27.858473+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "structureawarebayesianfullwaveforminversionviadiffusionregularizedsteinvariationalgradientdescent",
+      "identity_keys": [
+        "arxiv:2610.19187",
+        "title:structureawarebayesianfullwaveforminversionviadiffusionregularizedsteinvariationalgradientdescent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20439",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T03:59:28.158837+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theaccuracywellnonmonotoneaccuracydynamicsatvanishinginitialization",
+      "identity_keys": [
+        "arxiv:2610.20439",
+        "title:theaccuracywellnonmonotoneaccuracydynamicsatvanishinginitialization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19925",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T04:00:13.527514+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "convergenceratesofgaussianprocessthompsonsamplingforefficientglobaloptimization",
+      "identity_keys": [
+        "arxiv:2610.19925",
+        "title:convergenceratesofgaussianprocessthompsonsamplingforefficientglobaloptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19864",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T04:00:13.904665+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eulertowardshumancenteredmultiagentmathematicaldiscovery",
+      "identity_keys": [
+        "arxiv:2610.19864",
+        "title:eulertowardshumancenteredmultiagentmathematicaldiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19942",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T04:00:14.069548+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "morphingnetsymbolicregressionwherethenetworkistheformula",
+      "identity_keys": [
+        "arxiv:2610.19942",
+        "title:morphingnetsymbolicregressionwherethenetworkistheformula"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19955",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T04:00:14.701032+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neurosymboliclearningofinterpretableworldmodels",
+      "identity_keys": [
+        "arxiv:2610.19955",
+        "title:neurosymboliclearningofinterpretableworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3731487",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T04:00:15.235382+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3731487",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "lookasyouleapplanningsimultaneousmotionandperceptionforhighdofrobots",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3731487",
+        "title:lookasyouleapplanningsimultaneousmotionandperceptionforhighdofrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15820",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T04:00:15.410013+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "algoevoselfevolvingagenticsearchforautomatedalgorithmdiscovery",
+      "identity_keys": [
+        "arxiv:2609.15820",
+        "title:algoevoselfevolvingagenticsearchforautomatedalgorithmdiscovery"
+      ]
     }
   ]
 }
