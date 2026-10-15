@@ -24189,6 +24189,76 @@
         "arxiv:2609.15973",
         "title:discoveryfoundationmodelstowardopenendeddiscoveryintelligence"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20474",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T10:36:26.047433+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adarsiondemandrecursiveselfimprovementforembodiedagents",
+      "identity_keys": [
+        "arxiv:2610.20474",
+        "title:adarsiondemandrecursiveselfimprovementforembodiedagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19830",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T10:36:26.956713+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "darknightretrievalguidedagenticframeworkforbreakingdarkwebcaptchagates",
+      "identity_keys": [
+        "arxiv:2610.19830",
+        "title:darknightretrievalguidedagenticframeworkforbreakingdarkwebcaptchagates"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.15770",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T10:36:27.739147+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jeplojointembeddingpredictivelearningforlidarbasedleggedlocomotion",
+      "identity_keys": [
+        "arxiv:2609.15770",
+        "title:jeplojointembeddingpredictivelearningforlidarbasedleggedlocomotion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20365",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T10:36:28.174793+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lexicalpersistencewithoutsemanticentrenchmentinaiagentcommunities",
+      "identity_keys": [
+        "arxiv:2610.20365",
+        "title:lexicalpersistencewithoutsemanticentrenchmentinaiagentcommunities"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16222",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T10:36:28.369437+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howilearnedtostopworryingandlovestopgradsstationarityconvergenceandacasestudyonflowmaplearning",
+      "identity_keys": [
+        "arxiv:2609.16222",
+        "title:howilearnedtostopworryingandlovestopgradsstationarityconvergenceandacasestudyonflowmaplearning"
+      ]
     }
   ]
 }
