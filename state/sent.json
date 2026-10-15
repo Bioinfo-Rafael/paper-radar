@@ -24329,6 +24329,119 @@
         "doi:10.18653/v1/2024.emnlp-main.197",
         "title:quiktowardsendtoend4bitinferenceongenerativelargelanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-64227-y",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-15T23:27:21.268119+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-64227-y",
+      "venue": "Nature communications",
+      "title_key": "sctfbridgeadisentangleddeepgenerativemodelinformedbytfmotifbindingforgeneregulationinferenceinsinglecellmultiomics",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-64227-y",
+        "pubmed:41093852",
+        "title:sctfbridgeadisentangleddeepgenerativemodelinformedbytfmotifbindingforgeneregulationinferenceinsinglecellmultiomics"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.10.23.684069",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-15T23:27:21.715507+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.10.23.684069",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "geometricinferenceofcrossspeciestranscriptomecorrespondenceusinggromovwassersteinoptimaltransport",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.10.23.684069",
+        "title:geometricinferenceofcrossspeciestranscriptomecorrespondenceusinggromovwassersteinoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1137/25m1800822",
+      "category": "ml",
+      "first_sent_at": "2026-10-15T23:27:22.952197+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/25m1800822",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "ontheconvergenceandsizetransferabilityofcontinuousdepthgraphneuralnetworks",
+      "identity_keys": [
+        "doi:10.1137/25m1800822",
+        "title:ontheconvergenceandsizetransferabilityofcontinuousdepthgraphneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22317",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T23:27:23.625793+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "editwmeventdecomposedworldmodelingwithincrementalcorrectionforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.22317",
+        "title:editwmeventdecomposedworldmodelingwithincrementalcorrectionforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17728",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T23:27:24.145632+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rafvlarepresentationalignmentwiththefutureforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.17728",
+        "title:rafvlarepresentationalignmentwiththefutureforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18861",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T23:27:24.599963+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hybridreasoningagents",
+      "identity_keys": [
+        "arxiv:2610.18861",
+        "title:hybridreasoningagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19366",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T23:27:24.776881+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seeingmaintainingandlearningtheevolutionofmultimodalagentmemory",
+      "identity_keys": [
+        "arxiv:2610.19366",
+        "title:seeingmaintainingandlearningtheevolutionofmultimodalagentmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19906",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T23:27:24.963545+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondbenchmarkaccuracyadiagnostictestforllmchemicalprediction",
+      "identity_keys": [
+        "arxiv:2610.19906",
+        "title:beyondbenchmarkaccuracyadiagnostictestforllmchemicalprediction"
+      ]
     }
   ]
 }
