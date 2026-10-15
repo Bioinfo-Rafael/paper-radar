@@ -24259,6 +24259,76 @@
         "arxiv:2609.16222",
         "title:howilearnedtostopworryingandlovestopgradsstationarityconvergenceandacasestudyonflowmaplearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adr4264",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T14:08:53.914045+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adr4264",
+      "venue": "Science Robotics",
+      "title_key": "embodyingsoftrobotswithoctopusinspiredhierarchicalsuctionintelligence",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adr4264",
+        "title:embodyingsoftrobotswithoctopusinspiredhierarchicalsuctionintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20442",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T14:08:54.107488+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsagenticrobotsmodeldataenvironmentandharness",
+      "identity_keys": [
+        "arxiv:2610.20442",
+        "title:towardsagenticrobotsmodeldataenvironmentandharness"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19825",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T14:08:54.414955+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatmattersforworldmodelinginvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.19825",
+        "title:whatmattersforworldmodelinginvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19931",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T14:08:54.870140+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sam3rlmemorycontrolviareinforcementlearningforvisualobjecttracking",
+      "identity_keys": [
+        "arxiv:2610.19931",
+        "title:sam3rlmemorycontrolviareinforcementlearningforvisualobjecttracking"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.197",
+      "category": "frontier",
+      "first_sent_at": "2026-10-15T14:08:55.056480+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.197",
+      "venue": "EMNLP",
+      "title_key": "quiktowardsendtoend4bitinferenceongenerativelargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.197",
+        "title:quiktowardsendtoend4bitinferenceongenerativelargelanguagemodels"
+      ]
     }
   ]
 }
