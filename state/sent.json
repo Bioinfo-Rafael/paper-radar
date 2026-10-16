@@ -24582,6 +24582,76 @@
         "arxiv:2609.17804",
         "title:afourstagedecompositionofwordproblemsolvingandmechanisticfragilityinllmmathreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21739",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T07:49:01.607532+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reliableknowledgeacquisitionforcontinuallearningagents",
+      "identity_keys": [
+        "arxiv:2610.21739",
+        "title:reliableknowledgeacquisitionforcontinuallearningagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22041",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T07:49:02.073170+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "plansarenotexecutionsadaptingfrozenworldmodelplannerstocontrollerinducedexecutionshift",
+      "identity_keys": [
+        "arxiv:2610.22041",
+        "title:plansarenotexecutionsadaptingfrozenworldmodelplannerstocontrollerinducedexecutionshift"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22178",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T07:49:02.546697+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rekiregisteringknowledgeinvlas",
+      "identity_keys": [
+        "arxiv:2610.22178",
+        "title:rekiregisteringknowledgeinvlas"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.16884",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T07:49:02.876634+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bridginglearnedvisualperceptionandsymbolicbeliefspaceplanning",
+      "identity_keys": [
+        "arxiv:2609.16884",
+        "title:bridginglearnedvisualperceptionandsymbolicbeliefspaceplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17263",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T07:49:03.479790+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cadbasedrelationlearningandgeometricsymbolicplanningforroboticassembly",
+      "identity_keys": [
+        "arxiv:2609.17263",
+        "title:cadbasedrelationlearningandgeometricsymbolicplanningforroboticassembly"
+      ]
     }
   ]
 }
