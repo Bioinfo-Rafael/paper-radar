@@ -24722,6 +24722,76 @@
         "arxiv:2609.17921",
         "title:collaborativememoryformultiagentvlmsystems"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21910",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T13:53:44.066710+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coworldreasoneragenticmultimodalreasoningwiththeevolvingvideoworldmodeldrivenharness",
+      "identity_keys": [
+        "arxiv:2610.21910",
+        "title:coworldreasoneragenticmultimodalreasoningwiththeevolvingvideoworldmodeldrivenharness"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21548",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T13:53:44.671243+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "finitetimeguaranteesforconstrainedreinforcementlearningunderpartialobservability",
+      "identity_keys": [
+        "arxiv:2610.21548",
+        "title:finitetimeguaranteesforconstrainedreinforcementlearningunderpartialobservability"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21537",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T13:53:44.872563+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "functionalsubnetworklocalizationforefficientcontinuallearninginlargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.21537",
+        "title:functionalsubnetworklocalizationforefficientcontinuallearninginlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17886",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T13:53:45.103081+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "datasetdependenteffectsofcrossdepthaggregationandsoftroutedexpertsineegfoundationmodelfinetuning",
+      "identity_keys": [
+        "arxiv:2609.17886",
+        "title:datasetdependenteffectsofcrossdepthaggregationandsoftroutedexpertsineegfoundationmodelfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17168",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T13:53:48.465436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "humemslamefficienthumaninspiredsemanticplacerecognitionforrobustvisualslam",
+      "identity_keys": [
+        "arxiv:2609.17168",
+        "title:humemslamefficienthumaninspiredsemanticplacerecognitionforrobustvisualslam"
+      ]
     }
   ]
 }
