@@ -24442,6 +24442,146 @@
         "arxiv:2610.19906",
         "title:beyondbenchmarkaccuracyadiagnostictestforllmchemicalprediction"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21550",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T03:54:02.115984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingclassifierfreeguidanceforti2iflowmatching",
+      "identity_keys": [
+        "arxiv:2610.21550",
+        "title:rethinkingclassifierfreeguidanceforti2iflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21539",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T03:54:02.294273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reinforcementlearningdrivendiffusionmodelslanguagevisionandbeyond",
+      "identity_keys": [
+        "arxiv:2610.21539",
+        "title:reinforcementlearningdrivendiffusionmodelslanguagevisionandbeyond"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22358",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T03:54:02.526780+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pathfmfastgenerativeforecastingofmultivariatetrajectories",
+      "identity_keys": [
+        "arxiv:2610.22358",
+        "title:pathfmfastgenerativeforecastingofmultivariatetrajectories"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21026",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T03:54:03.027636+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onthelastiterateconvergenceofclippedgradientmethods",
+      "identity_keys": [
+        "arxiv:2610.21026",
+        "title:onthelastiterateconvergenceofclippedgradientmethods"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22014",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T03:54:03.246044+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graphbeatgraphbasedbucketizedeventaggregationovertimeforearlyriskstratificationofgastrointestinalcancers",
+      "identity_keys": [
+        "arxiv:2610.22014",
+        "title:graphbeatgraphbasedbucketizedeventaggregationovertimeforearlyriskstratificationofgastrointestinalcancers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22340",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T03:54:04.180116+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dexterityfromsupervisedplay",
+      "identity_keys": [
+        "arxiv:2610.22340",
+        "title:dexterityfromsupervisedplay"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21612",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T03:54:04.348777+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningintrinsicdynamicsinlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.21612",
+        "title:learningintrinsicdynamicsinlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22070",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T03:54:05.552412+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memoryasweightsinternalizinglongtermhistoryforstreamingvideos",
+      "identity_keys": [
+        "arxiv:2610.22070",
+        "title:memoryasweightsinternalizinglongtermhistoryforstreamingvideos"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17800",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T03:54:06.094894+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenteethamodelagnosticframeworkforsuppressinghallucinationinfrozenvisionlanguagemodelsondentalxraysviatoolevidenceinjection",
+      "identity_keys": [
+        "arxiv:2609.17800",
+        "title:agenteethamodelagnosticframeworkforsuppressinghallucinationinfrozenvisionlanguagemodelsondentalxraysviatoolevidenceinjection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17804",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T03:54:06.295325+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "afourstagedecompositionofwordproblemsolvingandmechanisticfragilityinllmmathreasoning",
+      "identity_keys": [
+        "arxiv:2609.17804",
+        "title:afourstagedecompositionofwordproblemsolvingandmechanisticfragilityinllmmathreasoning"
+      ]
     }
   ]
 }
