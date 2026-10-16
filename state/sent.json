@@ -24792,6 +24792,133 @@
         "arxiv:2609.17168",
         "title:humemslamefficienthumaninspiredsemanticplacerecognitionforrobustvisualslam"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.09.18.752607",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-16T23:09:18.700062+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.09.18.752607",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "deepscenictransferlearningfromsequencetofunctionmodelsenablescausalgeneregulatorynetworkinference",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.09.18.752607",
+        "title:deepscenictransferlearningfromsequencetofunctionmodelsenablescausalgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19242",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T23:09:19.256806+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "blockparallelismforefficientdistributedlongcontextdiffusionlanguagemodeltraining",
+      "identity_keys": [
+        "arxiv:2609.19242",
+        "title:blockparallelismforefficientdistributedlongcontextdiffusionlanguagemodeltraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18310",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T23:09:19.649226+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sealionv48atechnicalreport",
+      "identity_keys": [
+        "arxiv:2609.18310",
+        "title:sealionv48atechnicalreport"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19213",
+      "category": "ml",
+      "first_sent_at": "2026-10-16T23:09:19.821474+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "layerwisecurriculumlearningforefficientllmcompression",
+      "identity_keys": [
+        "arxiv:2609.19213",
+        "title:layerwisecurriculumlearningforefficientllmcompression"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3773078.3831910",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T23:09:20.683273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "RecSys 2026",
+      "title_key": "bootstrappingconversationalrecommendationagentsatspotifysyntheticdatagenerationandselfimprovementloops",
+      "identity_keys": [
+        "arxiv:2609.30297",
+        "doi:10.1145/3773078.3831910",
+        "title:bootstrappingconversationalrecommendationagentsatspotifysyntheticdatagenerationandselfimprovementloops"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19491",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T23:09:20.905378+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "efficientlylinkingunstructureddataformultistepreasoning",
+      "identity_keys": [
+        "arxiv:2609.19491",
+        "title:efficientlylinkingunstructureddataformultistepreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19315",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T23:09:21.755788+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gavelgraphworldmodelsforverifiedandefficientlonghorizonllmtaskplanning",
+      "identity_keys": [
+        "arxiv:2609.19315",
+        "title:gavelgraphworldmodelsforverifiedandefficientlonghorizonllmtaskplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17309",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T23:09:22.250476+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "startluxdecisionautothinkdecisionmodelswithreinforcementlearningforcalibrateddeliberativedecisions",
+      "identity_keys": [
+        "arxiv:2610.17309",
+        "title:startluxdecisionautothinkdecisionmodelswithreinforcementlearningforcalibrateddeliberativedecisions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22200",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T23:09:22.473484+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "opengcuatowardafullyopenstackforgeneralistcomputeruse",
+      "identity_keys": [
+        "arxiv:2610.22200",
+        "title:opengcuatowardafullyopenstackforgeneralistcomputeruse"
+      ]
     }
   ]
 }
