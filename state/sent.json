@@ -24652,6 +24652,76 @@
         "arxiv:2609.17263",
         "title:cadbasedrelationlearningandgeometricsymbolicplanningforroboticassembly"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22311",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T10:22:55.140828+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "veloxspatialmemorymakesworldmodelsefficient",
+      "identity_keys": [
+        "arxiv:2610.22311",
+        "title:veloxspatialmemorymakesworldmodelsefficient"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21985",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T10:22:55.261602+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "verivlaadaptivetesttimeverificationforflowbasedvlaswithlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.21985",
+        "title:verivlaadaptivetesttimeverificationforflowbasedvlaswithlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22324",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T10:22:55.571678+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingreasoningmodelstogeneratediversescientificideas",
+      "identity_keys": [
+        "arxiv:2610.22324",
+        "title:trainingreasoningmodelstogeneratediversescientificideas"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17688",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T10:22:55.687316+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "capmemabenchmarkforcaptionbasedepisodicmemoryinegocentricvideo",
+      "identity_keys": [
+        "arxiv:2609.17688",
+        "title:capmemabenchmarkforcaptionbasedepisodicmemoryinegocentricvideo"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.17921",
+      "category": "frontier",
+      "first_sent_at": "2026-10-16T10:23:40.931661+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "collaborativememoryformultiagentvlmsystems",
+      "identity_keys": [
+        "arxiv:2609.17921",
+        "title:collaborativememoryformultiagentvlmsystems"
+      ]
     }
   ]
 }
