@@ -24990,6 +24990,76 @@
         "doi:10.18653/v1/2024.emnlp-main.68",
         "title:rethinkingpruninglargelanguagemodelsbenefitsandpitfallsofreconstructionerrorminimization"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.19475",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T09:56:04.659982+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fasafeedbackawaresamplingadaptationforefficientdiffusionbasedvlamodels",
+      "identity_keys": [
+        "arxiv:2609.19475",
+        "title:fasafeedbackawaresamplingadaptationforefficientdiffusionbasedvlamodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18669",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T09:56:05.058917+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "m3pr1reinforcementlearningforlargelanguagemodelguidedmultimodalmotionplanningviamipcodegeneration",
+      "identity_keys": [
+        "arxiv:2609.18669",
+        "title:m3pr1reinforcementlearningforlargelanguagemodelguidedmultimodalmotionplanningviamipcodegeneration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aee7961",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T09:56:05.487976+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aee7961",
+      "venue": "Science",
+      "title_key": "magicstatecultivationonasuperconductingquantumprocessor",
+      "identity_keys": [
+        "doi:10.1126/science.aee7961",
+        "title:magicstatecultivationonasuperconductingquantumprocessor"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22195",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T09:56:05.740489+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "htnorchestrateahierarchicaltasknetworkframeworkformultiagentorchestration",
+      "identity_keys": [
+        "arxiv:2610.22195",
+        "title:htnorchestrateahierarchicaltasknetworkframeworkformultiagentorchestration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22196",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T09:56:05.931234+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hymemory30ba3battributedreinforcementlearningforlongtermmemorywriting",
+      "identity_keys": [
+        "arxiv:2610.22196",
+        "title:hymemory30ba3battributedreinforcementlearningforlongtermmemorywriting"
+      ]
     }
   ]
 }
