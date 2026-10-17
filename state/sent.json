@@ -24919,6 +24919,77 @@
         "arxiv:2610.22200",
         "title:opengcuatowardafullyopenstackforgeneralistcomputeruse"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1117/12.3131868",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T03:53:34.636663+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1117/12.3131868",
+      "venue": "International Conference on Robotics and Learning (ICRL 2026)",
+      "title_key": "researchonmultirobotslampathplanningbasedondeeplearning",
+      "identity_keys": [
+        "doi:10.1117/12.3131868",
+        "title:researchonmultirobotslampathplanningbasedondeeplearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1117/12.3131435",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T03:53:35.230614+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1117/12.3131435",
+      "venue": "International Conference on Robotics and Learning (ICRL 2026)",
+      "title_key": "riskcalibratedknowledgeeditingforlargelanguagemodelsinroboticdecisionsupport",
+      "identity_keys": [
+        "doi:10.1117/12.3131435",
+        "title:riskcalibratedknowledgeeditingforlargelanguagemodelsinroboticdecisionsupport"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.70593/978-81-6632-134-4",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T03:53:35.401371+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.70593/978-81-6632-134-4",
+      "venue": null,
+      "title_key": "generativeaiandlargelanguagemodelstransformerspromptengineeringandaiagents",
+      "identity_keys": [
+        "doi:10.70593/978-81-6632-134-4",
+        "openalex:w7221687551",
+        "title:generativeaiandlargelanguagemodelstransformerspromptengineeringandaiagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.270",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T03:53:35.591637+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.270",
+      "venue": "ACL",
+      "title_key": "relayattentionforefficientlargelanguagemodelservingwithlongsystemprompts",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.270",
+        "title:relayattentionforefficientlargelanguagemodelservingwithlongsystemprompts"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.68",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T03:53:35.801064+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.68",
+      "venue": "EMNLP",
+      "title_key": "rethinkingpruninglargelanguagemodelsbenefitsandpitfallsofreconstructionerrorminimization",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.68",
+        "title:rethinkingpruninglargelanguagemodelsbenefitsandpitfallsofreconstructionerrorminimization"
+      ]
     }
   ]
 }
