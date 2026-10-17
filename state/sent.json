@@ -25060,6 +25060,79 @@
         "arxiv:2610.22196",
         "title:hymemory30ba3battributedreinforcementlearningforlongtermmemorywriting"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.18449",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T12:50:56.103078+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.18449",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "autonomoussciencebenchevaluatingaiagentsforautonomousscientificdiscovery",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.18449",
+        "openalex:w7221804992",
+        "title:autonomoussciencebenchevaluatingaiagentsforautonomousscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18813",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T12:50:56.459641+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asymptoticallyoptimalmultirobottaskandmotionplanning",
+      "identity_keys": [
+        "arxiv:2609.18813",
+        "title:asymptoticallyoptimalmultirobottaskandmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fphar.2026.1917774",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T12:50:56.858198+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fphar.2026.1917774",
+      "venue": "Frontiers in Pharmacology",
+      "title_key": "molecureaianagenticaiplatformforautonomousdrugdiscovery",
+      "identity_keys": [
+        "doi:10.3389/fphar.2026.1917774",
+        "openalex:w7214722176",
+        "pubmed:42871461",
+        "title:molecureaianagenticaiplatformforautonomousdrugdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22316",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T12:50:57.030127+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtosteerllmagentsandmultiagentsystems",
+      "identity_keys": [
+        "arxiv:2610.22316",
+        "title:learningtosteerllmagentsandmultiagentsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.18520",
+      "category": "frontier",
+      "first_sent_at": "2026-10-17T12:51:42.254952+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aeroweaveranembodiedagentharnessforweavingaerialskillsintodistributedadaptiveswarmexecution",
+      "identity_keys": [
+        "arxiv:2609.18520",
+        "title:aeroweaveranembodiedagentharnessforweavingaerialskillsintodistributedadaptiveswarmexecution"
+      ]
     }
   ]
 }
