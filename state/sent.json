@@ -25455,6 +25455,92 @@
         "doi:10.18653/v1/2025.acl-long.222",
         "title:sharperandfastermeanbettertowardsmoreefficientvisionlanguagemodelforhourscalelongvideounderstanding"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-78441-9",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-18T13:08:13.248013+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-78441-9",
+      "venue": "Nature Communications",
+      "title_key": "decomposingmultiscaledynamicregulationfromsinglecellmultiomicswithscmagnify",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-78441-9",
+        "openalex:w7222832563",
+        "title:decomposingmultiscaledynamicregulationfromsinglecellmultiomicswithscmagnify"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.20474",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T13:08:14.335081+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.20474",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "adarsiondemandrecursiveselfimprovementforembodiedagents",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.20474",
+        "openalex:w7222291732",
+        "title:adarsiondemandrecursiveselfimprovementforembodiedagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.47363/jeast/2026(8)386",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T13:08:15.086404+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.47363/jeast/2026(8)386",
+      "venue": "Journal of Engineering and Applied Sciences Technology",
+      "title_key": "fromrulestoautonomousagentstheevolutionofartificialintelligencehumanaiintegrationandthegovernanceofagenticsystemsareview",
+      "identity_keys": [
+        "doi:10.47363/jeast/2026(8)386",
+        "openalex:w7222482994",
+        "title:fromrulestoautonomousagentstheevolutionofartificialintelligencehumanaiintegrationandthegovernanceofagenticsystemsareview"
+      ]
+    },
+    {
+      "canonical_id": "title:shvitsingleheadvisiontransformerwithmemoryefficientmacrodesign",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T13:08:15.229776+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "shvitsingleheadvisiontransformerwithmemoryefficientmacrodesign",
+      "identity_keys": [
+        "title:shvitsingleheadvisiontransformerwithmemoryefficientmacrodesign"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.143",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T13:08:15.371790+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.143",
+      "venue": "ACL",
+      "title_key": "sirllmstreaminginfiniteretentivellm",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.143",
+        "title:sirllmstreaminginfiniteretentivellm"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.127",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T13:08:15.580839+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.127",
+      "venue": "ACL",
+      "title_key": "smarterbetterfasterlongeramodernbidirectionalencoderforfastmemoryefficientandlongcontextfinetuningandinference",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.127",
+        "title:smarterbetterfasterlongeramodernbidirectionalencoderforfastmemoryefficientandlongcontextfinetuningandinference"
+      ]
     }
   ]
 }
