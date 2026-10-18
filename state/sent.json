@@ -25387,6 +25387,74 @@
         "doi:10.18653/v1/2024.emnlp-main.270",
         "title:retrieveplangenerationaniterativeplanningandansweringframeworkforknowledgeintensivellmgeneration"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.robot.2026.105822",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T10:08:17.246014+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.robot.2026.105822",
+      "venue": "Robotics and Autonomous Systems",
+      "title_key": "asemanticautonomyframeworkforvlmintegratedindoormobilerobotshybriddeterministicreasoningandcrossrobotadaptivememory",
+      "identity_keys": [
+        "doi:10.1016/j.robot.2026.105822",
+        "title:asemanticautonomyframeworkforvlmintegratedindoormobilerobotshybriddeterministicreasoningandcrossrobotadaptivememory"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.145",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T10:08:18.002206+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.145",
+      "venue": "EMNLP",
+      "title_key": "reusingtransferableweightincrementsforlowresourcestylegeneration",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.145",
+        "title:reusingtransferableweightincrementsforlowresourcestylegeneration"
+      ]
+    },
+    {
+      "canonical_id": "title:rmemrestrictedmemorybanksimprovevideoobjectsegmentation",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T10:08:18.234049+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "rmemrestrictedmemorybanksimprovevideoobjectsegmentation",
+      "identity_keys": [
+        "title:rmemrestrictedmemorybanksimprovevideoobjectsegmentation"
+      ]
+    },
+    {
+      "canonical_id": "title:romerobustifyingmemoryefficientnasviatopologydisentanglementandgradientaccumulation",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T10:08:18.431454+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "romerobustifyingmemoryefficientnasviatopologydisentanglementandgradientaccumulation",
+      "identity_keys": [
+        "title:romerobustifyingmemoryefficientnasviatopologydisentanglementandgradientaccumulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.222",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T10:08:19.135166+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.222",
+      "venue": "ACL",
+      "title_key": "sharperandfastermeanbettertowardsmoreefficientvisionlanguagemodelforhourscalelongvideounderstanding",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.222",
+        "title:sharperandfastermeanbettertowardsmoreefficientvisionlanguagemodelforhourscalelongvideounderstanding"
+      ]
     }
   ]
 }
