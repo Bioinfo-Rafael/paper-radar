@@ -25246,6 +25246,77 @@
         "arxiv:2610.21764",
         "title:qhentropyguidedhorizonmixinginmultidiscountqlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.21055",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T03:50:19.882165+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.21055",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "athanoranagentnativesystemforautonomousposttrainingresearch",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.21055",
+        "openalex:w7222755715",
+        "title:athanoranagentnativesystemforautonomousposttrainingresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22368",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T03:50:22.691810+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "valueasmemoryonlinevalueguidedposttrainingforgeneralrobotpolicies",
+      "identity_keys": [
+        "arxiv:2610.22368",
+        "title:valueasmemoryonlinevalueguidedposttrainingforgeneralrobotpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.21895",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T03:50:23.112569+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "surgstreamerproactiverequestdrivenmonitoringofsurgicalvideostreamswithstructuredstateandareusablereasoninglayer",
+      "identity_keys": [
+        "arxiv:2610.21895",
+        "title:surgstreamerproactiverequestdrivenmonitoringofsurgicalvideostreamswithstructuredstateandareusablereasoninglayer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20906",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T03:50:23.274564+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuousdelayedmemorystochasticgradientdescentandcontinuoustimereinforcementlearningfromhistoryofastrophysicaltimeseriesstudies",
+      "identity_keys": [
+        "arxiv:2609.20906",
+        "title:continuousdelayedmemorystochasticgradientdescentandcontinuoustimereinforcementlearningfromhistoryofastrophysicaltimeseriesstudies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20954",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T03:50:23.438040+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "efficientbayesadaptivereinforcementlearningwithtemporallogicspecifications",
+      "identity_keys": [
+        "arxiv:2609.20954",
+        "title:efficientbayesadaptivereinforcementlearningwithtemporallogicspecifications"
+      ]
     }
   ]
 }
