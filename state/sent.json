@@ -25317,6 +25317,76 @@
         "arxiv:2609.20954",
         "title:efficientbayesadaptivereinforcementlearningwithtemporallogicspecifications"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.20983",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T07:41:58.012551+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pivotphysicallyinformedvisionlanguageoffroadtraversabilityforfieldrobotnavigation",
+      "identity_keys": [
+        "arxiv:2609.20983",
+        "title:pivotphysicallyinformedvisionlanguageoffroadtraversabilityforfieldrobotnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21122",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T07:41:58.544553+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "metapushermetalearningandplanningfornonprehensilemanipulationofunseenobjectswithrapidonlineadaption",
+      "identity_keys": [
+        "arxiv:2609.21122",
+        "title:metapushermetalearningandplanningfornonprehensilemanipulationofunseenobjectswithrapidonlineadaption"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.152",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T07:41:58.918154+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.152",
+      "venue": "ACL",
+      "title_key": "rethinkingtaskorienteddialoguesystemsfromcomplexmodularitytozeroshotautonomousagent",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.152",
+        "title:rethinkingtaskorienteddialoguesystemsfromcomplexmodularitytozeroshotautonomousagent"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.100",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T07:41:59.044292+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.100",
+      "venue": "EMNLP",
+      "title_key": "rethinkingtokenreductionforstatespacemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.100",
+        "title:rethinkingtokenreductionforstatespacemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.270",
+      "category": "frontier",
+      "first_sent_at": "2026-10-18T07:41:59.184845+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.270",
+      "venue": "EMNLP",
+      "title_key": "retrieveplangenerationaniterativeplanningandansweringframeworkforknowledgeintensivellmgeneration",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.270",
+        "title:retrieveplangenerationaniterativeplanningandansweringframeworkforknowledgeintensivellmgeneration"
+      ]
     }
   ]
 }
