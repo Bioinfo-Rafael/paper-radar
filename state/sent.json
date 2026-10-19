@@ -25766,6 +25766,90 @@
         "doi:10.1109/icpc2t68221.2026.11646348",
         "title:specquantspeculativedecodingwithmultiparentquantizationforadaptivellminference"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22924",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T08:31:38.332215+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seplatentseparatortokensasnaturalcompressionanchorsforimplicitreasoning",
+      "identity_keys": [
+        "arxiv:2610.22924",
+        "title:seplatentseparatortokensasnaturalcompressionanchorsforimplicitreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23839",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T08:31:38.993403+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "discoveryrsirecursivelylearningtodiscovervaluablehypotheses",
+      "identity_keys": [
+        "arxiv:2610.23839",
+        "title:discoveryrsirecursivelylearningtodiscovervaluablehypotheses"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23479",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T08:31:39.492008+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hexashellathinharnessforexploringthelimitsofvlmagentsasrobotcodingagents",
+      "identity_keys": [
+        "arxiv:2610.23479",
+        "title:hexashellathinharnessforexploringthelimitsofvlmagentsasrobotcodingagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21650",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T08:31:39.837036+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "synthdemorlbreakingthezerorewardbarrierinvlaadaptationwithllmguidedsyntheticdemonstrations",
+      "identity_keys": [
+        "arxiv:2609.21650",
+        "title:synthdemorlbreakingthezerorewardbarrierinvlaadaptationwithllmguidedsyntheticdemonstrations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23598",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T08:31:40.206525+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rlguidedtemporallocalizationfordualchannelretrievalinlonghorizonagentmemory",
+      "identity_keys": [
+        "arxiv:2610.23598",
+        "title:rlguidedtemporallocalizationfordualchannelretrievalinlonghorizonagentmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21859",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T08:31:40.404547+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trialatlasmultiagentresearchorganizationforclinicaltrialdesignandoptimization",
+      "identity_keys": [
+        "arxiv:2609.21859",
+        "title:trialatlasmultiagentresearchorganizationforclinicaltrialdesignandoptimization"
+      ]
     }
   ]
 }
