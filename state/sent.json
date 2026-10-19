@@ -25850,6 +25850,91 @@
         "arxiv:2609.21859",
         "title:trialatlasmultiagentresearchorganizationforclinicaltrialdesignandoptimization"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-75727-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-19T11:37:46.750824+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-75727-w",
+      "venue": "Nature communications",
+      "title_key": "learningstochasticityviaanonparametricapproachtostatedependentnoiseestimation",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-75727-w",
+        "pubmed:42894006",
+        "title:learningstochasticityviaanonparametricapproachtostatedependentnoiseestimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23826",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T11:37:48.269814+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfbuildinglabs",
+      "identity_keys": [
+        "arxiv:2610.23826",
+        "title:selfbuildinglabs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23396",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T11:37:48.957098+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "awamactivetrajectoryconditionedviewimaginationforrobustrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2610.23396",
+        "title:awamactivetrajectoryconditionedviewimaginationforrobustrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23012",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T11:37:49.339037+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptationofcomputeruseagentstonewsoftwarewithusermanuals",
+      "identity_keys": [
+        "arxiv:2610.23012",
+        "title:adaptationofcomputeruseagentstonewsoftwarewithusermanuals"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.228",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T11:37:49.521001+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.228",
+      "venue": "ACL",
+      "title_key": "sparselatentssteerretrievalaugmentedgeneration",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.228",
+        "title:sparselatentssteerretrievalaugmentedgeneration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.26",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T11:37:49.679986+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.26",
+      "venue": "EMNLP",
+      "title_key": "strengthliesindifferencesimprovingstrategyplanningfornoncollaborativedialoguesviadiversifiedusersimulation",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.26",
+        "title:strengthliesindifferencesimprovingstrategyplanningfornoncollaborativedialoguesviadiversifiedusersimulation"
+      ]
     }
   ]
 }
