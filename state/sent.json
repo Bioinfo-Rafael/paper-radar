@@ -25935,6 +25935,174 @@
         "doi:10.18653/v1/2024.emnlp-main.26",
         "title:strengthliesindifferencesimprovingstrategyplanningfornoncollaborativedialoguesviadiversifiedusersimulation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01311-y",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-19T16:22:15.073294+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01311-y",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "reusabilityreportmultisampleomicsnetworkinferenceoperatesindistinctrobustnessregimesdefinedbypriorknowledgeanddataavailability",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01311-y",
+        "title:reusabilityreportmultisampleomicsnetworkinferenceoperatesindistinctrobustnessregimesdefinedbypriorknowledgeanddataavailability"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.13.758713",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-19T16:22:15.490295+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.13.758713",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "dcafunifyingdatavalidityevaluationvalidityandpredictivemodelingforsinglecellperturbationsimulation",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.13.758713",
+        "title:dcafunifyingdatavalidityevaluationvalidityandpredictivemodelingforsinglecellperturbationsimulation"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.16.759604",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-19T16:22:17.709053+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.16.759604",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "geneticperturbationpredictionmodelsfailoutofdistributionarigorousbenchmarkandsystematicevaluation",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.16.759604",
+        "title:geneticperturbationpredictionmodelsfailoutofdistributionarigorousbenchmarkandsystematicevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22752",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T16:22:18.555311+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dimpladiffusionbasedsolverforparameterizedbbos",
+      "identity_keys": [
+        "arxiv:2609.22752",
+        "title:dimpladiffusionbasedsolverforparameterizedbbos"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22836",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T16:22:19.122728+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ahybridattentionmodellearningunifiedtimeawarepatchrepresentationforirregularmultivariatetimeseriesforecasting",
+      "identity_keys": [
+        "arxiv:2609.22836",
+        "title:ahybridattentionmodellearningunifiedtimeawarepatchrepresentationforirregularmultivariatetimeseriesforecasting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22700",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T16:22:19.299453+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lladaprmabidirectionalsteplevelreasoningevaluator",
+      "identity_keys": [
+        "arxiv:2609.22700",
+        "title:lladaprmabidirectionalsteplevelreasoningevaluator"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22833",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T16:22:19.766014+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "personalizedfederatedreinforcementlearningviamodelagnosticmetalearningconvergenceofexactandhessianfreemetapolicygradients",
+      "identity_keys": [
+        "arxiv:2609.22833",
+        "title:personalizedfederatedreinforcementlearningviamodelagnosticmetalearningconvergenceofexactandhessianfreemetapolicygradients"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22879",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T16:22:20.619654+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "prioritizedrolloutsforefficientworldmodelbasedvisionlanguageactionpolicyoptimization",
+      "identity_keys": [
+        "arxiv:2609.22879",
+        "title:prioritizedrolloutsforefficientworldmodelbasedvisionlanguageactionpolicyoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23615",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T16:22:20.793189+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondactionpredictionlearningsearchfreeplanninginlatentspace",
+      "identity_keys": [
+        "arxiv:2610.23615",
+        "title:beyondactionpredictionlearningsearchfreeplanninginlatentspace"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22895",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T16:22:21.273194+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hvlahierarchicalvisionlanguageactionmodelwithkeyactionreasoningandmotionplanninginaunifiedactionspace",
+      "identity_keys": [
+        "arxiv:2609.22895",
+        "title:hvlahierarchicalvisionlanguageactionmodelwithkeyactionreasoningandmotionplanninginaunifiedactionspace"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23372",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T16:22:22.050882+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondsuccessrateinterventionalevaluationofmemoryinvisionlanguageactionsystems",
+      "identity_keys": [
+        "arxiv:2610.23372",
+        "title:beyondsuccessrateinterventionalevaluationofmemoryinvisionlanguageactionsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22925",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T16:22:22.469604+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dearllavapleasedriveadepthawarevisionlanguageagentforclosedlooproboticcontrol",
+      "identity_keys": [
+        "arxiv:2609.22925",
+        "title:dearllavapleasedriveadepthawarevisionlanguageagentforclosedlooproboticcontrol"
+      ]
     }
   ]
 }
