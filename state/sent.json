@@ -25625,6 +25625,147 @@
         "arxiv:2609.22083",
         "title:mintactaunifiedvisualagentfordigitalenvironments"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22992",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T04:01:15.858516+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "goldgeometricoptimizedlatentdiffusionforstructureawarernainversefolding",
+      "identity_keys": [
+        "arxiv:2610.22992",
+        "title:goldgeometricoptimizedlatentdiffusionforstructureawarernainversefolding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23766",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T04:01:16.075867+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "logicguidedgraphdenoisingdiffusionmodels",
+      "identity_keys": [
+        "arxiv:2610.23766",
+        "title:logicguidedgraphdenoisingdiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22985",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T04:01:16.598963+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "prismattentionproposalrefinedindexsharingmechanismforefficientllmsinference",
+      "identity_keys": [
+        "arxiv:2610.22985",
+        "title:prismattentionproposalrefinedindexsharingmechanismforefficientllmsinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23787",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T04:01:17.085162+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dlitehistoryfreespeculativedecodingforagenticai",
+      "identity_keys": [
+        "arxiv:2610.23787",
+        "title:dlitehistoryfreespeculativedecodingforagenticai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23716",
+      "category": "ml",
+      "first_sent_at": "2026-10-19T04:02:02.510231+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neuralexpansionaunifiedmechanismforhowdeepneuralnetworksgeneralize",
+      "identity_keys": [
+        "arxiv:2610.23716",
+        "title:neuralexpansionaunifiedmechanismforhowdeepneuralnetworksgeneralize"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23845",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T04:02:03.052525+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aidrivenreproducibilityandanalyticalrobustnessinscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.23845",
+        "title:aidrivenreproducibilityandanalyticalrobustnessinscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23599",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T04:02:03.311122+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromtrajectoriestodifferentiatedskillscognitivedifferentiationforselfimprovingagents",
+      "identity_keys": [
+        "arxiv:2610.23599",
+        "title:fromtrajectoriestodifferentiatedskillscognitivedifferentiationforselfimprovingagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23319",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T04:02:03.654725+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromslidingwindowstoselfevolvinglifelongmemoryadualperspectivesurveyofmemoryparadigmsforlonghorizonroboticsvlamodels",
+      "identity_keys": [
+        "arxiv:2610.23319",
+        "title:fromslidingwindowstoselfevolvinglifelongmemoryadualperspectivesurveyofmemoryparadigmsforlonghorizonroboticsvlamodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.21753",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T04:02:04.059730+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "psrpredictivesensorimotorrepresentationlearningforcontactrichmanipulation",
+      "identity_keys": [
+        "arxiv:2609.21753",
+        "title:psrpredictivesensorimotorrepresentationlearningforcontactrichmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/icpc2t68221.2026.11646348",
+      "category": "frontier",
+      "first_sent_at": "2026-10-19T04:02:04.602426+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "2026 Fifth International Conference on Power, Control and Computing Technologies (ICPC2T), Raipur, India, 11-13 March 2026, pp. 371-375, IEEE, 2026",
+      "title_key": "specquantspeculativedecodingwithmultiparentquantizationforadaptivellminference",
+      "identity_keys": [
+        "arxiv:2609.21704",
+        "doi:10.1109/icpc2t68221.2026.11646348",
+        "title:specquantspeculativedecodingwithmultiparentquantizationforadaptivellminference"
+      ]
     }
   ]
 }
