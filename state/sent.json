@@ -26454,6 +26454,91 @@
         "doi:10.1109/tro.2024.3492386",
         "title:topogeometricallydistinctpathcomputationusingneighborhoodaugmentedgraphanditsapplicationtopathplanningforatetheredrobotin3d"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24113",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T10:42:54.804229+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graphregularizedsyntheticcontrolforstablecounterfactualestimationunderdonorredundancy",
+      "identity_keys": [
+        "arxiv:2610.24113",
+        "title:graphregularizedsyntheticcontrolforstablecounterfactualestimationunderdonorredundancy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26564",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T10:42:55.307339+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "prismwamdecouplingstaterepresentationsinworldactionmodels",
+      "identity_keys": [
+        "arxiv:2610.26564",
+        "title:prismwamdecouplingstaterepresentationsinworldactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26395",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T10:42:55.482431+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "foragersimevaluatingembodiedmapbasedreasoninginlargescaledynamicworlds",
+      "identity_keys": [
+        "arxiv:2610.26395",
+        "title:foragersimevaluatingembodiedmapbasedreasoninginlargescaledynamicworlds"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3838684.3846877",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T10:42:55.652808+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "International Conference on Parallel Architectures and Compilation Techniques 2026",
+      "title_key": "maskawareexecutionforefficientjepatraining",
+      "identity_keys": [
+        "arxiv:2609.22674",
+        "doi:10.1145/3838684.3846877",
+        "title:maskawareexecutionforefficientjepatraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22858",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T10:42:55.838684+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pilebeliefpersistentphysicalstateforinteractiondrivenworldmodeling",
+      "identity_keys": [
+        "arxiv:2609.22858",
+        "title:pilebeliefpersistentphysicalstateforinteractiondrivenworldmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22854",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T10:42:56.746427+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "smolstmacompactvisionlanguageactionmodelwithrecurrentmemorythatpersists",
+      "identity_keys": [
+        "arxiv:2609.22854",
+        "title:smolstmacompactvisionlanguageactionmodelwithrecurrentmemorythatpersists"
+      ]
     }
   ]
 }
