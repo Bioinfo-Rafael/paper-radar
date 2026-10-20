@@ -26103,6 +26103,76 @@
         "arxiv:2609.22925",
         "title:dearllavapleasedriveadepthawarevisionlanguageagentforclosedlooproboticcontrol"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23098",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T00:11:44.335448+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "instagentarecursivelyselfimprovingagentoperatingsystemforheterogeneousrobotcollaboration",
+      "identity_keys": [
+        "arxiv:2610.23098",
+        "title:instagentarecursivelyselfimprovingagentoperatingsystemforheterogeneousrobotcollaboration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23542",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T00:11:44.847084+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "executionbeforememorydiagnosingmemoryfailuresinvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2610.23542",
+        "title:executionbeforememorydiagnosingmemoryfailuresinvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23795",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T00:11:45.101132+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "persistentplanarmemoryforvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2610.23795",
+        "title:persistentplanarmemoryforvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2024.3509015",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T00:11:45.656146+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2024.3509015",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "dreamdecentralizedrealtimeasynchronousprobabilistictrajectoryplanningforcollisionfreemultirobotnavigationinclutteredenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2024.3509015",
+        "title:dreamdecentralizedrealtimeasynchronousprobabilistictrajectoryplanningforcollisionfreemultirobotnavigationinclutteredenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3577049",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T00:11:45.932972+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3577049",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "stableobjectplacementplanningfromcontactpointrobustness",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3577049",
+        "title:stableobjectplacementplanningfromcontactpointrobustness"
+      ]
     }
   ]
 }
