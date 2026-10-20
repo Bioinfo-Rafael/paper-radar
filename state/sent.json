@@ -26314,6 +26314,146 @@
         "arxiv:2610.26287",
         "title:roboticphotographysystembasedonvisionlanguageactionmodel"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25949",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T08:12:02.633676+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ordergptgenerationorderasalearnablemodelingchoice",
+      "identity_keys": [
+        "arxiv:2610.25949",
+        "title:ordergptgenerationorderasalearnablemodelingchoice"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26801",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T08:12:03.032633+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "miseenvideofinegrained3dcontrolformultishotvideogeneration",
+      "identity_keys": [
+        "arxiv:2610.26801",
+        "title:miseenvideofinegrained3dcontrolformultishotvideogeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26022",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T08:12:03.358557+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "framegrpoincentivizingvideoreasoningviamultiframerolloutsandtemporalcredit",
+      "identity_keys": [
+        "arxiv:2610.26022",
+        "title:framegrpoincentivizingvideoreasoningviamultiframerolloutsandtemporalcredit"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26323",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T08:12:48.677370+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Transactions on Machine Learning Research (TMLR), September 2026",
+      "title_key": "triscoreposthocoutofdistributiondetectionwithenergyboundaryprobesandtransformconsistency",
+      "identity_keys": [
+        "arxiv:2610.26323",
+        "title:triscoreposthocoutofdistributiondetectionwithenergyboundaryprobesandtransformconsistency"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26342",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T08:12:49.051314+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vibetrainingbenchdatatrainerharnesscodesignforiterativesystemimprovement",
+      "identity_keys": [
+        "arxiv:2610.26342",
+        "title:vibetrainingbenchdatatrainerharnesscodesignforiterativesystemimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26828",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T08:12:49.826571+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentworldmodelinthewildcomputeruseagentenvironmentsynthesis",
+      "identity_keys": [
+        "arxiv:2610.26828",
+        "title:agentworldmodelinthewildcomputeruseagentenvironmentsynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26844",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T08:12:49.963546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anygoalonworldmodelgeneralizationbeyondexpertrollouts",
+      "identity_keys": [
+        "arxiv:2610.26844",
+        "title:anygoalonworldmodelgeneralizationbeyondexpertrollouts"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25959",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T08:12:50.167801+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedworld200ktowardembodiedworldagentsviaembodiedplanningdatasetandinteractiveworldmodels",
+      "identity_keys": [
+        "arxiv:2610.25959",
+        "title:embodiedworld200ktowardembodiedworldagentsviaembodiedplanningdatasetandinteractiveworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22816",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T08:12:50.481160+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "firmwmstatefactorizedfactualinterventionalrecurrentmodelingforrewardfreevisualplanning",
+      "identity_keys": [
+        "arxiv:2609.22816",
+        "title:firmwmstatefactorizedfactualinterventionalrecurrentmodelingforrewardfreevisualplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2024.3492386",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T08:12:50.903745+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2024.3492386",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "topogeometricallydistinctpathcomputationusingneighborhoodaugmentedgraphanditsapplicationtopathplanningforatetheredrobotin3d",
+      "identity_keys": [
+        "doi:10.1109/tro.2024.3492386",
+        "title:topogeometricallydistinctpathcomputationusingneighborhoodaugmentedgraphanditsapplicationtopathplanningforatetheredrobotin3d"
+      ]
     }
   ]
 }
