@@ -26609,6 +26609,90 @@
         "arxiv:2610.25970",
         "title:globegeometryledonlinebehavioralearlyexitviaunitspheretrajectories"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23529",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T23:34:02.609758+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "predictingoutofdistributiongeneralizationofneuraloperatorsviaobservablespectralerrordecomposition",
+      "identity_keys": [
+        "arxiv:2609.23529",
+        "title:predictingoutofdistributiongeneralizationofneuraloperatorsviaobservablespectralerrordecomposition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23435",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T23:34:03.709967+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "toolaugmentedonpolicydistillationforllmdomainadaptationinsequencebasedomicstasks",
+      "identity_keys": [
+        "arxiv:2609.23435",
+        "title:toolaugmentedonpolicydistillationforllmdomainadaptationinsequencebasedomicstasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23356",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T23:34:04.254115+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "identitycontinuityinlongtermembodiedairelationshipsfromagentspecificidentityrepresentationtoidentitycontinuityappraisal",
+      "identity_keys": [
+        "arxiv:2609.23356",
+        "title:identitycontinuityinlongtermembodiedairelationshipsfromagentspecificidentityrepresentationtoidentitycontinuityappraisal"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23578",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T23:34:04.704153+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "arwamavisualconditionedagentreadyworldactionmodelforroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2609.23578",
+        "title:arwamavisualconditionedagentreadyworldactionmodelforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23731",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T23:34:05.163699+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "marginalcalibrationdoesnotcomposehiddendependenceinmodularrobotnavigation",
+      "identity_keys": [
+        "arxiv:2609.23731",
+        "title:marginalcalibrationdoesnotcomposehiddendependenceinmodularrobotnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26860",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T23:34:05.625283+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "openvlharnessrealworldvisualagentictoolusewithmultimodalmemory",
+      "identity_keys": [
+        "arxiv:2610.26860",
+        "title:openvlharnessrealworldvisualagentictoolusewithmultimodalmemory"
+      ]
     }
   ]
 }
