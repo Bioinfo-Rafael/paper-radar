@@ -26539,6 +26539,76 @@
         "arxiv:2609.22854",
         "title:smolstmacompactvisionlanguageactionmodelwithrecurrentmemorythatpersists"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26554",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T14:14:51.907850+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "betamemlearningtorememberachangingworldforembodiedagents",
+      "identity_keys": [
+        "arxiv:2610.26554",
+        "title:betamemlearningtorememberachangingworldforembodiedagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22684",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T14:14:52.253713+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "statememsinglestateresidualmemorywithadaptiveinferenceforvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2609.22684",
+        "title:statememsinglestateresidualmemorywithadaptiveinferenceforvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25981",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T14:14:52.414248+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frvlaimplicitforcereasoningvlaforcontactrichmanipulation",
+      "identity_keys": [
+        "arxiv:2610.25981",
+        "title:frvlaimplicitforcereasoningvlaforcontactrichmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3605261",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T14:14:52.604148+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3605261",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "integrationofrobotandscenekinematicsforsequentialmobilemanipulationplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3605261",
+        "title:integrationofrobotandscenekinematicsforsequentialmobilemanipulationplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25970",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T14:14:52.956976+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "globegeometryledonlinebehavioralearlyexitviaunitspheretrajectories",
+      "identity_keys": [
+        "arxiv:2610.25970",
+        "title:globegeometryledonlinebehavioralearlyexitviaunitspheretrajectories"
+      ]
     }
   ]
 }
