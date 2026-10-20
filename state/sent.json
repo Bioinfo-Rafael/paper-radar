@@ -26173,6 +26173,147 @@
         "doi:10.1109/tro.2025.3577049",
         "title:stableobjectplacementplanningfromcontactpointrobustness"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3767308.3836106",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T04:12:53.001467+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "leapacceleratingodebaseddiffusionsamplingwithoptimallinearleaps",
+      "identity_keys": [
+        "arxiv:2610.25918",
+        "doi:10.1145/3767308.3836106",
+        "title:leapacceleratingodebaseddiffusionsamplingwithoptimallinearleaps"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24233",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T04:12:53.160252+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "censoredflowmatchingforsynthetictimetoeventgeneration",
+      "identity_keys": [
+        "arxiv:2610.24233",
+        "title:censoredflowmatchingforsynthetictimetoeventgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25929",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T04:12:53.519897+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "omnigroundstrengtheningomnimodaltemporalgroundingviaattentionconsistencytraining",
+      "identity_keys": [
+        "arxiv:2610.25929",
+        "title:omnigroundstrengtheningomnimodaltemporalgroundingviaattentionconsistencytraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26695",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T04:12:53.952759+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicaltokenmergingwithrecursiveautoencodersforunsupervisedgrammarinduction",
+      "identity_keys": [
+        "arxiv:2610.26695",
+        "title:hierarchicaltokenmergingwithrecursiveautoencodersforunsupervisedgrammarinduction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26618",
+      "category": "ml",
+      "first_sent_at": "2026-10-20T04:13:39.551560+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "globaltimeawareconditioninggtcamechanismfortimeawarepediatricsleeprepresentationlearning",
+      "identity_keys": [
+        "arxiv:2610.26618",
+        "title:globaltimeawareconditioninggtcamechanismfortimeawarepediatricsleeprepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26855",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T04:13:40.320445+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ropediaw0scalinglocomanipulationworldmodelsacrossembodimentswithhumanexperience",
+      "identity_keys": [
+        "arxiv:2610.26855",
+        "title:ropediaw0scalinglocomanipulationworldmodelsacrossembodimentswithhumanexperience"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26757",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T04:13:40.480198+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "simulationpriorsforrapidadaptationinmodelbasedrlforautonomousracing",
+      "identity_keys": [
+        "arxiv:2610.26757",
+        "title:simulationpriorsforrapidadaptationinmodelbasedrlforautonomousracing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23133",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T04:13:40.710156+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aquacapatrainingfreeunderwaterembodiedagentwithcodeaspolicy",
+      "identity_keys": [
+        "arxiv:2609.23133",
+        "title:aquacapatrainingfreeunderwaterembodiedagentwithcodeaspolicy"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.22798",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T04:13:40.882349+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "expertplaycontouringcontrolfasterthandemonstrationplanningfromslowexpertandfastplay",
+      "identity_keys": [
+        "arxiv:2609.22798",
+        "title:expertplaycontouringcontrolfasterthandemonstrationplanningfromslowexpertandfastplay"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26287",
+      "category": "frontier",
+      "first_sent_at": "2026-10-20T04:13:41.557504+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboticphotographysystembasedonvisionlanguageactionmodel",
+      "identity_keys": [
+        "arxiv:2610.26287",
+        "title:roboticphotographysystembasedonvisionlanguageactionmodel"
+      ]
     }
   ]
 }
