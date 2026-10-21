@@ -27131,6 +27131,90 @@
         "arxiv:2609.23371",
         "title:machineinterpretableinformationcompilingdocumentsintosearchableandreadableprotocolstates"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.15.758594",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-21T23:49:39.209571+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.15.758594",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "locoflowlocalcontextflowmatchingforsinglecelldynamicsandfateinference",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.15.758594",
+        "title:locoflowlocalcontextflowmatchingforsinglecelldynamicsandfateinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25187",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T23:49:40.214536+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "xplannereventstructuredtaskplanningforembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2609.25187",
+        "title:xplannereventstructuredtaskplanningforembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28074",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T23:49:40.343595+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "slotjepaobjectstructuredpredictioninterfacesforlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.28074",
+        "title:slotjepaobjectstructuredpredictioninterfacesforlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31717",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T23:49:40.790953+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "panofusepanoramaenhancedvisionlanguageactionlearningwithdecoupledsemanticgeometricrouting",
+      "identity_keys": [
+        "arxiv:2609.31717",
+        "title:panofusepanoramaenhancedvisionlanguageactionlearningwithdecoupledsemanticgeometricrouting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27999",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T23:49:41.029350+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "matrixgame40harnessingvideomodelsforrealtimeplayablegameworlds",
+      "identity_keys": [
+        "arxiv:2610.27999",
+        "title:matrixgame40harnessingvideomodelsforrealtimeplayablegameworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27797",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T23:50:26.196511+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardagenticaiforthe6gphysicallayerfromalgorithmdiscoverytoverifiedbasebandsilicon",
+      "identity_keys": [
+        "arxiv:2610.27797",
+        "title:towardagenticaiforthe6gphysicallayerfromalgorithmdiscoverytoverifiedbasebandsilicon"
+      ]
     }
   ]
 }
