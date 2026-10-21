@@ -27046,6 +27046,91 @@
         "doi:10.1109/tro.2026.3744509",
         "title:uniconflowaunifiedconstrainedflowmatchingframeworkforcertifiedmotionplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.10.09.757904",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-21T14:30:27.625506+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.09.757904",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "mofirevealsdynamicmultiomicscoordinationduringcellfateprogression",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.09.757904",
+        "doi:10.64898/2026.10.09.757904",
+        "title:mofirevealsdynamicmultiomicscoordinationduringcellfateprogression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28578",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T14:30:28.617773+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sagea15fromlonghorizonexecutiontoscientificexplorationwithcapabilitycomposition",
+      "identity_keys": [
+        "arxiv:2610.28578",
+        "title:sagea15fromlonghorizonexecutiontoscientificexplorationwithcapabilitycomposition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28483",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T14:30:29.372844+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "exploringtemporalcontextawarephysicalgroundinginlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.28483",
+        "title:exploringtemporalcontextawarephysicalgroundinginlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28286",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T14:30:29.738551+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "localworkglobalprogressaconvergencetheoryofaiagentcollaboration",
+      "identity_keys": [
+        "arxiv:2610.28286",
+        "title:localworkglobalprogressaconvergencetheoryofaiagentcollaboration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23431",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T14:30:30.010379+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hoiblenderblendinglightweightdetectionwithvisionlanguagepriorsforefficienthumanobjectinteractiondetection",
+      "identity_keys": [
+        "arxiv:2609.23431",
+        "title:hoiblenderblendinglightweightdetectionwithvisionlanguagepriorsforefficienthumanobjectinteractiondetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23371",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T14:30:30.357662+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "machineinterpretableinformationcompilingdocumentsintosearchableandreadableprotocolstates",
+      "identity_keys": [
+        "arxiv:2609.23371",
+        "title:machineinterpretableinformationcompilingdocumentsintosearchableandreadableprotocolstates"
+      ]
     }
   ]
 }
