@@ -26932,6 +26932,120 @@
         "arxiv:2609.23894",
         "title:connectingthedotsinagenticaisecurityacrossdimensionalthreattaxonomyevaluationmaturityandopenchallenges"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41587-026-03348-1",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-21T10:52:37.425793+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41587-026-03348-1",
+      "venue": "Nature Biotechnology",
+      "title_key": "deepdynamicalmodelsofsinglecellmultiomicvelocitiespredictlossoffunctionandrescueperturbationsinbcells",
+      "identity_keys": [
+        "doi:10.1038/s41587-026-03348-1",
+        "title:deepdynamicalmodelsofsinglecellmultiomicvelocitiespredictlossoffunctionandrescueperturbationsinbcells"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1158/1538-7755.disp26-b010",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-21T10:52:38.035481+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1158/1538-7755.disp26-b010",
+      "venue": "Cancer Epidemiology, Biomarkers &amp; Prevention",
+      "title_key": "abstractb010evolutionaryreconstructionofcrisprprogrammableregulatorycircuitsrevealsgenetherapyvulnerabilitiesinrecurrentglioblastoma",
+      "identity_keys": [
+        "doi:10.1158/1538-7755.disp26-b010",
+        "s2:9499995a22e05d850862410eefe531fa977ec9e5",
+        "title:abstractb010evolutionaryreconstructionofcrisprprogrammableregulatorycircuitsrevealsgenetherapyvulnerabilitiesinrecurrentglioblastoma"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.23499715",
+      "category": "ml",
+      "first_sent_at": "2026-10-21T10:52:38.623471+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.23499715",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "useradaptivegenerationofgenerativeaisystemsaframeworkforgeneratingpersonalizedgenerativeartificialintelligencefromindividualuserrequirements",
+      "identity_keys": [
+        "doi:10.5281/zenodo.23499715",
+        "openalex:w7223010878",
+        "title:useradaptivegenerationofgenerativeaisystemsaframeworkforgeneratingpersonalizedgenerativeartificialintelligencefromindividualuserrequirements"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28011",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T10:52:39.203844+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "knowingwhentostopthinkingadissectionofexpectedfreeenergyasatesttimecomputecontrollerforlatentworldmodelplanning",
+      "identity_keys": [
+        "arxiv:2610.28011",
+        "title:knowingwhentostopthinkingadissectionofexpectedfreeenergyasatesttimecomputecontrollerforlatentworldmodelplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27917",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T10:52:40.101492+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eventsynceventdrivenmemoryupdatesforhistorydependentmanipulation",
+      "identity_keys": [
+        "arxiv:2610.27917",
+        "title:eventsynceventdrivenmemoryupdatesforhistorydependentmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28354",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T10:52:43.169372+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sagent20spatialreasoningwithageneralcodingagent",
+      "identity_keys": [
+        "arxiv:2610.28354",
+        "title:sagent20spatialreasoningwithageneralcodingagent"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3734325",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T10:52:43.354339+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3734325",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "lectplightweightandefficientcooperativetrajectoryplanningformulticavatunsignalizedintersections",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3734325",
+        "title:lectplightweightandefficientcooperativetrajectoryplanningformulticavatunsignalizedintersections"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3744509",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T10:52:43.558439+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3744509",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "uniconflowaunifiedconstrainedflowmatchingframeworkforcertifiedmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3744509",
+        "title:uniconflowaunifiedconstrainedflowmatchingframeworkforcertifiedmotionplanning"
+      ]
     }
   ]
 }
