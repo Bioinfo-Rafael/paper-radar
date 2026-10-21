@@ -26693,6 +26693,147 @@
         "arxiv:2610.26860",
         "title:openvlharnessrealworldvisualagentictoolusewithmultimodalmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27719",
+      "category": "ml",
+      "first_sent_at": "2026-10-21T04:02:32.202659+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pushpullattentionalanchoringfordiffusionconcepterasure",
+      "identity_keys": [
+        "arxiv:2610.27719",
+        "title:pushpullattentionalanchoringfordiffusionconcepterasure"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27563",
+      "category": "ml",
+      "first_sent_at": "2026-10-21T04:02:32.389399+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "activepilotsamplingformultifidelityestimationinstochasticoptimization",
+      "identity_keys": [
+        "arxiv:2610.27563",
+        "title:activepilotsamplingformultifidelityestimationinstochasticoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27710",
+      "category": "ml",
+      "first_sent_at": "2026-10-21T04:02:32.570164+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "privacyaccountingforempiricaldenoisers",
+      "identity_keys": [
+        "arxiv:2610.27710",
+        "title:privacyaccountingforempiricaldenoisers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27619",
+      "category": "ml",
+      "first_sent_at": "2026-10-21T04:02:33.189543+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "divideandconquerneuralbayesestimationforspatialandspatiotemporalpointprocessmodels",
+      "identity_keys": [
+        "arxiv:2610.27619",
+        "title:divideandconquerneuralbayesestimationforspatialandspatiotemporalpointprocessmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28410",
+      "category": "ml",
+      "first_sent_at": "2026-10-21T04:02:33.593327+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "amultiagentframeworkforautomatedmachinelearningwithevidencebasedplanningformedicalimageanalysis",
+      "identity_keys": [
+        "arxiv:2610.28410",
+        "title:amultiagentframeworkforautomatedmachinelearningwithevidencebasedplanningformedicalimageanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3805622.3810632",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T04:02:34.459635+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lookaheadrbudgetawaretoolretrievalviaexecutioncentricplanning",
+      "identity_keys": [
+        "arxiv:2609.35811",
+        "doi:10.1145/3805622.3810632",
+        "title:lookaheadrbudgetawaretoolretrievalviaexecutioncentricplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23881",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T04:02:34.628164+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "motionjepapreventingtemporalfeaturecollapsebycapturingvisualchangesinlatentspace",
+      "identity_keys": [
+        "arxiv:2609.23881",
+        "title:motionjepapreventingtemporalfeaturecollapsebycapturingvisualchangesinlatentspace"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23656",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T04:02:34.928845+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wolfworldmodelguidedlidarexplorationwithpredictivefrontiers",
+      "identity_keys": [
+        "arxiv:2609.23656",
+        "title:wolfworldmodelguidedlidarexplorationwithpredictivefrontiers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23944",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T04:02:35.366210+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "topologyinformedvisualpromptingforvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2609.23944",
+        "title:topologyinformedvisualpromptingforvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/robotics15100203",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T04:02:35.573524+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/robotics15100203",
+      "venue": "Robotics",
+      "title_key": "visionlanguageactionmodelsforroboticmanipulationacriticalreviewofdesignchoicesevidenceandemergingfrontiers",
+      "identity_keys": [
+        "doi:10.3390/robotics15100203",
+        "title:visionlanguageactionmodelsforroboticmanipulationacriticalreviewofdesignchoicesevidenceandemergingfrontiers"
+      ]
     }
   ]
 }
