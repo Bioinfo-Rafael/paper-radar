@@ -26834,6 +26834,104 @@
         "doi:10.3390/robotics15100203",
         "title:visionlanguageactionmodelsforroboticmanipulationacriticalreviewofdesignchoicesevidenceandemergingfrontiers"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.15.759426",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-21T08:13:52.300168+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.15.759426",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "optimaltransportrevealsunresolvedcellsinsinglecellmultiomics",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.15.759426",
+        "title:optimaltransportrevealsunresolvedcellsinsinglecellmultiomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27812",
+      "category": "ml",
+      "first_sent_at": "2026-10-21T08:13:53.310922+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "slimoointerpretablemultiobjectiveevolutionarysearchforllmdepthpruning",
+      "identity_keys": [
+        "arxiv:2610.27812",
+        "title:slimoointerpretablemultiobjectiveevolutionarysearchforllmdepthpruning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28562",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T08:13:54.170357+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "optscientistautomateddiscoveryofoptimizationlaws",
+      "identity_keys": [
+        "arxiv:2610.28562",
+        "title:optscientistautomateddiscoveryofoptimizationlaws"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28589",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T08:13:54.534296+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticroborlbringingcodingagentposttrainingtoagenticrobotics",
+      "identity_keys": [
+        "arxiv:2610.28589",
+        "title:agenticroborlbringingcodingagentposttrainingtoagenticrobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23414",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T08:13:54.720609+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "emoposevisionlanguagemodelguidedemotionawaregesturegenerationforhumanoidrobots",
+      "identity_keys": [
+        "arxiv:2609.23414",
+        "title:emoposevisionlanguagemodelguidedemotionawaregesturegenerationforhumanoidrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28346",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T08:13:55.120366+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autodirectorleveragingmultiagentcollaborationforautonomousvideoediting",
+      "identity_keys": [
+        "arxiv:2610.28346",
+        "title:autodirectorleveragingmultiagentcollaborationforautonomousvideoediting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.23894",
+      "category": "frontier",
+      "first_sent_at": "2026-10-21T08:13:55.306939+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "connectingthedotsinagenticaisecurityacrossdimensionalthreattaxonomyevaluationmaturityandopenchallenges",
+      "identity_keys": [
+        "arxiv:2609.23894",
+        "title:connectingthedotsinagenticaisecurityacrossdimensionalthreattaxonomyevaluationmaturityandopenchallenges"
+      ]
     }
   ]
 }
