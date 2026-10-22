@@ -27509,6 +27509,76 @@
         "arxiv:2609.24456",
         "title:conduitanexperiencedataplanefordistributedreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29357",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T14:29:14.368335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memorycentriccontinuallearningforaiagents",
+      "identity_keys": [
+        "arxiv:2610.29357",
+        "title:memorycentriccontinuallearningforaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29308",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T14:29:14.666122+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "llmbasedexogenousworldmodelingfordynamicscheduling",
+      "identity_keys": [
+        "arxiv:2610.29308",
+        "title:llmbasedexogenousworldmodelingfordynamicscheduling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29560",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T14:29:15.026984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromvlmplannerstoroboticagentsselfevolvingharnessesforhistorydependentmanipulation",
+      "identity_keys": [
+        "arxiv:2610.29560",
+        "title:fromvlmplannerstoroboticagentsselfevolvingharnessesforhistorydependentmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25186",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T14:30:00.582408+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frompatternrecognizerstopersonalizedcompanionsasurveyoflargelanguagemodelsinmentalhealth",
+      "identity_keys": [
+        "arxiv:2609.25186",
+        "title:frompatternrecognizerstopersonalizedcompanionsasurveyoflargelanguagemodelsinmentalhealth"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25286",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T14:30:00.798674+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learnedenterprisedatacomprehensioncompressionandroutingfordataagents",
+      "identity_keys": [
+        "arxiv:2609.25286",
+        "title:learnedenterprisedatacomprehensioncompressionandroutingfordataagents"
+      ]
     }
   ]
 }
