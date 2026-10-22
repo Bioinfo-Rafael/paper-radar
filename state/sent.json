@@ -27425,6 +27425,90 @@
         "arxiv:2609.24417",
         "title:armattentionwithroutedmemoryforlearnablesparsecontrol"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29875",
+      "category": "ml",
+      "first_sent_at": "2026-10-22T10:53:56.454741+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stochasticnonlinearitiesimproveuncertaintyestimation",
+      "identity_keys": [
+        "arxiv:2610.29875",
+        "title:stochasticnonlinearitiesimproveuncertaintyestimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30120",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T10:53:57.107590+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "alpsvisualstateencodersforworldmodels",
+      "identity_keys": [
+        "arxiv:2610.30120",
+        "title:alpsvisualstateencodersforworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29435",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T10:53:57.274924+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eventsnotpixelswhereworldmodelsgetthereturnwrong",
+      "identity_keys": [
+        "arxiv:2610.29435",
+        "title:eventsnotpixelswhereworldmodelsgetthereturnwrong"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29329",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T10:54:00.227415+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "planfirstactlaterstreamingreasoningforexecutablememoryinrobotcontrol",
+      "identity_keys": [
+        "arxiv:2610.29329",
+        "title:planfirstactlaterstreamingreasoningforexecutablememoryinrobotcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25337",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T10:54:00.766504+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "clarificationisnotcorrectionllmsfailtoletgo",
+      "identity_keys": [
+        "arxiv:2609.25337",
+        "title:clarificationisnotcorrectionllmsfailtoletgo"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24456",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T10:54:00.936540+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "conduitanexperiencedataplanefordistributedreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.24456",
+        "title:conduitanexperiencedataplanefordistributedreinforcementlearning"
+      ]
     }
   ]
 }
