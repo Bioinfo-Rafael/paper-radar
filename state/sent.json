@@ -27579,6 +27579,77 @@
         "arxiv:2609.25286",
         "title:learnedenterprisedatacomprehensioncompressionandroutingfordataagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30125",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T23:52:38.710946+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physicalworldincontextphysicscalibrationforworldmodels",
+      "identity_keys": [
+        "arxiv:2610.30125",
+        "title:physicalworldincontextphysicscalibrationforworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26425",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T23:52:38.908916+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "quantwmtemporallyconsistent2bitkvcachequantizationforvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2609.26425",
+        "title:quantwmtemporallyconsistent2bitkvcachequantizationforvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26314",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T23:52:39.140059+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "triworldbenchatriviewconsistencyperspectiveonembodiedworldmodels",
+      "identity_keys": [
+        "arxiv:2609.26314",
+        "title:triworldbenchatriviewconsistencyperspectiveonembodiedworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27067",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T23:52:39.409767+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chipmemverificationgroundedmemoryforedaagents",
+      "identity_keys": [
+        "arxiv:2609.27067",
+        "title:chipmemverificationgroundedmemoryforedaagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aies.v9i3.43253",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T23:52:39.721646+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thedisciplinarylanguagetransferproblemhowpsychologicalvocabularyproducesgovernancefailuresinaiagentdeployment",
+      "identity_keys": [
+        "arxiv:2609.26562",
+        "doi:10.1609/aies.v9i3.43253",
+        "title:thedisciplinarylanguagetransferproblemhowpsychologicalvocabularyproducesgovernancefailuresinaiagentdeployment"
+      ]
     }
   ]
 }
