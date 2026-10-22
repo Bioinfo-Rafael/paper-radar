@@ -27215,6 +27215,76 @@
         "arxiv:2610.27797",
         "title:towardagenticaiforthe6gphysicallayerfromalgorithmdiscoverytoverifiedbasebandsilicon"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728375",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T04:01:08.166079+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728375",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "fomfieldofviewawaregraphneurallearningforminmaxmultirobotpatrolpathplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728375",
+        "title:fomfieldofviewawaregraphneurallearningforminmaxmultirobotpatrolpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-03354-y",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T04:01:08.700673+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-03354-y",
+      "venue": "Nature",
+      "title_key": "conservationplanningshouldfollowanimalclocks",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-03354-y",
+        "title:conservationplanningshouldfollowanimalclocks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3577010",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T04:01:08.878953+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3577010",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "optimalontheflyrouteplanningwithrichtransportationrequests",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3577010",
+        "title:optimalontheflyrouteplanningwithrichtransportationrequests"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728307",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T04:01:09.056253+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728307",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "planningmultiagentinspectiontourswithenergyconstraintsandseparationrequirements",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728307",
+        "title:planningmultiagentinspectiontourswithenergyconstraintsandseparationrequirements"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.87",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T04:01:09.215867+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.87",
+      "venue": "ACL",
+      "title_key": "takinvcexpressivezeroshotvoiceconversionviaadaptivehybridcontentencodingandenhancedtimbremodeling",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.87",
+        "title:takinvcexpressivezeroshotvoiceconversionviaadaptivehybridcontentencodingandenhancedtimbremodeling"
+      ]
     }
   ]
 }
