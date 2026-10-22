@@ -27285,6 +27285,146 @@
         "doi:10.18653/v1/2025.acl-long.87",
         "title:takinvcexpressivezeroshotvoiceconversionviaadaptivehybridcontentencodingandenhancedtimbremodeling"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29086",
+      "category": "ml",
+      "first_sent_at": "2026-10-22T08:16:12.034245+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "internalguidanceasasamplingmethodfortilteddiffusionmodels",
+      "identity_keys": [
+        "arxiv:2610.29086",
+        "title:internalguidanceasasamplingmethodfortilteddiffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29815",
+      "category": "ml",
+      "first_sent_at": "2026-10-22T08:16:12.458018+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neurocodeceegguidedlatentdomaingenerativemodelforhighfidelitytargetspeakerextraction",
+      "identity_keys": [
+        "arxiv:2610.29815",
+        "title:neurocodeceegguidedlatentdomaingenerativemodelforhighfidelitytargetspeakerextraction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29571",
+      "category": "ml",
+      "first_sent_at": "2026-10-22T08:16:13.053248+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "implicitfeaturereweightingforlabelfreegraphgeneralization",
+      "identity_keys": [
+        "arxiv:2610.29571",
+        "title:implicitfeaturereweightingforlabelfreegraphgeneralization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29965",
+      "category": "ml",
+      "first_sent_at": "2026-10-22T08:16:13.368397+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cordconflictawareoptimizationforjointrlanddistillationinagents",
+      "identity_keys": [
+        "arxiv:2610.29965",
+        "title:cordconflictawareoptimizationforjointrlanddistillationinagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29473",
+      "category": "ml",
+      "first_sent_at": "2026-10-22T08:16:13.808680+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asymmetrytunnelingbeyondadaptiveequivariancerelaxation",
+      "identity_keys": [
+        "arxiv:2610.29473",
+        "title:asymmetrytunnelingbeyondadaptiveequivariancerelaxation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29331",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T08:16:14.530891+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frompromptstoposteriorscanllmagentsperformbayesianinferenceincontext",
+      "identity_keys": [
+        "arxiv:2610.29331",
+        "title:frompromptstoposteriorscanllmagentsperformbayesianinferenceincontext"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30136",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T08:16:15.083145+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticworldactionmodels",
+      "identity_keys": [
+        "arxiv:2610.30136",
+        "title:agenticworldactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.29244",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T08:16:15.291317+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "failuremodesofvisionlanguagemodelsforhumanactivityunderstandinginthermalhri",
+      "identity_keys": [
+        "arxiv:2610.29244",
+        "title:failuremodesofvisionlanguagemodelsforhumanactivityunderstandinginthermalhri"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25376",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T08:16:15.716641+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlaquantbenchclosedloopevaluationofposttrainingquantizationforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2609.25376",
+        "title:vlaquantbenchclosedloopevaluationofposttrainingquantizationforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.24417",
+      "category": "frontier",
+      "first_sent_at": "2026-10-22T08:16:16.200742+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "armattentionwithroutedmemoryforlearnablesparsecontrol",
+      "identity_keys": [
+        "arxiv:2609.24417",
+        "title:armattentionwithroutedmemoryforlearnablesparsecontrol"
+      ]
     }
   ]
 }
