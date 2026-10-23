@@ -27650,6 +27650,175 @@
         "doi:10.1609/aies.v9i3.43253",
         "title:thedisciplinarylanguagetransferproblemhowpsychologicalvocabularyproducesgovernancefailuresinaiagentdeployment"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.16.759724",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-23T04:06:35.295109+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.16.759724",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "geosinkhornflowgeometryawareflowmatchingforperturbationconditioneddynamicsinsinglecelldataphenoscapes",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.16.759724",
+        "title:geosinkhornflowgeometryawareflowmatchingforperturbationconditioneddynamicsinsinglecelldataphenoscapes"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s12933-026-03309-7",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-23T04:06:35.501359+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s12933-026-03309-7",
+      "venue": "Cardiovascular diabetology",
+      "title_key": "unravelingthedualroleoffibroblastgrowthfactor5fgf5incardiorenaldiseasesthroughmultiomicscausalinference",
+      "identity_keys": [
+        "doi:10.1186/s12933-026-03309-7",
+        "pubmed:42907830",
+        "title:unravelingthedualroleoffibroblastgrowthfactor5fgf5incardiorenaldiseasesthroughmultiomicscausalinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31215",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T04:06:36.385692+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trion1unifyinglanguageproteinsequenceandstructurewithdiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.31215",
+        "title:trion1unifyinglanguageproteinsequenceandstructurewithdiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31600",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T04:06:36.798726+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sympformerinertialattentionblocksfromdampedhamiltoniandynamicsonspacesofprobabilitymeasures",
+      "identity_keys": [
+        "arxiv:2610.31600",
+        "title:sympformerinertialattentionblocksfromdampedhamiltoniandynamicsonspacesofprobabilitymeasures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31251",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T04:06:37.201363+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "quanasuncertaintyawarereuseofearliersearchesforqueryefficientneuralarchitecturesearch",
+      "identity_keys": [
+        "arxiv:2610.31251",
+        "title:quanasuncertaintyawarereuseofearliersearchesforqueryefficientneuralarchitecturesearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31293",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T04:06:37.645182+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recallgsgeometrygroundedrecallforonlinesemanticgaussiansplatting",
+      "identity_keys": [
+        "arxiv:2610.31293",
+        "title:recallgsgeometrygroundedrecallforonlinesemanticgaussiansplatting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30880",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T04:06:37.992691+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "oneteachermanyviewsreducingreferencesensitivityinonpolicyselfdistillation",
+      "identity_keys": [
+        "arxiv:2610.30880",
+        "title:oneteachermanyviewsreducingreferencesensitivityinonpolicyselfdistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31617",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T04:06:38.849395+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffdreamercouplingworldmodelswithdifferentiablesimulationforagilequadrotorcontrol",
+      "identity_keys": [
+        "arxiv:2610.31617",
+        "title:diffdreamercouplingworldmodelswithdifferentiablesimulationforagilequadrotorcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31518",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T04:06:39.493488+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scopescenegraphconstructionoptimizedbyplanerrorcorrectionforrobotlongtermplanningdatasets",
+      "identity_keys": [
+        "arxiv:2610.31518",
+        "title:scopescenegraphconstructionoptimizedbyplanerrorcorrectionforrobotlongtermplanningdatasets"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31656",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T04:06:40.465969+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mettamemoryenhancedtesttimeadaptationformetareinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.31656",
+        "title:mettamemoryenhancedtesttimeadaptationformetareinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26480",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T04:06:40.650874+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "featlensfeatureguideddynamiccodegraphconstructionandretrievalforrepositorylevelcodegeneration",
+      "identity_keys": [
+        "arxiv:2609.26480",
+        "title:featlensfeatureguideddynamiccodegraphconstructionandretrievalforrepositorylevelcodegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26796",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T04:06:40.861231+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flashdllmioawarekvcachingandparalleldecodingforfastmemoryefficientdiffusionllms",
+      "identity_keys": [
+        "arxiv:2609.26796",
+        "title:flashdllmioawarekvcachingandparalleldecodingforfastmemoryefficientdiffusionllms"
+      ]
     }
   ]
 }
