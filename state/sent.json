@@ -28071,6 +28071,118 @@
       "identity_keys": [
         "title:towardsmemoryandtimeefficientbackpropagationfortrainingspikingneuralnetworks"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.21.689689",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-23T23:41:18.310627+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.21.689689",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "celltrajectoryinferencebasedonoptimaltransportandamechanisticstochasticgeneexpressionmodel",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.21.689689",
+        "title:celltrajectoryinferencebasedonoptimaltransportandamechanisticstochasticgeneexpressionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.13982",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T23:41:18.781419+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "primefrequencyawareunifiedpruningandmergingformoecompression",
+      "identity_keys": [
+        "arxiv:2610.13982",
+        "title:primefrequencyawareunifiedpruningandmergingformoecompression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31750",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T23:41:18.967529+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dimensionspecificimbalanceandanadaptivehybridlabelstrategyformultitaskaffectivestaterecognitioninclassroomvideo",
+      "identity_keys": [
+        "arxiv:2609.31750",
+        "title:dimensionspecificimbalanceandanadaptivehybridlabelstrategyformultitaskaffectivestaterecognitioninclassroomvideo"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31760",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T23:41:19.531371+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatstopsrecursiveselfimprovementinroboticslessonsfrom123roundsofagenticskilldiscovery",
+      "identity_keys": [
+        "arxiv:2609.31760",
+        "title:whatstopsrecursiveselfimprovementinroboticslessonsfrom123roundsofagenticskilldiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31494",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T23:41:19.947844+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentvqaaunifiedbenchmarkforagenticvisualunderstanding",
+      "identity_keys": [
+        "arxiv:2610.31494",
+        "title:agentvqaaunifiedbenchmarkforagenticvisualunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-03303-9",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T23:41:20.336553+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-03303-9",
+      "venue": "Nature",
+      "title_key": "memorystaysstronginoldagewhenthisbrainenzymeisactive",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-03303-9",
+        "title:memorystaysstronginoldagewhenthisbrainenzymeisactive"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31097",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T23:41:20.523834+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "corecursivesemanticselfextensionamathematicalfoundationforopenendedintelligence",
+      "identity_keys": [
+        "arxiv:2610.31097",
+        "title:corecursivesemanticselfextensionamathematicalfoundationforopenendedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28554",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T23:42:05.825492+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pististechnicalreport",
+      "identity_keys": [
+        "arxiv:2609.28554",
+        "title:pististechnicalreport"
+      ]
     }
   ]
 }
