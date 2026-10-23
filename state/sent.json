@@ -27819,6 +27819,118 @@
         "arxiv:2609.26796",
         "title:flashdllmioawarekvcachingandparalleldecodingforfastmemoryefficientdiffusionllms"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31275",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T08:19:49.907009+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningrobotbehaviorpriorsfromnonroboticsyntheticdata",
+      "identity_keys": [
+        "arxiv:2610.31275",
+        "title:learningrobotbehaviorpriorsfromnonroboticsyntheticdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30815",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T08:19:50.247493+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "xvgaeahierarchicalvariationalgraphautoencoderforexchangeablegraphs",
+      "identity_keys": [
+        "arxiv:2610.30815",
+        "title:xvgaeahierarchicalvariationalgraphautoencoderforexchangeablegraphs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30941",
+      "category": "ml",
+      "first_sent_at": "2026-10-23T08:19:51.040190+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pairpreferencealignedintentretrievalforpremiumpeoplerecommendationatlinkedin",
+      "identity_keys": [
+        "arxiv:2610.30941",
+        "title:pairpreferencealignedintentretrievalforpremiumpeoplerecommendationatlinkedin"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30814",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T08:19:51.809097+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "drilltrainingworldmodelstoimprovepoliciesnotpredictpixels",
+      "identity_keys": [
+        "arxiv:2610.30814",
+        "title:drilltrainingworldmodelstoimprovepoliciesnotpredictpixels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31427",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T08:19:52.214090+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fastharnessexperiencedrivenreviewschedulingforvisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2610.31427",
+        "title:fastharnessexperiencedrivenreviewschedulingforvisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31162",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T08:19:52.384091+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "histeve10harnessinghumaninterfacevlaagentsforopenworldgames",
+      "identity_keys": [
+        "arxiv:2610.31162",
+        "title:histeve10harnessinghumaninterfacevlaagentsforopenworldgames"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.26467",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T08:19:52.637894+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generalistsactspecialistsintervenemodularstageselectivereinforcementlearningforvisionlanguageactionmanipulation",
+      "identity_keys": [
+        "arxiv:2609.26467",
+        "title:generalistsactspecialistsintervenemodularstageselectivereinforcementlearningforvisionlanguageactionmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.25927",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T08:19:53.293501+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "informedmaskingstructureawareperturbationforreinforcementlearningindiffusionlargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.25927",
+        "title:informedmaskingstructureawareperturbationforreinforcementlearningindiffusionlargelanguagemodels"
+      ]
     }
   ]
 }
