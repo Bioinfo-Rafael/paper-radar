@@ -28002,6 +28002,75 @@
         "doi:10.18653/v1/2024.acl-long.215",
         "title:timearenashapingefficientmultitaskinglanguageagentsinatimeawaresimulation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15772",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T14:12:18.259560+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rsiporecursiveselfimprovingpolicyoptimizationforagenticreinforcementlearningviaskillpolicycoevolution",
+      "identity_keys": [
+        "arxiv:2610.15772",
+        "title:rsiporecursiveselfimprovingpolicyoptimizationforagenticreinforcementlearningviaskillpolicycoevolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31194",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T14:12:18.634029+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "insidejepafrompredictiontorelationalgroundinginlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.31194",
+        "title:insidejepafrompredictiontorelationalgroundinginlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31166",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T14:12:18.952570+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memorybeforegoalroleofprehistorymemoryforhumanoidlocomanipulation",
+      "identity_keys": [
+        "arxiv:2610.31166",
+        "title:memorybeforegoalroleofprehistorymemoryforhumanoidlocomanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.48",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T14:13:04.574423+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.48",
+      "venue": "ACL",
+      "title_key": "tokenwiseinfluentialtrainingdataretrievalforlargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.48",
+        "title:tokenwiseinfluentialtrainingdataretrievalforlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "title:towardsmemoryandtimeefficientbackpropagationfortrainingspikingneuralnetworks",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T14:13:04.714012+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ICCV",
+      "title_key": "towardsmemoryandtimeefficientbackpropagationfortrainingspikingneuralnetworks",
+      "identity_keys": [
+        "title:towardsmemoryandtimeefficientbackpropagationfortrainingspikingneuralnetworks"
+      ]
     }
   ]
 }
