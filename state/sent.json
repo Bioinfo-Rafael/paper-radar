@@ -27931,6 +27931,77 @@
         "arxiv:2609.25927",
         "title:informedmaskingstructureawareperturbationforreinforcementlearningindiffusionlargelanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.24944",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T10:44:54.108597+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.24944",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "epitowardsapersistentselfimprovingagentforautonomousresearch",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.24944",
+        "openalex:w7223019410",
+        "title:epitowardsapersistentselfimprovingagentforautonomousresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30851",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T10:44:54.267545+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptforscienceamultiagentsystemforselfevolvingscientificoptimization",
+      "identity_keys": [
+        "arxiv:2610.30851",
+        "title:adaptforscienceamultiagentsystemforselfevolvingscientificoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31113",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T10:44:54.553418+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canaicodesignstructuresanaiagentforearlystagestructuraldesign",
+      "identity_keys": [
+        "arxiv:2610.31113",
+        "title:canaicodesignstructuresanaiagentforearlystagestructuraldesign"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.69",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T10:44:54.763539+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.69",
+      "venue": "ACL",
+      "title_key": "taslcontinualdialogstatetrackingviataskskilllocalizationandconsolidation",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.69",
+        "title:taslcontinualdialogstatetrackingviataskskilllocalizationandconsolidation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.215",
+      "category": "frontier",
+      "first_sent_at": "2026-10-23T10:44:54.971097+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.215",
+      "venue": "ACL",
+      "title_key": "timearenashapingefficientmultitaskinglanguageagentsinatimeawaresimulation",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.215",
+        "title:timearenashapingefficientmultitaskinglanguageagentsinatimeawaresimulation"
+      ]
     }
   ]
 }
