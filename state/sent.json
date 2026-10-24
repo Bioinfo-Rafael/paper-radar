@@ -28183,6 +28183,133 @@
         "arxiv:2609.28554",
         "title:pististechnicalreport"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.281559.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-24T04:04:57.558434+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.281559.125",
+      "venue": "Genome Research",
+      "title_key": "flexibleandscalableinferenceofspatiallyvaryingcorrelationinspatialtranscriptomicswithspcorr",
+      "identity_keys": [
+        "doi:10.1101/gr.281559.125",
+        "title:flexibleandscalableinferenceofspatiallyvaryingcorrelationinspatialtranscriptomicswithspcorr"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkaf1270",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-24T04:04:57.776925+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkaf1270",
+      "venue": "Nucleic Acids Research",
+      "title_key": "cellinkintegratingsinglecellmultiomicsdatawithweakfeaturelinkageandimbalancedcellpopulations",
+      "identity_keys": [
+        "doi:10.1093/nar/gkaf1270",
+        "title:cellinkintegratingsinglecellmultiomicsdatawithweakfeaturelinkageandimbalancedcellpopulations"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkaf1114",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-24T04:04:58.002549+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkaf1114",
+      "venue": "Nucleic Acids Research",
+      "title_key": "seaversion40amajorexpansionandupdateofthesuperenhancerarchive",
+      "identity_keys": [
+        "doi:10.1093/nar/gkaf1114",
+        "title:seaversion40amajorexpansionandupdateofthesuperenhancerarchive"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s10142-026-02087-5",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-24T04:04:58.439278+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s10142-026-02087-5",
+      "venue": "Functional & integrative genomics",
+      "title_key": "schgnnasinglecellgeneregulatorynetworkinferencemethodbasedonheuristicgraphneuralnetworks",
+      "identity_keys": [
+        "doi:10.1007/s10142-026-02087-5",
+        "pubmed:42918896",
+        "title:schgnnasinglecellgeneregulatorynetworkinferencemethodbasedonheuristicgraphneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/robotics15110213",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T04:04:59.340751+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/robotics15110213",
+      "venue": "Robotics",
+      "title_key": "machinelearningandintelligentoptimizationapproachesforroboticmanipulatorkinematicmodelingandmotionplanningacomprehensivesystematicreview",
+      "identity_keys": [
+        "doi:10.3390/robotics15110213",
+        "title:machinelearningandintelligentoptimizationapproachesforroboticmanipulatorkinematicmodelingandmotionplanningacomprehensivesystematicreview"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.patcog.2026.115184",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T04:04:59.576780+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.patcog.2026.115184",
+      "venue": "Pattern Recognition",
+      "title_key": "mitigatingstateactiondistributionshiftsinofflinereinforcementlearningviaimplicitstatestateplanning",
+      "identity_keys": [
+        "doi:10.1016/j.patcog.2026.115184",
+        "title:mitigatingstateactiondistributionshiftsinofflinereinforcementlearningviaimplicitstatestateplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.82",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T04:04:59.907528+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.82",
+      "venue": "EMNLP",
+      "title_key": "towardstoolusealignmentoflargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.82",
+        "title:towardstoolusealignmentoflargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2025.acl-long.33",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T04:05:00.081861+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2025.acl-long.33",
+      "venue": "ACL",
+      "title_key": "trimllmprogressivelayerdroppingfordomainspecificllms",
+      "identity_keys": [
+        "doi:10.18653/v1/2025.acl-long.33",
+        "title:trimllmprogressivelayerdroppingfordomainspecificllms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.26",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T04:05:00.257669+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.26",
+      "venue": "ACL",
+      "title_key": "ttmrememoryaugmenteddocumentlevelrelationextraction",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.26",
+        "title:ttmrememoryaugmenteddocumentlevelrelationextraction"
+      ]
     }
   ]
 }
