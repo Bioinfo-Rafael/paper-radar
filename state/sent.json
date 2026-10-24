@@ -28380,6 +28380,91 @@
         "arxiv:2609.28771",
         "title:agentmemorywithepisodicretrievalforfinancialdecisionmaking"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-026-03272-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-24T10:05:53.629288+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-026-03272-x",
+      "venue": "Nature methods",
+      "title_key": "benchmarkingsegmentationmethodsforspatialtranscriptomics",
+      "identity_keys": [
+        "doi:10.1038/s41592-026-03272-x",
+        "pubmed:42919952",
+        "title:benchmarkingsegmentationmethodsforspatialtranscriptomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28378",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T10:05:54.499679+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "forgetmimicmotionunlearningforreinforcementlearninghumanoidcontrol",
+      "identity_keys": [
+        "arxiv:2609.28378",
+        "title:forgetmimicmotionunlearningforreinforcementlearninghumanoidcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27747",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T10:05:54.695871+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lesslanguagemorelatentsannotationefficientvlasfordriving",
+      "identity_keys": [
+        "arxiv:2609.27747",
+        "title:lesslanguagemorelatentsannotationefficientvlasfordriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30933",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T10:05:55.108281+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reflectporeflectionguidedpolicyoptimizationforlonghorizonllmagents",
+      "identity_keys": [
+        "arxiv:2610.30933",
+        "title:reflectporeflectionguidedpolicyoptimizationforlonghorizonllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31284",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T10:05:55.549602+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "retrievalaugmentedonlinetextualmemoryforepisodicmemoryvideoquestionanswering",
+      "identity_keys": [
+        "arxiv:2610.31284",
+        "title:retrievalaugmentedonlinetextualmemoryforepisodicmemoryvideoquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27461",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T10:05:55.822152+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "invisibleinspacevisibleintimemotionvisioncaptchaagainstguiagents",
+      "identity_keys": [
+        "arxiv:2609.27461",
+        "title:invisibleinspacevisibleintimemotionvisioncaptchaagainstguiagents"
+      ]
     }
   ]
 }
