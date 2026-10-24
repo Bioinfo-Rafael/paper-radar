@@ -28310,6 +28310,76 @@
         "doi:10.18653/v1/2024.acl-long.26",
         "title:ttmrememoryaugmenteddocumentlevelrelationextraction"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30953",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T07:53:46.691008+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "measuringthereasoningactioncouplingindrivingvisionlanguageactionmodelsthroughcounterfactuals",
+      "identity_keys": [
+        "arxiv:2610.30953",
+        "title:measuringthereasoningactioncouplingindrivingvisionlanguageactionmodelsthroughcounterfactuals"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31355",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T07:53:47.085835+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "muffinasharedmemorybufferforasynchronousaiagents",
+      "identity_keys": [
+        "arxiv:2610.31355",
+        "title:muffinasharedmemorybufferforasynchronousaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30963",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T07:53:47.229633+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "redenceahybridagenticanddecisionmodelframeworkforrapidevidencegroundeddetectionofmodernsocialengineeringscams",
+      "identity_keys": [
+        "arxiv:2610.30963",
+        "title:redenceahybridagenticanddecisionmodelframeworkforrapidevidencegroundeddetectionofmodernsocialengineeringscams"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-00996-x",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T07:53:47.362997+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-00996-x",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "authorcorrectionkernelapproximationusinganalogueinmemorycomputing",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-00996-x",
+        "title:authorcorrectionkernelapproximationusinganalogueinmemorycomputing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28771",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T07:54:32.734046+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentmemorywithepisodicretrievalforfinancialdecisionmaking",
+      "identity_keys": [
+        "arxiv:2609.28771",
+        "title:agentmemorywithepisodicretrievalforfinancialdecisionmaking"
+      ]
     }
   ]
 }
