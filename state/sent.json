@@ -28535,6 +28535,146 @@
         "arxiv:2609.28737",
         "title:policycomplexityreactiontimeandboundedrationalityinreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.04.14.718485",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-24T22:49:06.531398+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.04.14.718485",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "inferringdivisionassociatedstochasticityfromtimeseriessinglecelltranscriptomes",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.04.14.718485",
+        "title:inferringdivisionassociatedstochasticityfromtimeseriessinglecelltranscriptomes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02230",
+      "category": "ml",
+      "first_sent_at": "2026-10-24T22:49:07.270792+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "featuretrackinginphysicsinformedneuralnetworksviajointoptimizationofnonlineardeformationmanifoldsapplicationtoshocks",
+      "identity_keys": [
+        "arxiv:2610.02230",
+        "title:featuretrackinginphysicsinformedneuralnetworksviajointoptimizationofnonlineardeformationmanifoldsapplicationtoshocks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30501",
+      "category": "ml",
+      "first_sent_at": "2026-10-24T22:49:07.596228+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tosolvebileveloptimizationwithnonconvexlowerlevelsweneedsecondorderstationarity",
+      "identity_keys": [
+        "arxiv:2609.30501",
+        "title:tosolvebileveloptimizationwithnonconvexlowerlevelsweneedsecondorderstationarity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30492",
+      "category": "ml",
+      "first_sent_at": "2026-10-24T22:49:07.815459+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "breakinghomogeneitydiversifyingpersonasetsforcreativellmoutputs",
+      "identity_keys": [
+        "arxiv:2609.30492",
+        "title:breakinghomogeneitydiversifyingpersonasetsforcreativellmoutputs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30605",
+      "category": "ml",
+      "first_sent_at": "2026-10-24T22:49:08.133225+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "probabilisticrobustnessdrivenuniversaladversarialperturbationswithexplainabilityagainstdeepreinforcementlearningbasedintrusiondetectionsystem",
+      "identity_keys": [
+        "arxiv:2609.30605",
+        "title:probabilisticrobustnessdrivenuniversaladversarialperturbationswithexplainabilityagainstdeepreinforcementlearningbasedintrusiondetectionsystem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30541",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T22:49:08.961497+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autoresearchatproductionscalefailuremodesandamultiagentframework",
+      "identity_keys": [
+        "arxiv:2609.30541",
+        "title:autoresearchatproductionscalefailuremodesandamultiagentframework"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30450",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T22:49:09.197553+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lensdesigneraselfimprovingagentforopticallensdesign",
+      "identity_keys": [
+        "arxiv:2609.30450",
+        "title:lensdesigneraselfimprovingagentforopticallensdesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30436",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T22:49:09.779806+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "waltlearningworldmodelalignedlatenttrajectoriesforautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.30436",
+        "title:waltlearningworldmodelalignedlatenttrajectoriesforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30428",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T22:49:10.549659+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "activelyresolvingcontextualuncertaintyforunderspecifiedtasksinnaturallanguage",
+      "identity_keys": [
+        "arxiv:2609.30428",
+        "title:activelyresolvingcontextualuncertaintyforunderspecifiedtasksinnaturallanguage"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30495",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T22:49:10.882291+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memoryawaremultisensorperceptionforefficientandsafenavigationindynamicenvironments",
+      "identity_keys": [
+        "arxiv:2609.30495",
+        "title:memoryawaremultisensorperceptionforefficientandsafenavigationindynamicenvironments"
+      ]
     }
   ]
 }
