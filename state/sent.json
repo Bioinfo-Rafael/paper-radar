@@ -28465,6 +28465,76 @@
         "arxiv:2609.27461",
         "title:invisibleinspacevisibleintimemotionvisioncaptchaagainstguiagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27526",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T13:14:28.042609+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "navprobeevidencegroundedreasoningwithactivememoryretrievalforzeroshotnavigation",
+      "identity_keys": [
+        "arxiv:2609.27526",
+        "title:navprobeevidencegroundedreasoningwithactivememoryretrievalforzeroshotnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.27741",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T13:14:28.343123+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "limitingkernelqbridgingshortandlonghorizons",
+      "identity_keys": [
+        "arxiv:2609.27741",
+        "title:limitingkernelqbridgingshortandlonghorizons"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28709",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T13:14:28.482809+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "oamppiocclusionawaremodelpredictivepathintegralcontrolforuavflight",
+      "identity_keys": [
+        "arxiv:2609.28709",
+        "title:oamppiocclusionawaremodelpredictivepathintegralcontrolforuavflight"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28798",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T13:14:28.629254+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "occ4mobjectcentric4dmemoryforspatiotemporalreasoninginlonghorizonmanipulation",
+      "identity_keys": [
+        "arxiv:2609.28798",
+        "title:occ4mobjectcentric4dmemoryforspatiotemporalreasoninginlonghorizonmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.28737",
+      "category": "frontier",
+      "first_sent_at": "2026-10-24T13:14:28.844478+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "policycomplexityreactiontimeandboundedrationalityinreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.28737",
+        "title:policycomplexityreactiontimeandboundedrationalityinreinforcementlearning"
+      ]
     }
   ]
 }
