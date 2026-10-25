@@ -28744,6 +28744,90 @@
         "doi:10.18653/v1/2024.emnlp-main.234",
         "title:whencontextleadsbutparametricmemoryfollowsinlargelanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkaf138",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-25T08:02:46.664331+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkaf138",
+      "venue": "Nucleic Acids Research",
+      "title_key": "deeplearningbasedcellspecificgeneregulatorynetworksinferredfromsinglecellmultiomedata",
+      "identity_keys": [
+        "doi:10.1093/nar/gkaf138",
+        "title:deeplearningbasedcellspecificgeneregulatorynetworksinferredfromsinglecellmultiomedata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/d41586-026-01618-1",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T08:02:47.870090+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/d41586-026-01618-1",
+      "venue": "Nature",
+      "title_key": "memoryontrialthenewscienceofwhentotrusteyewitnesstestimony",
+      "identity_keys": [
+        "doi:10.1038/d41586-026-01618-1",
+        "title:memoryontrialthenewscienceofwhentotrusteyewitnesstestimony"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728313",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T08:02:48.538121+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728313",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "aterrainadaptiveepsilonconstraintmpcforuneventerrainkinodynamicplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728313",
+        "title:aterrainadaptiveepsilonconstraintmpcforuneventerrainkinodynamicplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-00983-2",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T08:02:48.797812+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-00983-2",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "preservingandcombiningknowledgeinroboticlifelongreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-00983-2",
+        "title:preservingandcombiningknowledgeinroboticlifelongreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01027-5",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T08:02:49.629153+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01027-5",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "deepspectralcomponentfilteringasafoundationmodelforspectralanalysisdemonstratedinmetabolicprofiling",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01027-5",
+        "title:deepspectralcomponentfilteringasafoundationmodelforspectralanalysisdemonstratedinmetabolicprofiling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30594",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T08:02:49.889833+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hugollmsaswholebodypolicycodedesignersforhumanoidlocomanipulation",
+      "identity_keys": [
+        "arxiv:2609.30594",
+        "title:hugollmsaswholebodypolicycodedesignersforhumanoidlocomanipulation"
+      ]
     }
   ]
 }
