@@ -28828,6 +28828,20 @@
         "arxiv:2609.30594",
         "title:hugollmsaswholebodypolicycodedesignersforhumanoidlocomanipulation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00949-w",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T10:26:15.114854+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00949-w",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "deeperevaluationofasinglecellfoundationmodel",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00949-w",
+        "title:deeperevaluationofasinglecellfoundationmodel"
+      ]
     }
   ]
 }
