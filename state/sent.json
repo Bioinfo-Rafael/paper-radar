@@ -28675,6 +28675,75 @@
         "arxiv:2609.30495",
         "title:memoryawaremultisensorperceptionforefficientandsafenavigationindynamicenvironments"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08820",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T04:00:40.439504+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "taskorientedkeylayerkvcommunicationforefficientlatentmultiagentcollaboration",
+      "identity_keys": [
+        "arxiv:2610.08820",
+        "title:taskorientedkeylayerkvcommunicationforefficientlatentmultiagentcollaboration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.30604",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T04:00:40.622483+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thehardpartcomesaftersearchbenchmarkingwebagentsonsynthesizingorganizinganddisplayingknowledge",
+      "identity_keys": [
+        "arxiv:2609.30604",
+        "title:thehardpartcomesaftersearchbenchmarkingwebagentsonsynthesizingorganizinganddisplayingknowledge"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.acl-long.133",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T04:00:41.327877+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.acl-long.133",
+      "venue": "ACL",
+      "title_key": "unlockingdatafreelowbitquantizationwithmatrixdecompositionforkvcachecompression",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.acl-long.133",
+        "title:unlockingdatafreelowbitquantizationwithmatrixdecompositionforkvcachecompression"
+      ]
+    },
+    {
+      "canonical_id": "title:vlpvisionlanguageplanningforautonomousdriving",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T04:00:41.711635+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "CVPR",
+      "title_key": "vlpvisionlanguageplanningforautonomousdriving",
+      "identity_keys": [
+        "title:vlpvisionlanguageplanningforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/v1/2024.emnlp-main.234",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T04:00:41.876366+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.18653/v1/2024.emnlp-main.234",
+      "venue": "EMNLP",
+      "title_key": "whencontextleadsbutparametricmemoryfollowsinlargelanguagemodels",
+      "identity_keys": [
+        "doi:10.18653/v1/2024.emnlp-main.234",
+        "title:whencontextleadsbutparametricmemoryfollowsinlargelanguagemodels"
+      ]
     }
   ]
 }
