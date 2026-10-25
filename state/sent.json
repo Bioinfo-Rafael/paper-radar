@@ -28856,6 +28856,161 @@
         "doi:10.1038/s42256-025-01054-2",
         "title:modelbasedreinforcementlearningforultrasounddrivenautonomousmicrorobots"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.03.05.709897",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-25T22:57:03.965638+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.03.05.709897",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "quantumhamiltonianbasedgenerativemodelingofsinglecelltranscriptomicsforgeneregulatorynetworkinference",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.03.05.709897",
+        "title:quantumhamiltonianbasedgenerativemodelingofsinglecelltranscriptomicsforgeneregulatorynetworkinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31933",
+      "category": "ml",
+      "first_sent_at": "2026-10-25T22:57:04.593927+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "analoganisotropicnativelatentoperatorguidanceforsolvinginverseproblems",
+      "identity_keys": [
+        "arxiv:2609.31933",
+        "title:analoganisotropicnativelatentoperatorguidanceforsolvinginverseproblems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31128",
+      "category": "ml",
+      "first_sent_at": "2026-10-25T22:57:05.082904+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frametheadversaryastructureawareattackmethodology",
+      "identity_keys": [
+        "arxiv:2609.31128",
+        "title:frametheadversaryastructureawareattackmethodology"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31383",
+      "category": "ml",
+      "first_sent_at": "2026-10-25T22:57:05.478197+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "guidingendtoenddrivingmodelswithendpointconstrainedtrajectoryoptimization",
+      "identity_keys": [
+        "arxiv:2609.31383",
+        "title:guidingendtoenddrivingmodelswithendpointconstrainedtrajectoryoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31983",
+      "category": "ml",
+      "first_sent_at": "2026-10-25T22:57:05.686910+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "understandingthesubspacestabilizationofthehessianandgradientcovariancematrix",
+      "identity_keys": [
+        "arxiv:2609.31983",
+        "title:understandingthesubspacestabilizationofthehessianandgradientcovariancematrix"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32018",
+      "category": "ml",
+      "first_sent_at": "2026-10-25T22:57:05.923513+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "representationlearningforexactpreimages",
+      "identity_keys": [
+        "arxiv:2609.32018",
+        "title:representationlearningforexactpreimages"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32069",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T22:57:06.505926+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "findsomethingyoucantdoagenticrealworldreinforcementlearningforselfimprovingvlamodels",
+      "identity_keys": [
+        "arxiv:2609.32069",
+        "title:findsomethingyoucantdoagenticrealworldreinforcementlearningforselfimprovingvlamodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.29357",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T22:57:06.701238+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.29357",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "memorycentriccontinuallearningforaiagents",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.29357",
+        "openalex:w7223208999",
+        "title:memorycentriccontinuallearningforaiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31197",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T22:57:06.918468+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "alfanactivelearningframeworkforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2609.31197",
+        "title:alfanactivelearningframeworkforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31281",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T22:57:07.273988+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mawammultiagentworldactionmodelfortesttimeplanning",
+      "identity_keys": [
+        "arxiv:2609.31281",
+        "title:mawammultiagentworldactionmodelfortesttimeplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31904",
+      "category": "frontier",
+      "first_sent_at": "2026-10-25T22:57:52.752709+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gtvlatargetconditionedtraceguidanceforgeneralizableroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2609.31904",
+        "title:gtvlatargetconditionedtraceguidanceforgeneralizableroboticmanipulation"
+      ]
     }
   ]
 }
