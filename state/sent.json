@@ -29011,6 +29011,161 @@
         "arxiv:2609.31904",
         "title:gtvlatargetconditionedtraceguidanceforgeneralizableroboticmanipulation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1631/jzus.b2500424",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-26T04:02:50.028476+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1631/jzus.b2500424",
+      "venue": "Journal of Zhejiang University. Science. B",
+      "title_key": "integrativegraphdeeplearningwithdirectionaldecodingforrobustgeneregulatorynetworkinferencefromsinglecelltranscriptomics",
+      "identity_keys": [
+        "doi:10.1631/jzus.b2500424",
+        "pubmed:42928020",
+        "title:integrativegraphdeeplearningwithdirectionaldecodingforrobustgeneregulatorynetworkinferencefromsinglecelltranscriptomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32059",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T04:02:50.455572+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "conceptacupuncturistanefficientandpreciseconcepterasuremethodfordiffusionmodelsviasparseautoencoders",
+      "identity_keys": [
+        "arxiv:2610.32059",
+        "title:conceptacupuncturistanefficientandpreciseconcepterasuremethodfordiffusionmodelsviasparseautoencoders"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32056",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T04:02:50.607020+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graphforwarddistributionmatchingformolecularinversedesign",
+      "identity_keys": [
+        "arxiv:2609.32056",
+        "title:graphforwarddistributionmatchingformolecularinversedesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31009",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T04:02:51.015174+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "g2ptqimprovingllmposttrainingquantizationwithgeneralizedgradientcompensation",
+      "identity_keys": [
+        "arxiv:2609.31009",
+        "title:g2ptqimprovingllmposttrainingquantizationwithgeneralizedgradientcompensation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32501",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T04:03:36.368747+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "drivefinetuningviadatacontributionanddiversityawareweightingwithpriorregularization",
+      "identity_keys": [
+        "arxiv:2610.32501",
+        "title:drivefinetuningviadatacontributionanddiversityawareweightingwithpriorregularization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32451",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T04:03:36.505246+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "digomdisentangledinteractiongraphsforoutcomepredictioninmultimodalhealthcare",
+      "identity_keys": [
+        "arxiv:2610.32451",
+        "title:digomdisentangledinteractiongraphsforoutcomepredictioninmultimodalhealthcare"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32910",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T04:03:37.109560+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recommenderregretforimprovingregularisedrlestimationwithbanditsandmcts",
+      "identity_keys": [
+        "arxiv:2610.32910",
+        "title:recommenderregretforimprovingregularisedrlestimationwithbanditsandmcts"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32448",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T04:03:37.327169+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "poseidonscalingtrainingenvironmentsforscientificagentsfromcoderepositories",
+      "identity_keys": [
+        "arxiv:2610.32448",
+        "title:poseidonscalingtrainingenvironmentsforscientificagentsfromcoderepositories"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31965",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T04:03:40.425705+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "snipfinegrainedsymbolicnumericalalignmentforsymbolicregression",
+      "identity_keys": [
+        "arxiv:2609.31965",
+        "title:snipfinegrainedsymbolicnumericalalignmentforsymbolicregression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32657",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T04:03:40.677661+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dtjepalearningtopredictfuturerepresentationsfordecisionmaking",
+      "identity_keys": [
+        "arxiv:2610.32657",
+        "title:dtjepalearningtopredictfuturerepresentationsfordecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31133",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T04:03:40.830089+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atomworldmemmemoryrestoredworldstatesforlonghorizonatomisticevolution",
+      "identity_keys": [
+        "arxiv:2609.31133",
+        "title:atomworldmemmemoryrestoredworldstatesforlonghorizonatomisticevolution"
+      ]
     }
   ]
 }
