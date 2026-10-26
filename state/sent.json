@@ -29292,6 +29292,76 @@
         "arxiv:2609.31874",
         "title:countermemworldmodelverifiedcounterfactualmemoryforlanguageagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32093",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T11:57:55.464141+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gameboyworldsatestbedforselfimprovementinembodiedvideogames",
+      "identity_keys": [
+        "arxiv:2609.32093",
+        "title:gameboyworldsatestbedforselfimprovementinembodiedvideogames"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32177",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T11:57:56.181416+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "06adaptivestreamsofthoughtinaunifiedvisionlanguageworldmodel",
+      "identity_keys": [
+        "arxiv:2610.32177",
+        "title:06adaptivestreamsofthoughtinaunifiedvisionlanguageworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31868",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T11:57:56.401493+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "metrowmlonghorizonlatentplanningwithrealisablesubgoals",
+      "identity_keys": [
+        "arxiv:2609.31868",
+        "title:metrowmlonghorizonlatentplanningwithrealisablesubgoals"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32094",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T11:57:56.927486+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tttinvlamodelsexploringtrainingwithhumandemonstrations",
+      "identity_keys": [
+        "arxiv:2610.32094",
+        "title:tttinvlamodelsexploringtrainingwithhumandemonstrations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32881",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T11:57:57.506698+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ngramrlacceleratingrlposttrainingforstructuredgenerationviarolloutawarengramspeculativedecoding",
+      "identity_keys": [
+        "arxiv:2610.32881",
+        "title:ngramrlacceleratingrlposttrainingforstructuredgenerationviarolloutawarengramspeculativedecoding"
+      ]
     }
   ]
 }
