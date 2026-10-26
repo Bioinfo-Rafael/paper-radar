@@ -29166,6 +29166,132 @@
         "arxiv:2609.31133",
         "title:atomworldmemmemoryrestoredworldstatesforlonghorizonatomisticevolution"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32285",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T08:27:50.144716+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trialbytracebenchmarkingaiagentharnessesforreliabilityandfailureattribution",
+      "identity_keys": [
+        "arxiv:2610.32285",
+        "title:trialbytracebenchmarkingaiagentharnessesforreliabilityandfailureattribution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32650",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T08:27:50.325811+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wlseqvaesequencebasedgraphgenerationusingvariationalautoencodersandweisfeilerlemancolors",
+      "identity_keys": [
+        "arxiv:2610.32650",
+        "title:wlseqvaesequencebasedgraphgenerationusingvariationalautoencodersandweisfeilerlemancolors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31960",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T08:27:50.502617+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, Proceedings of Machine Learning Research, Vol. 337, pp. 2244-2273, 2026",
+      "title_key": "modelagnosticonlinecertificatedrivencalibrationfortimeseriesforecastingunderdistributionshift",
+      "identity_keys": [
+        "arxiv:2609.31960",
+        "title:modelagnosticonlinecertificatedrivencalibrationfortimeseriesforecastingunderdistributionshift"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32582",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T08:27:51.078214+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "batchednn4dvaraperformanthybridmodelframeworkfortheintegratedforecastingsystem",
+      "identity_keys": [
+        "arxiv:2610.32582",
+        "title:batchednn4dvaraperformanthybridmodelframeworkfortheintegratedforecastingsystem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32195",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T08:27:54.702816+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "principiatesttimehypothesestoprincipleconstructionforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.32195",
+        "title:principiatesttimehypothesestoprincipleconstructionforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32208",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T08:27:55.031836+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dovlasknowtheywillfailinterpretablesuccessandfailurepatternsinphysicalaisystems",
+      "identity_keys": [
+        "arxiv:2610.32208",
+        "title:dovlasknowtheywillfailinterpretablesuccessandfailurepatternsinphysicalaisystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32554",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T08:27:55.249823+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hgwmhierarchicalgraphguidedworldmodelforzeroshotobjectnavigationviagraphmatching",
+      "identity_keys": [
+        "arxiv:2610.32554",
+        "title:hgwmhierarchicalgraphguidedworldmodelforzeroshotobjectnavigationviagraphmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31938",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T08:27:56.123935+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cacheawareconv3dloweringacrossembeddedworldmodeldecoders",
+      "identity_keys": [
+        "arxiv:2609.31938",
+        "title:cacheawareconv3dloweringacrossembeddedworldmodeldecoders"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.31874",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T08:27:56.399644+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "countermemworldmodelverifiedcounterfactualmemoryforlanguageagents",
+      "identity_keys": [
+        "arxiv:2609.31874",
+        "title:countermemworldmodelverifiedcounterfactualmemoryforlanguageagents"
+      ]
     }
   ]
 }
