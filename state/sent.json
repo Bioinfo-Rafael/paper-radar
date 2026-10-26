@@ -29362,6 +29362,149 @@
         "arxiv:2610.32881",
         "title:ngramrlacceleratingrlposttrainingforstructuredgenerationviarolloutawarengramspeculativedecoding"
       ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.23635849",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T16:04:42.433849+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.23635849",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "depositionbased3dgenerativemodelingaframeworkforthreedimensionalobjectgenerationthroughgasphaseparticledepositionlocaladsorptionandbranchinggrowth",
+      "identity_keys": [
+        "doi:10.5281/zenodo.23635849",
+        "openalex:w7223558150",
+        "title:depositionbased3dgenerativemodelingaframeworkforthreedimensionalobjectgenerationthroughgasphaseparticledepositionlocaladsorptionandbranchinggrowth"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37495",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T16:04:42.641657+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "motionmaestromaskedtokenizationforunifiedmotiongeneration",
+      "identity_keys": [
+        "arxiv:2609.37495",
+        "title:motionmaestromaskedtokenizationforunifiedmotiongeneration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.23631499",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T16:04:42.868567+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.23631499",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "externalspaceparticipatorythreedimensionalgenerativemodelsaframeworkforactivespatialcomputationin3dgeneration",
+      "identity_keys": [
+        "doi:10.5281/zenodo.23631499",
+        "openalex:w7223568803",
+        "title:externalspaceparticipatorythreedimensionalgenerativemodelsaframeworkforactivespatialcomputationin3dgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33020",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T16:04:43.296409+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "residualdiffusionimplicitmodels",
+      "identity_keys": [
+        "arxiv:2609.33020",
+        "title:residualdiffusionimplicitmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32690",
+      "category": "ml",
+      "first_sent_at": "2026-10-26T16:04:43.717392+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mmopdtowardsonemorebottleneckbetweenperceptionandreasoning",
+      "identity_keys": [
+        "arxiv:2609.32690",
+        "title:mmopdtowardsonemorebottleneckbetweenperceptionandreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32862",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T16:04:44.527856+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robofoundrysystemaspolicyevolutionforselflearningembodiedagents",
+      "identity_keys": [
+        "arxiv:2609.32862",
+        "title:robofoundrysystemaspolicyevolutionforselflearningembodiedagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32591",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T16:04:45.256770+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkfastplanselectivelyadaptivedeliberationforefficientdatadrivenmpc",
+      "identity_keys": [
+        "arxiv:2609.32591",
+        "title:thinkfastplanselectivelyadaptivedeliberationforefficientdatadrivenmpc"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32681",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T16:04:45.632404+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rcvla4dradargroundedsemanticreasoningandtrajectoryarbitrationforautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.32681",
+        "title:rcvla4dradargroundedsemanticreasoningandtrajectoryarbitrationforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32965",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T16:04:45.872431+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rynnunifytowardsunifiedembodiedbrain",
+      "identity_keys": [
+        "arxiv:2610.32965",
+        "title:rynnunifytowardsunifiedembodiedbrain"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.31113",
+      "category": "frontier",
+      "first_sent_at": "2026-10-26T16:04:46.315593+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.31113",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "canaicodesignstructuresanaiagentforearlystagestructuraldesign",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.31113",
+        "openalex:w7223320879",
+        "title:canaicodesignstructuresanaiagentforearlystagestructuraldesign"
+      ]
     }
   ]
 }
