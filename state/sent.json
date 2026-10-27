@@ -29899,6 +29899,76 @@
         "arxiv:2609.32870",
         "title:counterfactualselfevolvingagentsforevidencegroundedreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35529",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T11:22:43.809932+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldpagerzerostalltieredmemoryforlonghorizonworldmodelsonasingleconsumergpu",
+      "identity_keys": [
+        "arxiv:2610.35529",
+        "title:worldpagerzerostalltieredmemoryforlonghorizonworldmodelsonasingleconsumergpu"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35497",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T11:22:44.240396+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenfinegrainedcreditassignmenthelpsandhurtsmultimodalagenticreinforcementlearningthroughvideoediting",
+      "identity_keys": [
+        "arxiv:2610.35497",
+        "title:whenfinegrainedcreditassignmenthelpsandhurtsmultimodalagenticreinforcementlearningthroughvideoediting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35293",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T11:22:44.441303+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticcitybenchlongitudinalmultimodalobservationsofurbandynamicswithagenticreasoning",
+      "identity_keys": [
+        "arxiv:2610.35293",
+        "title:agenticcitybenchlongitudinalmultimodalobservationsofurbandynamicswithagenticreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32704",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T11:22:44.616722+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cowindowattentionfullcausalcoverageisacollectiveproperty",
+      "identity_keys": [
+        "arxiv:2609.32704",
+        "title:cowindowattentionfullcausalcoverageisacollectiveproperty"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32750",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T11:22:44.789798+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cuasandboxefficientenvironmentsforcomputeruseagentreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.32750",
+        "title:cuasandboxefficientenvironmentsforcomputeruseagentreinforcementlearning"
+      ]
     }
   ]
 }
