@@ -29505,6 +29505,148 @@
         "openalex:w7223320879",
         "title:canaicodesignstructuresanaiagentforearlystagestructuraldesign"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32474",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T00:15:01.446571+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pcsubmaxefficientpromptcompressionviaregularizedsubmodularmaximization",
+      "identity_keys": [
+        "arxiv:2609.32474",
+        "title:pcsubmaxefficientpromptcompressionviaregularizedsubmodularmaximization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32852",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T00:15:01.916415+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "arsmautoregressivestatemachineforagenticreasoningcompression",
+      "identity_keys": [
+        "arxiv:2609.32852",
+        "title:arsmautoregressivestatemachineforagenticreasoningcompression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32928",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T00:15:02.677892+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phenomenongraphjepalabelefficientrepresentationlearningforcontactlesscardiorespiratorysensing",
+      "identity_keys": [
+        "arxiv:2609.32928",
+        "title:phenomenongraphjepalabelefficientrepresentationlearningforcontactlesscardiorespiratorysensing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32886",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T00:15:03.087418+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stratuneadaptiveselectionofrevisionoperatorsforselfevolvingllmskills",
+      "identity_keys": [
+        "arxiv:2609.32886",
+        "title:stratuneadaptiveselectionofrevisionoperatorsforselfevolvingllmskills"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13321-026-01313-3",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T00:15:03.252956+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13321-026-01313-3",
+      "venue": "Journal of Cheminformatics",
+      "title_key": "hierarchicalgenerativemodelingforthedesignofmulticomponentsystems",
+      "identity_keys": [
+        "doi:10.1186/s13321-026-01313-3",
+        "openalex:w7154476643",
+        "pubmed:42864676",
+        "title:hierarchicalgenerativemodelingforthedesignofmulticomponentsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32921",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T00:15:06.112676+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptivelatentcapacityforworldmodels",
+      "identity_keys": [
+        "arxiv:2609.32921",
+        "title:adaptivelatentcapacityforworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23886",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T00:15:06.272677+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evoadselfevolvingautonomousdrivingvialatentworldmodelguidedposthocreflection",
+      "identity_keys": [
+        "arxiv:2610.23886",
+        "title:evoadselfevolvingautonomousdrivingvialatentworldmodelguidedposthocreflection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32837",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T00:15:06.449173+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scanningwhileimaginingascenegraphworldmodelforroboticultrasoundnavigation",
+      "identity_keys": [
+        "arxiv:2609.32837",
+        "title:scanningwhileimaginingascenegraphworldmodelforroboticultrasoundnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32679",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T00:15:06.606538+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theguiisnotthestatediagnosingstatealiasinginguiworldmodels",
+      "identity_keys": [
+        "arxiv:2609.32679",
+        "title:theguiisnotthestatediagnosingstatealiasinginguiworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32698",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T00:15:07.019386+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seesaselfevolvingembodiedsystemviafailureguidedvlapolicyadaptation",
+      "identity_keys": [
+        "arxiv:2609.32698",
+        "title:seesaselfevolvingembodiedsystemviafailureguidedvlapolicyadaptation"
+      ]
     }
   ]
 }
