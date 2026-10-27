@@ -29787,6 +29787,118 @@
         "arxiv:2609.32852",
         "title:arsmautoregressivestatemachineforagenticreasoningcompression"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.22.761021",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-27T08:43:47.198353+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.22.761021",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "sparkbayesianstructurelearningofenhancerbasedgeneregulatorynetworksfromsinglecellmultiomicsdataandpriorknowledge",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.22.761021",
+        "title:sparkbayesianstructurelearningofenhancerbasedgeneregulatorynetworksfromsinglecellmultiomicsdataandpriorknowledge"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35637",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T08:43:47.732752+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seerflearningtoseebeyondfieldsofviewviagenerativeimageregistrationandfusion",
+      "identity_keys": [
+        "arxiv:2610.35637",
+        "title:seerflearningtoseebeyondfieldsofviewviagenerativeimageregistrationandfusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35108",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T08:43:48.078130+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flowgenesisrepresentationdrivenselforganizationofneuralarchitectures",
+      "identity_keys": [
+        "arxiv:2610.35108",
+        "title:flowgenesisrepresentationdrivenselforganizationofneuralarchitectures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35579",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T08:43:48.668846+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "infinitymachineaselfimprovingaiagentforresearch",
+      "identity_keys": [
+        "arxiv:2610.35579",
+        "title:infinitymachineaselfimprovingaiagentforresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35044",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T08:43:49.051173+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "driveunitokaunifiedmultimodaltokenizerfordrivingworldactionmodels",
+      "identity_keys": [
+        "arxiv:2610.35044",
+        "title:driveunitokaunifiedmultimodaltokenizerfordrivingworldactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35636",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T08:43:49.171910+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptforplanningnotjustpredictionoptimistictesttimeworldmodeladaptation",
+      "identity_keys": [
+        "arxiv:2610.35636",
+        "title:adaptforplanningnotjustpredictionoptimistictesttimeworldmodeladaptation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32522",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T08:43:49.520096+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyonddyadicmemoryinteractionawaremultimodalmemorywithadaptiveagenticretrievalformultipartyspokenconversations",
+      "identity_keys": [
+        "arxiv:2609.32522",
+        "title:beyonddyadicmemoryinteractionawaremultimodalmemorywithadaptiveagenticretrievalformultipartyspokenconversations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32870",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T08:44:34.709341+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "counterfactualselfevolvingagentsforevidencegroundedreasoning",
+      "identity_keys": [
+        "arxiv:2609.32870",
+        "title:counterfactualselfevolvingagentsforevidencegroundedreasoning"
+      ]
     }
   ]
 }
