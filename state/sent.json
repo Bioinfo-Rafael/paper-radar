@@ -29969,6 +29969,118 @@
         "arxiv:2609.32750",
         "title:cuasandboxefficientenvironmentsforcomputeruseagentreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33562",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T15:17:42.226125+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "oodgeneralizationasabifurcationproblem",
+      "identity_keys": [
+        "arxiv:2609.33562",
+        "title:oodgeneralizationasabifurcationproblem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33857",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T15:17:42.468043+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pinomtphysicsinformedneuraloptimalmasstransportforbrainfluiddynamics",
+      "identity_keys": [
+        "arxiv:2609.33857",
+        "title:pinomtphysicsinformedneuraloptimalmasstransportforbrainfluiddynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.34021",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T15:17:42.980048+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "positionawarelayerqueriesfortesttimetraininginvisionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2609.34021",
+        "title:positionawarelayerqueriesfortesttimetraininginvisionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33663",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T15:17:44.274083+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liediscoveradaptivesymboliclibraryconstructionforexplicitopenformsymmetrydiscovery",
+      "identity_keys": [
+        "arxiv:2609.33663",
+        "title:liediscoveradaptivesymboliclibraryconstructionforexplicitopenformsymmetrydiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33940",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T15:17:44.803210+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "behavioralmonitoringofjepaworldmodelswithjacobiancentroids",
+      "identity_keys": [
+        "arxiv:2609.33940",
+        "title:behavioralmonitoringofjepaworldmodelswithjacobiancentroids"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33595",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T15:17:45.001671+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondonestepaccuracystateaffinelatenttransitionforreliablevisualplanning",
+      "identity_keys": [
+        "arxiv:2609.33595",
+        "title:beyondonestepaccuracystateaffinelatenttransitionforreliablevisualplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33497",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T15:17:45.198923+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hamiltonianjepaactionconditionedworldmodelswithaninheritedcontrolstate",
+      "identity_keys": [
+        "arxiv:2609.33497",
+        "title:hamiltonianjepaactionconditionedworldmodelswithaninheritedcontrolstate"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33737",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T15:17:45.418612+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "momworldmomentumawarelatentworldmodelforlonghorizonautonomousdriving",
+      "identity_keys": [
+        "arxiv:2609.33737",
+        "title:momworldmomentumawarelatentworldmodelforlonghorizonautonomousdriving"
+      ]
     }
   ]
 }
