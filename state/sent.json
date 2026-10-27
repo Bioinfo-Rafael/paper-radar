@@ -29647,6 +29647,146 @@
         "arxiv:2609.32698",
         "title:seesaselfevolvingembodiedsystemviafailureguidedvlapolicyadaptation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35594",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T04:24:25.959008+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyonddistributionmatchingselfsupervisedrepresentationforcingforfewstepvideogeneration",
+      "identity_keys": [
+        "arxiv:2610.35594",
+        "title:beyonddistributionmatchingselfsupervisedrepresentationforcingforfewstepvideogeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35756",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T04:24:26.333234+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "videdit3dflexible3dgaussianeditingwithvideodiffusion",
+      "identity_keys": [
+        "arxiv:2610.35756",
+        "title:videdit3dflexible3dgaussianeditingwithvideodiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35288",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T04:24:26.739692+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "proofofagentnesstowardsverifyingagentsontheweb",
+      "identity_keys": [
+        "arxiv:2610.35288",
+        "title:proofofagentnesstowardsverifyingagentsontheweb"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35593",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T04:24:27.023174+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sapvitaselfattributingpatchvisiontransformerformedicalimageclassification",
+      "identity_keys": [
+        "arxiv:2610.35593",
+        "title:sapvitaselfattributingpatchvisiontransformerformedicalimageclassification"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35032",
+      "category": "ml",
+      "first_sent_at": "2026-10-27T04:24:27.481141+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autoprlautomatedpathrepresentationlearningviaalearnableviewgenerator",
+      "identity_keys": [
+        "arxiv:2610.35032",
+        "title:autoprlautomatedpathrepresentationlearningviaalearnableviewgenerator"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35252",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T04:24:28.163088+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "labferencebenchmarkingthereasoningactionconnectioninroboticlaboratories",
+      "identity_keys": [
+        "arxiv:2610.35252",
+        "title:labferencebenchmarkingthereasoningactionconnectioninroboticlaboratories"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35385",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T04:24:28.340900+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedlabbenchmarkingembodiedagentsthatacttoknow",
+      "identity_keys": [
+        "arxiv:2610.35385",
+        "title:embodiedlabbenchmarkingembodiedagentsthatacttoknow"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33030",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T04:24:28.821158+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatmustaworldmodeldistinguishforplanning",
+      "identity_keys": [
+        "arxiv:2609.33030",
+        "title:whatmustaworldmodeldistinguishforplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35817",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T04:24:29.152329+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pretrainingknowswhatsimulationteacheshowcompositionalgeneralizationinasimtrainedrobotagent",
+      "identity_keys": [
+        "arxiv:2610.35817",
+        "title:pretrainingknowswhatsimulationteacheshowcompositionalgeneralizationinasimtrainedrobotagent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.32852",
+      "category": "frontier",
+      "first_sent_at": "2026-10-27T04:25:14.615723+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "arsmautoregressivestatemachineforagenticreasoningcompression",
+      "identity_keys": [
+        "arxiv:2609.32852",
+        "title:arsmautoregressivestatemachineforagenticreasoningcompression"
+      ]
     }
   ]
 }
