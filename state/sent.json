@@ -30081,6 +30081,106 @@
         "arxiv:2609.33737",
         "title:momworldmomentumawarelatentworldmodelforlonghorizonautonomousdriving"
       ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fnut.2026.1917718",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-28T00:18:14.227316+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fnut.2026.1917718",
+      "venue": "Frontiers in nutrition",
+      "title_key": "integratedmetabolomicandsinglecellanalysesrevealcrotonylationrelatedepithelialremodelingandsdc4dysregulationinadenomyosis",
+      "identity_keys": [
+        "doi:10.3389/fnut.2026.1917718",
+        "pubmed:42936004",
+        "title:integratedmetabolomicandsinglecellanalysesrevealcrotonylationrelatedepithelialremodelingandsdc4dysregulationinadenomyosis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/biomedicines14102298",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-28T00:18:14.596473+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/biomedicines14102298",
+      "venue": "Biomedicines",
+      "title_key": "recastsinglecellinformedtumourmicroenvironmentprofilingfortranslationalprognosticassessmentinesophagealcancer",
+      "identity_keys": [
+        "doi:10.3390/biomedicines14102298",
+        "pubmed:42940104",
+        "title:recastsinglecellinformedtumourmicroenvironmentprofilingfortranslationalprognosticassessmentinesophagealcancer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33845",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T00:18:15.393170+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "builddontplayselfimprovingllmresearchagentsdevelopahearthstonebattlegroundsaithatrivalstopplayers",
+      "identity_keys": [
+        "arxiv:2610.33845",
+        "title:builddontplayselfimprovingllmresearchagentsdevelopahearthstonebattlegroundsaithatrivalstopplayers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33854",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T00:18:15.785235+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "redriveshapingrepresentationswithworldmodelingforendtoenddriving",
+      "identity_keys": [
+        "arxiv:2609.33854",
+        "title:redriveshapingrepresentationswithworldmodelingforendtoenddriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35494",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T00:18:16.249126+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "enhancingdeepreinforcementlearningforroboticmotionplanningviataskdecomposition",
+      "identity_keys": [
+        "arxiv:2610.35494",
+        "title:enhancingdeepreinforcementlearningforroboticmotionplanningviataskdecomposition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35160",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T00:19:01.816225+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autoenergydesignanllmdrivenagentforautomaticenergysystemdesignoptimization",
+      "identity_keys": [
+        "arxiv:2610.35160",
+        "title:autoenergydesignanllmdrivenagentforautomaticenergysystemdesignoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33485",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T00:19:02.011153+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "discodistributedlongcontextscalingwithgroundingreasoningdisaggregation",
+      "identity_keys": [
+        "arxiv:2609.33485",
+        "title:discodistributedlongcontextscalingwithgroundingreasoningdisaggregation"
+      ]
     }
   ]
 }
