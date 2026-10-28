@@ -30321,6 +30321,133 @@
         "arxiv:2609.34034",
         "title:adptnetadaptivewithprescriptivetimescalesnonlinearssmforsequencemodelling"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37097",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T09:15:20.615804+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tridifnetaunifiedthreetaskdiffusionnetworkforendtoendrgbtperception",
+      "identity_keys": [
+        "arxiv:2610.37097",
+        "title:tridifnetaunifiedthreetaskdiffusionnetworkforendtoendrgbtperception"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37159",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T09:15:20.738555+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physicsguidedflowmatchingagenerativeaiframeworkforglobaltotalelectroncontentforecasting",
+      "identity_keys": [
+        "arxiv:2610.37159",
+        "title:physicsguidedflowmatchingagenerativeaiframeworkforglobaltotalelectroncontentforecasting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36694",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T09:15:20.925244+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "topsreshapingflowsourceandtransportformultitaskrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2610.36694",
+        "title:topsreshapingflowsourceandtransportformultitaskrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s44267-026-00107-3",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T09:15:21.337393+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Visual Intelligence 4, Article 4 (2026)",
+      "title_key": "hdvssemisupervisedsemanticsegmentationviaheterogeneousdualbranchvotingsupervision",
+      "identity_keys": [
+        "arxiv:2610.37236",
+        "doi:10.1007/s44267-026-00107-3",
+        "title:hdvssemisupervisedsemanticsegmentationviaheterogeneousdualbranchvotingsupervision"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36826",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T09:15:21.878797+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenthecriticfallsbehindcoevolvingrubricsandharnessesforcontinualagentselfimprovement",
+      "identity_keys": [
+        "arxiv:2610.36826",
+        "title:whenthecriticfallsbehindcoevolvingrubricsandharnessesforcontinualagentselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37091",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T09:15:22.201566+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gawmacompactlatentworldactionmodelformultitaskrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2610.37091",
+        "title:gawmacompactlatentworldactionmodelformultitaskrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33665",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T09:15:22.455047+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "compoworldcompositionalenvironmentscalingforgeneralagents",
+      "identity_keys": [
+        "arxiv:2609.33665",
+        "title:compoworldcompositionalenvironmentscalingforgeneralagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33563",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T09:15:22.698626+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "majepajointembeddingworldmodelsformultiagentreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.33563",
+        "title:majepajointembeddingworldmodelsformultiagentreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36761",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T09:16:08.066165+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "makingselfdrivinglaboratoriesauditableaunifiedframeworkforhybridactionsmeasurementsandsafeexecution",
+      "identity_keys": [
+        "arxiv:2610.36761",
+        "title:makingselfdrivinglaboratoriesauditableaunifiedframeworkforhybridactionsmeasurementsandsafeexecution"
+      ]
     }
   ]
 }
