@@ -30518,6 +30518,147 @@
         "arxiv:2609.33618",
         "title:paraagentreinforcingparallelactinginopenworldtoolenvironments"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36144",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T15:55:30.484779+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningcontinuouspatienttrajectoriesfromelectronichealthrecords",
+      "identity_keys": [
+        "arxiv:2609.36144",
+        "title:learningcontinuouspatienttrajectoriesfromelectronichealthrecords"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35621",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T15:55:30.816156+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cartridgeskvcachecompressionwithoutoffcontextderailment",
+      "identity_keys": [
+        "arxiv:2609.35621",
+        "title:cartridgeskvcachecompressionwithoutoffcontextderailment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36064",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T15:55:34.851882+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flooraahumanaligneddomainspecificlanguagemodelforarchitecturaldesign",
+      "identity_keys": [
+        "arxiv:2609.36064",
+        "title:flooraahumanaligneddomainspecificlanguagemodelforarchitecturaldesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36074",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T15:55:35.480136+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gemkmeansmemoryefficientandaccurateclusteringonmassivescalewithgpuoptimization",
+      "identity_keys": [
+        "arxiv:2609.36074",
+        "title:gemkmeansmemoryefficientandaccurateclusteringonmassivescalewithgpuoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.70235/allora.0x30033",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T15:55:35.634804+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ADI 3, 33-54 (2026)",
+      "title_key": "introducingtheczarlossatailoredobjectivefunctionforfinanciallogreturnpredictions",
+      "identity_keys": [
+        "arxiv:2609.36061",
+        "doi:10.70235/allora.0x30033",
+        "title:introducingtheczarlossatailoredobjectivefunctionforfinanciallogreturnpredictions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36187",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T15:55:36.268632+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evomosrmultiobjectivellmbasedevolutionofsymbolicexpressionswithsubstructureguidance",
+      "identity_keys": [
+        "arxiv:2609.36187",
+        "title:evomosrmultiobjectivellmbasedevolutionofsymbolicexpressionswithsubstructureguidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35568",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T15:55:36.522845+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromexperiencetoexpertiseadoptionawarememorylearningfordatascarcenpukernelsynthesis",
+      "identity_keys": [
+        "arxiv:2609.35568",
+        "title:fromexperiencetoexpertiseadoptionawarememorylearningfordatascarcenpukernelsynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36333",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T15:55:37.164995+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atlasalignedtransportoflatentstructureforreliableworldmodelplanning",
+      "identity_keys": [
+        "arxiv:2609.36333",
+        "title:atlasalignedtransportoflatentstructureforreliableworldmodelplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36305",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T15:55:37.474801+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bilinearworldmodelslearningrepresentationswithstructureddynamicsforefficientcontrol",
+      "identity_keys": [
+        "arxiv:2609.36305",
+        "title:bilinearworldmodelslearningrepresentationswithstructureddynamicsforefficientcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35603",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T15:55:37.651325+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "controlgeometrystraighteningforsamplingbasedlatentplanning",
+      "identity_keys": [
+        "arxiv:2609.35603",
+        "title:controlgeometrystraighteningforsamplingbasedlatentplanning"
+      ]
     }
   ]
 }
