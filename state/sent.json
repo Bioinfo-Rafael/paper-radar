@@ -30448,6 +30448,76 @@
         "arxiv:2610.36761",
         "title:makingselfdrivinglaboratoriesauditableaunifiedframeworkforhybridactionsmeasurementsandsafeexecution"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37378",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T11:54:25.179458+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlastemalightweightsafetymechanismforvisionlanguageactionmodelsviareinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.37378",
+        "title:vlastemalightweightsafetymechanismforvisionlanguageactionmodelsviareinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33765",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T11:54:25.435415+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "principalsteeringsubspacesforonlineadaptationoffrozengenerativerobotpolicies",
+      "identity_keys": [
+        "arxiv:2609.33765",
+        "title:principalsteeringsubspacesforonlineadaptationoffrozengenerativerobotpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36794",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T11:54:25.776695+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selecttttqueryconditionedselectivefastweightupdatesforinplacetesttimetraining",
+      "identity_keys": [
+        "arxiv:2610.36794",
+        "title:selecttttqueryconditionedselectivefastweightupdatesforinplacetesttimetraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36734",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T11:54:26.495307+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "camrcompatibilityawarememoryreplayforcontinuallearninginlargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.36734",
+        "title:camrcompatibilityawarememoryreplayforcontinuallearninginlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33618",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T11:54:26.762047+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "paraagentreinforcingparallelactinginopenworldtoolenvironments",
+      "identity_keys": [
+        "arxiv:2609.33618",
+        "title:paraagentreinforcingparallelactinginopenworldtoolenvironments"
+      ]
     }
   ]
 }
