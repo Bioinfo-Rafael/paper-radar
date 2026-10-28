@@ -30181,6 +30181,146 @@
         "arxiv:2609.33485",
         "title:discodistributedlongcontextscalingwithgroundingreasoningdisaggregation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36901",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T04:54:16.380446+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hilordcrossbudgetselfdistillationformaskeddiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.36901",
+        "title:hilordcrossbudgetselfdistillationformaskeddiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37598",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T04:54:16.870879+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gaspfngraphawarespatiotemporalpriordatafittednetworksforzeroshottrafficforecasting",
+      "identity_keys": [
+        "arxiv:2610.37598",
+        "title:gaspfngraphawarespatiotemporalpriordatafittednetworksforzeroshottrafficforecasting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36882",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T04:54:17.298210+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hyperparameterandneuralarchitecturesearchviaevolutionaryoptimizationforreinforcementlearninghpnasrl",
+      "identity_keys": [
+        "arxiv:2610.36882",
+        "title:hyperparameterandneuralarchitecturesearchviaevolutionaryoptimizationforreinforcementlearninghpnasrl"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36719",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T04:54:17.491486+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sagesaliencyannealedgatedencoderforuniversalvisionrecognition",
+      "identity_keys": [
+        "arxiv:2610.36719",
+        "title:sagesaliencyannealedgatedencoderforuniversalvisionrecognition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37085",
+      "category": "ml",
+      "first_sent_at": "2026-10-28T04:54:18.450757+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onthesparsityofdirectpreferenceoptimizationweightdisentanglementinthentkregime",
+      "identity_keys": [
+        "arxiv:2610.37085",
+        "title:onthesparsityofdirectpreferenceoptimizationweightdisentanglementinthentkregime"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36925",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T04:54:19.107401+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "visionlanguageagentscanlearnintheirownlatentworlds",
+      "identity_keys": [
+        "arxiv:2610.36925",
+        "title:visionlanguageagentscanlearnintheirownlatentworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37649",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T04:54:19.505616+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canllmsuncoverhiddenphysicallawsthroughfreeexploration",
+      "identity_keys": [
+        "arxiv:2610.37649",
+        "title:canllmsuncoverhiddenphysicallawsthroughfreeexploration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37666",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T04:54:20.017899+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkworldworldimaginationreinforceschainofdynamicsreasoning",
+      "identity_keys": [
+        "arxiv:2610.37666",
+        "title:thinkworldworldimaginationreinforceschainofdynamicsreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.33742",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T04:54:20.427940+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "duras2stchainofthoughtandreinforcementlearningfordurationalignedspeechtospeechtranslation",
+      "identity_keys": [
+        "arxiv:2609.33742",
+        "title:duras2stchainofthoughtandreinforcementlearningfordurationalignedspeechtospeechtranslation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.34034",
+      "category": "frontier",
+      "first_sent_at": "2026-10-28T04:54:20.595005+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adptnetadaptivewithprescriptivetimescalesnonlinearssmforsequencemodelling",
+      "identity_keys": [
+        "arxiv:2609.34034",
+        "title:adptnetadaptivewithprescriptivetimescalesnonlinearssmforsequencemodelling"
+      ]
     }
   ]
 }
