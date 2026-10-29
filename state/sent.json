@@ -30729,6 +30729,120 @@
         "arxiv:2609.36116",
         "title:dyadextendinglargelanguagemodelswithnativetypeddecisionmaking"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.crmeth.2026.101643",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-29T05:06:06.402048+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.crmeth.2026.101643",
+      "venue": "Cell reports methods",
+      "title_key": "geometricinferenceofcrossspeciestranscriptomecorrespondence",
+      "identity_keys": [
+        "doi:10.1016/j.crmeth.2026.101643",
+        "pubmed:42950823",
+        "title:geometricinferenceofcrossspeciestranscriptomecorrespondence"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2026.101759",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-29T05:06:06.576721+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2026.101759",
+      "venue": "Cell systems",
+      "title_key": "deeplineagesinglecelllineagetracingandfateinferenceusingdeeplearning",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2026.101759",
+        "pubmed:42950828",
+        "title:deeplineagesinglecelllineagetracingandfateinferenceusingdeeplearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-025-03680-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-29T05:06:06.740058+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-025-03680-w",
+      "venue": "Genome Biology",
+      "title_key": "modelingcombinatorialregulationfromsinglecellmultiomicsprovidesregulatoryunitsunderpinningcelltypelandscapeusingcregulon",
+      "identity_keys": [
+        "doi:10.1186/s13059-025-03680-w",
+        "title:modelingcombinatorialregulationfromsinglecellmultiomicsprovidesregulatoryunitsunderpinningcelltypelandscapeusingcregulon"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37437",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T05:06:07.661049+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "representingtheunseenrethinkingvisualimaginationforspatialreasoning",
+      "identity_keys": [
+        "arxiv:2610.37437",
+        "title:representingtheunseenrethinkingvisualimaginationforspatialreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37203",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T05:06:08.423125+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rememberwhereyouwalklearningspatialmemoryforendtoendleggedrobotexploration",
+      "identity_keys": [
+        "arxiv:2610.37203",
+        "title:rememberwhereyouwalklearningspatialmemoryforendtoendleggedrobotexploration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3598119",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T05:06:08.942721+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3598119",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "realtimesamplingbasedsafemotionplanningforroboticmanipulatorsindynamicenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3598119",
+        "title:realtimesamplingbasedsafemotionplanningforroboticmanipulatorsindynamicenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37019",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T05:06:09.218302+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlumenvisuallookupmemoryforembeddingscalinginvisionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.37019",
+        "title:vlumenvisuallookupmemoryforembeddingscalinginvisionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3613568",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T05:06:09.392530+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3613568",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "learningbasedmotionplanningleveragingmultivariatedeepevidentialregression",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3613568",
+        "title:learningbasedmotionplanningleveragingmultivariatedeepevidentialregression"
+      ]
     }
   ]
 }
