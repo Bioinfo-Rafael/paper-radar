@@ -30843,6 +30843,76 @@
         "doi:10.1109/tro.2025.3613568",
         "title:learningbasedmotionplanningleveragingmultivariatedeepevidentialregression"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37037",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T09:15:32.418509+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zoomingwithoutzoomingv2fromseeingdetailstoconnectingevidenceforgeneralizablemultimodalperception",
+      "identity_keys": [
+        "arxiv:2610.37037",
+        "title:zoomingwithoutzoomingv2fromseeingdetailstoconnectingevidenceforgeneralizablemultimodalperception"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36852",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T09:15:32.810223+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenblackboxrobotpoliciesfailonlinesensordiagnosisandrepairwithatransparentsurrogate",
+      "identity_keys": [
+        "arxiv:2610.36852",
+        "title:whenblackboxrobotpoliciesfailonlinesensordiagnosisandrepairwithatransparentsurrogate"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36250",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T09:15:33.197486+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "actionchunkingproximalpolicyoptimizationwithfeedbackcorrection",
+      "identity_keys": [
+        "arxiv:2609.36250",
+        "title:actionchunkingproximalpolicyoptimizationwithfeedbackcorrection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37216",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T09:15:33.602793+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zhengrongspatialaware10advancing3dmultimodalintelligence",
+      "identity_keys": [
+        "arxiv:2610.37216",
+        "title:zhengrongspatialaware10advancing3dmultimodalintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35532",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T09:15:33.750304+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ariseadaptingtoevolvingcapabilitygapsinagenticreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2609.35532",
+        "title:ariseadaptingtoevolvingcapabilitygapsinagenticreinforcementlearning"
+      ]
     }
   ]
 }
