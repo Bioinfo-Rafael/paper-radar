@@ -30999,6 +30999,133 @@
         "arxiv:2609.35540",
         "title:continuouscontextmanagement"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1007/978-3-032-37092-1_6",
+      "category": "ml",
+      "first_sent_at": "2026-10-29T16:00:07.284796+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/978-3-032-37092-1_6",
+      "venue": "Lecture Notes in Computer Science",
+      "title_key": "spectralandtrajectoryregularizationfordiffusiontransformersuperresolution",
+      "identity_keys": [
+        "doi:10.1007/978-3-032-37092-1_6",
+        "title:spectralandtrajectoryregularizationfordiffusiontransformersuperresolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38386",
+      "category": "ml",
+      "first_sent_at": "2026-10-29T16:00:07.953082+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "decodelatencyfeedbackprefillamodelfreecontrolleranditsgeneralizationlimits",
+      "identity_keys": [
+        "arxiv:2609.38386",
+        "title:decodelatencyfeedbackprefillamodelfreecontrolleranditsgeneralizationlimits"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38616",
+      "category": "ml",
+      "first_sent_at": "2026-10-29T16:00:08.538261+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "correctingwherepreservinghowcompositionalgeneralizationforvisionlanguageactionmodelsviareferentialguidance",
+      "identity_keys": [
+        "arxiv:2609.38616",
+        "title:correctingwherepreservinghowcompositionalgeneralizationforvisionlanguageactionmodelsviareferentialguidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38445",
+      "category": "ml",
+      "first_sent_at": "2026-10-29T16:00:08.658364+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aimagenticideamanagementforautomatedresearch",
+      "identity_keys": [
+        "arxiv:2609.38445",
+        "title:aimagenticideamanagementforautomatedresearch"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.24454",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T16:00:09.396692+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.24454",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "meldrecursiveselfimprovementviahierarchicalcoordinationformultiagentscientificdiscovery",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.24454",
+        "openalex:w7223066454",
+        "title:meldrecursiveselfimprovementviahierarchicalcoordinationformultiagentscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38334",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T16:00:10.240328+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evokeelicitingworldknowledgeinagentsfortransferabledecisionmaking",
+      "identity_keys": [
+        "arxiv:2609.38334",
+        "title:evokeelicitingworldknowledgeinagentsfortransferabledecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38641",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T16:00:10.796599+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "visionlanguageactionautonomousdrivingagentwithlanguagebasedmemory",
+      "identity_keys": [
+        "arxiv:2609.38641",
+        "title:visionlanguageactionautonomousdrivingagentwithlanguagebasedmemory"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-11181-4",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T16:00:11.160961+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-11181-4",
+      "venue": "Nature",
+      "title_key": "dietatdiseaseonsetdeterminestissueinflammatorymemory",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-11181-4",
+        "title:dietatdiseaseonsetdeterminestissueinflammatorymemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38660",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T16:00:11.872628+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "breakingbabelaselfevolvingmultiagentsystemforlongformsubtitletranslation",
+      "identity_keys": [
+        "arxiv:2609.38660",
+        "title:breakingbabelaselfevolvingmultiagentsystemforlongformsubtitletranslation"
+      ]
     }
   ]
 }
