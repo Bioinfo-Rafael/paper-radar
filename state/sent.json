@@ -30913,6 +30913,92 @@
         "arxiv:2609.35532",
         "title:ariseadaptingtoevolvingcapabilitygapsinagenticreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.metdis.2026.100039",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-29T12:01:29.578251+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.metdis.2026.100039",
+      "venue": "Metabolism and Diseases",
+      "title_key": "singlecelltranscriptomicsinnutritionandmetabolicresearchcurrentapproachesandemergingapplications",
+      "identity_keys": [
+        "doi:10.1016/j.metdis.2026.100039",
+        "openalex:w7223793954",
+        "title:singlecelltranscriptomicsinnutritionandmetabolicresearchcurrentapproachesandemergingapplications"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35575",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T12:01:31.207836+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "f4rfailuredrivenrecognitionreconstructionrefinementandredeploymentforcontinualrobotselfimprovement",
+      "identity_keys": [
+        "arxiv:2609.35575",
+        "title:f4rfailuredrivenrecognitionreconstructionrefinementandredeploymentforcontinualrobotselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36344",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T12:01:31.796048+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deeprewindpredictingandrepairingprematurecommitmentsindeepresearchagents",
+      "identity_keys": [
+        "arxiv:2609.36344",
+        "title:deeprewindpredictingandrepairingprematurecommitmentsindeepresearchagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5772/intechopen.1017734",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T12:01:32.584174+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5772/intechopen.1017734",
+      "venue": "IntechOpen eBooks",
+      "title_key": "perspectivechaptergoverningtheautonomousfortressmultiagentaisystemsforsecureandresilientcloudcybersecurity",
+      "identity_keys": [
+        "doi:10.5772/intechopen.1017734",
+        "openalex:w7223688612",
+        "title:perspectivechaptergoverningtheautonomousfortressmultiagentaisystemsforsecureandresilientcloudcybersecurity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35551",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T12:01:32.753983+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "baremembayesianreliabilitymemoryforrobustandadaptiveagentconsultation",
+      "identity_keys": [
+        "arxiv:2609.35551",
+        "title:baremembayesianreliabilitymemoryforrobustandadaptiveagentconsultation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35540",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T12:01:32.901768+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continuouscontextmanagement",
+      "identity_keys": [
+        "arxiv:2609.35540",
+        "title:continuouscontextmanagement"
+      ]
     }
   ]
 }
