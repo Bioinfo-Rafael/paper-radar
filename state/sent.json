@@ -30659,6 +30659,76 @@
         "arxiv:2609.35603",
         "title:controlgeometrystraighteningforsamplingbasedlatentplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.35545",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T00:33:52.569309+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graphworldmodelsforconstrainedepidemicpolicyplanning",
+      "identity_keys": [
+        "arxiv:2609.35545",
+        "title:graphworldmodelsforconstrainedepidemicpolicyplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aeh2947",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T00:33:53.237809+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aeh2947",
+      "venue": "Science Robotics",
+      "title_key": "themars2020onboardplannerincreasingautonomymissionproductivityoftheperseverancerover",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aeh2947",
+        "title:themars2020onboardplannerincreasingautonomymissionproductivityoftheperseverancerover"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37336",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T00:33:53.406525+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cosvqcoordinatedsharedscalevectorquantizationforlargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.37336",
+        "title:cosvqcoordinatedsharedscalevectorquantizationforlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36759",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T00:33:53.570134+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "docskillskillintegratedagenticreasoningformultilingualmultihopdocumentquestionanswering",
+      "identity_keys": [
+        "arxiv:2610.36759",
+        "title:docskillskillintegratedagenticreasoningformultilingualmultihopdocumentquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.36116",
+      "category": "frontier",
+      "first_sent_at": "2026-10-29T00:33:54.171379+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dyadextendinglargelanguagemodelswithnativetypeddecisionmaking",
+      "identity_keys": [
+        "arxiv:2609.36116",
+        "title:dyadextendinglargelanguagemodelswithnativetypeddecisionmaking"
+      ]
     }
   ]
 }
