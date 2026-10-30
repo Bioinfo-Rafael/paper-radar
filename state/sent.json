@@ -31196,6 +31196,160 @@
         "arxiv:2609.37988",
         "title:kvkaizenlearningcontextadaptivecachecompressionchoices"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1101/gr.281350.125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-30T05:04:08.483215+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1101/gr.281350.125",
+      "venue": "Genome Research",
+      "title_key": "highfidelitybidirectionaltranslationbetweensinglecelltranscriptomesanddnamethylomeswithscbond",
+      "identity_keys": [
+        "doi:10.1101/gr.281350.125",
+        "title:highfidelitybidirectionaltranslationbetweensinglecelltranscriptomesanddnamethylomeswithscbond"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40618",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T05:04:09.309621+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anodebasedsamplerfordiscretediffusionmodels",
+      "identity_keys": [
+        "arxiv:2610.40618",
+        "title:anodebasedsamplerfordiscretediffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40545",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T05:04:09.838758+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "retrievalastraversalvalueindexedmemoryforstatefullongcontextagents",
+      "identity_keys": [
+        "arxiv:2610.40545",
+        "title:retrievalastraversalvalueindexedmemoryforstatefullongcontextagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39946",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T05:04:10.187344+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 32735-32744, 2026",
+      "title_key": "elasticformerdetectingobjectsinhrwshotsviaelasticcomputingvisiontransformer",
+      "identity_keys": [
+        "arxiv:2610.39946",
+        "title:elasticformerdetectingobjectsinhrwshotsviaelasticcomputingvisiontransformer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39264",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T05:04:10.579837+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onlinedensereinforcementlearningwithplanninggroundingagentforuinavigationonliveiosapps",
+      "identity_keys": [
+        "arxiv:2610.39264",
+        "title:onlinedensereinforcementlearningwithplanninggroundingagentforuinavigationonliveiosapps"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39913",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T05:04:10.804976+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tokenrepelgeneratingdiverseimagesetswithoutcompromisingquality",
+      "identity_keys": [
+        "arxiv:2610.39913",
+        "title:tokenrepelgeneratingdiverseimagesetswithoutcompromisingquality"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40637",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T05:04:14.088103+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "world2vecmechanisticworldmodelsthroughlatentdynamicslearning",
+      "identity_keys": [
+        "arxiv:2610.40637",
+        "title:world2vecmechanisticworldmodelsthroughlatentdynamicslearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40030",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T05:04:14.689842+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cheapretrievalandobservationcreditassignmentfromonequantitythevalueofinformation",
+      "identity_keys": [
+        "arxiv:2610.40030",
+        "title:cheapretrievalandobservationcreditassignmentfromonequantitythevalueofinformation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39287",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T05:04:15.062655+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "openflyv2anonboardvisionlanguageactionmodelforaerialperceptionandnavigation",
+      "identity_keys": [
+        "arxiv:2610.39287",
+        "title:openflyv2anonboardvisionlanguageactionmodelforaerialperceptionandnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38587",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T05:04:15.486605+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neurduoeegalongsequenceeegfoundationmodelwithpersistentstateandexplicitmemory",
+      "identity_keys": [
+        "arxiv:2609.38587",
+        "title:neurduoeegalongsequenceeegfoundationmodelwithpersistentstateandexplicitmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38458",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T05:04:15.838419+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "privmesaprivacyawareselfevolvingmultiagentsystemformedicinevialocalremotellmcollaboration",
+      "identity_keys": [
+        "arxiv:2609.38458",
+        "title:privmesaprivacyawareselfevolvingmultiagentsystemformedicinevialocalremotellmcollaboration"
+      ]
     }
   ]
 }
