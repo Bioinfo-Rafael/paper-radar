@@ -31350,6 +31350,118 @@
         "arxiv:2609.38458",
         "title:privmesaprivacyawareselfevolvingmultiagentsystemformedicinevialocalremotellmcollaboration"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-026-04329-y",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-30T09:31:18.020917+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-026-04329-y",
+      "venue": "Genome Biology",
+      "title_key": "cellpatchaflexibleandefficientframeworkforsinglecellfoundationmodelsempoweredbyheuristicgenepatching",
+      "identity_keys": [
+        "doi:10.1186/s13059-026-04329-y",
+        "title:cellpatchaflexibleandefficientframeworkforsinglecellfoundationmodelsempoweredbyheuristicgenepatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40109",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T09:31:18.757892+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coupledguidanceforflowmatching",
+      "identity_keys": [
+        "arxiv:2610.40109",
+        "title:coupledguidanceforflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40061",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T09:31:19.025869+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "localizingconceptsinvisualautoregressivemodels",
+      "identity_keys": [
+        "arxiv:2610.40061",
+        "title:localizingconceptsinvisualautoregressivemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37968",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T09:31:19.844014+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfsearchrewardfreesearchforselfimprovingagents",
+      "identity_keys": [
+        "arxiv:2609.37968",
+        "title:selfsearchrewardfreesearchforselfimprovingagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39812",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T09:31:20.250762+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gromegroundingfactorizedmemoryintovideoworldmodels",
+      "identity_keys": [
+        "arxiv:2610.39812",
+        "title:gromegroundingfactorizedmemoryintovideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40565",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T09:31:20.744868+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gymanythingforroboticsscalingphysicalsimulationswithdigitalagents",
+      "identity_keys": [
+        "arxiv:2610.40565",
+        "title:gymanythingforroboticsscalingphysicalsimulationswithdigitalagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40614",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T09:31:21.084771+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "l3gworldrealtimeinfiniteworldgenerationwithlatent3dgaussianmemory",
+      "identity_keys": [
+        "arxiv:2610.40614",
+        "title:l3gworldrealtimeinfiniteworldgenerationwithlatent3dgaussianmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38598",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T09:31:21.763481+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reinforcementlearningwithcomplexvaluedmemories",
+      "identity_keys": [
+        "arxiv:2609.38598",
+        "title:reinforcementlearningwithcomplexvaluedmemories"
+      ]
     }
   ]
 }
