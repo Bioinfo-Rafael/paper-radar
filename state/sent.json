@@ -31126,6 +31126,76 @@
         "arxiv:2609.38660",
         "title:breakingbabelaselfevolvingmultiagentsystemforlongformsubtitletranslation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38107",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T00:32:50.589312+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "correctanswersinvalidtraceswhatverifiablegradeschoolmathrevealsaboutchainofthoughttraces",
+      "identity_keys": [
+        "arxiv:2609.38107",
+        "title:correctanswersinvalidtraceswhatverifiablegradeschoolmathrevealsaboutchainofthoughttraces"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38335",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T00:32:51.068374+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "e2eswebenchmarkingllmsonbuildingworkingcodebasesfromscratch",
+      "identity_keys": [
+        "arxiv:2609.38335",
+        "title:e2eswebenchmarkingllmsonbuildingworkingcodebasesfromscratch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38104",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T00:32:51.504241+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "explorebroadlyreasonsharplypushsmallmodelstowardthefrontierviasampling",
+      "identity_keys": [
+        "arxiv:2609.38104",
+        "title:explorebroadlyreasonsharplypushsmallmodelstowardthefrontierviasampling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38008",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T00:32:51.751302+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hybridcualearningtoorchestrateguiandcliforcomputeruseagents",
+      "identity_keys": [
+        "arxiv:2609.38008",
+        "title:hybridcualearningtoorchestrateguiandcliforcomputeruseagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.37988",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T00:32:51.950821+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kvkaizenlearningcontextadaptivecachecompressionchoices",
+      "identity_keys": [
+        "arxiv:2609.37988",
+        "title:kvkaizenlearningcontextadaptivecachecompressionchoices"
+      ]
     }
   ]
 }
