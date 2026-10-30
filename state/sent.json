@@ -31532,6 +31532,164 @@
         "arxiv:2610.00341",
         "title:unifiedattackevaluatingthesafetyoflargemultimodalmodelsinsynergisticharmfulimagetextgeneration"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nar/gkaf1233",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-30T15:49:02.945814+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nar/gkaf1233",
+      "venue": "Nucleic Acids Research",
+      "title_key": "chrompolymerdbahighresolutiondatabaseofsinglecell3dchromatinstructuresforfunctionalgenomics",
+      "identity_keys": [
+        "doi:10.1093/nar/gkaf1233",
+        "title:chrompolymerdbahighresolutiondatabaseofsinglecell3dchromatinstructuresforfunctionalgenomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-64601-w",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-30T15:49:03.080057+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-64601-w",
+      "venue": "Nature communications",
+      "title_key": "bayesiancontinuallearningandforgettinginneuralnetworks",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-64601-w",
+        "pubmed:41168173",
+        "title:bayesiancontinuallearningandforgettinginneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00499",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T15:49:03.770264+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "denoisingsurfacemodelingandpredictinginferencecostfordiffusionllmserving",
+      "identity_keys": [
+        "arxiv:2610.00499",
+        "title:denoisingsurfacemodelingandpredictinginferencecostfordiffusionllmserving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.28990",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T15:49:04.129274+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.28990",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "doobbasedgenerativepolicyoptimization",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.28990",
+        "openalex:w7223203320",
+        "title:doobbasedgenerativepolicyoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.29815",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T15:49:04.924984+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.29815",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "neurocodeceegguidedlatentdomaingenerativemodelforhighfidelitytargetspeakerextraction",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.29815",
+        "openalex:w7223249658",
+        "title:neurocodeceegguidedlatentdomaingenerativemodelforhighfidelitytargetspeakerextraction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00730",
+      "category": "ml",
+      "first_sent_at": "2026-10-30T15:49:05.778646+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reformulationcontrastivelearningformixedintegerprograms",
+      "identity_keys": [
+        "arxiv:2610.00730",
+        "title:reformulationcontrastivelearningformixedintegerprograms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00700",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T15:49:06.418285+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rgroundbenchadiagnosticbenchmarkforrgroupgroundinginmarkushmolecularediting",
+      "identity_keys": [
+        "arxiv:2610.00700",
+        "title:rgroundbenchadiagnosticbenchmarkforrgroupgroundinginmarkushmolecularediting"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.35579",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T15:49:06.581038+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.35579",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "infinitymachineaselfimprovingaiagentforresearch",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.35579",
+        "openalex:w7223847129",
+        "title:infinitymachineaselfimprovingaiagentforresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00492",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T15:49:06.808410+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eurekabenchmeasuringagenticabilitytodiscovernewscientificinsights",
+      "identity_keys": [
+        "arxiv:2610.00492",
+        "title:eurekabenchmeasuringagenticabilitytodiscovernewscientificinsights"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39528",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T15:49:07.586720+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "primew0physicalpriorsfromworldmodelsforembodiedmanipulation",
+      "identity_keys": [
+        "arxiv:2610.39528",
+        "title:primew0physicalpriorsfromworldmodelsforembodiedmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39721",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T15:49:07.742245+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldprobewhenvideoworldmodelsfallapartunderlonghorizonspatialexploration",
+      "identity_keys": [
+        "arxiv:2610.39721",
+        "title:worldprobewhenvideoworldmodelsfallapartunderlonghorizonspatialexploration"
+      ]
     }
   ]
 }
