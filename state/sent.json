@@ -31462,6 +31462,76 @@
         "arxiv:2609.38598",
         "title:reinforcementlearningwithcomplexvaluedmemories"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39620",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T11:55:17.901085+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lettingaiformulatetheresearchquestionautonomousresearchagents",
+      "identity_keys": [
+        "arxiv:2610.39620",
+        "title:lettingaiformulatetheresearchquestionautonomousresearchagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39714",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T11:55:18.175485+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "molrsiarecursiveselfimprovingaiagentformoleculardiscovery",
+      "identity_keys": [
+        "arxiv:2610.39714",
+        "title:molrsiarecursiveselfimprovingaiagentformoleculardiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40016",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T11:55:18.685388+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "logivgraphverifiedexecutionwithcausallocalrepairforlonghorizonrobottasks",
+      "identity_keys": [
+        "arxiv:2610.40016",
+        "title:logivgraphverifiedexecutionwithcausallocalrepairforlonghorizonrobottasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.38147",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T11:55:19.117744+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkingbeforethinkingscalingagenticinferencethroughmetareasoning",
+      "identity_keys": [
+        "arxiv:2609.38147",
+        "title:thinkingbeforethinkingscalingagenticinferencethroughmetareasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00341",
+      "category": "frontier",
+      "first_sent_at": "2026-10-30T11:55:19.380402+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unifiedattackevaluatingthesafetyoflargemultimodalmodelsinsynergisticharmfulimagetextgeneration",
+      "identity_keys": [
+        "arxiv:2610.00341",
+        "title:unifiedattackevaluatingthesafetyoflargemultimodalmodelsinsynergisticharmfulimagetextgeneration"
+      ]
     }
   ]
 }
