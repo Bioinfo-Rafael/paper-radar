@@ -31760,6 +31760,76 @@
         "arxiv:2610.02255",
         "title:mactsemmultiagentcollaborativetimeseriesforecastingwithemergentmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00575",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T04:56:19.814168+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tokenworldworldmodelinginvisionlanguagemodeltokenspaceforrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2610.00575",
+        "title:tokenworldworldmodelinginvisionlanguagemodeltokenspaceforrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40503",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T04:56:19.986934+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "algebraicworldmodelfromexplorationtoproofs",
+      "identity_keys": [
+        "arxiv:2610.40503",
+        "title:algebraicworldmodelfromexplorationtoproofs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40071",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T04:56:20.388285+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticprocessevidence",
+      "identity_keys": [
+        "arxiv:2610.40071",
+        "title:agenticprocessevidence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40031",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T04:56:20.657783+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aicosmosanagenticinfraforsituatedlearning",
+      "identity_keys": [
+        "arxiv:2610.40031",
+        "title:aicosmosanagenticinfraforsituatedlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40195",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T04:56:20.885064+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memlifecuratingandreasoningoverlongtermegocentricvideomemories",
+      "identity_keys": [
+        "arxiv:2609.40195",
+        "title:memlifecuratingandreasoningoverlongtermegocentricvideomemories"
+      ]
     }
   ]
 }
