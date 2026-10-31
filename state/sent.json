@@ -31914,6 +31914,76 @@
         "arxiv:2610.00592",
         "title:aleradaptivelearnableexperiencerewritingforreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40002",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T11:27:59.230322+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howmuchshouldavlatrustitsreasoningsteplevelguidanceasameasuredactionvaluefunction",
+      "identity_keys": [
+        "arxiv:2610.40002",
+        "title:howmuchshouldavlatrustitsreasoningsteplevelguidanceasameasuredactionvaluefunction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40186",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T11:27:59.657151+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "locatingandclosinginformationgapsinmultiagentsystems",
+      "identity_keys": [
+        "arxiv:2610.40186",
+        "title:locatingandclosinginformationgapsinmultiagentsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39931",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T11:27:59.816280+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lowbitgdnrecurrentstatequantizationglobalgradientawareallocationandpurewriteslidingwindows",
+      "identity_keys": [
+        "arxiv:2610.39931",
+        "title:lowbitgdnrecurrentstatequantizationglobalgradientawareallocationandpurewriteslidingwindows"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3749200",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T11:28:00.168376+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3749200",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "rptglobalplanningwithprobabilisticterminalsfortargetsearchincomplexenvironments",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3749200",
+        "title:rptglobalplanningwithprobabilisticterminalsfortargetsearchincomplexenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.40097",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T11:28:00.376358+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autodatabenchadatacentrictestbedforacceleratingautoresearch",
+      "identity_keys": [
+        "arxiv:2609.40097",
+        "title:autodatabenchadatacentrictestbedforacceleratingautoresearch"
+      ]
     }
   ]
 }
