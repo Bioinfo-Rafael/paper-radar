@@ -31830,6 +31830,90 @@
         "arxiv:2609.40195",
         "title:memlifecuratingandreasoningoverlongtermegocentricvideomemories"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.26.761800",
+      "category": "bioinfo",
+      "first_sent_at": "2026-10-31T09:12:19.752218+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.26.761800",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "mechanisticgeneregulationbasedtrajectoryinferencewithbowside",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.26.761800",
+        "title:mechanisticgeneregulationbasedtrajectoryinferencewithbowside"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39543",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T09:12:20.798391+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromreasoningtoactionconsequencegroundedalignmentforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.39543",
+        "title:fromreasoningtoactionconsequencegroundedalignmentforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40350",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T09:12:21.755583+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dontlosethethreadempoweringlonghorizonllmagentswithcognitiveresourceselfallocation",
+      "identity_keys": [
+        "arxiv:2610.40350",
+        "title:dontlosethethreadempoweringlonghorizonllmagentswithcognitiveresourceselfallocation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40130",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T09:12:21.920900+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "escapingpathmiragesinofflinegoalconditionedreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.40130",
+        "title:escapingpathmiragesinofflinegoalconditionedreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2609.39964",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T09:12:22.087608+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aimsanagenticaiframeworkforsimtorealmultimodalisac",
+      "identity_keys": [
+        "arxiv:2609.39964",
+        "title:aimsanagenticaiframeworkforsimtorealmultimodalisac"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00592",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T09:12:22.262515+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aleradaptivelearnableexperiencerewritingforreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.00592",
+        "title:aleradaptivelearnableexperiencerewritingforreinforcementlearning"
+      ]
     }
   ]
 }
