@@ -31690,6 +31690,76 @@
         "arxiv:2610.39721",
         "title:worldprobewhenvideoworldmodelsfallapartunderlonghorizonspatialexploration"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39547",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T00:18:38.700823+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "assuringlearningenabledcyberphysicalsystemswithfoundationmodelsaneurosymbolicagendafortestingverificationandruntimeassurance",
+      "identity_keys": [
+        "arxiv:2610.39547",
+        "title:assuringlearningenabledcyberphysicalsystemswithfoundationmodelsaneurosymbolicagendafortestingverificationandruntimeassurance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00722",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T00:18:38.851351+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jepatttpersistenttesttimetrainingoflatentworldmodelsforplanningunderdynamicsshifts",
+      "identity_keys": [
+        "arxiv:2610.00722",
+        "title:jepatttpersistenttesttimetrainingoflatentworldmodelsforplanningunderdynamicsshifts"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00801",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T00:18:40.067705+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ecomemexplicitconceptmemoryformemorydependentrobotcontrol",
+      "identity_keys": [
+        "arxiv:2610.00801",
+        "title:ecomemexplicitconceptmemoryformemorydependentrobotcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.00604",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T00:18:40.262100+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mikasarobovlabenchmarkingmemoryinvlamodelsforlonghorizonmanipulation",
+      "identity_keys": [
+        "arxiv:2610.00604",
+        "title:mikasarobovlabenchmarkingmemoryinvlamodelsforlonghorizonmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02255",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T00:18:40.599838+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mactsemmultiagentcollaborativetimeseriesforecastingwithemergentmemory",
+      "identity_keys": [
+        "arxiv:2610.02255",
+        "title:mactsemmultiagentcollaborativetimeseriesforecastingwithemergentmemory"
+      ]
     }
   ]
 }
