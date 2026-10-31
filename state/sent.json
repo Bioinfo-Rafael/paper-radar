@@ -32069,6 +32069,77 @@
         "openalex:w7224541409",
         "title:agenticaiandautonomousllmsystemsascientificliteraturereview"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02525",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T23:53:19.927995+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningwhattoinvestigatenextmetareasoningforlonghorizonresearchagents",
+      "identity_keys": [
+        "arxiv:2610.02525",
+        "title:learningwhattoinvestigatenextmetareasoningforlonghorizonresearchagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3859242",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T23:53:20.408874+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3859242",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "title_key": "agenticrefactoringanempiricalstudyofaicodingagents",
+      "identity_keys": [
+        "doi:10.1145/3859242",
+        "openalex:w7104698776",
+        "title:agenticrefactoringanempiricalstudyofaicodingagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.robot.2026.105637",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T23:53:20.599504+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.robot.2026.105637",
+      "venue": "Robotics and Autonomous Systems",
+      "title_key": "trajectoryplanningfor4wisautonomousgroundvehiclesinroroterminalsusingcbfenhanceddeepreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1016/j.robot.2026.105637",
+        "title:trajectoryplanningfor4wisautonomousgroundvehiclesinroroterminalsusingcbfenhanceddeepreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39924",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T23:53:20.872395+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physag3dbridging3dgenerativeandagenticmodelsforhighfidelityandphysicallyinteractiveassets",
+      "identity_keys": [
+        "arxiv:2610.39924",
+        "title:physag3dbridging3dgenerativeandagenticmodelsforhighfidelityandphysicallyinteractiveassets"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02472",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T23:53:21.072117+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "apdmemagentcontrolledprogressivedisclosureforqueryadaptivelongtermmemory",
+      "identity_keys": [
+        "arxiv:2610.02472",
+        "title:apdmemagentcontrolledprogressivedisclosureforqueryadaptivelongtermmemory"
+      ]
     }
   ]
 }
