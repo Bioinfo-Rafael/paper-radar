@@ -31984,6 +31984,91 @@
         "arxiv:2609.40097",
         "title:autodatabenchadatacentrictestbedforacceleratingautoresearch"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02528",
+      "category": "ml",
+      "first_sent_at": "2026-10-31T15:14:31.634853+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autoregressivedifferentiablemethodforintegerprogramming",
+      "identity_keys": [
+        "arxiv:2610.02528",
+        "title:autoregressivedifferentiablemethodforintegerprogramming"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02417",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T15:14:32.594373+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theaitheoristrevealsexcitonicstructureinrucl3",
+      "identity_keys": [
+        "arxiv:2610.02417",
+        "title:theaitheoristrevealsexcitonicstructureinrucl3"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02515",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T15:14:33.020131+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ignitetokamakworldmodelarchitecture",
+      "identity_keys": [
+        "arxiv:2610.02515",
+        "title:ignitetokamakworldmodelarchitecture"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02542",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T15:14:33.202222+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howtotrainyourworldmodelfinetuningvsragforlmbasedworldmodeling",
+      "identity_keys": [
+        "arxiv:2610.02542",
+        "title:howtotrainyourworldmodelfinetuningvsragforlmbasedworldmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.01939",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T15:14:34.199599+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fewertokensbetteractiongpt6astrarobotagentswith14highersuccessratebut65fewertokens",
+      "identity_keys": [
+        "arxiv:2610.01939",
+        "title:fewertokensbetteractiongpt6astrarobotagentswith14highersuccessratebut65fewertokens"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.55041/ijcope.v2i10.194",
+      "category": "frontier",
+      "first_sent_at": "2026-10-31T15:14:34.712671+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.55041/ijcope.v2i10.194",
+      "venue": "International Journal of Creative and Open Research in Engineering and Management",
+      "title_key": "agenticaiandautonomousllmsystemsascientificliteraturereview",
+      "identity_keys": [
+        "doi:10.55041/ijcope.v2i10.194",
+        "openalex:w7224541409",
+        "title:agenticaiandautonomousllmsystemsascientificliteraturereview"
+      ]
     }
   ]
 }
