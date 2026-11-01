@@ -32350,6 +32350,119 @@
         "doi:10.1109/tro.2025.3582836",
         "title:physicsinformedmultiagentreinforcementlearningfordistributedmultirobotproblems"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.19773",
+      "category": "ml",
+      "first_sent_at": "2026-11-01T15:56:55.160859+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.19773",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "fromglobaltotailconvergencedynamicsofstablescorebasedgenerativemodels",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.19773",
+        "openalex:w7222215696",
+        "title:fromglobaltotailconvergencedynamicsofstablescorebasedgenerativemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03858",
+      "category": "ml",
+      "first_sent_at": "2026-11-01T15:56:55.607121+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "retrievalcentricdeeplearningingrowingnonparametricneuralnetworks",
+      "identity_keys": [
+        "arxiv:2610.03858",
+        "title:retrievalcentricdeeplearningingrowingnonparametricneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04088",
+      "category": "ml",
+      "first_sent_at": "2026-11-01T15:56:56.007736+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardssaferautonomousdrivinginanopenworldadualprocessapproach",
+      "identity_keys": [
+        "arxiv:2610.04088",
+        "title:towardssaferautonomousdrivinginanopenworldadualprocessapproach"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04133",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T15:56:57.278734+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "auditingpairwiseequivalencejudgmentsselfcritiqueeffectsanddiversitymeasurementinmultiagenthypothesisgeneration",
+      "identity_keys": [
+        "arxiv:2610.04133",
+        "title:auditingpairwiseequivalencejudgmentsselfcritiqueeffectsanddiversitymeasurementinmultiagenthypothesisgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04009",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T15:56:58.358340+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "suaveunifiedvideoactionmodelsviamaskeddiffusion",
+      "identity_keys": [
+        "arxiv:2610.04009",
+        "title:suaveunifiedvideoactionmodelsviamaskeddiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03615",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T15:56:58.958126+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bridgingfrontierreasoningandrobotexecutionfromautonomousdemonstrationgenerationtodenselanguagesupervision",
+      "identity_keys": [
+        "arxiv:2610.03615",
+        "title:bridgingfrontierreasoningandrobotexecutionfromautonomousdemonstrationgenerationtodenselanguagesupervision"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03622",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T15:56:59.229582+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cornavconstructionawarereasoningforrobotnavigationonactiveworksites",
+      "identity_keys": [
+        "arxiv:2610.03622",
+        "title:cornavconstructionawarereasoningforrobotnavigationonactiveworksites"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/robotics15110215",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T15:56:59.721658+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/robotics15110215",
+      "venue": "Robotics",
+      "title_key": "cphcollisionavoidancedrivencoordinationfordistributedmultiagentpathfindingviamultiagentreinforcementlearning",
+      "identity_keys": [
+        "doi:10.3390/robotics15110215",
+        "title:cphcollisionavoidancedrivencoordinationfordistributedmultiagentpathfindingviamultiagentreinforcementlearning"
+      ]
     }
   ]
 }
