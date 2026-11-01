@@ -32140,6 +32140,76 @@
         "arxiv:2610.02472",
         "title:apdmemagentcontrolledprogressivedisclosureforqueryadaptivelongtermmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02368",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T05:15:21.324599+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingworldactionmodelforcompositionalandincontextroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2610.02368",
+        "title:rethinkingworldactionmodelforcompositionalandincontextroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aeg1125",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T05:15:21.677900+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aeg1125",
+      "venue": "Science",
+      "title_key": "wholebodysinglecellatlasofanadultvertebrateidanionellacerebrumi",
+      "identity_keys": [
+        "doi:10.1126/science.aeg1125",
+        "title:wholebodysinglecellatlasofanadultvertebrateidanionellacerebrumi"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40094",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T05:15:21.852506+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "repconturareportconditionedvolumetricmultimodalmodelforabdominaltumorsegmentation",
+      "identity_keys": [
+        "arxiv:2610.40094",
+        "title:repconturareportconditionedvolumetricmultimodalmodelforabdominaltumorsegmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40276",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T05:15:22.058616+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "taskframeconnectingtasklevelplanningwithframelevelcontrolforgameagents",
+      "identity_keys": [
+        "arxiv:2610.40276",
+        "title:taskframeconnectingtasklevelplanningwithframelevelcontrolforgameagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.02497",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T05:15:22.277154+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "liteemgfmanefficientanddeployablefoundationmodelforrobustemgsensing",
+      "identity_keys": [
+        "arxiv:2610.02497",
+        "title:liteemgfmanefficientanddeployablefoundationmodelforrobustemgsensing"
+      ]
     }
   ]
 }
