@@ -32210,6 +32210,76 @@
         "arxiv:2610.02497",
         "title:liteemgfmanefficientanddeployablefoundationmodelforrobustemgsensing"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40476",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T09:59:28.019966+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "traininglanguagemodelsinsimulationforpsychiatricintake",
+      "identity_keys": [
+        "arxiv:2610.40476",
+        "title:traininglanguagemodelsinsimulationforpsychiatricintake"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3730212",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T09:59:28.209478+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3730212",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "airhuntbridgingvlmsemanticsandcontinuousplanningforefficientaerialobjectnavigation",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3730212",
+        "title:airhuntbridgingvlmsemanticsandcontinuousplanningforefficientaerialobjectnavigation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728321",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T09:59:28.750032+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728321",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "anovelcrosstreeinformedbidirectionaloptimizationformotionplanningofrobots",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728321",
+        "title:anovelcrosstreeinformedbidirectionaloptimizationformotionplanningofrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10563",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T09:59:29.119143+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "slvrstructuredlatentvisualreasoningviahumanlikereasoningflows",
+      "identity_keys": [
+        "arxiv:2610.10563",
+        "title:slvrstructuredlatentvisualreasoningviahumanlikereasoningflows"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3730294",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T09:59:29.383048+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3730294",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "cad2realcadgroundedskillprimitivesandvisionlanguageplanningforprecisionassembly",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3730294",
+        "title:cad2realcadgroundedskillprimitivesandvisionlanguageplanningforprecisionassembly"
+      ]
     }
   ]
 }
