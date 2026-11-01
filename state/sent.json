@@ -32280,6 +32280,76 @@
         "doi:10.1109/lra.2026.3730294",
         "title:cad2realcadgroundedskillprimitivesandvisionlanguageplanningforprecisionassembly"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3730337",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T12:25:21.045921+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3730337",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "flexwormprimitiveaugmentedhybridcontactmotionplanningforsuctionbasedmultisegmentdeformablerobots",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3730337",
+        "title:flexwormprimitiveaugmentedhybridcontactmotionplanningforsuctionbasedmultisegmentdeformablerobots"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3732834",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T12:25:21.186905+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3732834",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "quadrupedobstacleavoidanceandfootstepplanningwithdistributedlowcosttimeofflightsensors",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3732834",
+        "title:quadrupedobstacleavoidanceandfootstepplanningwithdistributedlowcosttimeofflightsensors"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3732889",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T12:25:21.334434+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3732889",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "spatiodenoiserpositionguideddenoisingviaspatialaudiomemoryforanomaloussounddetectioninmobilerobots",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3732889",
+        "title:spatiodenoiserpositionguideddenoisingviaspatialaudiomemoryforanomaloussounddetectioninmobilerobots"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/robotics15100197",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T12:25:21.628889+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3390/robotics15100197",
+      "venue": "Robotics",
+      "title_key": "pickaloleveraging6dposeestimationanddeepstereomatchingforindustrialbinpicking",
+      "identity_keys": [
+        "doi:10.3390/robotics15100197",
+        "title:pickaloleveraging6dposeestimationanddeepstereomatchingforindustrialbinpicking"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3582836",
+      "category": "frontier",
+      "first_sent_at": "2026-11-01T12:25:21.934992+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3582836",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "physicsinformedmultiagentreinforcementlearningfordistributedmultirobotproblems",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3582836",
+        "title:physicsinformedmultiagentreinforcementlearningfordistributedmultirobotproblems"
+      ]
     }
   ]
 }
