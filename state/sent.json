@@ -32815,6 +32815,76 @@
         "arxiv:2610.04088",
         "title:towardssaferautonomousdrivinginanopenworldadualprocessapproach"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.42146",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T14:19:40.779008+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalworldmodelswithimplicitdynamics",
+      "identity_keys": [
+        "arxiv:2610.42146",
+        "title:hierarchicalworldmodelswithimplicitdynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41408",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T14:19:41.136884+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sacqstructureawarecodebookquantizationforultralowbitvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.41408",
+        "title:sacqstructureawarecodebookquantizationforultralowbitvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41639",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T14:19:41.458086+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "77th International Astronautical Congress (IAC), International Astronautical Federation (IAF), Oct 2026, Antalya (TR), Turkey",
+      "title_key": "chanceconstrainedinspectionviewpointsequencingforonorbitservicingviasafereinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.41639",
+        "title:chanceconstrainedinspectionviewpointsequencingforonorbitservicingviasafereinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41994",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T14:20:26.936741+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "damidualaxismemoryinitializationforenhancedlongcontextretrievalingatedlinearattention",
+      "identity_keys": [
+        "arxiv:2610.41994",
+        "title:damidualaxismemoryinitializationforenhancedlongcontextretrievalingatedlinearattention"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41402",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T14:20:27.122117+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dugodualscalegaussianmemoryforonlinetemporalactionlocalizationinegocentricproceduralvideos",
+      "identity_keys": [
+        "arxiv:2610.41402",
+        "title:dugodualscalegaussianmemoryforonlinetemporalactionlocalizationinegocentricproceduralvideos"
+      ]
     }
   ]
 }
