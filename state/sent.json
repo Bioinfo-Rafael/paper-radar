@@ -32703,6 +32703,118 @@
         "arxiv:2610.04109",
         "title:seerselfevolvingeventreasoningandretrievalfortimeseriesforecasting"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41405",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T10:32:32.820257+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "conditionalneuralsdesforfinancialtimeseriesgeneration",
+      "identity_keys": [
+        "arxiv:2610.41405",
+        "title:conditionalneuralsdesforfinancialtimeseriesgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41251",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T10:32:33.434488+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stochasticmirrordescentunderdependentobservations",
+      "identity_keys": [
+        "arxiv:2610.41251",
+        "title:stochasticmirrordescentunderdependentobservations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41801",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T10:32:34.268801+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsoutofdistributionuncertaintyquantificationformachinelearnedinteratomicpotentialsviapretraining",
+      "identity_keys": [
+        "arxiv:2610.41801",
+        "title:towardsoutofdistributionuncertaintyquantificationformachinelearnedinteratomicpotentialsviapretraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41688",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T10:32:35.130546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenthepastshapesactionunderstandingembodiedmemory",
+      "identity_keys": [
+        "arxiv:2610.41688",
+        "title:whenthepastshapesactionunderstandingembodiedmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41330",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T10:32:35.358692+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "crossembodimentmotionplanningbycouplingbodyagnosticworldmodelwithdifferentiableegodynamics",
+      "identity_keys": [
+        "arxiv:2610.41330",
+        "title:crossembodimentmotionplanningbycouplingbodyagnosticworldmodelwithdifferentiableegodynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03713",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T10:32:35.729648+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatshouldworldmodelsforgetstratifiedretentionforcontinualadaptation",
+      "identity_keys": [
+        "arxiv:2610.03713",
+        "title:whatshouldworldmodelsforgetstratifiedretentionforcontinualadaptation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.42141",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T10:32:39.376826+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboarchitectautomatingthedesignofroboticagentswithpersistentmemory",
+      "identity_keys": [
+        "arxiv:2610.42141",
+        "title:roboarchitectautomatingthedesignofroboticagentswithpersistentmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04088",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T10:32:39.812921+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardssaferautonomousdrivinginanopenworldadualprocessapproach",
+      "identity_keys": [
+        "arxiv:2610.04088",
+        "title:towardssaferautonomousdrivinginanopenworldadualprocessapproach"
+      ]
     }
   ]
 }
