@@ -32463,6 +32463,106 @@
         "doi:10.3390/robotics15110215",
         "title:cphcollisionavoidancedrivencoordinationfordistributedmultiagentpathfindingviamultiagentreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s44372-026-00801-y",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-02T00:19:47.639967+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s44372-026-00801-y",
+      "venue": "Discover Plants.",
+      "title_key": "nextgenerationcottonimprovementthroughintegratedbiosyntheticpathwaysmultiomicsartificialintelligenceandadvancedbreedingtechnologies",
+      "identity_keys": [
+        "doi:10.1007/s44372-026-00801-y",
+        "openalex:w7224573570",
+        "title:nextgenerationcottonimprovementthroughintegratedbiosyntheticpathwaysmultiomicsartificialintelligenceandadvancedbreedingtechnologies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.21203/rs.3.rs-10994413/v1",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-02T00:19:47.846641+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.21203/rs.3.rs-10994413/v1",
+      "venue": "Research Square",
+      "title_key": "multiomicsmendelianrandomizationrevealsthecausalassociationandmediatingmechanismsofpm25withdepressionasystematicstudyintegratingtranscriptomicsmetabolomicsandradiomics",
+      "identity_keys": [
+        "doi:10.21203/rs.3.rs-10994413/v1",
+        "openalex:w7223125586",
+        "title:multiomicsmendelianrandomizationrevealsthecausalassociationandmediatingmechanismsofpm25withdepressionasystematicstudyintegratingtranscriptomicsmetabolomicsandradiomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03374",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T00:19:48.719344+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "eveworldphysicalevolutionsupervisionforembodiedworldmodels",
+      "identity_keys": [
+        "arxiv:2610.03374",
+        "title:eveworldphysicalevolutionsupervisionforembodiedworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03273",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T00:19:49.736417+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evolsimulatorguidedevolutionaryexpertsynthesisfordeploymentfreelearningpathrecommendation",
+      "identity_keys": [
+        "arxiv:2610.03273",
+        "title:evolsimulatorguidedevolutionaryexpertsynthesisfordeploymentfreelearningpathrecommendation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03695",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T00:19:49.895829+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "languagemodelsthatplaychessandexplaintheirmoves",
+      "identity_keys": [
+        "arxiv:2610.03695",
+        "title:languagemodelsthatplaychessandexplaintheirmoves"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03383",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T00:19:50.507090+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cve2apautomatedgenerationofpddlencodedattackpathsvialargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.03383",
+        "title:cve2apautomatedgenerationofpddlencodedattackpathsvialargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03312",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T00:19:50.751406+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "optimalplanninginadynamicworld",
+      "identity_keys": [
+        "arxiv:2610.03312",
+        "title:optimalplanninginadynamicworld"
+      ]
     }
   ]
 }
