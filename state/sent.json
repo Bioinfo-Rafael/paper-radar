@@ -32885,6 +32885,132 @@
         "arxiv:2610.41402",
         "title:dugodualscalegaussianmemoryforonlinetemporalactionlocalizationinegocentricproceduralvideos"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04345",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T19:22:31.047623+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "systemonemodelsforwirelessdecisionmakingapplicationsandperformanceevaluation",
+      "identity_keys": [
+        "arxiv:2610.04345",
+        "title:systemonemodelsforwirelessdecisionmakingapplicationsandperformanceevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04409",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T19:22:31.334085+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "understandingandmitigatinghallucinationescapeintoolusingllmagents",
+      "identity_keys": [
+        "arxiv:2610.04409",
+        "title:understandingandmitigatinghallucinationescapeintoolusingllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06950",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T19:22:31.813452+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtodecidenottoreasonparameterefficientdecisionoperatorsvialowrankactivationsteering",
+      "identity_keys": [
+        "arxiv:2610.06950",
+        "title:learningtodecidenottoreasonparameterefficientdecisionoperatorsvialowrankactivationsteering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04475",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T19:22:32.220956+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vclmumechanismcentricvirtualcellworldmodelingforperturbationresponse",
+      "identity_keys": [
+        "arxiv:2610.04475",
+        "title:vclmumechanismcentricvirtualcellworldmodelingforperturbationresponse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04631",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T19:22:33.012352+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thenumericallinearalgebraoflargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.04631",
+        "title:thenumericallinearalgebraoflargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04539",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T19:22:33.314742+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "actionconsequencealignmentforreliableplanningandselfimprovinginlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.04539",
+        "title:actionconsequencealignmentforreliableplanningandselfimprovinginlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04168",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T19:22:33.712399+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticcognitivedepthoperationalcriteriaforevaluatingllmagents",
+      "identity_keys": [
+        "arxiv:2610.04168",
+        "title:agenticcognitivedepthoperationalcriteriaforevaluatingllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04301",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T19:22:33.996644+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "envdreamerlargescalemultimodaltoenvironmentgenerationforembodiedai",
+      "identity_keys": [
+        "arxiv:2610.04301",
+        "title:envdreamerlargescalemultimodaltoenvironmentgenerationforembodiedai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.40799",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T19:22:34.311545+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "captainapipelineforposttrainingcodeaspolicyrobotagents",
+      "identity_keys": [
+        "arxiv:2610.40799",
+        "title:captainapipelineforposttrainingcodeaspolicyrobotagents"
+      ]
     }
   ]
 }
