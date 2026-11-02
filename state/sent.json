@@ -32563,6 +32563,146 @@
         "arxiv:2610.03312",
         "title:optimalplanninginadynamicworld"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41736",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T05:18:26.305185+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "localitycontrolledoutofdistributionguidanceforrobustregulatorydnasequencedesign",
+      "identity_keys": [
+        "arxiv:2610.41736",
+        "title:localitycontrolledoutofdistributionguidanceforrobustregulatorydnasequencedesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41629",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T05:18:28.830737+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gritgradientmaskingforvisuallymisgroundedtokensintextrichreasoning",
+      "identity_keys": [
+        "arxiv:2610.41629",
+        "title:gritgradientmaskingforvisuallymisgroundedtokensintextrichreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41086",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T05:18:29.017137+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stochasticandnoisyoraclesinsmoothcontinuousoptimization",
+      "identity_keys": [
+        "arxiv:2610.41086",
+        "title:stochasticandnoisyoraclesinsmoothcontinuousoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41379",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T05:18:29.521912+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "riemannianoptimizationonunknownmanifoldsviastochasticproximalrefinement",
+      "identity_keys": [
+        "arxiv:2610.41379",
+        "title:riemannianoptimizationonunknownmanifoldsviastochasticproximalrefinement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41162",
+      "category": "ml",
+      "first_sent_at": "2026-11-02T05:18:29.677292+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frontiermatbenchmarkinglanguagemodelsatthefrontierofmaterialsrd",
+      "identity_keys": [
+        "arxiv:2610.41162",
+        "title:frontiermatbenchmarkinglanguagemodelsatthefrontierofmaterialsrd"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41245",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T05:18:30.309879+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memigselfevolvingmemoryconstructionforantibodyoptimization",
+      "identity_keys": [
+        "arxiv:2610.41245",
+        "title:memigselfevolvingmemoryconstructionforantibodyoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.42053",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T05:18:31.107725+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reaaroutedembodiedagentruntimeforasynchronousbraincerebellumcontrol",
+      "identity_keys": [
+        "arxiv:2610.42053",
+        "title:reaaroutedembodiedagentruntimeforasynchronousbraincerebellumcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.41169",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T05:18:31.784693+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "implicithopevaluatingknowledgeintegrationacrosscontextandmemory",
+      "identity_keys": [
+        "arxiv:2610.41169",
+        "title:implicithopevaluatingknowledgeintegrationacrosscontextandmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.03667",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T05:18:32.027072+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "planningtolearn",
+      "identity_keys": [
+        "arxiv:2610.03667",
+        "title:planningtolearn"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04109",
+      "category": "frontier",
+      "first_sent_at": "2026-11-02T05:18:32.213808+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seerselfevolvingeventreasoningandretrievalfortimeseriesforecasting",
+      "identity_keys": [
+        "arxiv:2610.04109",
+        "title:seerselfevolvingeventreasoningandretrievalfortimeseriesforecasting"
+      ]
     }
   ]
 }
