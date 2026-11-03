@@ -33123,6 +33123,146 @@
         "arxiv:2611.00186",
         "title:neuronsareallyouneed"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.02822",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T10:28:10.883667+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "disenforcingdisentanglingsemanticanchoringfrommotionforautoregressivevideodiffusion",
+      "identity_keys": [
+        "arxiv:2611.02822",
+        "title:disenforcingdisentanglingsemanticanchoringfrommotionforautoregressivevideodiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.01740",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T10:28:11.314870+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howdoeschainofthoughtsupervisionteachmodelstoreasonatheoreticalanalysis",
+      "identity_keys": [
+        "arxiv:2611.01740",
+        "title:howdoeschainofthoughtsupervisionteachmodelstoreasonatheoreticalanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03595",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T10:28:11.667793+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dynasolveraneuraloperatorforautoregressive4dflowpredictionwithdynamicboundaries",
+      "identity_keys": [
+        "arxiv:2611.03595",
+        "title:dynasolveraneuraloperatorforautoregressive4dflowpredictionwithdynamicboundaries"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03142",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T10:28:12.044133+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "depthgraftstructuralregularizationthroughhierarchicalcrosslayerkvreconstruction",
+      "identity_keys": [
+        "arxiv:2611.03142",
+        "title:depthgraftstructuralregularizationthroughhierarchicalcrosslayerkvreconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03293",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T10:28:57.543177+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "engineendogenousvariationalmultiscaleoptimizationforzerothorderllmfinetuning",
+      "identity_keys": [
+        "arxiv:2611.03293",
+        "title:engineendogenousvariationalmultiscaleoptimizationforzerothorderllmfinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.02797",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T10:28:58.433410+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfimprovebenchevaluatinggeneralizationinselfimprovingagents",
+      "identity_keys": [
+        "arxiv:2611.02797",
+        "title:selfimprovebenchevaluatinggeneralizationinselfimprovingagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03617",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T10:28:59.056940+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tracingthescientificdiscoverycapacityofllmstotheirtrainingdata",
+      "identity_keys": [
+        "arxiv:2611.03617",
+        "title:tracingthescientificdiscoverycapacityofllmstotheirtrainingdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04255",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T10:28:59.499464+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "groundedintimeamultisourcedatasetandbenchmarkfortemporalgroundinginroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2610.04255",
+        "title:groundedintimeamultisourcedatasetandbenchmarkfortemporalgroundinginroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03618",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T10:28:59.851645+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "strategistevolvingreasoningwithagents",
+      "identity_keys": [
+        "arxiv:2611.03618",
+        "title:strategistevolvingreasoningwithagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04195",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T10:29:00.108934+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memleakcrossusersemanticleakageinmultitenantaiagentmemory",
+      "identity_keys": [
+        "arxiv:2610.04195",
+        "title:memleakcrossusersemanticleakageinmultitenantaiagentmemory"
+      ]
     }
   ]
 }
