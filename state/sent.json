@@ -33011,6 +33011,118 @@
         "arxiv:2610.40799",
         "title:captainapipelineforposttrainingcodeaspolicyrobotagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00444",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T02:45:43.477468+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "clisplugandplayattentionaccelerationforvideodiffusionontpusviacertifiedstabilization",
+      "identity_keys": [
+        "arxiv:2611.00444",
+        "title:clisplugandplayattentionaccelerationforvideodiffusionontpusviacertifiedstabilization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00264",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T02:45:43.858723+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kinderkernelbasedindependenceforfairrepresentationlearningviaprototypespaceerasure",
+      "identity_keys": [
+        "arxiv:2611.00264",
+        "title:kinderkernelbasedindependenceforfairrepresentationlearningviaprototypespaceerasure"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00458",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T02:45:45.298074+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "prismnetdynamicroutingnetworkwithvlmguideddisentangledattributedistillationforexplainablefinegrainedproductretrieval",
+      "identity_keys": [
+        "arxiv:2611.00458",
+        "title:prismnetdynamicroutingnetworkwithvlmguideddisentangledattributedistillationforexplainablefinegrainedproductretrieval"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00580",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T02:45:46.014418+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evolvingscientificintelligencefromfragmentedevidencetodistributedexperimentalloops",
+      "identity_keys": [
+        "arxiv:2611.00580",
+        "title:evolvingscientificintelligencefromfragmentedevidencetodistributedexperimentalloops"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00513",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T02:45:46.163506+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldsketchsketchingworldmodelsforzeroshotmobilemanipulation",
+      "identity_keys": [
+        "arxiv:2611.00513",
+        "title:worldsketchsketchingworldmodelsforzeroshotmobilemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04767",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T02:45:46.511523+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flowpoliciesasactionsofskilllevelworldmodelslearnedandsymbolicabstractionsforlonghorizonplanning",
+      "identity_keys": [
+        "arxiv:2610.04767",
+        "title:flowpoliciesasactionsofskilllevelworldmodelslearnedandsymbolicabstractionsforlonghorizonplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04585",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T02:45:46.631934+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "frozeninaframethevelocityblindspotinjepaworldmodels",
+      "identity_keys": [
+        "arxiv:2610.04585",
+        "title:frozeninaframethevelocityblindspotinjepaworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00186",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T02:45:47.205301+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neuronsareallyouneed",
+      "identity_keys": [
+        "arxiv:2611.00186",
+        "title:neuronsareallyouneed"
+      ]
     }
   ]
 }
