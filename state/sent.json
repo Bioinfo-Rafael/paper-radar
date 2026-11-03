@@ -33263,6 +33263,104 @@
         "arxiv:2610.04195",
         "title:memleakcrossusersemanticleakageinmultitenantaiagentmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03146",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T13:20:17.081076+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "controllingsharpeninginllmposttraining",
+      "identity_keys": [
+        "arxiv:2611.03146",
+        "title:controllingsharpeninginllmposttraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03039",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T13:20:17.253819+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tsbsegasystematictimeseriessegmentationbenchmark",
+      "identity_keys": [
+        "arxiv:2611.03039",
+        "title:tsbsegasystematictimeseriessegmentationbenchmark"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03327",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T13:20:18.067246+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromfairtoaifairmetadatafirstinfrastructureforaienabledscience",
+      "identity_keys": [
+        "arxiv:2611.03327",
+        "title:fromfairtoaifairmetadatafirstinfrastructureforaienabledscience"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04303",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T13:20:18.322294+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whattopreserveinrecursivecomputationalocalpredictivesufficiencyprinciple",
+      "identity_keys": [
+        "arxiv:2610.04303",
+        "title:whattopreserveinrecursivecomputationalocalpredictivesufficiencyprinciple"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.02922",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T13:20:18.684855+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anintelligentsatellitemustdonothingwell",
+      "identity_keys": [
+        "arxiv:2611.02922",
+        "title:anintelligentsatellitemustdonothingwell"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.02930",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T13:20:19.220509+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pointpilotunifiedroboticmanipulationviaobjectcentric3dpointflowprediction",
+      "identity_keys": [
+        "arxiv:2611.02930",
+        "title:pointpilotunifiedroboticmanipulationviaobjectcentric3dpointflowprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04777",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T13:20:19.665540+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ariseadaptiveagenticreasoningwithimagegroundedselfevaluationforinterpretableibdassessment",
+      "identity_keys": [
+        "arxiv:2610.04777",
+        "title:ariseadaptiveagenticreasoningwithimagegroundedselfevaluationforinterpretableibdassessment"
+      ]
     }
   ]
 }
