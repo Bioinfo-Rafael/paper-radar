@@ -33361,6 +33361,175 @@
         "arxiv:2610.04777",
         "title:ariseadaptiveagenticreasoningwithimagegroundedselfevaluationforinterpretableibdassessment"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-025-02877-y",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-03T17:07:56.457807+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-025-02877-y",
+      "venue": "Nature methods",
+      "title_key": "squidiffpredictingcellulardevelopmentandresponsestoperturbationsusingadiffusionmodel",
+      "identity_keys": [
+        "doi:10.1038/s41592-025-02877-y",
+        "pubmed:41184550",
+        "title:squidiffpredictingcellulardevelopmentandresponsestoperturbationsusingadiffusionmodel"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.09.687403",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-03T17:07:56.908993+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.09.687403",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "heimdallamodularframeworkfortokenizationinsinglecellfoundationmodels",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.09.687403",
+        "title:heimdallamodularframeworkfortokenizationinsinglecellfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05373",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T17:07:57.637127+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsunbiasedonpolicydistillationforblockdiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.05373",
+        "title:towardsunbiasedonpolicydistillationforblockdiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06996",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T17:07:57.908605+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "maskguidedkvcacheevictioninblockdiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.06996",
+        "title:maskguidedkvcacheevictioninblockdiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05100",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T17:07:58.459252+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "metrometricenhancedtokenroutingoperator",
+      "identity_keys": [
+        "arxiv:2610.05100",
+        "title:metrometricenhancedtokenroutingoperator"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05290",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T17:07:58.670001+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "smoothedgradientmethodfornonconvexfederatedstochasticbileveloptimization",
+      "identity_keys": [
+        "arxiv:2610.05290",
+        "title:smoothedgradientmethodfornonconvexfederatedstochasticbileveloptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05070",
+      "category": "ml",
+      "first_sent_at": "2026-11-03T17:07:59.684506+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "outcomeguidedonpolicyselfdistillation",
+      "identity_keys": [
+        "arxiv:2610.05070",
+        "title:outcomeguidedonpolicyselfdistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05334",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T17:08:00.478553+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentdiscoverautonomousdiscoverywithminimalsearchscaffolding",
+      "identity_keys": [
+        "arxiv:2610.05334",
+        "title:agentdiscoverautonomousdiscoverywithminimalsearchscaffolding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.02833",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T17:08:00.641216+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reimaginingcomputationalquantumresearchwithaiscientists",
+      "identity_keys": [
+        "arxiv:2611.02833",
+        "title:reimaginingcomputationalquantumresearchwithaiscientists"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.06999",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T17:08:01.113904+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "proactivevlaaugmentingembodiedmemorythroughproactiveenvironmentexploration",
+      "identity_keys": [
+        "arxiv:2610.06999",
+        "title:proactivevlaaugmentingembodiedmemorythroughproactiveenvironmentexploration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03625",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T17:08:01.525940+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fadefactoredabilitydifficultyfilteringforonlinerlvrscheduling",
+      "identity_keys": [
+        "arxiv:2611.03625",
+        "title:fadefactoredabilitydifficultyfilteringforonlinerlvrscheduling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03087",
+      "category": "frontier",
+      "first_sent_at": "2026-11-03T17:08:01.767768+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mirareinforcingmultimodalreasoningviadeceptivecontextualaugmentation",
+      "identity_keys": [
+        "arxiv:2611.03087",
+        "title:mirareinforcingmultimodalreasoningviadeceptivecontextualaugmentation"
+      ]
     }
   ]
 }
