@@ -33826,6 +33826,152 @@
         "arxiv:2610.05418",
         "title:evomemvlastateevolutionmemoryforlonghorizonrobotmanipulation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cmpb.2026.109699",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-04T13:38:47.236800+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cmpb.2026.109699",
+      "venue": "Computer Methods and Programs in Biomedicine",
+      "title_key": "predictingcellfateviaintelligentporousmicrocapsulesamultiphysicscomputationaldesignframework",
+      "identity_keys": [
+        "doi:10.1016/j.cmpb.2026.109699",
+        "openalex:w7225128515",
+        "title:predictingcellfateviaintelligentporousmicrocapsulesamultiphysicscomputationaldesignframework"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.14812",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T13:38:47.987339+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.14812",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "depthprogressive3dseismicvelocitymodelbuildingvia2dgenerativediffusionmodels",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.14812",
+        "openalex:w7221821774",
+        "title:depthprogressive3dseismicvelocitymodelbuildingvia2dgenerativediffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.19885",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T13:38:48.329509+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.19885",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "generativemodellingformultivariatespatiotemporaldownscalingofmonthlyclimatefields",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.19885",
+        "openalex:w7221911629",
+        "title:generativemodellingformultivariatespatiotemporaldownscalingofmonthlyclimatefields"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/taslpro.2026.3671662",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T13:38:48.606130+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/taslpro.2026.3671662",
+      "venue": "IEEE Transactions on Audio Speech and Language Processing",
+      "title_key": "targetmatchingbasedgenerativemodelforspeechenhancement",
+      "identity_keys": [
+        "doi:10.1109/taslpro.2026.3671662",
+        "openalex:w7134818728",
+        "title:targetmatchingbasedgenerativemodelforspeechenhancement"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3805712.3809661",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T13:38:48.990164+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3805712.3809661",
+      "venue": "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+      "title_key": "generativeautobiddingwithunifiedmodelingandexploration",
+      "identity_keys": [
+        "doi:10.1145/3805712.3809661",
+        "openalex:w7161982889",
+        "title:generativeautobiddingwithunifiedmodelingandexploration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.28887",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T13:38:49.766258+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.28887",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "buildingairesearchteamsforautonomousdiscoveryoflinearattentionarchitectures",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.28887",
+        "openalex:w7223200820",
+        "title:buildingairesearchteamsforautonomousdiscoveryoflinearattentionarchitectures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05029",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T13:38:50.181844+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "drapdynamicsriskadaptiveplasticityforcontinuallearninginphysicalai",
+      "identity_keys": [
+        "arxiv:2611.05029",
+        "title:drapdynamicsriskadaptiveplasticityforcontinuallearninginphysicalai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05376",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T13:38:50.458596+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromautonomousagentstocognitivesymbiontstowardaiaugmentedhumanintelligence",
+      "identity_keys": [
+        "arxiv:2611.05376",
+        "title:fromautonomousagentstocognitivesymbiontstowardaiaugmentedhumanintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04940",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T13:38:51.401885+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "softwareworldmodelsfromconsequencepredictiontodecisionvalue",
+      "identity_keys": [
+        "arxiv:2610.04940",
+        "title:softwareworldmodelsfromconsequencepredictiontodecisionvalue"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05550",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T13:38:51.761421+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenlowpredictionerrormisleadsplanningdiagnosingrepresentationdynamicsanddecisionfailuresinlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.05550",
+        "title:whenlowpredictionerrormisleadsplanningdiagnosingrepresentationdynamicsanddecisionfailuresinlatentworldmodels"
+      ]
     }
   ]
 }
