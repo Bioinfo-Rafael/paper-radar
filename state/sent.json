@@ -33530,6 +33530,91 @@
         "arxiv:2611.03087",
         "title:mirareinforcingmultimodalreasoningviadeceptivecontextualaugmentation"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.28.762359",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-04T01:15:43.723985+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.28.762359",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "lotuslineageawareoptimaltransportreconstructscontinuousclonalfatedynamics",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.28.762359",
+        "title:lotuslineageawareoptimaltransportreconstructscontinuousclonalfatedynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.33845",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T01:15:45.047846+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.33845",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "builddontplayselfimprovingllmresearchagentsdevelopahearthstonebattlegroundsaithatrivalstopplayers",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.33845",
+        "openalex:w7223967381",
+        "title:builddontplayselfimprovingllmresearchagentsdevelopahearthstonebattlegroundsaithatrivalstopplayers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05197",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T01:15:45.235144+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromscientificobservationstomechanismsbenchmarkinghypothesisgenerationbyaiscientists",
+      "identity_keys": [
+        "arxiv:2610.05197",
+        "title:fromscientificobservationstomechanismsbenchmarkinghypothesisgenerationbyaiscientists"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05544",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T01:15:45.509984+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "softstrategyselectionforbatchmodeactivelearning",
+      "identity_keys": [
+        "arxiv:2610.05544",
+        "title:softstrategyselectionforbatchmodeactivelearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05492",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T01:15:46.206062+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whendoesretrievalhelpastudyofincontextadaptationinvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.05492",
+        "title:whendoesretrievalhelpastudyofincontextadaptationinvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03260",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T01:15:46.683716+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thecostofmismatchnoiseamplificationinzerothorderreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2611.03260",
+        "title:thecostofmismatchnoiseamplificationinzerothorderreinforcementlearning"
+      ]
     }
   ]
 }
