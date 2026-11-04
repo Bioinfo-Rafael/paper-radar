@@ -33972,6 +33972,133 @@
         "arxiv:2610.05550",
         "title:whenlowpredictionerrormisleadsplanningdiagnosingrepresentationdynamicsanddecisionfailuresinlatentworldmodels"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2604.11786",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T17:00:25.738662+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2604.11786",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "gentacgenerativemodelingandforecastingofsoccertactics",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2604.11786",
+        "openalex:w7154290358",
+        "title:gentacgenerativemodelingandforecastingofsoccertactics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07162",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T17:00:25.881299+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adversarialtrainingfordeephedginginnonstationarymarkets",
+      "identity_keys": [
+        "arxiv:2610.07162",
+        "title:adversarialtrainingfordeephedginginnonstationarymarkets"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07332",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T17:00:27.345237+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "structuringmoeexpertselectionforagenticreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.07332",
+        "title:structuringmoeexpertselectionforagenticreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07218",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T17:00:27.857545+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "constantcurvatureslicedgromovwassersteinforheterogeneouscrosscurvaturealignment",
+      "identity_keys": [
+        "arxiv:2610.07218",
+        "title:constantcurvatureslicedgromovwassersteinforheterogeneouscrosscurvaturealignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04492",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T17:00:28.473369+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hybridparticlevoxeldynamicsformultimodal3dworldsimulation",
+      "identity_keys": [
+        "arxiv:2611.04492",
+        "title:hybridparticlevoxeldynamicsformultimodal3dworldsimulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04870",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T17:00:28.903063+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "primesimageneralistworldmodelsimulatorfromlargescalecrossembodimentdemonstrations",
+      "identity_keys": [
+        "arxiv:2611.04870",
+        "title:primesimageneralistworldmodelsimulatorfromlargescalecrossembodimentdemonstrations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05093",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T17:00:29.534087+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "loopqfairclosedloopevaluationofquantizedvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2611.05093",
+        "title:loopqfairclosedloopevaluationofquantizedvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07261",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T17:00:29.947350+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "verifyingcoordinationinparallelcodingagentsnpbenchandaschedulingplanner",
+      "identity_keys": [
+        "arxiv:2610.07261",
+        "title:verifyingcoordinationinparallelcodingagentsnpbenchandaschedulingplanner"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07376",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T17:00:30.598484+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memcomemorycentriccollaborationforgeneralizingllmagentstounseenenvironments",
+      "identity_keys": [
+        "arxiv:2610.07376",
+        "title:memcomemorycentriccollaborationforgeneralizingllmagentstounseenenvironments"
+      ]
     }
   ]
 }
