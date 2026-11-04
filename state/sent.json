@@ -33756,6 +33756,76 @@
         "arxiv:2611.05155",
         "title:asynchronousrobotpolicies"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05207",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T10:30:14.127406+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiobjectivegenerativeoptimizationviaexpectedhypervolumefinetuning",
+      "identity_keys": [
+        "arxiv:2611.05207",
+        "title:multiobjectivegenerativeoptimizationviaexpectedhypervolumefinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.04988",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T10:30:14.865436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howlongnothowclosealearnedtemporalmetricforplanninginlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2610.04988",
+        "title:howlongnothowclosealearnedtemporalmetricforplanninginlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04392",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T10:30:15.468066+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aerovpafewstepflowmatchingcontrolovernonreconstructivejepalatentsforagileflightonedgehardware",
+      "identity_keys": [
+        "arxiv:2611.04392",
+        "title:aerovpafewstepflowmatchingcontrolovernonreconstructivejepalatentsforagileflightonedgehardware"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04972",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T10:30:15.636061+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cagingvisionlanguagenavigationforleggedrobotsviabarriercertifiedsafetyarchitecture",
+      "identity_keys": [
+        "arxiv:2611.04972",
+        "title:cagingvisionlanguagenavigationforleggedrobotsviabarriercertifiedsafetyarchitecture"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.05418",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T10:30:15.833505+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evomemvlastateevolutionmemoryforlonghorizonrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2610.05418",
+        "title:evomemvlastateevolutionmemoryforlonghorizonrobotmanipulation"
+      ]
     }
   ]
 }
