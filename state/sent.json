@@ -33615,6 +33615,147 @@
         "arxiv:2611.03260",
         "title:thecostofmismatchnoiseamplificationinzerothorderreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05207",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T05:40:02.751198+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multiobjectivegenerativeoptimizationviaexpectedhypervolumefinetuning",
+      "identity_keys": [
+        "arxiv:2611.05207",
+        "title:multiobjectivegenerativeoptimizationviaexpectedhypervolumefinetuning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04614",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T05:40:03.162399+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "policynetworkdiffusion",
+      "identity_keys": [
+        "arxiv:2611.04614",
+        "title:policynetworkdiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04878",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T05:40:03.686895+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "traceroutercausalsemanticroutingrealignmentviaoptimaltransport",
+      "identity_keys": [
+        "arxiv:2611.04878",
+        "title:traceroutercausalsemanticroutingrealignmentviaoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04465",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T05:40:03.988747+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "theoreticalanalysisofmuonontransformersfornexttokenprediction",
+      "identity_keys": [
+        "arxiv:2611.04465",
+        "title:theoreticalanalysisofmuonontransformersfornexttokenprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04337",
+      "category": "ml",
+      "first_sent_at": "2026-11-04T05:40:04.352520+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mitigatingspatialblindnessinmultipleinstancelearningforwholeslideimageanalysis",
+      "identity_keys": [
+        "arxiv:2611.04337",
+        "title:mitigatingspatialblindnessinmultipleinstancelearningforwholeslideimageanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04809",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T05:40:04.763388+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rahcruleaugmentedhyperrelationalknowledgegraphcompletionformaterialssynthesis",
+      "identity_keys": [
+        "arxiv:2611.04809",
+        "title:rahcruleaugmentedhyperrelationalknowledgegraphcompletionformaterialssynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.04371",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T05:40:04.942932+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedaiforscientificdiscoveryfromphysicalactiontoscientificevidence",
+      "identity_keys": [
+        "arxiv:2611.04371",
+        "title:embodiedaiforscientificdiscoveryfromphysicalactiontoscientificevidence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.07031",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T05:40:09.545911+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "artemisgeometrygroundedmultiagentdrivingworldmodelswithshared3dstateandprogressivememoryupdate",
+      "identity_keys": [
+        "arxiv:2610.07031",
+        "title:artemisgeometrygroundedmultiagentdrivingworldmodelswithshared3dstateandprogressivememoryupdate"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3845814.3850089",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T05:40:09.744924+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondllmservingcharacterizingvisionlanguageactionworkloadsforembodiedaisystemdesign",
+      "identity_keys": [
+        "arxiv:2610.05062",
+        "doi:10.1145/3845814.3850089",
+        "title:beyondllmservingcharacterizingvisionlanguageactionworkloadsforembodiedaisystemdesign"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05155",
+      "category": "frontier",
+      "first_sent_at": "2026-11-04T05:40:10.121878+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asynchronousrobotpolicies",
+      "identity_keys": [
+        "arxiv:2611.05155",
+        "title:asynchronousrobotpolicies"
+      ]
     }
   ]
 }
