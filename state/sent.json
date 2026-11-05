@@ -34099,6 +34099,190 @@
         "arxiv:2610.07376",
         "title:memcomemorycentriccollaborationforgeneralizingllmagentstounseenenvironments"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-11177-0",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-05T17:15:40.589460+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-11177-0",
+      "venue": "Nature",
+      "title_key": "decodingtheregulatoryprogramsgoverningglioblastomaplasticity",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-11177-0",
+        "pubmed:42983099",
+        "title:decodingtheregulatoryprogramsgoverningglioblastomaplasticity"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.11.02.763572",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-05T17:15:43.355234+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.11.02.763572",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "title_key": "biotrajxevaluatingbiologicalplausibilityinsinglecelltrajectoryinference",
+      "identity_keys": [
+        "doi:10.64898/2026.11.02.763572",
+        "openalex:w7225255003",
+        "title:biotrajxevaluatingbiologicalplausibilityinsinglecelltrajectoryinference"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.10.687595",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-05T17:15:43.480376+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.10.687595",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "barlowtrackaselfsupervisedframeworkforzeroshotmultiobjectcelltracking",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.10.687595",
+        "title:barlowtrackaselfsupervisedframeworkforzeroshotmultiobjectcelltracking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06000",
+      "category": "ml",
+      "first_sent_at": "2026-11-05T17:15:44.189814+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "intraarchitecturesourceattributionforstablediffusionanewtaskwithbenchmarkdatasetandbaseline",
+      "identity_keys": [
+        "arxiv:2611.06000",
+        "title:intraarchitecturesourceattributionforstablediffusionanewtaskwithbenchmarkdatasetandbaseline"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09092",
+      "category": "ml",
+      "first_sent_at": "2026-11-05T17:15:44.460269+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "NeurIPS 2026",
+      "title_key": "markmarkovadaptedrecurrentkernelsfordynamicoperatorconditioninginstatespacemodels",
+      "identity_keys": [
+        "arxiv:2610.09092",
+        "title:markmarkovadaptedrecurrentkernelsfordynamicoperatorconditioninginstatespacemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00034",
+      "category": "ml",
+      "first_sent_at": "2026-11-05T17:15:44.971528+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atrustworthyclinicaldecisionsupportframeworkforbraintumormriclassificationintegratingattentionguidedlearningexplainableaiandoutofdistributionvalidation",
+      "identity_keys": [
+        "arxiv:2611.00034",
+        "title:atrustworthyclinicaldecisionsupportframeworkforbraintumormriclassificationintegratingattentionguidedlearningexplainableaiandoutofdistributionvalidation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05869",
+      "category": "ml",
+      "first_sent_at": "2026-11-05T17:15:45.289756+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onconvergenceofgradienttemporaldifferencelearningwithregularizedcorrectionsandeligibilitytraces",
+      "identity_keys": [
+        "arxiv:2611.05869",
+        "title:onconvergenceofgradienttemporaldifferencelearningwithregularizedcorrectionsandeligibilitytraces"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06414",
+      "category": "ml",
+      "first_sent_at": "2026-11-05T17:15:46.511442+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "twistsandturnsagraphbasedbenchmarkandframeworkforlongtermmemoryinexplorationtasks",
+      "identity_keys": [
+        "arxiv:2611.06414",
+        "title:twistsandturnsagraphbasedbenchmarkandframeworkforlongtermmemoryinexplorationtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06049",
+      "category": "frontier",
+      "first_sent_at": "2026-11-05T17:15:47.128783+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reglosaselfevolvingpersonalmemoryagentwithrecursiveselfimprovement",
+      "identity_keys": [
+        "arxiv:2611.06049",
+        "title:reglosaselfevolvingpersonalmemoryagentwithrecursiveselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08927",
+      "category": "frontier",
+      "first_sent_at": "2026-11-05T17:15:47.308390+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canaiagentsmakeopenendedscientificdiscoveryevidencefromstation",
+      "identity_keys": [
+        "arxiv:2610.08927",
+        "title:canaiagentsmakeopenendedscientificdiscoveryevidencefromstation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06901",
+      "category": "frontier",
+      "first_sent_at": "2026-11-05T17:15:47.950135+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "motionguidedcontrastiveregularizationforlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2611.06901",
+        "title:motionguidedcontrastiveregularizationforlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06475",
+      "category": "frontier",
+      "first_sent_at": "2026-11-05T17:15:48.508761+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robocasamembenchmarkingenvironmentandprocessmemoryinlonghorizonmobilemanipulation",
+      "identity_keys": [
+        "arxiv:2611.06475",
+        "title:robocasamembenchmarkingenvironmentandprocessmemoryinlonghorizonmobilemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09127",
+      "category": "frontier",
+      "first_sent_at": "2026-11-05T17:15:48.896264+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cadfatherautonomouscadreconstructionthroughcoordinatedtooluse",
+      "identity_keys": [
+        "arxiv:2610.09127",
+        "title:cadfatherautonomouscadreconstructionthroughcoordinatedtooluse"
+      ]
     }
   ]
 }
