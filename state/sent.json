@@ -34283,6 +34283,133 @@
         "arxiv:2610.09127",
         "title:cadfatherautonomouscadreconstructionthroughcoordinatedtooluse"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41588-026-02781-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-06T01:22:55.454793+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41588-026-02781-x",
+      "venue": "Nature Genetics",
+      "title_key": "aninformationtheoreticframeworkforinferringtcelldynamicsfromsinglecellrnaandtcellreceptorsequencing",
+      "identity_keys": [
+        "doi:10.1038/s41588-026-02781-x",
+        "title:aninformationtheoreticframeworkforinferringtcelldynamicsfromsinglecellrnaandtcellreceptorsequencing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.05906",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T01:22:56.521913+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "charmcrosshardwareattentionwithremergemultistreammechanism",
+      "identity_keys": [
+        "arxiv:2611.05906",
+        "title:charmcrosshardwareattentionwithremergemultistreammechanism"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06518",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T01:22:56.971602+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "emorewardselfevolvingrewardcalibrationforemotionalvideogenerationrl",
+      "identity_keys": [
+        "arxiv:2611.06518",
+        "title:emorewardselfevolvingrewardcalibrationforemotionalvideogenerationrl"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06394",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T01:22:57.459732+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "koltaaphysicsinformedactivelearningframeworkforformulationdiscoverywithlimiteddata",
+      "identity_keys": [
+        "arxiv:2611.06394",
+        "title:koltaaphysicsinformedactivelearningframeworkforformulationdiscoverywithlimiteddata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.38266",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T01:22:58.128817+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.38266",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "recursiveselfimprovementinphysicalaimechanismsevidenceandevaluation",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.38266",
+        "openalex:w7224962589",
+        "title:recursiveselfimprovementinphysicalaimechanismsevidenceandevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09228",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T01:22:58.312036+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coevolvingrobotorchestratorsandpoliciesthroughdeployment",
+      "identity_keys": [
+        "arxiv:2610.09228",
+        "title:coevolvingrobotorchestratorsandpoliciesthroughdeployment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.08960",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T01:22:58.725861+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "directedtemporalrepresentationsforofflinevisualcontrol",
+      "identity_keys": [
+        "arxiv:2610.08960",
+        "title:directedtemporalrepresentationsforofflinevisualcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06710",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T01:22:59.304477+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whereisvlainferencetimespentbottlenecksandoptimizationinteractionsacrossgpus",
+      "identity_keys": [
+        "arxiv:2611.06710",
+        "title:whereisvlainferencetimespentbottlenecksandoptimizationinteractionsacrossgpus"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.06483",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T01:22:59.868578+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatdoesmultiturnreinforcementlearningreallyimproveinllmagents",
+      "identity_keys": [
+        "arxiv:2611.06483",
+        "title:whatdoesmultiturnreinforcementlearningreallyimproveinllmagents"
+      ]
     }
   ]
 }
