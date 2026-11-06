@@ -34777,6 +34777,121 @@
         "arxiv:2610.09215",
         "title:agarareinforcementlearningsubstrateforllmprogramevolution"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-025-02832-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-06T16:43:58.180793+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-025-02832-x",
+      "venue": "Nature methods",
+      "title_key": "monodmodelbaseddiscoveryandintegrationthroughfittingstochastictranscriptionaldynamicstosinglecellsequencingdata",
+      "identity_keys": [
+        "doi:10.1038/s41592-025-02832-x",
+        "pubmed:41203866",
+        "title:monodmodelbaseddiscoveryandintegrationthroughfittingstochastictranscriptionaldynamicstosinglecellsequencingdata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.10.30.763081",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-06T16:43:58.675342+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.10.30.763081",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "singlecellperturbationpredictionnearexperimentalreproducibilitywithgenesis",
+      "identity_keys": [
+        "doi:10.64898/2026.10.30.763081",
+        "pubmed:42990453",
+        "title:singlecellperturbationpredictionnearexperimentalreproducibilitywithgenesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33008",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T16:43:59.323437+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tracequerylearningwhattorecomputefromfulldenoisingtrajectoryindiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.33008",
+        "title:tracequerylearningwhattorecomputefromfulldenoisingtrajectoryindiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.39714",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T16:44:00.350284+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.39714",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "molrsiarecursiveselfimprovingaiagentformoleculardiscovery",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.39714",
+        "openalex:w7224803395",
+        "title:molrsiarecursiveselfimprovingaiagentformoleculardiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07939",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T16:44:00.871930+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wamsim01worldanchoredmemorymeetsonlinerlforconsistentandrealisticdrivingsimulation",
+      "identity_keys": [
+        "arxiv:2611.07939",
+        "title:wamsim01worldanchoredmemorymeetsonlinerlforconsistentandrealisticdrivingsimulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10846",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T16:44:01.119954+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "crossembodimentrobotfoundationworldmodelswithlatentactions",
+      "identity_keys": [
+        "arxiv:2610.10846",
+        "title:crossembodimentrobotfoundationworldmodelswithlatentactions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10787",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T16:44:01.540279+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "navgpt3harnessingcontextinahierarchicalnavigationruntime",
+      "identity_keys": [
+        "arxiv:2610.10787",
+        "title:navgpt3harnessingcontextinahierarchicalnavigationruntime"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08219",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T16:44:01.951289+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentr2scalingagentsforrealisticproductivityworkviarealsourcedatasynthesis",
+      "identity_keys": [
+        "arxiv:2611.08219",
+        "title:agentr2scalingagentsforrealisticproductivityworkviarealsourcedatasynthesis"
+      ]
     }
   ]
 }
