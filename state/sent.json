@@ -34410,6 +34410,160 @@
         "arxiv:2611.06483",
         "title:whatdoesmultiturnreinforcementlearningreallyimproveinllmagents"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.11.04.764311",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-06T05:51:57.578147+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.11.04.764311",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "spechtacleanefficientdetectionandvisualizationofcellspecificregulationinsinglecellbasedexperimentsusinganovelcombinatorialcomputationaltool",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.11.04.764311",
+        "title:spechtacleanefficientdetectionandvisualizationofcellspecificregulationinsinglecellbasedexperimentsusinganovelcombinatorialcomputationaltool"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07513",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T05:51:58.300121+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "concertinaembodyingmanipulationandcognitioninonediffusionvisionlanguagemodel",
+      "identity_keys": [
+        "arxiv:2611.07513",
+        "title:concertinaembodyingmanipulationandcognitioninonediffusionvisionlanguagemodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07998",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T05:51:59.337332+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsmultiscalemolecularrepresentationlearningthroughgeometrybasedfragmentationforpolymerpropertyprediction",
+      "identity_keys": [
+        "arxiv:2611.07998",
+        "title:towardsmultiscalemolecularrepresentationlearningthroughgeometrybasedfragmentationforpolymerpropertyprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07613",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T05:51:59.542127+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsrealtimefullwaveformlidartransformersviaintensityguidedtokenreductionandphysicsawareaugmentation",
+      "identity_keys": [
+        "arxiv:2611.07613",
+        "title:towardsrealtimefullwaveformlidartransformersviaintensityguidedtokenreductionandphysicsawareaugmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08394",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T05:52:00.122449+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "synthesisofovariancancermultiomicsdatasetsabiologyinformedevaluationframework",
+      "identity_keys": [
+        "arxiv:2611.08394",
+        "title:synthesisofovariancancermultiomicsdatasetsabiologyinformedevaluationframework"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08182",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T05:52:00.594701+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bumpbriefunexpectedmidinterpolationpeak",
+      "identity_keys": [
+        "arxiv:2611.08182",
+        "title:bumpbriefunexpectedmidinterpolationpeak"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07529",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T05:52:01.560496+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptiveexperimentationcanhidemodelerrordetectionlimitsandfalsificationbudget",
+      "identity_keys": [
+        "arxiv:2611.07529",
+        "title:adaptiveexperimentationcanhidemodelerrordetectionlimitsandfalsificationbudget"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08425",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T05:52:01.972633+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "failurepredictionandclassificationinvisionlanguageactionmodelsviacalibratedlatentprobing",
+      "identity_keys": [
+        "arxiv:2611.08425",
+        "title:failurepredictionandclassificationinvisionlanguageactionmodelsviacalibratedlatentprobing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09048",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T05:52:02.313634+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsfinancialworldmodeling",
+      "identity_keys": [
+        "arxiv:2610.09048",
+        "title:towardsfinancialworldmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09134",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T05:52:02.494612+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmodelsdreamofsuccessdiagnosingandrepairingfailureinsensitivityinrobotworldmodels",
+      "identity_keys": [
+        "arxiv:2610.09134",
+        "title:worldmodelsdreamofsuccessdiagnosingandrepairingfailureinsensitivityinrobotworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08341",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T05:52:02.966807+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "enhancinglocalandglobalstructureincompressedaiagentmemory",
+      "identity_keys": [
+        "arxiv:2611.08341",
+        "title:enhancinglocalandglobalstructureincompressedaiagentmemory"
+      ]
     }
   ]
 }
