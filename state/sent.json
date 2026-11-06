@@ -34676,6 +34676,107 @@
         "doi:10.1109/tro.2026.3749823",
         "title:asharedcontrolframeworkformobilerobotswithplanninglevelintentionprediction"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag807",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-06T13:31:53.550747+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag807",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "scphylogrngeneregulatorynetworkinferenceguidedbylineagetopologyinsinglecelldevelopmentaldata",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag807",
+        "pubmed:42989552",
+        "title:scphylogrngeneregulatorynetworkinferenceguidedbylineagetopologyinsinglecelldevelopmentaldata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13148-026-02215-9",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-06T13:31:53.857336+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13148-026-02215-9",
+      "venue": "Clinical epigenetics",
+      "title_key": "amultiomicsmendelianrandomizationframeworkidentifiespm25annotatedcandidateregulatorygenesandmethylationlinkedpathwaysindiabeticnephropathy",
+      "identity_keys": [
+        "doi:10.1186/s13148-026-02215-9",
+        "pubmed:42989327",
+        "title:amultiomicsmendelianrandomizationframeworkidentifiespm25annotatedcandidateregulatorygenesandmethylationlinkedpathwaysindiabeticnephropathy"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/nsr/nwag662",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T13:31:54.595534+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/nsr/nwag662",
+      "venue": "National Science Review",
+      "title_key": "selfevolvingembodiedai",
+      "identity_keys": [
+        "doi:10.1093/nsr/nwag662",
+        "openalex:w7127937934",
+        "title:selfevolvingembodiedai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07867",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T13:31:54.871835+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "playgen2learningrealtimeplayableworldswithexplicit3dstate",
+      "identity_keys": [
+        "arxiv:2611.07867",
+        "title:playgen2learningrealtimeplayableworldswithexplicit3dstate"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08449",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T13:31:55.009260+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vflashfastaccuratevisualplanningviaflashprimitivedecoding",
+      "identity_keys": [
+        "arxiv:2611.08449",
+        "title:vflashfastaccuratevisualplanningviaflashprimitivedecoding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41586-026-10479-7",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T13:31:55.323876+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41586-026-10479-7",
+      "venue": "Nature",
+      "title_key": "divergenturbanstormresponsetoconvectivefrontalandtropicalsystems",
+      "identity_keys": [
+        "doi:10.1038/s41586-026-10479-7",
+        "title:divergenturbanstormresponsetoconvectivefrontalandtropicalsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09215",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T13:31:55.467681+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agarareinforcementlearningsubstrateforllmprogramevolution",
+      "identity_keys": [
+        "arxiv:2610.09215",
+        "title:agarareinforcementlearningsubstrateforllmprogramevolution"
+      ]
     }
   ]
 }
