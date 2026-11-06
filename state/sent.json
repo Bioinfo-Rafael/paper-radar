@@ -34564,6 +34564,118 @@
         "arxiv:2611.08341",
         "title:enhancinglocalandglobalstructureincompressedaiagentmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07658",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T10:16:56.585904+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "artcrafterfeedforwardgenerationofarticulated3dobjectwithanalyticjointderivation",
+      "identity_keys": [
+        "arxiv:2611.07658",
+        "title:artcrafterfeedforwardgenerationofarticulated3dobjectwithanalyticjointderivation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08323",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T10:16:56.759259+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "polarityclassificationwithmultitasklearningsyntaxaugmentation",
+      "identity_keys": [
+        "arxiv:2611.08323",
+        "title:polarityclassificationwithmultitasklearningsyntaxaugmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08275",
+      "category": "ml",
+      "first_sent_at": "2026-11-06T10:16:57.316827+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aligningpolicyencoderswithashapeteacher",
+      "identity_keys": [
+        "arxiv:2611.08275",
+        "title:aligningpolicyencoderswithashapeteacher"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08318",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T10:16:58.025499+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningthetaskorlearningtheverifierrethinkingcriteriaexposureinembodiedselfimprovement",
+      "identity_keys": [
+        "arxiv:2611.08318",
+        "title:learningthetaskorlearningtheverifierrethinkingcriteriaexposureinembodiedselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08338",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T10:16:58.487431+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gpwmmodelingtheworldas3dparticlemotion",
+      "identity_keys": [
+        "arxiv:2611.08338",
+        "title:gpwmmodelingtheworldas3dparticlemotion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07850",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T10:16:58.654436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningroboticworldmodelswithsemanticandvisualfeedback",
+      "identity_keys": [
+        "arxiv:2611.07850",
+        "title:learningroboticworldmodelswithsemanticandvisualfeedback"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.09074",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T10:17:00.837918+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tapefficientlonghorizonagentpruningviatrajectoryanchoredrecovery",
+      "identity_keys": [
+        "arxiv:2610.09074",
+        "title:tapefficientlonghorizonagentpruningviatrajectoryanchoredrecovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3749823",
+      "category": "frontier",
+      "first_sent_at": "2026-11-06T10:17:00.998775+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3749823",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "asharedcontrolframeworkformobilerobotswithplanninglevelintentionprediction",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3749823",
+        "title:asharedcontrolframeworkformobilerobotswithplanninglevelintentionprediction"
+      ]
     }
   ]
 }
