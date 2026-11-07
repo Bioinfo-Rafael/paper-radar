@@ -34892,6 +34892,76 @@
         "arxiv:2611.08219",
         "title:agentr2scalingagentsforrealisticproductivityworkviarealsourcedatasynthesis"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10778",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T00:32:12.319097+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memowmhowworldmodelschangewhatagentsneedtoremember",
+      "identity_keys": [
+        "arxiv:2610.10778",
+        "title:memowmhowworldmodelschangewhatagentsneedtoremember"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03743",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T00:32:12.652655+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evomemstateevolvingmemorystateforpersonalagents",
+      "identity_keys": [
+        "arxiv:2611.03743",
+        "title:evomemstateevolvingmemorystateforpersonalagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43454",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T00:32:12.792595+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43454",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "datafragmentationasacriticalbottleneckindisasterresponseplanningtheevacaicasestudyforfloodriskassessment",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43454",
+        "title:datafragmentationasacriticalbottleneckindisasterresponseplanningtheevacaicasestudyforfloodriskassessment"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43401",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T00:32:12.948395+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43401",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "frombellmantoboltzmanntowardsakinetictheoryofcontrolledemergenceandmetacognition",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43401",
+        "title:frombellmantoboltzmanntowardsakinetictheoryofcontrolledemergenceandmetacognition"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10942",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T00:32:13.097959+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "storebenchalivecommerceenvironmentforevaluatingandtrainingautonomousoperatoragents",
+      "identity_keys": [
+        "arxiv:2610.10942",
+        "title:storebenchalivecommerceenvironmentforevaluatingandtrainingautonomousoperatoragents"
+      ]
     }
   ]
 }
