@@ -35032,6 +35032,107 @@
         "arxiv:2610.10926",
         "title:adaptivemultidiscriminatorwganframeworkforresourceconstrainedinternetofvehiclesusingreinforcementlearningandgametheory"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.10.24.761531",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-07T09:39:45.867934+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.24.761531",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "identificationofgenekineticspatternsimprovesrnavelocityandcellfatepredictionusingjulovelo",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.24.761531",
+        "doi:10.64898/2026.10.24.761531",
+        "title:identificationofgenekineticspatternsimprovesrnavelocityandcellfatepredictionusingjulovelo"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.10.23.761350",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-07T09:39:46.082054+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.23.761350",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "buildingvirtualcelldynamicsthatevolvewithbiologicalmeasurements",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.23.761350",
+        "doi:10.64898/2026.10.23.761350",
+        "title:buildingvirtualcelldynamicsthatevolvewithbiologicalmeasurements"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ads5033",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T09:39:47.084611+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ads5033",
+      "venue": "Science Robotics",
+      "title_key": "preciseanddexterousroboticmanipulationviahumanintheloopreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ads5033",
+        "title:preciseanddexterousroboticmanipulationviahumanintheloopreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07765",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T09:39:47.648359+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bigrounderbidirectionaltrainingunlocksthepotentialofguigrounding",
+      "identity_keys": [
+        "arxiv:2611.07765",
+        "title:bigrounderbidirectionaltrainingunlocksthepotentialofguigrounding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08082",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T09:39:47.817717+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dictllmposttrainingcompressionoflargelanguagemodelwithdictionarykernels",
+      "identity_keys": [
+        "arxiv:2611.08082",
+        "title:dictllmposttrainingcompressionoflargelanguagemodelwithdictionarykernels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/icee70628.2026.11710769",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T09:39:48.040522+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "2026 34th International Conference on Electrical Engineering (ICEE), 2026",
+      "title_key": "dualarmtabletoprearrangementwithmovablestackingandgapawarepushtransfers",
+      "identity_keys": [
+        "arxiv:2611.07726",
+        "doi:10.1109/icee70628.2026.11710769",
+        "title:dualarmtabletoprearrangementwithmovablestackingandgapawarepushtransfers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10118",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T09:39:48.345933+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "edgerockstrongreasoningatconstantmemory",
+      "identity_keys": [
+        "arxiv:2610.10118",
+        "title:edgerockstrongreasoningatconstantmemory"
+      ]
     }
   ]
 }
