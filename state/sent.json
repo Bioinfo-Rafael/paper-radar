@@ -34962,6 +34962,76 @@
         "arxiv:2610.10942",
         "title:storebenchalivecommerceenvironmentforevaluatingandtrainingautonomousoperatoragents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s11063-026-11888-5",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T05:23:39.989419+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s11063-026-11888-5",
+      "venue": "Neural Processing Letters",
+      "title_key": "sarpasemanticaugmentedreinforcementplanningframeworkformobilerobotobstacleavoidanceandpathoptimization",
+      "identity_keys": [
+        "doi:10.1007/s11063-026-11888-5",
+        "title:sarpasemanticaugmentedreinforcementplanningframeworkformobilerobotobstacleavoidanceandpathoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43398",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T05:23:40.378572+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43398",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "metacognizingseedai",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43398",
+        "title:metacognizingseedai"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s43684-026-00146-z",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T05:23:40.683696+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s43684-026-00146-z",
+      "venue": "Autonomous Intelligent Systems",
+      "title_key": "towardautonomousdecisionsupportinsemiconductormanufacturingareviewofplanningschedulingdispatchingandexecutioncontrol",
+      "identity_keys": [
+        "doi:10.1007/s43684-026-00146-z",
+        "title:towardautonomousdecisionsupportinsemiconductormanufacturingareviewofplanningschedulingdispatchingandexecutioncontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20641",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T05:23:41.017451+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "abridgekvcompressinglongreasoningintothekvcacheoflearnedpausetokens",
+      "identity_keys": [
+        "arxiv:2610.20641",
+        "title:abridgekvcompressinglongreasoningintothekvcacheoflearnedpausetokens"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10926",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T05:23:41.216292+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptivemultidiscriminatorwganframeworkforresourceconstrainedinternetofvehiclesusingreinforcementlearningandgametheory",
+      "identity_keys": [
+        "arxiv:2610.10926",
+        "title:adaptivemultidiscriminatorwganframeworkforresourceconstrainedinternetofvehiclesusingreinforcementlearningandgametheory"
+      ]
     }
   ]
 }
