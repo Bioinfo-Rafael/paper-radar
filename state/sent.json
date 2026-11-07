@@ -35203,6 +35203,148 @@
         "arxiv:2610.10381",
         "title:residualquantkvcachequantizationforloopedtransformerswith2bitresiduals"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.05.756786",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-07T15:35:22.581169+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.05.756786",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "efficientapproximatebayesianinferenceforlargeheterogeneousbiologicaldatasets",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.05.756786",
+        "title:efficientapproximatebayesianinferenceforlargeheterogeneousbiologicaldatasets"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3767308.3836331",
+      "category": "ml",
+      "first_sent_at": "2026-11-07T15:35:23.071777+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3767308.3836331",
+      "venue": "ACM International Conference on Multimedia (ACM MM)",
+      "title_key": "scanflowcontextawarefixationtransitionflowmatchingforgenerativescanpathprediction",
+      "identity_keys": [
+        "doi:10.1145/3767308.3836331",
+        "openalex:w7225335873",
+        "title:scanflowcontextawarefixationtransitionflowmatchingforgenerativescanpathprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12754",
+      "category": "ml",
+      "first_sent_at": "2026-11-07T15:35:23.410840+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "nvtesseractadcurriculumenhancedconditionaldiffusionformultivariatetimeseriesanomalydetection",
+      "identity_keys": [
+        "arxiv:2610.12754",
+        "title:nvtesseractadcurriculumenhancedconditionaldiffusionformultivariatetimeseriesanomalydetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12570",
+      "category": "ml",
+      "first_sent_at": "2026-11-07T15:35:23.795846+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "contextualcorrectionofparalleldraftsforspeculativedecoding",
+      "identity_keys": [
+        "arxiv:2610.12570",
+        "title:contextualcorrectionofparalleldraftsforspeculativedecoding"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2512.01030",
+      "category": "ml",
+      "first_sent_at": "2026-11-07T15:35:25.624138+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2512.01030",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "lotus2advancinggeometricdensepredictionwithpowerfulimagegenerativemodel",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2512.01030",
+        "openalex:w4416958102",
+        "title:lotus2advancinggeometricdensepredictionwithpowerfulimagegenerativemodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12789",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T15:35:26.247046+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evobelieffalsifiableworldmodelsforselfimprovingllmagents",
+      "identity_keys": [
+        "arxiv:2610.12789",
+        "title:evobelieffalsifiableworldmodelsforselfimprovingllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33018",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T15:35:26.375071+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sudofromscientificpublicationstoglobalscholarlydiscourse",
+      "identity_keys": [
+        "arxiv:2610.33018",
+        "title:sudofromscientificpublicationstoglobalscholarlydiscourse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12818",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T15:35:26.867977+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lewamendtoendworldandactionmodelingwithjepas",
+      "identity_keys": [
+        "arxiv:2610.12818",
+        "title:lewamendtoendworldandactionmodelingwithjepas"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12793",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T15:35:27.531804+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gammagroundedmultiagentmemorywithmechanicalauditformemoryintensivemanipulation",
+      "identity_keys": [
+        "arxiv:2610.12793",
+        "title:gammagroundedmultiagentmemorywithmechanicalauditformemoryintensivemanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12710",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T15:35:27.648197+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "remmrevisableembodiedmemoryformanipulation",
+      "identity_keys": [
+        "arxiv:2610.12710",
+        "title:remmrevisableembodiedmemoryformanipulation"
+      ]
     }
   ]
 }
