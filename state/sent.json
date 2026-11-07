@@ -35133,6 +35133,76 @@
         "arxiv:2610.10118",
         "title:edgerockstrongreasoningatconstantmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08209",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T12:08:33.030337+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboarcadebenchmarkingagenticrobotcontrol",
+      "identity_keys": [
+        "arxiv:2611.08209",
+        "title:roboarcadebenchmarkingagenticrobotcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10962",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T12:08:33.251157+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "iammdrobotskillselfassessmentthroughagenticintrospectionforunknownopenvocabularydomains",
+      "identity_keys": [
+        "arxiv:2610.10962",
+        "title:iammdrobotskillselfassessmentthroughagenticintrospectionforunknownopenvocabularydomains"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07689",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T12:08:33.712504+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mcphallubenchmarkingreasoningexecutionandmemoryhallucinationsinmcpagents",
+      "identity_keys": [
+        "arxiv:2611.07689",
+        "title:mcphallubenchmarkingreasoningexecutionandmemoryhallucinationsinmcpagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08369",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T12:08:33.873799+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "npcbenchaclinicalapprenticeshipbenchmarkformultimodalcarepathwayreasoninginnasopharyngealcarcinoma",
+      "identity_keys": [
+        "arxiv:2611.08369",
+        "title:npcbenchaclinicalapprenticeshipbenchmarkformultimodalcarepathwayreasoninginnasopharyngealcarcinoma"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.10381",
+      "category": "frontier",
+      "first_sent_at": "2026-11-07T12:08:34.057353+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "residualquantkvcachequantizationforloopedtransformerswith2bitresiduals",
+      "identity_keys": [
+        "arxiv:2610.10381",
+        "title:residualquantkvcachequantizationforloopedtransformerswith2bitresiduals"
+      ]
     }
   ]
 }
