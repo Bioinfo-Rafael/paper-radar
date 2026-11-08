@@ -35345,6 +35345,76 @@
         "arxiv:2610.12710",
         "title:remmrevisableembodiedmemoryformanipulation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.07730",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T00:28:23.311260+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seeingbeyondthenextstepworldmodelguidedhumanlikenavigationinmultiagentscenes",
+      "identity_keys": [
+        "arxiv:2611.07730",
+        "title:seeingbeyondthenextstepworldmodelguidedhumanlikenavigationinmultiagentscenes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14106",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T00:28:23.908756+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedzeroshottaskplanningviahardwareawarellmvlmintegrationforgroundedroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2610.14106",
+        "title:embodiedzeroshottaskplanningviahardwareawarellmvlmintegrationforgroundedroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43397",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T00:28:24.320656+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43397",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "ametacognitiveperspectiveonanomalydetectionwithvisionfoundationmodels",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43397",
+        "title:ametacognitiveperspectiveonanomalydetectionwithvisionfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3742267",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T00:28:24.548892+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3742267",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "differentialflatnessbasedpathplanningforsemirigidformationsofackermannsteeredvehicleswithobstacleavoidance",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3742267",
+        "title:differentialflatnessbasedpathplanningforsemirigidformationsofackermannsteeredvehicleswithobstacleavoidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.00044",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T00:28:24.754949+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sparsewamdrivingworldactionmodelsareworth16registertokens",
+      "identity_keys": [
+        "arxiv:2611.00044",
+        "title:sparsewamdrivingworldactionmodelsareworth16registertokens"
+      ]
     }
   ]
 }
