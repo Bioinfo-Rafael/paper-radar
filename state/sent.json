@@ -35471,6 +35471,63 @@
         "doi:10.1038/s42256-024-00946-z",
         "title:aninterpretablernafoundationmodelforexploringfunctionalrnamotifsinplants"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.ygeno.2026.111339",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-08T09:52:57.088924+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.ygeno.2026.111339",
+      "venue": "Genomics",
+      "title_key": "decoderscasinglecellalgorithmforquantifyingtranscriptionfactortargetregulatorydiscordance",
+      "identity_keys": [
+        "doi:10.1016/j.ygeno.2026.111339",
+        "pubmed:42998717",
+        "title:decoderscasinglecellalgorithmforquantifyingtranscriptionfactortargetregulatorydiscordance"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aed3973",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T09:52:58.358765+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aed3973",
+      "venue": "Science Robotics",
+      "title_key": "evolutionofhumanoidlocomotioncontrol",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aed3973",
+        "title:evolutionofhumanoidlocomotioncontrol"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3732969",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T09:52:58.753394+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3732969",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "distributedsafetyawaremotionplanningfordualarmsystemsviagaussianbeliefpropagationwithapplicationtocatenarydropperassembly",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3732969",
+        "title:distributedsafetyawaremotionplanningfordualarmsystemsviagaussianbeliefpropagationwithapplicationtocatenarydropperassembly"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00963-y",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T09:52:59.188298+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00963-y",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "visualcognitioninmultimodallargelanguagemodels",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00963-y",
+        "title:visualcognitioninmultimodallargelanguagemodels"
+      ]
     }
   ]
 }
