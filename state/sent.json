@@ -35415,6 +35415,62 @@
         "arxiv:2611.00044",
         "title:sparsewamdrivingworldactionmodelsareworth16registertokens"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.12761",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T05:22:38.386497+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "https://openreview.net/group?id=IEEE.org/IROS/2026/Workshop/FM-MRS#tab-recent-activity; https://zhourobotics.github.io/fm-mrs/",
+      "title_key": "verifiermediatedmultillmcoordinationformultirobotpathplanning",
+      "identity_keys": [
+        "arxiv:2610.12761",
+        "title:verifiermediatedmultillmcoordinationformultirobotpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3734856",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T05:22:38.944553+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3734856",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "mindthemarginsafetyandphysicalawareplanningforendtoendautonomousdriving",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3734856",
+        "title:mindthemarginsafetyandphysicalawareplanningforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3726377",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T05:22:39.132413+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3726377",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "symbolizersymbolicmodelfreetaskplanningwithvlms",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3726377",
+        "title:symbolizersymbolicmodelfreetaskplanningwithvlms"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-024-00946-z",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T05:22:39.606425+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-024-00946-z",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "aninterpretablernafoundationmodelforexploringfunctionalrnamotifsinplants",
+      "identity_keys": [
+        "doi:10.1038/s42256-024-00946-z",
+        "title:aninterpretablernafoundationmodelforexploringfunctionalrnamotifsinplants"
+      ]
     }
   ]
 }
