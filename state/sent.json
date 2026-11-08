@@ -35528,6 +35528,119 @@
         "doi:10.1038/s42256-024-00963-y",
         "title:visualcognitioninmultimodallargelanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.06.04.730241",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-08T16:04:09.978434+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.06.04.730241",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "scmtgreconstructssinglecelltemporaldynamicswithmarkovtransitiongenerators",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.06.04.730241",
+        "title:scmtgreconstructssinglecelltemporaldynamicswithmarkovtransitiongenerators"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2602.02928",
+      "category": "ml",
+      "first_sent_at": "2026-11-08T16:04:10.665729+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2602.02928",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "distancemarchingforgenerativemodeling",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2602.02928",
+        "openalex:w7127570089",
+        "title:distancemarchingforgenerativemodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14143",
+      "category": "ml",
+      "first_sent_at": "2026-11-08T16:04:11.374861+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "c2lueclinicallyalignedpatientlevelultrasounddiagnosisviaevidenceawaremultiinstancelearning",
+      "identity_keys": [
+        "arxiv:2610.14143",
+        "title:c2lueclinicallyalignedpatientlevelultrasounddiagnosisviaevidenceawaremultiinstancelearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14123",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T16:04:12.015447+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalmultiagentreasoningsystemsforknowledgegroundedmaterialsubstitution",
+      "identity_keys": [
+        "arxiv:2610.14123",
+        "title:hierarchicalmultiagentreasoningsystemsforknowledgegroundedmaterialsubstitution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14191",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T16:04:12.421536+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "observationreferencedtissuedeformationforecastingwithtooldrivenandresidualdynamics",
+      "identity_keys": [
+        "arxiv:2610.14191",
+        "title:observationreferencedtissuedeformationforecastingwithtooldrivenandresidualdynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14335",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T16:04:12.582890+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pilotguidinglonghorizonworldmodelplanningforrobotmanipulationwithvisualsubgoalsandpolicypriors",
+      "identity_keys": [
+        "arxiv:2610.14335",
+        "title:pilotguidinglonghorizonworldmodelplanningforrobotmanipulationwithvisualsubgoalsandpolicypriors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14406",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T16:04:12.987550+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memorywithoutcurationlearningmultistreamlatentmemoryforrobotpolicies",
+      "identity_keys": [
+        "arxiv:2610.14406",
+        "title:memorywithoutcurationlearningmultistreamlatentmemoryforrobotpolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tits.2026.3726085",
+      "category": "frontier",
+      "first_sent_at": "2026-11-08T16:04:58.811841+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tits.2026.3726085",
+      "venue": "IEEE Transactions on Intelligent Transportation Systems",
+      "title_key": "mafdacconstrainedmultiagentreinforcementlearningwithmultiheadactionfilteringforsafeaircrafttrajectoryplanning",
+      "identity_keys": [
+        "doi:10.1109/tits.2026.3726085",
+        "title:mafdacconstrainedmultiagentreinforcementlearningwithmultiheadactionfilteringforsafeaircrafttrajectoryplanning"
+      ]
     }
   ]
 }
