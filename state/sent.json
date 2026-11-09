@@ -35781,6 +35781,90 @@
         "arxiv:2610.14382",
         "title:anassafromhighlevelframeworktolowlevelarchitectureforspatialagenticai"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1137/25m180130x",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T10:52:17.460733+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1137/25m180130x",
+      "venue": "SIAM Journal on Mathematics of Data Science",
+      "title_key": "neuralnetworksandvirtualextendedformulations",
+      "identity_keys": [
+        "doi:10.1137/25m180130x",
+        "title:neuralnetworksandvirtualextendedformulations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09013",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T10:52:18.037460+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "knowevoknowledgeevolutionforproteinoptimization",
+      "identity_keys": [
+        "arxiv:2611.09013",
+        "title:knowevoknowledgeevolutionforproteinoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14228",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T10:52:18.502501+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latentworldactionmodelforguiagents",
+      "identity_keys": [
+        "arxiv:2610.14228",
+        "title:latentworldactionmodelforguiagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09355",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T10:52:18.868510+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "himemhippocampusinspiredmemoryconsolidationpruningandcompositionforvisionlanguageactionmodelsin3dscenes",
+      "identity_keys": [
+        "arxiv:2611.09355",
+        "title:himemhippocampusinspiredmemoryconsolidationpruningandcompositionforvisionlanguageactionmodelsin3dscenes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14341",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T10:52:19.363447+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coplanvlmcoordinatedpathplanningforarobotteamusingvisionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.14341",
+        "title:coplanvlmcoordinatedpathplanningforarobotteamusingvisionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09662",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T10:52:19.804622+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howmuchconversationhistorydoesanaiagentneed",
+      "identity_keys": [
+        "arxiv:2611.09662",
+        "title:howmuchconversationhistorydoesanaiagentneed"
+      ]
     }
   ]
 }
