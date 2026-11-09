@@ -35865,6 +35865,161 @@
         "arxiv:2611.09662",
         "title:howmuchconversationhistorydoesanaiagentneed"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.11.05.764549",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-09T19:47:23.701476+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.11.05.764549",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "calibratingdevelopmentaldynamicsfromsinglecellatlaseslineagepathsoutrunleastactionroutes",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.11.05.764549",
+        "title:calibratingdevelopmentaldynamicsfromsinglecellatlaseslineagepathsoutrunleastactionroutes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15227",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T19:47:24.277545+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "understandingunifiedvlmsfromattentionprobingtoguidancetuningformultimodalgeneration",
+      "identity_keys": [
+        "arxiv:2610.15227",
+        "title:understandingunifiedvlmsfromattentionprobingtoguidancetuningformultimodalgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14941",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T19:47:24.451660+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "compositionalaveragevelocitymodelingforefficientdiffusionofflinereinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.14941",
+        "title:compositionalaveragevelocitymodelingforefficientdiffusionofflinereinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3767308.3834965",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T19:47:24.642297+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pixargpixelasynchronousretrievalaugmenteddiffusionforfastandrealisticimagegeneration",
+      "identity_keys": [
+        "arxiv:2610.14713",
+        "doi:10.1145/3767308.3834965",
+        "title:pixargpixelasynchronousretrievalaugmenteddiffusionforfastandrealisticimagegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14672",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T19:47:24.907059+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "competitiondomainsmatterselectiveheadglobalizationfortrainingfreesparseattentioninvideodiffusiontransformers",
+      "identity_keys": [
+        "arxiv:2610.14672",
+        "title:competitiondomainsmatterselectiveheadglobalizationfortrainingfreesparseattentioninvideodiffusiontransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14473",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T19:47:25.276794+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffusionbasedauctionsformultiwinnerbannerads",
+      "identity_keys": [
+        "arxiv:2610.14473",
+        "title:diffusionbasedauctionsformultiwinnerbannerads"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14465",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T19:47:25.999016+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "coadaptiveruleroutingandconstrainingforstructuredknowledgeretrieval",
+      "identity_keys": [
+        "arxiv:2610.14465",
+        "title:coadaptiveruleroutingandconstrainingforstructuredknowledgeretrieval"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14626",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T19:47:26.222098+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tagbollmdriventaskawaregraphbayesianoptimizationforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.14626",
+        "title:tagbollmdriventaskawaregraphbayesianoptimizationforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14564",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T19:47:26.759421+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "chunkwisemodelbasedpolicyoptimization",
+      "identity_keys": [
+        "arxiv:2610.14564",
+        "title:chunkwisemodelbasedpolicyoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14772",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T19:47:27.372200+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howshouldacamerafirstaiagentwork",
+      "identity_keys": [
+        "arxiv:2610.14772",
+        "title:howshouldacamerafirstaiagentwork"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15038",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T19:47:27.604766+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingfreemultiagentcooperativeembodiedsearchfromuncertainvisionlanguagepriors",
+      "identity_keys": [
+        "arxiv:2610.15038",
+        "title:trainingfreemultiagentcooperativeembodiedsearchfromuncertainvisionlanguagepriors"
+      ]
     }
   ]
 }
