@@ -35641,6 +35641,146 @@
         "doi:10.1109/tits.2026.3726085",
         "title:mafdacconstrainedmultiagentreinforcementlearningwithmultiheadactionfilteringforsafeaircrafttrajectoryplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09795",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T05:37:32.204108+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aredittrainingfreeautoregressivevideoeditingwithoutinversion",
+      "identity_keys": [
+        "arxiv:2611.09795",
+        "title:aredittrainingfreeautoregressivevideoeditingwithoutinversion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09224",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T05:37:32.554910+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hmmfnetalightweighthierarchicalmultiframemultimodalfusionnetworkforaccuratefishfeedingintensityassessment",
+      "identity_keys": [
+        "arxiv:2611.09224",
+        "title:hmmfnetalightweighthierarchicalmultiframemultimodalfusionnetworkforaccuratefishfeedingintensityassessment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09493",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T05:37:32.845306+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fusionclipmultimodalcontrastivepretrainingforfusionplasmadiagnostics",
+      "identity_keys": [
+        "arxiv:2611.09493",
+        "title:fusionclipmultimodalcontrastivepretrainingforfusionplasmadiagnostics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09502",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T05:37:33.525751+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "timeomnilivecontinuouslivetimeseriesunderstandingwithlongtermmemory",
+      "identity_keys": [
+        "arxiv:2611.09502",
+        "title:timeomnilivecontinuouslivetimeseriesunderstandingwithlongtermmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08971",
+      "category": "ml",
+      "first_sent_at": "2026-11-09T05:37:33.808890+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phantomconsensusmeasuringsocialreasoninginmultiagentllmdecisionmaking",
+      "identity_keys": [
+        "arxiv:2611.08971",
+        "title:phantomconsensusmeasuringsocialreasoninginmultiagentllmdecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.08922",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T05:37:35.007542+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "glyphaninterpretabilityengineforaidrivenscientificdiscoveryinclinicaldata",
+      "identity_keys": [
+        "arxiv:2611.08922",
+        "title:glyphaninterpretabilityengineforaidrivenscientificdiscoveryinclinicaldata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14163",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T05:37:35.110587+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autoenvscalingautomatingthedataflywheelwithterminalagents",
+      "identity_keys": [
+        "arxiv:2610.14163",
+        "title:autoenvscalingautomatingthedataflywheelwithterminalagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09625",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T05:37:35.595129+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "encodingmemoryinworldmodelswithtesttimemodelbasedreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2611.09625",
+        "title:encodingmemoryinworldmodelswithtesttimemodelbasedreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09036",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T05:37:35.710666+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tooldexanegoexohumandemonstrationdatasetforcreativephysicaltooluse",
+      "identity_keys": [
+        "arxiv:2611.09036",
+        "title:tooldexanegoexohumandemonstrationdatasetforcreativephysicaltooluse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14382",
+      "category": "frontier",
+      "first_sent_at": "2026-11-09T05:37:36.020935+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anassafromhighlevelframeworktolowlevelarchitectureforspatialagenticai",
+      "identity_keys": [
+        "arxiv:2610.14382",
+        "title:anassafromhighlevelframeworktolowlevelarchitectureforspatialagenticai"
+      ]
     }
   ]
 }
