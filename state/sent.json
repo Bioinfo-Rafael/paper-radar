@@ -36020,6 +36020,146 @@
         "arxiv:2610.15038",
         "title:trainingfreemultiagentcooperativeembodiedsearchfromuncertainvisionlanguagepriors"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.10751",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T03:17:29.874249+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "constrainedlookaheadguidanceforinterferenceawareflowediting",
+      "identity_keys": [
+        "arxiv:2611.10751",
+        "title:constrainedlookaheadguidanceforinterferenceawareflowediting"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.10653",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T03:17:30.228488+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fgdsafrequencyguideddepthwiseseparableattentionforefficientdenseprediction",
+      "identity_keys": [
+        "arxiv:2611.10653",
+        "title:fgdsafrequencyguideddepthwiseseparableattentionforefficientdenseprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15097",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T03:17:30.411527+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anchorsenhancecontrollabilityandreasoningofdiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.15097",
+        "title:anchorsenhancecontrollabilityandreasoningofdiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15012",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T03:17:32.585678+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cowcareaunifiedvisualframeworkforviewpointrobustcattletrackingandspatiotemporalheatstressanalysis",
+      "identity_keys": [
+        "arxiv:2610.15012",
+        "title:cowcareaunifiedvisualframeworkforviewpointrobustcattletrackingandspatiotemporalheatstressanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.10212",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T03:17:33.067546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dismuseanefficientdistributedsingularspectrumbasedoptimizationapproachwiththeoreticalconvergenceguarantee",
+      "identity_keys": [
+        "arxiv:2611.10212",
+        "title:dismuseanefficientdistributedsingularspectrumbasedoptimizationapproachwiththeoreticalconvergenceguarantee"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14683",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T03:17:33.679629+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "triagepievoevidenceadmissionforprincipleevolvingscientificagents",
+      "identity_keys": [
+        "arxiv:2610.14683",
+        "title:triagepievoevidenceadmissionforprincipleevolvingscientificagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.10366",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T03:17:34.911667+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cpnavcalibratedvisionlanguagenavigationforobjectgoalsearchinunseenenvironments",
+      "identity_keys": [
+        "arxiv:2611.10366",
+        "title:cpnavcalibratedvisionlanguagenavigationforobjectgoalsearchinunseenenvironments"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.10769",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T03:17:35.108193+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lookaheadsearchdrivenreasoninginembodiedai",
+      "identity_keys": [
+        "arxiv:2611.10769",
+        "title:lookaheadsearchdrivenreasoninginembodiedai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.10660",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T03:17:35.314510+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dynamicsinformedactionlearningforgoalconditionedlatentplanning",
+      "identity_keys": [
+        "arxiv:2611.10660",
+        "title:dynamicsinformedactionlearningforgoalconditionedlatentplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14685",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T03:17:35.485594+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "demiurgeforgingnavigable4dworldsviaautoregressivevideorerendering",
+      "identity_keys": [
+        "arxiv:2610.14685",
+        "title:demiurgeforgingnavigable4dworldsviaautoregressivevideorerendering"
+      ]
     }
   ]
 }
