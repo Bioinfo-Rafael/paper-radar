@@ -36258,6 +36258,146 @@
         "arxiv:2610.14871",
         "title:morelearningmotionorientedregistersfordrivingworldmodelsandplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.11821",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T10:48:51.405287+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "directtrajectoryoptimizationforinferencetimealignmentoftexttoimagediffusionmodels",
+      "identity_keys": [
+        "arxiv:2611.11821",
+        "title:directtrajectoryoptimizationforinferencetimealignmentoftexttoimagediffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12791",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T10:48:51.676188+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "largelanguagemodelsasauniversalsearcherforopenworldautomatedmachinelearning",
+      "identity_keys": [
+        "arxiv:2611.12791",
+        "title:largelanguagemodelsasauniversalsearcherforopenworldautomatedmachinelearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.11902",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T10:48:52.067455+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spectralunlearningtransformerstructurepreservingupdatesforlanguagemodels",
+      "identity_keys": [
+        "arxiv:2611.11902",
+        "title:spectralunlearningtransformerstructurepreservingupdatesforlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.11890",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T10:48:52.484283+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingvisiontransformerstofocusemergenceofspatialattentionheadspecialization",
+      "identity_keys": [
+        "arxiv:2611.11890",
+        "title:trainingvisiontransformerstofocusemergenceofspatialattentionheadspecialization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12013",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T10:48:54.708352+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "enhancingmultistepchemicalmechanismpredictionwithgraphguidedpreferencedata",
+      "identity_keys": [
+        "arxiv:2611.12013",
+        "title:enhancingmultistepchemicalmechanismpredictionwithgraphguidedpreferencedata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12871",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T10:48:55.265944+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vendianomalyscoresforefficientandaccurateanomalydetection",
+      "identity_keys": [
+        "arxiv:2611.12871",
+        "title:vendianomalyscoresforefficientandaccurateanomalydetection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12762",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T10:48:55.387110+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sagetaiyiametacognitivearchitectureforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2611.12762",
+        "title:sagetaiyiametacognitivearchitectureforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aee0787",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T10:48:55.518847+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aee0787",
+      "venue": "Science Robotics",
+      "title_key": "advanceschallengesandopportunitiesforleggedrobots",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aee0787",
+        "title:advanceschallengesandopportunitiesforleggedrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12676",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T10:48:55.985659+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vlaadaptationwithrealandsimulateddataacasestudyonroboticchess",
+      "identity_keys": [
+        "arxiv:2611.12676",
+        "title:vlaadaptationwithrealandsimulateddataacasestudyonroboticchess"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ads6192",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T10:48:56.119692+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ads6192",
+      "venue": "Science Robotics",
+      "title_key": "highspeedcontrolandnavigationforquadrupedalrobotsoncomplexanddiscreteterrain",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ads6192",
+        "title:highspeedcontrolandnavigationforquadrupedalrobotsoncomplexanddiscreteterrain"
+      ]
     }
   ]
 }
