@@ -36398,6 +36398,35 @@
         "doi:10.1126/scirobotics.ads6192",
         "title:highspeedcontrolandnavigationforquadrupedalrobotsoncomplexanddiscreteterrain"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.06049",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T14:09:00.417397+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2611.06049",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "reglosaselfevolvingpersonalmemoryagentwithrecursiveselfimprovement",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.06049",
+        "openalex:w7225318298",
+        "title:reglosaselfevolvingpersonalmemoryagentwithrecursiveselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3744515",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T14:09:00.721011+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3744515",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "tactileforcealignmentinvisionlanguageactionmodelsforforceawaremanipulation",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3744515",
+        "title:tactileforcealignmentinvisionlanguageactionmodelsforforceawaremanipulation"
+      ]
     }
   ]
 }
