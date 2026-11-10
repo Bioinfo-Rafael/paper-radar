@@ -36427,6 +36427,189 @@
         "doi:10.1109/tro.2026.3744515",
         "title:tactileforcealignmentinvisionlanguageactionmodelsforforceawaremanipulation"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.07.757283",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-10T16:59:14.370399+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.07.757283",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "bayesianphylogeneticswithincompletelineagetracingdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.07.757283",
+        "title:bayesianphylogeneticswithincompletelineagetracingdata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41419-026-09117-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-10T16:59:14.542163+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41419-026-09117-x",
+      "venue": "Cell death & disease",
+      "title_key": "s100a11sustainsstrapstabilitytodrivepi3kaktnfbfeedforwardsignallingcircuitactivationincolorectalcancerprogression",
+      "identity_keys": [
+        "doi:10.1038/s41419-026-09117-x",
+        "pubmed:43003806",
+        "title:s100a11sustainsstrapstabilitytodrivepi3kaktnfbfeedforwardsignallingcircuitactivationincolorectalcancerprogression"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.15.688644",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-10T16:59:14.779088+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.15.688644",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "spatranslatoradeepgenerativeframeworkforuniversalspatialmultiomicscrossmodalitytranslation",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.15.688644",
+        "title:spatranslatoradeepgenerativeframeworkforuniversalspatialmultiomicscrossmodalitytranslation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15391",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T16:59:15.451352+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dcflowtargetconditionedcyclicpeptidedesignviadelayedcouplingflowmatching",
+      "identity_keys": [
+        "arxiv:2610.15391",
+        "title:dcflowtargetconditionedcyclicpeptidedesignviadelayedcouplingflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15414",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T16:59:15.627879+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "omnirsitaminglatentdiffusionforunifiedmultimodalremotesensingimagegeneration",
+      "identity_keys": [
+        "arxiv:2610.15414",
+        "title:omnirsitaminglatentdiffusionforunifiedmultimodalremotesensingimagegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15575",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T16:59:15.786093+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfrepresentationalignmentindiffusionmodelsforvideobackgroundmusicgeneration",
+      "identity_keys": [
+        "arxiv:2610.15575",
+        "title:selfrepresentationalignmentindiffusionmodelsforvideobackgroundmusicgeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15431",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T16:59:18.557535+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnessingspadnoisetesttimegatedattentionforindoordepthestimation",
+      "identity_keys": [
+        "arxiv:2610.15431",
+        "title:harnessingspadnoisetesttimegatedattentionforindoordepthestimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15307",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T16:59:19.087212+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fenasafewshotmetaensemblingframeworkforefficientneuralarchitecturesearchwithsynergizedzerocostproxies",
+      "identity_keys": [
+        "arxiv:2610.15307",
+        "title:fenasafewshotmetaensemblingframeworkforefficientneuralarchitecturesearchwithsynergizedzerocostproxies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15362",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T16:59:19.851291+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lerrnavlearningtocoordinateexplorationrecoveryandreminiscingforobjectnavigation",
+      "identity_keys": [
+        "arxiv:2610.15362",
+        "title:lerrnavlearningtocoordinateexplorationrecoveryandreminiscingforobjectnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12014",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T16:59:20.171541+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "benchmarkinglanguagemodelsandagentsforscientificreasoninginevolvingmaterialslaboratories",
+      "identity_keys": [
+        "arxiv:2611.12014",
+        "title:benchmarkinglanguagemodelsandagentsforscientificreasoninginevolvingmaterialslaboratories"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12806",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T16:59:20.398700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningheterogeneoustactilerepresentationforgeneraldexterousmanipulation",
+      "identity_keys": [
+        "arxiv:2611.12806",
+        "title:learningheterogeneoustactilerepresentationforgeneraldexterousmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15956",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T16:59:20.843047+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "adaptaudiodepthactionplanningwithtransitionawarerewardsforlightsoutindustrialnavigation",
+      "identity_keys": [
+        "arxiv:2610.15956",
+        "title:adaptaudiodepthactionplanningwithtransitionawarerewardsforlightsoutindustrialnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12382",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T16:59:21.121936+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autovladlearnatrajectorygeometricconditionfromreasoningforautonomousdrivingvla",
+      "identity_keys": [
+        "arxiv:2611.12382",
+        "title:autovladlearnatrajectorygeometricconditionfromreasoningforautonomousdrivingvla"
+      ]
     }
   ]
 }
