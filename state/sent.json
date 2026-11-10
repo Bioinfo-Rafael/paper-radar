@@ -36160,6 +36160,104 @@
         "arxiv:2610.14685",
         "title:demiurgeforgingnavigable4dworldsviaautoregressivevideorerendering"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14748",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T06:59:16.354990+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moredomainsnogainsflofastslowreciprocallearningformultidomaingraphpretraining",
+      "identity_keys": [
+        "arxiv:2610.14748",
+        "title:moredomainsnogainsflofastslowreciprocallearningformultidomaingraphpretraining"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15225",
+      "category": "ml",
+      "first_sent_at": "2026-11-10T06:59:16.858465+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zerothorderfinetuningofllmsinlearnablelowranksubspaces",
+      "identity_keys": [
+        "arxiv:2610.15225",
+        "title:zerothorderfinetuningofllmsinlearnablelowranksubspaces"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12552",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T06:59:17.438748+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scimarsmultiagentrecursiveselfimprovementforclosedloopscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2611.12552",
+        "title:scimarsmultiagentrecursiveselfimprovementforclosedloopscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.11887",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T06:59:17.872774+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howmanycandidatesdoesaonestepworldmodelneedarandomcodebookaccountofnearestofmtrainingonfrozendinotokens",
+      "identity_keys": [
+        "arxiv:2611.11887",
+        "title:howmanycandidatesdoesaonestepworldmodelneedarandomcodebookaccountofnearestofmtrainingonfrozendinotokens"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.11921",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T06:59:18.105890+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anevaluationoftabularfoundationmodelsastrainingfreeworldmodels",
+      "identity_keys": [
+        "arxiv:2611.11921",
+        "title:anevaluationoftabularfoundationmodelsastrainingfreeworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14727",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T06:59:18.352592+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mhwamultitimescalehierarchicalworldactionmodel",
+      "identity_keys": [
+        "arxiv:2610.14727",
+        "title:mhwamultitimescalehierarchicalworldactionmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14871",
+      "category": "frontier",
+      "first_sent_at": "2026-11-10T06:59:18.585472+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "morelearningmotionorientedregistersfordrivingworldmodelsandplanning",
+      "identity_keys": [
+        "arxiv:2610.14871",
+        "title:morelearningmotionorientedregistersfordrivingworldmodelsandplanning"
+      ]
     }
   ]
 }
