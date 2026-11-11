@@ -37049,6 +37049,76 @@
         "arxiv:2611.14009",
         "title:codingagentmemoryposttrainingiiunlockingthememorypotentialofpretrainedfileoperationsforlonghorizontasksviaonpolicydistillation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13592",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T13:37:13.042497+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fewshotresidualadaptationofpretrainedlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2611.13592",
+        "title:fewshotresidualadaptationofpretrainedlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14115",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T13:37:13.411766+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "leashstaysafeinagenticrobotics",
+      "identity_keys": [
+        "arxiv:2611.14115",
+        "title:leashstaysafeinagenticrobotics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3584504",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T13:37:13.610900+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3584504",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "dexsim2realmathbf2buildingexplicitworldmodelforprecisearticulatedobjectdexterousmanipulation",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3584504",
+        "title:dexsim2realmathbf2buildingexplicitworldmodelforprecisearticulatedobjectdexterousmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14488",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T13:37:13.985736+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "isyourrobotsmemoryjustaclocktemporalshortcutsinmemoryaugmentedvlapolicies",
+      "identity_keys": [
+        "arxiv:2611.14488",
+        "title:isyourrobotsmemoryjustaclocktemporalshortcutsinmemoryaugmentedvlapolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3747248",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T13:37:14.491728+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3747248",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "vlingnavembodiednavigationwithadaptivereasoningandvisualassistedlinguisticmemory",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3747248",
+        "title:vlingnavembodiednavigationwithadaptivereasoningandvisualassistedlinguisticmemory"
+      ]
     }
   ]
 }
