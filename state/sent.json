@@ -37119,6 +37119,163 @@
         "doi:10.1109/tro.2026.3747248",
         "title:vlingnavembodiednavigationwithadaptivereasoningandvisualassistedlinguisticmemory"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41588-026-02830-5",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T17:04:04.893255+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41588-026-02830-5",
+      "venue": "Nature genetics",
+      "title_key": "efficientcountbasedmodelsimprovepowerandrobustnessforlargescalesinglecelleqtlmapping",
+      "identity_keys": [
+        "doi:10.1038/s41588-026-02830-5",
+        "pubmed:43009566",
+        "title:efficientcountbasedmodelsimprovepowerandrobustnessforlargescalesinglecelleqtlmapping"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.10.05.756786",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T17:04:05.288031+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.10.05.756786",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "efficientapproximatebayesianinferenceforlargeheterogeneousbiologicaldatasets",
+      "identity_keys": [
+        "doi:10.64898/2026.10.05.756786",
+        "pubmed:42999181",
+        "title:efficientapproximatebayesianinferenceforlargeheterogeneousbiologicaldatasets"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17227",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T17:04:06.408695+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "areaadaptivereceptivefieldattentionforefficienthighresolutiondiffusiontransformers",
+      "identity_keys": [
+        "arxiv:2610.17227",
+        "title:areaadaptivereceptivefieldattentionforefficienthighresolutiondiffusiontransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17246",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T17:04:06.577542+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "llmtoflowdistillationteachingnaturallanguagegoalstoscientificgenerators",
+      "identity_keys": [
+        "arxiv:2610.17246",
+        "title:llmtoflowdistillationteachingnaturallanguagegoalstoscientificgenerators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.16792",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T17:04:07.178580+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "efficientpreconditionedoptimizationmethodswithfrequentdirections",
+      "identity_keys": [
+        "arxiv:2610.16792",
+        "title:efficientpreconditionedoptimizationmethodswithfrequentdirections"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.16828",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T17:04:07.607768+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thebellboundaryofsharedrepresentations",
+      "identity_keys": [
+        "arxiv:2610.16828",
+        "title:thebellboundaryofsharedrepresentations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17456",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T17:04:08.163659+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "compositionalrlevaluatingandtrainingllmsforcollaborativereasoning",
+      "identity_keys": [
+        "arxiv:2610.17456",
+        "title:compositionalrlevaluatingandtrainingllmsforcollaborativereasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17246",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T17:04:08.449574+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "llmtoflowdistillationteachingnaturallanguagegoalstoscientificgenerators",
+      "identity_keys": [
+        "arxiv:2610.17246",
+        "title:llmtoflowdistillationteachingnaturallanguagegoalstoscientificgenerators"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.16812",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T17:04:08.646843+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dassasolveradaptabledynamicauxiliarysearchstrategyforsymbolicregression",
+      "identity_keys": [
+        "arxiv:2610.16812",
+        "title:dassasolveradaptabledynamicauxiliarysearchstrategyforsymbolicregression"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.05376",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T17:04:09.174868+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2611.05376",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "fromautonomousagentstocognitivesymbiontstowardaiaugmentedhumanintelligence",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.05376",
+        "openalex:w7225241500",
+        "title:fromautonomousagentstocognitivesymbiontstowardaiaugmentedhumanintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14432",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T17:04:09.590012+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onepolicyfor100householdtasksoursolutionforthe2026behaviorchallenge",
+      "identity_keys": [
+        "arxiv:2611.14432",
+        "title:onepolicyfor100householdtasksoursolutionforthe2026behaviorchallenge"
+      ]
     }
   ]
 }
