@@ -36736,6 +36736,146 @@
         "arxiv:2611.12886",
         "title:reframeobservationalignedmultiteacheronpolicydistillationforagenticvisualreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14004",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T05:36:44.484084+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lumirdecoupledmultimodalrepresentationlearningfromheterogeneousdatafornextpoirecommendation",
+      "identity_keys": [
+        "arxiv:2611.14004",
+        "title:lumirdecoupledmultimodalrepresentationlearningfromheterogeneousdatafornextpoirecommendation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14035",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T05:36:44.627723+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalebrainascaleconsistentframeworkforeegfoundationmodels",
+      "identity_keys": [
+        "arxiv:2611.14035",
+        "title:scalebrainascaleconsistentframeworkforeegfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13626",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T05:36:44.840362+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flashmotionultrafastlongterm3dmotiongeneration",
+      "identity_keys": [
+        "arxiv:2611.13626",
+        "title:flashmotionultrafastlongterm3dmotiongeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13685",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T05:36:45.397520+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "egoguidanceenhancingrobotpolicylearningwithactionfreehumanegocentricvideos",
+      "identity_keys": [
+        "arxiv:2611.13685",
+        "title:egoguidanceenhancingrobotpolicylearningwithactionfreehumanegocentricvideos"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13779",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T05:36:45.778097+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "softnessissomethingyoualsoneedwhycompliancehelpscontrolinformationmetricsofapassivewalkerwithcompliantankle",
+      "identity_keys": [
+        "arxiv:2611.13779",
+        "title:softnessissomethingyoualsoneedwhycompliancehelpscontrolinformationmetricsofapassivewalkerwithcompliantankle"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14383",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T05:36:47.198577+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anenergybasedperspectiveonmachinelearning",
+      "identity_keys": [
+        "arxiv:2611.14383",
+        "title:anenergybasedperspectiveonmachinelearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14419",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T05:36:47.337919+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evaluatingllmgeneratedworldmodelsforneurosymbolicreasoning",
+      "identity_keys": [
+        "arxiv:2611.14419",
+        "title:evaluatingllmgeneratedworldmodelsforneurosymbolicreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15585",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T05:36:47.498229+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "streamingwamstreamingworldactionmodelingviachunkwisestaircaseflowmatching",
+      "identity_keys": [
+        "arxiv:2610.15585",
+        "title:streamingwamstreamingworldactionmodelingviachunkwisestaircaseflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14505",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T05:36:47.945584+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "continualarcmeasuringskillacquisitionoveraworkinglifetime",
+      "identity_keys": [
+        "arxiv:2611.14505",
+        "title:continualarcmeasuringskillacquisitionoveraworkinglifetime"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15582",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T05:36:48.124594+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "inversegarmentdesignwithvisualagents",
+      "identity_keys": [
+        "arxiv:2610.15582",
+        "title:inversegarmentdesignwithvisualagents"
+      ]
     }
   ]
 }
