@@ -36876,6 +36876,179 @@
         "arxiv:2610.15582",
         "title:inversegarmentdesignwithvisualagents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.01.31.702983",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T10:24:25.746105+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.01.31.702983",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "gravitydynamicgeneregulatorynetworkenhancedrnavelocitymodelingfortrajectoryinferenceandbiologicaldiscovery",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.01.31.702983",
+        "doi:10.64898/2026.01.31.702983",
+        "title:gravitydynamicgeneregulatorynetworkenhancedrnavelocitymodelingfortrajectoryinferenceandbiologicaldiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.06.11.731638",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T10:24:25.905730+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.06.11.731638",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "inferringcellfatetrajectoriesintimeresolvedmetabolicrnalabelingdata",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.06.11.731638",
+        "doi:10.64898/2026.06.11.731638",
+        "title:inferringcellfatetrajectoriesintimeresolvedmetabolicrnalabelingdata"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-74927-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T10:24:26.123813+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-74927-8",
+      "venue": null,
+      "title_key": "accuratetrajectoryinferenceintimeseriesspatialtranscriptomicswithstructurallyconstrainedoptimaltransport",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-74927-8",
+        "pubmed:42373665",
+        "title:accuratetrajectoryinferenceintimeseriesspatialtranscriptomicswithstructurallyconstrainedoptimaltransport"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1014346",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T10:24:26.289814+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pcbi.1014346",
+      "venue": null,
+      "title_key": "stpedfcelltrajectoryinferenceofspatialtranscriptomicsviaspatialproximityembeddingandspatialdensityadaptivefusion",
+      "identity_keys": [
+        "doi:10.1371/journal.pcbi.1014346",
+        "pubmed:42247447",
+        "title:stpedfcelltrajectoryinferenceofspatialtranscriptomicsviaspatialproximityembeddingandspatialdensityadaptivefusion"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.07.07.737136",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T10:24:26.572327+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.07.07.737136",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "generegulatorynetworkinferencerevealsitcf4iasakeyaplayerinneuroblastomageneexpressioncircuitry",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.07.07.737136",
+        "doi:10.64898/2026.07.07.737136",
+        "title:generegulatorynetworkinferencerevealsitcf4iasakeyaplayerinneuroblastomageneexpressioncircuitry"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13654",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T10:24:27.181485+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "egohmpachievingprecisehumanmotionpredictionin3dscenesviaegocentriccues",
+      "identity_keys": [
+        "arxiv:2611.13654",
+        "title:egohmpachievingprecisehumanmotionpredictionin3dscenesviaegocentriccues"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14281",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T10:24:27.359341+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "uniflowrsunifiedgenerativepredictionforheterogeneousremotesensingtasks",
+      "identity_keys": [
+        "arxiv:2611.14281",
+        "title:uniflowrsunifiedgenerativepredictionforheterogeneousremotesensingtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14514",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T10:24:28.308923+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "contrastivediscoveryopenendedscientificdiscoveryovercompetingexplanations",
+      "identity_keys": [
+        "arxiv:2611.14514",
+        "title:contrastivediscoveryopenendedscientificdiscoveryovercompetingexplanations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14483",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T10:24:28.495306+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mechanisticinterpretabilityneedsalogicofinference",
+      "identity_keys": [
+        "arxiv:2611.14483",
+        "title:mechanisticinterpretabilityneedsalogicofinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15556",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T10:24:29.117155+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "visionpredictoractiontowardsefficientembodiedaivianeurosymbolicjepapredictors",
+      "identity_keys": [
+        "arxiv:2610.15556",
+        "title:visionpredictoractiontowardsefficientembodiedaivianeurosymbolicjepapredictors"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15429",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T10:24:29.286672+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmodelingthroughspectralalignment",
+      "identity_keys": [
+        "arxiv:2610.15429",
+        "title:worldmodelingthroughspectralalignment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14009",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T10:24:29.716842+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "codingagentmemoryposttrainingiiunlockingthememorypotentialofpretrainedfileoperationsforlonghorizontasksviaonpolicydistillation",
+      "identity_keys": [
+        "arxiv:2611.14009",
+        "title:codingagentmemoryposttrainingiiunlockingthememorypotentialofpretrainedfileoperationsforlonghorizontasksviaonpolicydistillation"
+      ]
     }
   ]
 }
