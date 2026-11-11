@@ -36610,6 +36610,132 @@
         "arxiv:2611.12382",
         "title:autovladlearnatrajectorygeometricconditionfromreasoningforautonomousdrivingvla"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-61279-y",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-11T01:14:04.458372+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-61279-y",
+      "venue": "Nature Communications",
+      "title_key": "machinelearningassisteddecodingoftemporaltranscriptionaldynamicsviafluorescenttimer",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-61279-y",
+        "title:machinelearningassisteddecodingoftemporaltranscriptionaldynamicsviafluorescenttimer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15461",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T01:14:05.109572+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalablerobustmctswithanytimedeterministicoptimalityguarantees",
+      "identity_keys": [
+        "arxiv:2610.15461",
+        "title:scalablerobustmctswithanytimedeterministicoptimalityguarantees"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15498",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T01:14:05.461863+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "revisitedsupportvectormachinesaunifiedjointoptimizationframeworkwithnystrmapproximationforscalableadaptivelearning",
+      "identity_keys": [
+        "arxiv:2610.15498",
+        "title:revisitedsupportvectormachinesaunifiedjointoptimizationframeworkwithnystrmapproximationforscalableadaptivelearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.10563",
+      "category": "ml",
+      "first_sent_at": "2026-11-11T01:14:05.985965+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "confrontinguncertaintyinmechanismaicoupleddynamicalsystemsviaoptimaltransportandinformationgeometrypartidistributionlearning",
+      "identity_keys": [
+        "arxiv:2611.10563",
+        "title:confrontinguncertaintyinmechanismaicoupleddynamicalsystemsviaoptimaltransportandinformationgeometrypartidistributionlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12184",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T01:14:06.784000+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "blindvariationselectiveretentionimprovingcreativeideagenerationinaiscientists",
+      "identity_keys": [
+        "arxiv:2611.12184",
+        "title:blindvariationselectiveretentionimprovingcreativeideagenerationinaiscientists"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15368",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T01:14:07.097758+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "anteanticipatethenexecutelearninginternalworldmodelsforcodingagentsfromverifiedbeliefs",
+      "identity_keys": [
+        "arxiv:2610.15368",
+        "title:anteanticipatethenexecutelearninginternalworldmodelsforcodingagentsfromverifiedbeliefs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12136",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T01:14:07.425410+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lhnavlonghorizonhumanoidnavigationviamultiratecoordinationandphysicsgroundedactiondata",
+      "identity_keys": [
+        "arxiv:2611.12136",
+        "title:lhnavlonghorizonhumanoidnavigationviamultiratecoordinationandphysicsgroundedactiondata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.15675",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T01:14:07.595190+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recoveringlowbitfailuresinvisionlanguageactionpoliciesviaquantizationconditionedreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.15675",
+        "title:recoveringlowbitfailuresinvisionlanguageactionpoliciesviaquantizationconditionedreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12886",
+      "category": "frontier",
+      "first_sent_at": "2026-11-11T01:14:53.077277+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reframeobservationalignedmultiteacheronpolicydistillationforagenticvisualreasoning",
+      "identity_keys": [
+        "arxiv:2611.12886",
+        "title:reframeobservationalignedmultiteacheronpolicydistillationforagenticvisualreasoning"
+      ]
     }
   ]
 }
