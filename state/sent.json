@@ -37543,6 +37543,76 @@
         "doi:10.1109/tro.2025.3559404",
         "title:alearningbasedmethodforcomputingselfmotionmanifoldsofredundantrobotsforrealtimefaulttolerantmotionplanning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14048",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T14:30:12.167632+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "last05ageneralistworldactionmodelwithinteractioncentriclatentreasoning",
+      "identity_keys": [
+        "arxiv:2611.14048",
+        "title:last05ageneralistworldactionmodelwithinteractioncentriclatentreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13776",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T14:30:12.648441+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "disasteragentanevidencedrivenagentforverifiabledisasterreportgenerationfromremotesensingimagery",
+      "identity_keys": [
+        "arxiv:2611.13776",
+        "title:disasteragentanevidencedrivenagentforverifiabledisasterreportgenerationfromremotesensingimagery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13935",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T14:30:12.884564+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "meowmedicalopenworldinteractivesegmentation",
+      "identity_keys": [
+        "arxiv:2611.13935",
+        "title:meowmedicalopenworldinteractivesegmentation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17043",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T14:30:13.139847+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neoslearningtointerleavesearchandvisualreasoning",
+      "identity_keys": [
+        "arxiv:2610.17043",
+        "title:neoslearningtointerleavesearchandvisualreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17426",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T14:30:13.580027+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reinforcementlearninginpartiallyverifiableenvironmentsforcoloncancertreatmentplanning",
+      "identity_keys": [
+        "arxiv:2610.17426",
+        "title:reinforcementlearninginpartiallyverifiableenvironmentsforcoloncancertreatmentplanning"
+      ]
     }
   ]
 }
