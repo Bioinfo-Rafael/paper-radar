@@ -37473,6 +37473,76 @@
         "arxiv:2610.16969",
         "title:unilapaunifiedlatentactionpolicyforcrossembodimentmanipulation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17434",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T10:38:51.460070+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldt3testtimetrainingaspersistentmemoryforrealtimevideoworldmodels",
+      "identity_keys": [
+        "arxiv:2610.17434",
+        "title:worldt3testtimetrainingaspersistentmemoryforrealtimevideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13669",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T10:38:51.759291+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acomputationalframeworkforunderstandingembodiedplans",
+      "identity_keys": [
+        "arxiv:2611.13669",
+        "title:acomputationalframeworkforunderstandingembodiedplans"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13712",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T10:38:53.137954+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "broadpersistentadvisingininteractivereinforcementlearningvialatentstateencoding",
+      "identity_keys": [
+        "arxiv:2611.13712",
+        "title:broadpersistentadvisingininteractivereinforcementlearningvialatentstateencoding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14382",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T10:38:53.506162+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cognitivemappingoflearningbythinkingmechanismsinlargelanguagemodels",
+      "identity_keys": [
+        "arxiv:2611.14382",
+        "title:cognitivemappingoflearningbythinkingmechanismsinlargelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3559404",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T10:38:53.657719+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3559404",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "alearningbasedmethodforcomputingselfmotionmanifoldsofredundantrobotsforrealtimefaulttolerantmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3559404",
+        "title:alearningbasedmethodforcomputingselfmotionmanifoldsofredundantrobotsforrealtimefaulttolerantmotionplanning"
+      ]
     }
   ]
 }
