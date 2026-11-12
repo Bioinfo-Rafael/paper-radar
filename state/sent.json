@@ -37276,6 +37276,104 @@
         "arxiv:2611.14432",
         "title:onepolicyfor100householdtasksoursolutionforthe2026behaviorchallenge"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.11.05.764481",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-12T02:13:18.963388+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.11.05.764481",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "inferringgeneregulatorynetworksfromsinglecellperturbationdatabyoptimizingcausalreachoflatentmediatordynamics",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.11.05.764481",
+        "title:inferringgeneregulatorynetworksfromsinglecellperturbationdatabyoptimizingcausalreachoflatentmediatordynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s44387-026-00169-0",
+      "category": "ml",
+      "first_sent_at": "2026-11-12T02:13:19.457120+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s44387-026-00169-0",
+      "venue": "npj Artificial Intelligence",
+      "title_key": "autoplasticneuralnetworkselfevolvingnetworkswithdynamicconnectivityandmodalityadaptation",
+      "identity_keys": [
+        "doi:10.1038/s44387-026-00169-0",
+        "title:autoplasticneuralnetworkselfevolvingnetworkswithdynamicconnectivityandmodalityadaptation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17370",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T02:13:20.100414+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnesstttlearntooptimizeharnessattesttimeforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.17370",
+        "title:harnesstttlearntooptimizeharnessattesttimeforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17439",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T02:13:20.230910+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "largelanguagemodelsextendknownresearchbutdonotcreatenewresearchdirections",
+      "identity_keys": [
+        "arxiv:2610.17439",
+        "title:largelanguagemodelsextendknownresearchbutdonotcreatenewresearchdirections"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.14018",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T02:13:20.661306+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboharnessasimpleharnessoutperformsvlaandworldactionmodels",
+      "identity_keys": [
+        "arxiv:2610.14018",
+        "title:roboharnessasimpleharnessoutperformsvlaandworldactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.16641",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T02:13:20.787267+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatlimitscrosstaskgeneralizationinworldactionmodels",
+      "identity_keys": [
+        "arxiv:2610.16641",
+        "title:whatlimitscrosstaskgeneralizationinworldactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ady5784",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T02:13:21.467152+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ady5784",
+      "venue": "Science Robotics",
+      "title_key": "autaneanautonomouscraneforsustainedportoperations",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ady5784",
+        "title:autaneanautonomouscraneforsustainedportoperations"
+      ]
     }
   ]
 }
