@@ -37374,6 +37374,105 @@
         "doi:10.1126/scirobotics.ady5784",
         "title:autaneanautonomouscraneforsustainedportoperations"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-73257-z",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-12T06:35:55.779184+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-73257-z",
+      "venue": "Nature Communications",
+      "title_key": "inferringstochasticdynamicsbybiophysicalneuralodeusingsinglecelltranscriptomics",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-73257-z",
+        "title:inferringstochasticdynamicsbybiophysicalneuralodeusingsinglecelltranscriptomics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.compmedimag.2026.102840",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-12T06:35:56.218997+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.compmedimag.2026.102840",
+      "venue": "Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society",
+      "title_key": "gazecausalnetcausalityinspiredgazeguidedregioninterventionforbreastultrasounddiagnosis",
+      "identity_keys": [
+        "doi:10.1016/j.compmedimag.2026.102840",
+        "pubmed:43014145",
+        "title:gazecausalnetcausalityinspiredgazeguidedregioninterventionforbreastultrasounddiagnosis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.11558",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T06:35:56.862894+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "infrarsiharnessingrecursiveselfimprovementfortraininginfrastructure",
+      "identity_keys": [
+        "arxiv:2611.11558",
+        "title:infrarsiharnessingrecursiveselfimprovementfortraininginfrastructure"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17114",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T06:35:56.973176+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dworldanexplicitworldlanguageactionmodelwithrecursiveselfimprovementunderdualcontrol",
+      "identity_keys": [
+        "arxiv:2610.17114",
+        "title:dworldanexplicitworldlanguageactionmodelwithrecursiveselfimprovementunderdualcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.17059",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T06:35:57.256126+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "patientwmtowardsgeneralizableclinicalworldmodelsviaunifiedpatientstates",
+      "identity_keys": [
+        "arxiv:2610.17059",
+        "title:patientwmtowardsgeneralizableclinicalworldmodelsviaunifiedpatientstates"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.16985",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T06:36:42.662240+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "augustusautonomousdrivingvlamodelwithunifiedgenerationandunderstanding",
+      "identity_keys": [
+        "arxiv:2610.16985",
+        "title:augustusautonomousdrivingvlamodelwithunifiedgenerationandunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.16969",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T06:36:42.816293+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unilapaunifiedlatentactionpolicyforcrossembodimentmanipulation",
+      "identity_keys": [
+        "arxiv:2610.16969",
+        "title:unilapaunifiedlatentactionpolicyforcrossembodimentmanipulation"
+      ]
     }
   ]
 }
