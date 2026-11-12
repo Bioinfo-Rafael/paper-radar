@@ -37613,6 +37613,119 @@
         "arxiv:2610.17426",
         "title:reinforcementlearninginpartiallyverifiableenvironmentsforcoloncancertreatmentplanning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.crmeth.2026.101664",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-12T17:33:04.415299+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.crmeth.2026.101664",
+      "venue": "Cell Reports Methods",
+      "title_key": "multivibaunifiedprobabilisticcontrastivelearningframeworkforatlasscaleintegrationofsinglecellmultiomicsdata",
+      "identity_keys": [
+        "doi:10.1016/j.crmeth.2026.101664",
+        "title:multivibaunifiedprobabilisticcontrastivelearningframeworkforatlasscaleintegrationofsinglecellmultiomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.19.689189",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-12T17:33:04.851583+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.19.689189",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "inferenceandvalidationofadynamicgeneregulatorynetworkinfluencingcellfateduringduchennemusculardystrophyinitiation",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.19.689189",
+        "title:inferenceandvalidationofadynamicgeneregulatorynetworkinfluencingcellfateduringduchennemusculardystrophyinitiation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19011",
+      "category": "ml",
+      "first_sent_at": "2026-11-12T17:33:05.372318+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pmodockbenchmarkingdockingspecificityandgeneralizationinmolecularoptimization",
+      "identity_keys": [
+        "arxiv:2610.19011",
+        "title:pmodockbenchmarkingdockingspecificityandgeneralizationinmolecularoptimization"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2610.36826",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T17:33:06.041708+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2610.36826",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "whenthecriticfallsbehindcoevolvingrubricsandharnessesforcontinualagentselfimprovement",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2610.36826",
+        "openalex:w7224088438",
+        "title:whenthecriticfallsbehindcoevolvingrubricsandharnessesforcontinualagentselfimprovement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19007",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T17:33:06.420350+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "actionjetslearningthelocalshapeoftheactionconditioneddatamanifold",
+      "identity_keys": [
+        "arxiv:2610.19007",
+        "title:actionjetslearningthelocalshapeoftheactionconditioneddatamanifold"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19129",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T17:33:07.788974+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "imagininggoalswithgeometrichorizonmodelsforpolicygeneralization",
+      "identity_keys": [
+        "arxiv:2610.19129",
+        "title:imagininggoalswithgeometrichorizonmodelsforpolicygeneralization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19155",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T17:33:08.344991+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "factamultimodalforceactiontrackfoundationmodelforhumantorobotdexterity",
+      "identity_keys": [
+        "arxiv:2610.19155",
+        "title:factamultimodalforceactiontrackfoundationmodelforhumantorobotdexterity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.12885",
+      "category": "frontier",
+      "first_sent_at": "2026-11-12T17:33:08.479102+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldincontextlearningforagenticrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2611.12885",
+        "title:worldincontextlearningforagenticrobotmanipulation"
+      ]
     }
   ]
 }
