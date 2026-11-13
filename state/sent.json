@@ -37796,6 +37796,162 @@
         "arxiv:2611.13903",
         "title:persistentmetricsemanticmaritimescenememoryfromopenvocabulary3dscenegraphs"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cell.2026.10.020",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-13T05:53:31.340362+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cell.2026.10.020",
+      "venue": "Cell",
+      "title_key": "steppinghistoneschartingasinglecellmultiomicpathtowardunderstandingthehumanbrain",
+      "identity_keys": [
+        "doi:10.1016/j.cell.2026.10.020",
+        "pubmed:43020016",
+        "title:steppinghistoneschartingasinglecellmultiomicpathtowardunderstandingthehumanbrain"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16417",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T05:53:31.910608+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vbotexo2egopolicylightweightdatacollectionandexocentrictoegocentricvideogeneration",
+      "identity_keys": [
+        "arxiv:2611.16417",
+        "title:vbotexo2egopolicylightweightdatacollectionandexocentrictoegocentricvideogeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.15585",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T05:53:32.033461+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "marginalpreservingcoupleddiffusioncompositionforlonghorizonplanning",
+      "identity_keys": [
+        "arxiv:2611.15585",
+        "title:marginalpreservingcoupleddiffusioncompositionforlonghorizonplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16265",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T05:53:32.373700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rectifiedloopedtransformer",
+      "identity_keys": [
+        "arxiv:2611.16265",
+        "title:rectifiedloopedtransformer"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16514",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T05:53:32.516383+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtemporaldynamicswithderivativerepresentationsfortimeseriesforecasting",
+      "identity_keys": [
+        "arxiv:2611.16514",
+        "title:learningtemporaldynamicswithderivativerepresentationsfortimeseriesforecasting"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.18653/2026.emnlp-main.1601",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T05:54:17.749872+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing, pp. 36404-36428 (2026)",
+      "title_key": "chjgbenchacomprehensivebenchmarkforchineselegaljudgmentgenerationwithdiagnosticevaluation",
+      "identity_keys": [
+        "arxiv:2611.15639",
+        "doi:10.18653/2026.emnlp-main.1601",
+        "title:chjgbenchacomprehensivebenchmarkforchineselegaljudgmentgenerationwithdiagnosticevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.15653",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T05:54:18.838950+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "amechanisticinterpretabilitystudyofanastronomyfoundationmodel",
+      "identity_keys": [
+        "arxiv:2611.15653",
+        "title:amechanisticinterpretabilitystudyofanastronomyfoundationmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16579",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T05:54:19.827908+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "actworldjepaactionconditionedjepaworldmodelsmeetlatentplanningforendtoendautonomousdriving",
+      "identity_keys": [
+        "arxiv:2611.16579",
+        "title:actworldjepaactionconditionedjepaworldmodelsmeetlatentplanningforendtoendautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16589",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T05:54:21.135045+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "stvlaspatialawareandtemporalmemoryforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2611.16589",
+        "title:stvlaspatialawareandtemporalmemoryforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18613",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T05:54:21.491314+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doesselfdistillationimprovereasoning",
+      "identity_keys": [
+        "arxiv:2610.18613",
+        "title:doesselfdistillationimprovereasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18860",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T05:54:21.738421+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aescodeaestheticcodegenerationwithdecoupledcrossmodalrewards",
+      "identity_keys": [
+        "arxiv:2610.18860",
+        "title:aescodeaestheticcodegenerationwithdecoupledcrossmodalrewards"
+      ]
     }
   ]
 }
