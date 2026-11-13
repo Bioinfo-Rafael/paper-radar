@@ -38036,6 +38036,90 @@
         "arxiv:2610.19302",
         "title:dtdddivergencetriggereddynamicdistillationforreliableonpolicysupervision"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41588-026-02813-6",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-13T13:46:20.142933+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41588-026-02813-6",
+      "venue": "Nature Genetics",
+      "title_key": "aunifiedframeworkfordefiningandanalyzingspatialnichesinspatialomicsdataanalysis",
+      "identity_keys": [
+        "doi:10.1038/s41588-026-02813-6",
+        "title:aunifiedframeworkfordefiningandanalyzingspatialnichesinspatialomicsdataanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16872",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T13:46:21.605719+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acecap0realworldcodeaspoliciesintheeraofexperience",
+      "identity_keys": [
+        "arxiv:2611.16872",
+        "title:acecap0realworldcodeaspoliciesintheeraofexperience"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19224",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T13:46:21.785658+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "endtoendvisionlanguageactionpoliciesforautonomouslunarroverdocking",
+      "identity_keys": [
+        "arxiv:2610.19224",
+        "title:endtoendvisionlanguageactionpoliciesforautonomouslunarroverdocking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16727",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T13:46:22.142457+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromfoundationvlmtoversatiledrivingvlmatripletincrementaltrainingapproach",
+      "identity_keys": [
+        "arxiv:2611.16727",
+        "title:fromfoundationvlmtoversatiledrivingvlmatripletincrementaltrainingapproach"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16487",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T13:46:22.332844+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hemerheterogeneousmemoryreconciliationforembodiedagentsviastructuredkvreuse",
+      "identity_keys": [
+        "arxiv:2611.16487",
+        "title:hemerheterogeneousmemoryreconciliationforembodiedagentsviastructuredkvreuse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18834",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T13:46:22.548283+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "game2realbenchdotoygamesrevealandtransfertorealworldvisualreasoning",
+      "identity_keys": [
+        "arxiv:2610.18834",
+        "title:game2realbenchdotoygamesrevealandtransfertorealworldvisualreasoning"
+      ]
     }
   ]
 }
