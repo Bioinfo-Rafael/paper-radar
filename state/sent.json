@@ -37726,6 +37726,76 @@
         "arxiv:2611.12885",
         "title:worldincontextlearningforagenticrobotmanipulation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18637",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T01:41:01.215282+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gridornodesprobingobjectmemoryinworldmodelsunderpartialobservability",
+      "identity_keys": [
+        "arxiv:2610.18637",
+        "title:gridornodesprobingobjectmemoryinworldmodelsunderpartialobservability"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18570",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T01:41:03.026132+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "orderconsistentlatentgeometryforreliableshorthorizonplanninginworldmodels",
+      "identity_keys": [
+        "arxiv:2610.18570",
+        "title:orderconsistentlatentgeometryforreliableshorthorizonplanninginworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19063",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T01:41:03.562615+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmembenchacomprehensivebenchmarkformemoryofvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2610.19063",
+        "title:worldmembenchacomprehensivebenchmarkformemoryofvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.14309",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T01:41:03.992078+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mmdmmeasuringmassivemultitaskdecisionmaking",
+      "identity_keys": [
+        "arxiv:2611.14309",
+        "title:mmdmmeasuringmassivemultitaskdecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.13903",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T01:41:04.194303+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "persistentmetricsemanticmaritimescenememoryfromopenvocabulary3dscenegraphs",
+      "identity_keys": [
+        "arxiv:2611.13903",
+        "title:persistentmetricsemanticmaritimescenememoryfromopenvocabulary3dscenegraphs"
+      ]
     }
   ]
 }
