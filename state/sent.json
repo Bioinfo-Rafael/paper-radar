@@ -38120,6 +38120,148 @@
         "arxiv:2610.18834",
         "title:game2realbenchdotoygamesrevealandtransfertorealworldvisualreasoning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-78811-3",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-13T17:16:49.896698+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-78811-3",
+      "venue": "Nature Communications",
+      "title_key": "scmomerapretrainingframeworkforinferringrobustcellularrepresentationsfromsinglecelltranscriptomes",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-78811-3",
+        "openalex:w4412987760",
+        "title:scmomerapretrainingframeworkforinferringrobustcellularrepresentationsfromsinglecelltranscriptomes"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-62837-0",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-13T17:16:50.119849+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-62837-0",
+      "venue": "Nature Communications",
+      "title_key": "timevaryingstimulithatprolongikkactivationpromotenuclearremodelingandmechanisticswitchingofnfbdynamics",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-62837-0",
+        "title:timevaryingstimulithatprolongikkactivationpromotenuclearremodelingandmechanisticswitchingofnfbdynamics"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.11.10.765622",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-13T17:16:50.741855+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.11.10.765622",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "sccodydistinguishesagingalignedfromdivergentdiseaseassociatedcellularremodeling",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.11.10.765622",
+        "title:sccodydistinguishesagingalignedfromdivergentdiseaseassociatedcellularremodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20687",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T17:16:51.430795+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "onpolicyresiduallearningfordiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2610.20687",
+        "title:onpolicyresiduallearningfordiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "openalex:w7225936940",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T17:16:52.925127+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+      "title_key": "bridgingefficiencyandscalabilityingenerativemodeling",
+      "identity_keys": [
+        "openalex:w7225936940",
+        "title:bridgingefficiencyandscalabilityingenerativemodeling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adp7854",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T17:16:53.627004+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adp7854",
+      "venue": "Science Robotics",
+      "title_key": "aspringtailinspiredmultimodalwalkingjumpingmicrorobot",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adp7854",
+        "title:aspringtailinspiredmultimodalwalkingjumpingmicrorobot"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22408",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T17:16:54.043037+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "echoesseeingbeyondthecurrentimageviarecursivehistorycompressionandprivilegedonpolicydistillation",
+      "identity_keys": [
+        "arxiv:2610.22408",
+        "title:echoesseeingbeyondthecurrentimageviarecursivehistorycompressionandprivilegedonpolicydistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20939",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T17:16:54.265601+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "maigymanopenallinoneplatformforguiagentevaluationandrltrainingacrossmobileandcomputerenvironments",
+      "identity_keys": [
+        "arxiv:2610.20939",
+        "title:maigymanopenallinoneplatformforguiagentevaluationandrltrainingacrossmobileandcomputerenvironments"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.jpowsour.2026.241947",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T17:16:54.434385+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.jpowsour.2026.241947",
+      "venue": "Journal of Power Sources",
+      "title_key": "agenticaiforintelligentbatterymanagementsystemsfromdiagnosistoautonomouscontrol",
+      "identity_keys": [
+        "doi:10.1016/j.jpowsour.2026.241947",
+        "openalex:w7225779310",
+        "title:agenticaiforintelligentbatterymanagementsystemsfromdiagnosistoautonomouscontrol"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ads4551",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T17:16:55.239086+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ads4551",
+      "venue": "Science Robotics",
+      "title_key": "hierarchicallydepictingvehicletrajectorywithstabilityincomplexenvironments",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ads4551",
+        "title:hierarchicallydepictingvehicletrajectorywithstabilityincomplexenvironments"
+      ]
     }
   ]
 }
