@@ -37952,6 +37952,90 @@
         "arxiv:2610.18860",
         "title:aescodeaestheticcodegenerationwithdecoupledcrossmodalrewards"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16718",
+      "category": "ml",
+      "first_sent_at": "2026-11-13T10:28:46.361765+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "musicrwkvamultimodalrwkvframeworkformusicrepresentationlearning",
+      "identity_keys": [
+        "arxiv:2611.16718",
+        "title:musicrwkvamultimodalrwkvframeworkformusicrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16645",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T10:28:46.875052+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rethinkingactionscontinuityawarepriorsforworldmodelplanning",
+      "identity_keys": [
+        "arxiv:2611.16645",
+        "title:rethinkingactionscontinuityawarepriorsforworldmodelplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16419",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T10:28:47.230872+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "iseewhatyouwantdecodinghierarchicaloperatorintentfromvisualteleoperationhistory",
+      "identity_keys": [
+        "arxiv:2611.16419",
+        "title:iseewhatyouwantdecodinghierarchicaloperatorintentfromvisualteleoperationhistory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16304",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T10:28:50.052941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "statealigninternalizingstateawaredecisionmakingforreliablemultiturntoolagentsviareinforcementlearning",
+      "identity_keys": [
+        "arxiv:2611.16304",
+        "title:statealigninternalizingstateawaredecisionmakingforreliablemultiturntoolagentsviareinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.18862",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T10:28:50.296439+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doubtlesstrainingfreecontrastivedecodingforefficientreasoning",
+      "identity_keys": [
+        "arxiv:2610.18862",
+        "title:doubtlesstrainingfreecontrastivedecodingforefficientreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.19302",
+      "category": "frontier",
+      "first_sent_at": "2026-11-13T10:28:50.455137+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dtdddivergencetriggereddynamicdistillationforreliableonpolicysupervision",
+      "identity_keys": [
+        "arxiv:2610.19302",
+        "title:dtdddivergencetriggereddynamicdistillationforreliableonpolicysupervision"
+      ]
     }
   ]
 }
