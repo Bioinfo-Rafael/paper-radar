@@ -38262,6 +38262,90 @@
         "doi:10.1126/scirobotics.ads4551",
         "title:hierarchicallydepictingvehicletrajectorywithstabilityincomplexenvironments"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.11.12.766125",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-14T01:14:03.679226+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.11.12.766125",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "graphguidedflowmatchingenablesbiologicallyinformedpredictionatsinglecellresolution",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.11.12.766125",
+        "title:graphguidedflowmatchingenablesbiologicallyinformedpredictionatsinglecellresolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.15131",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T01:14:04.784822+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "duoareciprocalworldmodelforfullduplexinteraction",
+      "identity_keys": [
+        "arxiv:2611.15131",
+        "title:duoareciprocalworldmodelforfullduplexinteraction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20693",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T01:14:06.336412+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "orbiadogeneratedvideosformaconsistent3dworld",
+      "identity_keys": [
+        "arxiv:2610.20693",
+        "title:orbiadogeneratedvideosformaconsistent3dworld"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16337",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T01:14:06.882696+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memoryefficientparallelpolicylearningforcollapsereactiveretreatviahybridterrainmodeling",
+      "identity_keys": [
+        "arxiv:2611.16337",
+        "title:memoryefficientparallelpolicylearningforcollapsereactiveretreatviahybridterrainmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16414",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T01:14:10.039669+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "smalllanguagemodelsforinferencecapabilityroutingeffectsofmodelcapacityandpromptoptimizationondownstreamqualityandefficiency",
+      "identity_keys": [
+        "arxiv:2611.16414",
+        "title:smalllanguagemodelsforinferencecapabilityroutingeffectsofmodelcapacityandpromptoptimizationondownstreamqualityandefficiency"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20675",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T01:14:10.316239+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "alphadianaameasurementsystemforagentsinverifiablereasoningtasks",
+      "identity_keys": [
+        "arxiv:2610.20675",
+        "title:alphadianaameasurementsystemforagentsinverifiablereasoningtasks"
+      ]
     }
   ]
 }
