@@ -38416,6 +38416,91 @@
         "arxiv:2610.20409",
         "title:hypersphericalcontrastiverepresentationsunlockplanningandexploration"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2026.101781",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-14T09:49:39.283084+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2026.101781",
+      "venue": "Cell systems",
+      "title_key": "multiomicsconstrainedkineticmodelsquantifypathwayrewiringandpredictmetabolicvulnerabilitiesinbrca1deficientovariancancer",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2026.101781",
+        "pubmed:43025426",
+        "title:multiomicsconstrainedkineticmodelsquantifypathwayrewiringandpredictmetabolicvulnerabilitiesinbrca1deficientovariancancer"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3619054",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T09:49:40.402001+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3619054",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "contactplanningformultileggedrobotsunderconstraintsthroughparallelmcts",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3619054",
+        "title:contactplanningformultileggedrobotsunderconstraintsthroughparallelmcts"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728368",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T09:49:40.636056+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728368",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "ritriemannianinformedtreesforcostadaptiveoptimalmotionplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728368",
+        "title:ritriemannianinformedtreesforcostadaptiveoptimalmotionplanning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3730291",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T09:49:40.826059+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3730291",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "vlpvoronoilikepathplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3730291",
+        "title:vlpvoronoilikepathplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20256",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T09:49:41.003791+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "longhorizonrlneedsmuon",
+      "identity_keys": [
+        "arxiv:2610.20256",
+        "title:longhorizonrlneedsmuon"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20116",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T09:49:41.352788+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "maximisingtransparencyincontextcompactionimprovesretentionoffactsandcommitmentsforlightweightcodingagents",
+      "identity_keys": [
+        "arxiv:2610.20116",
+        "title:maximisingtransparencyincontextcompactionimprovesretentionoffactsandcommitmentsforlightweightcodingagents"
+      ]
     }
   ]
 }
