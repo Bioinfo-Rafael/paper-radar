@@ -38346,6 +38346,76 @@
         "arxiv:2610.20675",
         "title:alphadianaameasurementsystemforagentsinverifiablereasoningtasks"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.16861",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T05:43:13.832794+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "visualcipherbenchbenchmarkingllmagentsonlonghorizonvisualreasoning",
+      "identity_keys": [
+        "arxiv:2611.16861",
+        "title:visualcipherbenchbenchmarkingllmagentsonlonghorizonvisualreasoning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43416",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T05:43:14.031895+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43416",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "crucibleamultiagentframeworkforautomatedannotationrubriccalibrationviaiterativeinterjudgedisagreementresolution",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43416",
+        "title:crucibleamultiagentframeworkforautomatedannotationrubriccalibrationviaiterativeinterjudgedisagreementresolution"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728329",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T05:43:14.221377+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728329",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "embodiedscenerearrangementplanning",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728329",
+        "title:embodiedscenerearrangementplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20786",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T05:43:14.399572+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evolvingbrainanadaptiveskillsystemformultimodalagentsselfevolutioninopenworlds",
+      "identity_keys": [
+        "arxiv:2610.20786",
+        "title:evolvingbrainanadaptiveskillsystemformultimodalagentsselfevolutioninopenworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20409",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T05:43:14.583141+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hypersphericalcontrastiverepresentationsunlockplanningandexploration",
+      "identity_keys": [
+        "arxiv:2610.20409",
+        "title:hypersphericalcontrastiverepresentationsunlockplanningandexploration"
+      ]
     }
   ]
 }
