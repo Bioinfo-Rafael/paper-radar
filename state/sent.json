@@ -38501,6 +38501,76 @@
         "arxiv:2610.20116",
         "title:maximisingtransparencyincontextcompactionimprovesretentionoffactsandcommitmentsforlightweightcodingagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20294",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T12:47:34.112185+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mmlarsirecursiveselfimprovementthroughrttandrtma",
+      "identity_keys": [
+        "arxiv:2610.20294",
+        "title:mmlarsirecursiveselfimprovementthroughrttandrtma"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20560",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T12:47:34.508163+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physgaaphysicsspacegroundedagenticframeworkforgeneralizableandinteractive3dcomposition",
+      "identity_keys": [
+        "arxiv:2610.20560",
+        "title:physgaaphysicsspacegroundedagenticframeworkforgeneralizableandinteractive3dcomposition"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43456",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T12:47:35.039237+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43456",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "fromdelegatestotrusteesaligningllmplannerswithabsentstakeholdersinclimatedecisionmaking",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43456",
+        "title:fromdelegatestotrusteesaligningllmplannerswithabsentstakeholdersinclimatedecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20245",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T12:47:35.198688+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "p2patchexploitguidedvulnerabilityrepair",
+      "identity_keys": [
+        "arxiv:2610.20245",
+        "title:p2patchexploitguidedvulnerabilityrepair"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.20312",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T12:48:20.379396+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reflectafterfailurebraininspiredselfevolvingagentsforembodiedspatialintelligence",
+      "identity_keys": [
+        "arxiv:2610.20312",
+        "title:reflectafterfailurebraininspiredselfevolvingagentsforembodiedspatialintelligence"
+      ]
     }
   ]
 }
