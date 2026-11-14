@@ -38571,6 +38571,106 @@
         "arxiv:2610.20312",
         "title:reflectafterfailurebraininspiredselfevolvingagentsforembodiedspatialintelligence"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.1101/2025.11.20.689377",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-14T15:42:50.177951+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.1101/2025.11.20.689377",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "causalityorientedregulatoryinferenceandrationaltranscriptomicreprogrammingdesignwithcascade",
+      "identity_keys": [
+        "biorxiv:10.1101/2025.11.20.689377",
+        "title:causalityorientedregulatoryinferenceandrationaltranscriptomicreprogrammingdesignwithcascade"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3767308.3836173",
+      "category": "ml",
+      "first_sent_at": "2026-11-14T15:42:50.946419+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3767308.3836173",
+      "venue": "ACM International Conference on Multimedia (ACM MM)",
+      "title_key": "cascadedcoordinatediffusionextendingthegenerativeparadigmfordocumentdewarping",
+      "identity_keys": [
+        "doi:10.1145/3767308.3836173",
+        "openalex:w7225848030",
+        "title:cascadedcoordinatediffusionextendingthegenerativeparadigmfordocumentdewarping"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22496",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T15:42:51.668231+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalingonlineexplorationforrobotagents",
+      "identity_keys": [
+        "arxiv:2610.22496",
+        "title:scalingonlineexplorationforrobotagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22445",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T15:42:52.053658+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "nullcontrolsarenecessarybutnotsufficientevaluatingacceptanceguardsforscientificdiscoveryandinterpretability",
+      "identity_keys": [
+        "arxiv:2610.22445",
+        "title:nullcontrolsarenecessarybutnotsufficientevaluatingacceptanceguardsforscientificdiscoveryandinterpretability"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22450",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T15:42:52.644542+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion. arXiv:2311.01017, 2023",
+      "title_key": "driveworld3devidenceconstrained3dworldmodelingandgenerativesimulationforrealworldautonomousdriving",
+      "identity_keys": [
+        "arxiv:2610.22450",
+        "title:driveworld3devidenceconstrained3dworldmodelingandgenerativesimulationforrealworldautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22556",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T15:42:53.158837+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenplanschangerememberreplanningguidedvisualmemoryforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.22556",
+        "title:whenplanschangerememberreplanningguidedvisualmemoryforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.13020",
+      "category": "frontier",
+      "first_sent_at": "2026-11-14T15:42:53.670391+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2611.13020",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "chipomniageneralpurposeaiagentforelectronicdesignautomation",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.13020",
+        "openalex:w7225800644",
+        "title:chipomniageneralpurposeaiagentforelectronicdesignautomation"
+      ]
     }
   ]
 }
