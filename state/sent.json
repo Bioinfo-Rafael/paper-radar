@@ -38797,6 +38797,62 @@
         "doi:10.1038/s42256-025-01044-4",
         "title:generalizedbiologicalfoundationmodelwithunifiednucleicacidandproteinlanguage"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.ads8528",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T10:18:22.678573+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.ads8528",
+      "venue": "Science Robotics",
+      "title_key": "embodiedintelligenceparadigmforhumanrobotcommunication",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.ads8528",
+        "title:embodiedintelligenceparadigmforhumanrobotcommunication"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.adu3922",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T10:18:23.278092+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.adu3922",
+      "venue": "Science Robotics",
+      "title_key": "learningcoordinatedbadmintonskillsforleggedmanipulators",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.adu3922",
+        "title:learningcoordinatedbadmintonskillsforleggedmanipulators"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.aeh9311",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T10:18:23.824662+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.aeh9311",
+      "venue": "Science",
+      "title_key": "thefirst1000daysmodelinglanguagelearningfromindividualchildrenseverydayspeech",
+      "identity_keys": [
+        "doi:10.1126/science.aeh9311",
+        "title:thefirst1000daysmodelinglanguagelearningfromindividualchildrenseverydayspeech"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3728332",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T10:18:25.049140+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3728332",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "consequencelearningfortrajectoryplanninginautonomousdriving",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3728332",
+        "title:consequencelearningfortrajectoryplanninginautonomousdriving"
+      ]
     }
   ]
 }
