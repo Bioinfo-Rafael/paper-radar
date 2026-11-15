@@ -38741,6 +38741,62 @@
         "arxiv:2610.22568",
         "title:repairingllmgeneratedspecificationswithdeterministicdiagnosis"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.robot.2026.105670",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T05:41:16.423528+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.robot.2026.105670",
+      "venue": "Robotics and Autonomous Systems",
+      "title_key": "egp2asampleefficientandgeneralizablereinforcementlearningframeworkforuavpathplanning",
+      "identity_keys": [
+        "doi:10.1016/j.robot.2026.105670",
+        "title:egp2asampleefficientandgeneralizablereinforcementlearningframeworkforuavpathplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22469",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T05:41:16.602811+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "testingtheplanningclaimsofllmbasedagentsagainstformalsemantics",
+      "identity_keys": [
+        "arxiv:2610.22469",
+        "title:testingtheplanningclaimsofllmbasedagentsagainstformalsemantics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22700",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T05:41:16.827617+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkingfromaboveefficientspatialreasoningwithbirdseyeviewvisualtokens",
+      "identity_keys": [
+        "arxiv:2610.22700",
+        "title:thinkingfromaboveefficientspatialreasoningwithbirdseyeviewvisualtokens"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-025-01044-4",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T05:41:17.216125+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-025-01044-4",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "generalizedbiologicalfoundationmodelwithunifiednucleicacidandproteinlanguage",
+      "identity_keys": [
+        "doi:10.1038/s42256-025-01044-4",
+        "title:generalizedbiologicalfoundationmodelwithunifiednucleicacidandproteinlanguage"
+      ]
     }
   ]
 }
