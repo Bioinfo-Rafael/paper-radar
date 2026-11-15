@@ -38671,6 +38671,76 @@
         "openalex:w7225800644",
         "title:chipomniageneralpurposeaiagentforelectronicdesignautomation"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43399",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T00:34:36.607418+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43399",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "fromimpassetoadaptationanintegratedllmsupportingmetacognitioninacognitivearchitecture",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43399",
+        "title:fromimpassetoadaptationanintegratedllmsupportingmetacognitioninacognitivearchitecture"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3695992",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T00:34:37.142347+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3695992",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "kinematicallyconstrainedmarchingforoptimalreedssheppnonholonomicpathplanningon2dcartesiangrids",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3695992",
+        "title:kinematicallyconstrainedmarchingforoptimalreedssheppnonholonomicpathplanningon2dcartesiangrids"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22668",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T00:34:37.386404+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromrelevantmemoriestosufficientevidencerethinkingmemoryutilizationinllmagents",
+      "identity_keys": [
+        "arxiv:2610.22668",
+        "title:fromrelevantmemoriestosufficientevidencerethinkingmemoryutilizationinllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33039",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T00:34:37.597897+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "nemotron35bolt74ba9b24gbahybridvisionlanguagemodelforlocalai",
+      "identity_keys": [
+        "arxiv:2610.33039",
+        "title:nemotron35bolt74ba9b24gbahybridvisionlanguagemodelforlocalai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.22568",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T00:34:38.006116+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "repairingllmgeneratedspecificationswithdeterministicdiagnosis",
+      "identity_keys": [
+        "arxiv:2610.22568",
+        "title:repairingllmgeneratedspecificationswithdeterministicdiagnosis"
+      ]
     }
   ]
 }
