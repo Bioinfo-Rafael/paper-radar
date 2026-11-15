@@ -38853,6 +38853,105 @@
         "doi:10.1109/lra.2026.3728332",
         "title:consequencelearningfortrajectoryplanninginautonomousdriving"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.11.11.766014",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-15T16:13:35.146644+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.11.11.766014",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "largelanguagemodelscomplementestablishedworkflowsformechanisticmodelconstructionandrefinementinsystemsbiology",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.11.11.766014",
+        "title:largelanguagemodelscomplementestablishedworkflowsformechanisticmodelconstructionandrefinementinsystemsbiology"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.10.14.759129",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-15T16:13:35.327170+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.10.14.759129",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "xplaintdaexplainingthetopologicalstructureofsinglecellmultiomicsdatathroughperturbation",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.10.14.759129",
+        "title:xplaintdaexplainingthetopologicalstructureofsinglecellmultiomicsdatathroughperturbation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24291",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T16:13:36.692146+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "animportantbottleneckinllmoptimizersprinciplelevellocaloptima",
+      "identity_keys": [
+        "arxiv:2610.24291",
+        "title:animportantbottleneckinllmoptimizersprinciplelevellocaloptima"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24177",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T16:13:37.019942+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfimprovingvideotoactionmodels",
+      "identity_keys": [
+        "arxiv:2610.24177",
+        "title:selfimprovingvideotoactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.2991/978-2-38476-615-4_36",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T16:13:37.463024+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.2991/978-2-38476-615-4_36",
+      "venue": "Advances in Social Science, Education and Humanities Research/Advances in social science, education and humanities research",
+      "title_key": "aselfcorrectingagenticaiframeworkforautonomousplanningandcomplextaskexecution",
+      "identity_keys": [
+        "doi:10.2991/978-2-38476-615-4_36",
+        "openalex:w7212368411",
+        "title:aselfcorrectingagenticaiframeworkforautonomousplanningandcomplextaskexecution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24122",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T16:13:37.635049+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "havanaahierarchicalvideoactionmodelforvisionlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2610.24122",
+        "title:havanaahierarchicalvideoactionmodelforvisionlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30170",
+      "category": "frontier",
+      "first_sent_at": "2026-11-15T16:13:37.912829+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "acceleratingwildfirehazardmappingacrosscanadawithanaisurrogatemodellingframework",
+      "identity_keys": [
+        "arxiv:2610.30170",
+        "title:acceleratingwildfirehazardmappingacrosscanadawithanaisurrogatemodellingframework"
+      ]
     }
   ]
 }
