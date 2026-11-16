@@ -38952,6 +38952,76 @@
         "arxiv:2610.30170",
         "title:acceleratingwildfirehazardmappingacrosscanadawithanaisurrogatemodellingframework"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26903",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T00:47:35.108095+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beckmannworldmodelsdirectterminalmaplearningforonestepactionconditionedprediction",
+      "identity_keys": [
+        "arxiv:2610.26903",
+        "title:beckmannworldmodelsdirectterminalmaplearningforonestepactionconditionedprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23722",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T00:47:35.324887+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondlargelanguagemodelsamentalworldmodelframeworkformentalmodelingsimulationevolutionandinterpretability",
+      "identity_keys": [
+        "arxiv:2610.23722",
+        "title:beyondlargelanguagemodelsamentalworldmodelframeworkformentalmodelingsimulationevolutionandinterpretability"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3734926",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T00:47:35.855030+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3734926",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "parmaaposeawareriskmitigationapproachforendeffectorexecutioninvisionlanguageactionmodels",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3734926",
+        "title:parmaaposeawareriskmitigationapproachforendeffectorexecutioninvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24236",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T00:47:36.467879+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "preservingreasoningdiversityinreinforcementlearningwithverifiablerewardsviaadaptivereplay",
+      "identity_keys": [
+        "arxiv:2610.24236",
+        "title:preservingreasoningdiversityinreinforcementlearningwithverifiablerewardsviaadaptivereplay"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24304",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T00:47:36.657618+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cmespectrumbenchcanllmsanalyzecondensedmatterspectraldata",
+      "identity_keys": [
+        "arxiv:2610.24304",
+        "title:cmespectrumbenchcanllmsanalyzecondensedmatterspectraldata"
+      ]
     }
   ]
 }
