@@ -39022,6 +39022,146 @@
         "arxiv:2610.24304",
         "title:cmespectrumbenchcanllmsanalyzecondensedmatterspectraldata"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18420",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T05:43:34.685421+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "graphdiffusiontransformerforinterpretablegenerationandinversedesignofdisorderedatomicstructures",
+      "identity_keys": [
+        "arxiv:2611.18420",
+        "title:graphdiffusiontransformerforinterpretablegenerationandinversedesignofdisorderedatomicstructures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.17650",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T05:43:34.882869+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "classifierguidedlatentdiffusionforsmallmoleculegeneration",
+      "identity_keys": [
+        "arxiv:2611.17650",
+        "title:classifierguidedlatentdiffusionforsmallmoleculegeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.17728",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T05:43:35.250535+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aspectralframeworkforuniversalproxyregularizationinmodelmerging",
+      "identity_keys": [
+        "arxiv:2611.17728",
+        "title:aspectralframeworkforuniversalproxyregularizationinmodelmerging"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18359",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T05:43:35.518447+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "envisioningagenticroboticsaneweraofroboticsystems",
+      "identity_keys": [
+        "arxiv:2611.18359",
+        "title:envisioningagenticroboticsaneweraofroboticsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.17609",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T05:43:35.781676+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "homogeneouspursuitinmodel",
+      "identity_keys": [
+        "arxiv:2611.17609",
+        "title:homogeneouspursuitinmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.17775",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T05:43:36.578956+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondpredictiongainlasrasametricforactiongroundedlatentsinworldmodels",
+      "identity_keys": [
+        "arxiv:2611.17775",
+        "title:beyondpredictiongainlasrasametricforactiongroundedlatentsinworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18562",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T05:43:37.075061+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "trainingreasoningmodelsinsimulationtonativelyuserealrobots",
+      "identity_keys": [
+        "arxiv:2611.18562",
+        "title:trainingreasoningmodelsinsimulationtonativelyuserealrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18397",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T05:43:37.323758+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gamerageneralistvisionlanguageactionfoundationmodelforlonghorizonrealtimegameagent",
+      "identity_keys": [
+        "arxiv:2611.18397",
+        "title:gamerageneralistvisionlanguageactionfoundationmodelforlonghorizonrealtimegameagent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23574",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T05:43:37.739079+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "darwinclawenvironmentadaptiveexperienceconsolidationforrecursivelyselfevolvingagents",
+      "identity_keys": [
+        "arxiv:2610.23574",
+        "title:darwinclawenvironmentadaptiveexperienceconsolidationforrecursivelyselfevolvingagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24199",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T05:43:37.948532+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "distillationselftrainingandthefragilityoflearnedchemicalreasoning",
+      "identity_keys": [
+        "arxiv:2610.24199",
+        "title:distillationselftrainingandthefragilityoflearnedchemicalreasoning"
+      ]
     }
   ]
 }
