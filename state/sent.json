@@ -39162,6 +39162,90 @@
         "arxiv:2610.24199",
         "title:distillationselftrainingandthefragilityoflearnedchemicalreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18550",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T10:39:53.342718+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "restoringdiversityindistilledimageandvideogeneratorsbyprobingactivations",
+      "identity_keys": [
+        "arxiv:2611.18550",
+        "title:restoringdiversityindistilledimageandvideogeneratorsbyprobingactivations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18114",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T10:39:53.796876+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "interpretableweightspaceprogrammingbuildstransparenttransformersandbrainencodingmodels",
+      "identity_keys": [
+        "arxiv:2611.18114",
+        "title:interpretableweightspaceprogrammingbuildstransparenttransformersandbrainencodingmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.17608",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T10:39:54.000790+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "neuralsimulationbasedinferenceforcomputationalcognitivemodelsatutorial",
+      "identity_keys": [
+        "arxiv:2611.17608",
+        "title:neuralsimulationbasedinferenceforcomputationalcognitivemodelsatutorial"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24267",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T10:39:54.306519+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howexposedisworktoroboticsoccupationalindustryandgeographicmeasures",
+      "identity_keys": [
+        "arxiv:2610.24267",
+        "title:howexposedisworktoroboticsoccupationalindustryandgeographicmeasures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18372",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T10:40:39.716072+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "visionlanguageactionmodelsalifecyclesurveyofdesigntraininganddeployment",
+      "identity_keys": [
+        "arxiv:2611.18372",
+        "title:visionlanguageactionmodelsalifecyclesurveyofdesigntraininganddeployment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.23551",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T10:40:40.056699+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodimentawareplanningforheterogeneousbimanualmanipulation",
+      "identity_keys": [
+        "arxiv:2610.23551",
+        "title:embodimentawareplanningforheterogeneousbimanualmanipulation"
+      ]
     }
   ]
 }
