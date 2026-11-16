@@ -39316,6 +39316,146 @@
         "arxiv:2611.18130",
         "title:jfinbenchacontinuouslyrefreshablejapanesefinancialbenchmarkfromthelatestcertificationexams"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24897",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T19:28:47.639517+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "distributionbasedregularizationforrewardfinetuningdiffusionandflowmodels",
+      "identity_keys": [
+        "arxiv:2610.24897",
+        "title:distributionbasedregularizationforrewardfinetuningdiffusionandflowmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24501",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T19:28:48.198206+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hippofunctionalmemorycoordinatequeryableattentionforirregulartimeseries",
+      "identity_keys": [
+        "arxiv:2610.24501",
+        "title:hippofunctionalmemorycoordinatequeryableattentionforirregulartimeseries"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24491",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T19:28:48.749975+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vbomiadifferentiableblackboxoptimizationframeworkviavariationalmutualinformationestimation",
+      "identity_keys": [
+        "arxiv:2610.24491",
+        "title:vbomiadifferentiableblackboxoptimizationframeworkviavariationalmutualinformationestimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24775",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T19:28:51.447546+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "globalconvergenceindeepnetworksviathesecondlawofthermodynamics",
+      "identity_keys": [
+        "arxiv:2610.24775",
+        "title:globalconvergenceindeepnetworksviathesecondlawofthermodynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24535",
+      "category": "ml",
+      "first_sent_at": "2026-11-16T19:28:51.624357+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromscoretodiagnosissearchindependentpostdiagnosisforsymbolicregression",
+      "identity_keys": [
+        "arxiv:2610.24535",
+        "title:fromscoretodiagnosissearchindependentpostdiagnosisforsymbolicregression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33046",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T19:28:52.309996+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "organonfromevolutionarysearchtorecursiveselfimprovingagentsforscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.33046",
+        "title:organonfromevolutionarysearchtorecursiveselfimprovingagentsforscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24603",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T19:28:52.699261+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "refusetheharmcompletethetaskviagraphofrulesplanningforllmenabledrobots",
+      "identity_keys": [
+        "arxiv:2610.24603",
+        "title:refusetheharmcompletethetaskviagraphofrulesplanningforllmenabledrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26923",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T19:28:52.877129+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "camewmacausalmedicalworldmodelforgenerativetumorevolutionandtreatmentplanning",
+      "identity_keys": [
+        "arxiv:2610.26923",
+        "title:camewmacausalmedicalworldmodelforgenerativetumorevolutionandtreatmentplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18359",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T19:28:53.694518+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "envisioningagenticroboticsaneweraofroboticsystems",
+      "identity_keys": [
+        "arxiv:2611.18359",
+        "title:envisioningagenticroboticsaneweraofroboticsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.18494",
+      "category": "frontier",
+      "first_sent_at": "2026-11-16T19:28:54.135941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "archerfromrationaleimitationtoexecutablereasoninginsmalllanguagemodels",
+      "identity_keys": [
+        "arxiv:2611.18494",
+        "title:archerfromrationaleimitationtoexecutablereasoninginsmalllanguagemodels"
+      ]
     }
   ]
 }
