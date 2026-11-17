@@ -39795,6 +39795,134 @@
         "arxiv:2610.24804",
         "title:saramsparseadapterallocationwithreuseandmergingforlifelongrobotlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1371/journal.pcbi.1013724",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-17T15:23:18.474981+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1371/journal.pcbi.1013724",
+      "venue": "PLOS Computational Biology",
+      "title_key": "parameterizationofcellfreesystemswithtimeseriesdatausingketchup",
+      "identity_keys": [
+        "doi:10.1371/journal.pcbi.1013724",
+        "title:parameterizationofcellfreesystemswithtimeseriesdatausingketchup"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1088/1361-6560/aebc0a",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T15:23:19.268289+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1088/1361-6560/aebc0a",
+      "venue": "Physics in Medicine and Biology",
+      "title_key": "generativestructureguideddenoisingdiffusionprobabilisticmodelformrtoctimagesynthesisinradiotherapyplanning",
+      "identity_keys": [
+        "doi:10.1088/1361-6560/aebc0a",
+        "openalex:w7224775840",
+        "pubmed:42962372",
+        "title:generativestructureguideddenoisingdiffusionprobabilisticmodelformrtoctimagesynthesisinradiotherapyplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21299",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T15:23:19.708464+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "turingagentagenticformalverificationformathematicalresearch",
+      "identity_keys": [
+        "arxiv:2611.21299",
+        "title:turingagentagenticformalverificationformathematicalresearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25511",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T15:23:20.195073+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dynamicsalignedrepresentationlearningunderinducedpartialobservability",
+      "identity_keys": [
+        "arxiv:2610.25511",
+        "title:dynamicsalignedrepresentationlearningunderinducedpartialobservability"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25013",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T15:23:21.033078+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "latentworldmodelsshouldplanwithdistancesalongthelatentmanifold",
+      "identity_keys": [
+        "arxiv:2610.25013",
+        "title:latentworldmodelsshouldplanwithdistancesalongthelatentmanifold"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25414",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T15:23:21.285388+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "unistateunifyingmemoryandinterventionforcontrollableworldsimulation",
+      "identity_keys": [
+        "arxiv:2610.25414",
+        "title:unistateunifyingmemoryandinterventionforcontrollableworldsimulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25296",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T15:23:21.478674+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmodelinterpretabilityfromdecodingrepresentationstounderstandinglatentworlds",
+      "identity_keys": [
+        "arxiv:2610.25296",
+        "title:worldmodelinterpretabilityfromdecodingrepresentationstounderstandinglatentworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25459",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T15:23:21.974344+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bidex100acomprehensivebenchmarkforbimanualdexterousmanipulationacross100simulationtasks",
+      "identity_keys": [
+        "arxiv:2610.25459",
+        "title:bidex100acomprehensivebenchmarkforbimanualdexterousmanipulationacross100simulationtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25111",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T15:23:22.544590+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "exploreorconfirmllmagentsmisallocatemeasurementsundernoise",
+      "identity_keys": [
+        "arxiv:2610.25111",
+        "title:exploreorconfirmllmagentsmisallocatemeasurementsundernoise"
+      ]
     }
   ]
 }
