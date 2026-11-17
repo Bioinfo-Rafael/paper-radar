@@ -39923,6 +39923,76 @@
         "arxiv:2610.25111",
         "title:exploreorconfirmllmagentsmisallocatemeasurementsundernoise"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25170",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T18:33:41.522812+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmodelstreesandfoundationmodelsforretailforecastingevidencefromfourpublicdatasets",
+      "identity_keys": [
+        "arxiv:2610.25170",
+        "title:worldmodelstreesandfoundationmodelsforretailforecastingevidencefromfourpublicdatasets"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21273",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T18:33:42.110095+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "caebenchbenchmarkingaiagentsforreusablecaesolverdevelopment",
+      "identity_keys": [
+        "arxiv:2611.21273",
+        "title:caebenchbenchmarkingaiagentsforreusablecaesolverdevelopment"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21105",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T18:33:42.496012+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "civilbenchbenchmarkingvisionlanguagemodelsformultimodalinformationintegrationincivilengineering",
+      "identity_keys": [
+        "arxiv:2611.21105",
+        "title:civilbenchbenchmarkingvisionlanguagemodelsformultimodalinformationintegrationincivilengineering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.20988",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T18:33:42.811129+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hivemindafederatedprotocolforaimediatedtacitknowledgesharinginorganisations",
+      "identity_keys": [
+        "arxiv:2611.20988",
+        "title:hivemindafederatedprotocolforaimediatedtacitknowledgesharinginorganisations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25317",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T18:33:43.007804+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atomsnotknowledgewhatproductionscaleaddressedmemorywritesdeposit",
+      "identity_keys": [
+        "arxiv:2610.25317",
+        "title:atomsnotknowledgewhatproductionscaleaddressedmemorywritesdeposit"
+      ]
     }
   ]
 }
