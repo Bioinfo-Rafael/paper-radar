@@ -39597,6 +39597,49 @@
         "arxiv:2610.26935",
         "title:howinterventionhistorychangesaiagentsabotageonsubsequenttasks"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.15885",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T07:31:51.399480+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2611.15885",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "rewarddrivencolliderphysicschallengesforselfimprovingagenticaiviareinforcementlearning",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.15885",
+        "openalex:w7226000411",
+        "title:rewarddrivencolliderphysicschallengesforselfimprovingagenticaiviareinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1609/aaaiss.v10i1.43457",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T07:31:51.803418+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1609/aaaiss.v10i1.43457",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "title_key": "reinforcementlearningfromecologicalfeedbackrlefaframeworkforaligninglanguagemodelplanningwithplanetaryboundaries",
+      "identity_keys": [
+        "doi:10.1609/aaaiss.v10i1.43457",
+        "title:reinforcementlearningfromecologicalfeedbackrlefaframeworkforaligninglanguagemodelplanningwithplanetaryboundaries"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2025.3644945",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T07:31:52.445815+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2025.3644945",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "actorcriticmodelpredictivecontroldifferentiableoptimizationmeetsreinforcementlearningforagileflight",
+      "identity_keys": [
+        "doi:10.1109/tro.2025.3644945",
+        "title:actorcriticmodelpredictivecontroldifferentiableoptimizationmeetsreinforcementlearningforagileflight"
+      ]
     }
   ]
 }
