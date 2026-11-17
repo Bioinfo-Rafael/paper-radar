@@ -39456,6 +39456,147 @@
         "arxiv:2611.18494",
         "title:archerfromrationaleimitationtoexecutablereasoninginsmalllanguagemodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.19427",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T03:21:44.707488+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memorizationlivesinafewattentionheadsmitigatingmemorizationindiffusionmodelsviaprojectionbasedsuppression",
+      "identity_keys": [
+        "arxiv:2611.19427",
+        "title:memorizationlivesinafewattentionheadsmitigatingmemorizationindiffusionmodelsviaprojectionbasedsuppression"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.19127",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T03:21:44.924846+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "empoweringmaskeddiffusionmodelstoselfcorrectwithleaveoneouttransformers",
+      "identity_keys": [
+        "arxiv:2611.19127",
+        "title:empoweringmaskeddiffusionmodelstoselfcorrectwithleaveoneouttransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.19163",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T03:21:45.348677+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "meanfieldtokensteering",
+      "identity_keys": [
+        "arxiv:2611.19163",
+        "title:meanfieldtokensteering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.19603",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T03:21:45.883550+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "napwaveaneuraladaptiveplanewavearchitectureforhighfrequencyhelmholtzproblems",
+      "identity_keys": [
+        "arxiv:2611.19603",
+        "title:napwaveaneuraladaptiveplanewavearchitectureforhighfrequencyhelmholtzproblems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.19656",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T03:21:46.647598+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "badgcltowardspersistentbackdoorattackongraphcontinuallearningsystems",
+      "identity_keys": [
+        "arxiv:2611.19656",
+        "title:badgcltowardspersistentbackdoorattackongraphcontinuallearningsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.19138",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T03:21:47.272009+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "superglancedrivingataglancewithavisionlanguagemodel",
+      "identity_keys": [
+        "arxiv:2611.19138",
+        "title:superglancedrivingataglancewithavisionlanguagemodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.19131",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T03:21:49.949737+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wirelessedgeassistedadaptivelatentreasoningforvisionlanguageactionmodelsinphysicalai",
+      "identity_keys": [
+        "arxiv:2611.19131",
+        "title:wirelessedgeassistedadaptivelatentreasoningforvisionlanguageactionmodelsinphysicalai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24349",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T03:21:50.270182+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flashrtpaifastkernelsarenotfastpipelinesforphysicalai",
+      "identity_keys": [
+        "arxiv:2610.24349",
+        "title:flashrtpaifastkernelsarenotfastpipelinesforphysicalai"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s11263-026-03079-5",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T03:21:51.115627+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "incrementallearningofvisionlanguagemodelsviatasksubspaceprojectionanddynamiclora",
+      "identity_keys": [
+        "arxiv:2611.19213",
+        "doi:10.1007/s11263-026-03079-5",
+        "title:incrementallearningofvisionlanguagemodelsviatasksubspaceprojectionanddynamiclora"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26935",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T03:21:51.284892+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howinterventionhistorychangesaiagentsabotageonsubsequenttasks",
+      "identity_keys": [
+        "arxiv:2610.26935",
+        "title:howinterventionhistorychangesaiagentsabotageonsubsequenttasks"
+      ]
     }
   ]
 }
