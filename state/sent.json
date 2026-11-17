@@ -39640,6 +39640,161 @@
         "doi:10.1109/tro.2025.3644945",
         "title:actorcriticmodelpredictivecontroldifferentiableoptimizationmeetsreinforcementlearningforagileflight"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41592-026-03279-4",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-17T11:29:28.617951+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41592-026-03279-4",
+      "venue": "Nature methods",
+      "title_key": "echidnaabayesianframeworkforintegrativeinferenceofcopynumberalterationsimpactingphenotypicplasticity",
+      "identity_keys": [
+        "doi:10.1038/s41592-026-03279-4",
+        "pubmed:43040036",
+        "title:echidnaabayesianframeworkforintegrativeinferenceofcopynumberalterationsimpactingphenotypicplasticity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21003",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T11:29:30.092234+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "k2horizonafrontierfleetofopensourcelanguagemodels",
+      "identity_keys": [
+        "arxiv:2611.21003",
+        "title:k2horizonafrontierfleetofopensourcelanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.20714",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T11:29:30.605961+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "msarnextscaleautoregressiveforecastingfortimeseriesviamodularmultiscaledecoupling",
+      "identity_keys": [
+        "arxiv:2611.20714",
+        "title:msarnextscaleautoregressiveforecastingfortimeseriesviamodularmultiscaledecoupling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21441",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T11:29:30.792420+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningtoreasonwithpredictivegainsforgenerativerecommendation",
+      "identity_keys": [
+        "arxiv:2611.21441",
+        "title:learningtoreasonwithpredictivegainsforgenerativerecommendation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.20765",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T11:29:31.156890+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "staasplittemporaladversarymethodforevaluatingrobustnessofmultimodalrlbaseddrivingpolicies",
+      "identity_keys": [
+        "arxiv:2611.20765",
+        "title:staasplittemporaladversarymethodforevaluatingrobustnessofmultimodalrlbaseddrivingpolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.20387",
+      "category": "ml",
+      "first_sent_at": "2026-11-17T11:29:31.766938+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generalizedpredictionsetwithbanditfeedback",
+      "identity_keys": [
+        "arxiv:2611.20387",
+        "title:generalizedpredictionsetwithbanditfeedback"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21517",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T11:29:32.522740+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lazymosaicacceleratingskillcentricmanipulationplanningwithlearnedskilleffectworldmodels",
+      "identity_keys": [
+        "arxiv:2611.21517",
+        "title:lazymosaicacceleratingskillcentricmanipulationplanningwithlearnedskilleffectworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21479",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T11:29:32.682744+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lynnrealhandunlockingworldinteractionwithhandcontrol",
+      "identity_keys": [
+        "arxiv:2611.21479",
+        "title:lynnrealhandunlockingworldinteractionwithhandcontrol"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.20648",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T11:29:33.033300+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "competentautonomousdrivingthroughfinetuningvisionlanguageactionmodelswithsymbolictrafficrules",
+      "identity_keys": [
+        "arxiv:2611.20648",
+        "title:competentautonomousdrivingthroughfinetuningvisionlanguageactionmodelswithsymbolictrafficrules"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24573",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T11:29:33.247615+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "retrievaltriggeredactionprojectionadjustmentforfrozenvlapoliciesanempiricalstudyandfailureanalysis",
+      "identity_keys": [
+        "arxiv:2610.24573",
+        "title:retrievaltriggeredactionprojectionadjustmentforfrozenvlapoliciesanempiricalstudyandfailureanalysis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24804",
+      "category": "frontier",
+      "first_sent_at": "2026-11-17T11:29:33.431629+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "saramsparseadapterallocationwithreuseandmergingforlifelongrobotlearning",
+      "identity_keys": [
+        "arxiv:2610.24804",
+        "title:saramsparseadapterallocationwithreuseandmergingforlifelongrobotlearning"
+      ]
     }
   ]
 }
