@@ -40344,6 +40344,91 @@
         "arxiv:2610.25309",
         "title:senriunderstandingthespaceeventnexusinreallifevideos"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3829340.3842364",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T18:07:58.582076+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3829340.3842364",
+      "venue": "SIGGRAPH Asia Conference Papers",
+      "title_key": "panoworldagenerativespatialworldmodelforconsistentwholehousepanoramasynthesis",
+      "identity_keys": [
+        "doi:10.1145/3829340.3842364",
+        "openalex:w7161710569",
+        "title:panoworldagenerativespatialworldmodelforconsistentwholehousepanoramasynthesis"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26453",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T18:07:59.536800+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningwhattorememberresourceefficientselfimprovementforlifelongagents",
+      "identity_keys": [
+        "arxiv:2610.26453",
+        "title:learningwhattorememberresourceefficientselfimprovementforlifelongagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27280",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T18:08:00.078720+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "vpflowvaluepredictiveplanningwithimperfectworldmodelsforofflinegoalreaching",
+      "identity_keys": [
+        "arxiv:2610.27280",
+        "title:vpflowvaluepredictiveplanningwithimperfectworldmodelsforofflinegoalreaching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27045",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T18:08:00.396190+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "physicalaiconceptstechniquesandchallenges",
+      "identity_keys": [
+        "arxiv:2610.27045",
+        "title:physicalaiconceptstechniquesandchallenges"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22470",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T18:08:00.692759+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "escapinglatenttrapsbyrememberingtrainingfreeepisodickernelrepulsionforworldmodelplanning",
+      "identity_keys": [
+        "arxiv:2611.22470",
+        "title:escapinglatenttrapsbyrememberingtrainingfreeepisodickernelrepulsionforworldmodelplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22777",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T18:08:01.260961+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "crossenvsynthesizingverifiablecrossenvironmenttasksforlonghorizonagenttraining",
+      "identity_keys": [
+        "arxiv:2611.22777",
+        "title:crossenvsynthesizingverifiablecrossenvironmenttasksforlonghorizonagenttraining"
+      ]
     }
   ]
 }
