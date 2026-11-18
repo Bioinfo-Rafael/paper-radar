@@ -39993,6 +39993,147 @@
         "arxiv:2610.25317",
         "title:atomsnotknowledgewhatproductionscaleaddressedmemorywritesdeposit"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22028",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T02:51:19.431413+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "batmosbudgetawareguidanceallocationforefficientvideodiffusion",
+      "identity_keys": [
+        "arxiv:2611.22028",
+        "title:batmosbudgetawareguidanceallocationforefficientvideodiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22050",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T02:51:19.636484+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dsadiffdatastructureawarediffusionforcrystalstructurepredictionviamitigatingcomplexityandimbalanceinducedbiases",
+      "identity_keys": [
+        "arxiv:2611.22050",
+        "title:dsadiffdatastructureawarediffusionforcrystalstructurepredictionviamitigatingcomplexityandimbalanceinducedbiases"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.56977/jicce.2026.24.2.155",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T02:51:19.967266+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "J. Inf. Commun. Converg. Eng. 24(2), 155-164 (2026)",
+      "title_key": "flockingtimeandgraphvolumeinnonlinearcuckersmalemodelswithdynamicnetworks",
+      "identity_keys": [
+        "arxiv:2611.22204",
+        "doi:10.56977/jicce.2026.24.2.155",
+        "title:flockingtimeandgraphvolumeinnonlinearcuckersmalemodelswithdynamicnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22207",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T02:51:20.345391+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "argavataranimationrenderingguidanceforefficientfeedforwardavatarreconstruction",
+      "identity_keys": [
+        "arxiv:2611.22207",
+        "title:argavataranimationrenderingguidanceforefficientfeedforwardavatarreconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22172",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T02:51:20.772171+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsoptimismpessimismtradeoffinmodelbasedofflinetoonlinereinforcementlearning",
+      "identity_keys": [
+        "arxiv:2611.22172",
+        "title:towardsoptimismpessimismtradeoffinmodelbasedofflinetoonlinereinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.21847",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T02:51:21.505274+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "inventadecentralizedselfimprovingagentsforautonomousscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2611.21847",
+        "title:inventadecentralizedselfimprovingagentsforautonomousscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22136",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T02:51:21.958749+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bigbrainstinyboardpupavisionanagenticphysicalaiinstrumentformonitoringdrosophilapupariationandlifecycletransitions",
+      "identity_keys": [
+        "arxiv:2611.22136",
+        "title:bigbrainstinyboardpupavisionanagenticphysicalaiinstrumentformonitoringdrosophilapupariationandlifecycletransitions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24981",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T02:51:22.391697+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dreamwhaticansparsevisualplanningforlonghorizonrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2610.24981",
+        "title:dreamwhaticansparsevisualplanningforlonghorizonrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22017",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T02:51:25.828988+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillbuffbenchmeasuringwhatagentskillscontributeacrossharnessesmodelsskillaccessmodesandmemory",
+      "identity_keys": [
+        "arxiv:2611.22017",
+        "title:skillbuffbenchmeasuringwhatagentskillscontributeacrossharnessesmodelsskillaccessmodesandmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25511",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T02:51:26.112070+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dynamicsalignedrepresentationlearningunderinducedpartialobservability",
+      "identity_keys": [
+        "arxiv:2610.25511",
+        "title:dynamicsalignedrepresentationlearningunderinducedpartialobservability"
+      ]
     }
   ]
 }
