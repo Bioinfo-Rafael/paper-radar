@@ -40134,6 +40134,76 @@
         "arxiv:2610.25511",
         "title:dynamicsalignedrepresentationlearningunderinducedpartialobservability"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22432",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T06:51:49.110585+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkonceactfastcosteffectiverecursiveselfimprovementfordecisionmodelharness",
+      "identity_keys": [
+        "arxiv:2611.22432",
+        "title:thinkonceactfastcosteffectiverecursiveselfimprovementfordecisionmodelharness"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22880",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T06:51:49.474496+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningagentcentricvisionlanguageactionworldmodelsforautonomousdriving",
+      "identity_keys": [
+        "arxiv:2611.22880",
+        "title:learningagentcentricvisionlanguageactionworldmodelsforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22736",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T06:51:50.004705+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "refclothtransferableadversarialtableclothsforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2611.22736",
+        "title:refclothtransferableadversarialtableclothsforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25250",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T06:51:50.391381+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "improvingtheexpressivepowerofhybridsequencemodelsviamultihopretrieval",
+      "identity_keys": [
+        "arxiv:2610.25250",
+        "title:improvingtheexpressivepowerofhybridsequencemodelsviamultihopretrieval"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.24928",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T06:52:35.755184+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "meansendsanalysishelpsllmsplanincontinuousstatedomains",
+      "identity_keys": [
+        "arxiv:2610.24928",
+        "title:meansendsanalysishelpsllmsplanincontinuousstatedomains"
+      ]
     }
   ]
 }
