@@ -40204,6 +40204,146 @@
         "arxiv:2610.24928",
         "title:meansendsanalysishelpsllmsplanincontinuousstatedomains"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.23211",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T11:01:33.668196+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multimodalmaskeddiffusionautoencoderformodelingimpaireddriving",
+      "identity_keys": [
+        "arxiv:2611.23211",
+        "title:multimodalmaskeddiffusionautoencoderformodelingimpaireddriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22609",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T11:01:33.870872+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "taskconvergentflowmatchingforgenerativerobotics",
+      "identity_keys": [
+        "arxiv:2611.22609",
+        "title:taskconvergentflowmatchingforgenerativerobotics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22757",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T11:01:34.090434+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "loopprunerecurrentpruningforloopeddiffusiontransformers",
+      "identity_keys": [
+        "arxiv:2611.22757",
+        "title:loopprunerecurrentpruningforloopeddiffusiontransformers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22314",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T11:01:34.564700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "inertialvideoworldmodels",
+      "identity_keys": [
+        "arxiv:2611.22314",
+        "title:inertialvideoworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22446",
+      "category": "ml",
+      "first_sent_at": "2026-11-18T11:01:35.040240+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "asstudentrolloutscontinuevisualbackdoorskeepgrowing",
+      "identity_keys": [
+        "arxiv:2611.22446",
+        "title:asstudentrolloutscontinuevisualbackdoorskeepgrowing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22686",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T11:01:35.710790+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cascadejepaenhancing3dgeometricrepresentationsviaspatiallycoupledcascadedprediction",
+      "identity_keys": [
+        "arxiv:2611.22686",
+        "title:cascadejepaenhancing3dgeometricrepresentationsviaspatiallycoupledcascadedprediction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22395",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T11:01:36.097063+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cobovladecouplinglanguagefromactionwithdiscretecodesforrobustandinterpretablerobotmanipulation",
+      "identity_keys": [
+        "arxiv:2611.22395",
+        "title:cobovladecouplinglanguagefromactionwithdiscretecodesforrobustandinterpretablerobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.22815",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T11:01:36.519033+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "visualharnessscalesgeneralvlmstomedicalimages",
+      "identity_keys": [
+        "arxiv:2611.22815",
+        "title:visualharnessscalesgeneralvlmstomedicalimages"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25119",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T11:01:36.720639+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memoryasbeliefbayesianevolutionofmemoryforselfevolvingllmagents",
+      "identity_keys": [
+        "arxiv:2610.25119",
+        "title:memoryasbeliefbayesianevolutionofmemoryforselfevolvingllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.25309",
+      "category": "frontier",
+      "first_sent_at": "2026-11-18T11:01:36.981481+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "senriunderstandingthespaceeventnexusinreallifevideos",
+      "identity_keys": [
+        "arxiv:2610.25309",
+        "title:senriunderstandingthespaceeventnexusinreallifevideos"
+      ]
     }
   ]
 }
