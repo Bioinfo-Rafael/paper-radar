@@ -40710,6 +40710,133 @@
         "arxiv:2610.26426",
         "title:harnessrlcoevolvingpolicieswithajustintimetrainingharnessforopenendedrl"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.cels.2025.101448",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-19T18:14:06.352517+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.cels.2025.101448",
+      "venue": "Cell systems",
+      "title_key": "piscisalossestimatorofthef1scoreenablesaccuratespotdetectioninfluorescencemicroscopyimagesviadeeplearning",
+      "identity_keys": [
+        "doi:10.1016/j.cels.2025.101448",
+        "pubmed:41265398",
+        "title:piscisalossestimatorofthef1scoreenablesaccuratespotdetectioninfluorescencemicroscopyimagesviadeeplearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28998",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T18:14:07.092904+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flashnextrlasystemoptimizationstudyforlonghorizonagenticrlofqwen38flashnext",
+      "identity_keys": [
+        "arxiv:2610.28998",
+        "title:flashnextrlasystemoptimizationstudyforlonghorizonagenticrlofqwen38flashnext"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28703",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T18:14:07.678254+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalablestressconstrainedtopologyoptimizationasimultaneousapproachbasedonmachinelearning",
+      "identity_keys": [
+        "arxiv:2610.28703",
+        "title:scalablestressconstrainedtopologyoptimizationasimultaneousapproachbasedonmachinelearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28815",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T18:14:09.344101+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "forgingmoretasksintobetterharnessesagenticharnessevolutionviasuccessivescaleracing",
+      "identity_keys": [
+        "arxiv:2610.28815",
+        "title:forgingmoretasksintobetterharnessesagenticharnessevolutionviasuccessivescaleracing"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28706",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T18:14:10.514250+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "specevospeculativeevolutionwithlargelanguagemodelsforcostefficientscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.28706",
+        "title:specevospeculativeevolutionwithlargelanguagemodelsforcostefficientscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24778",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T18:14:11.093805+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "counterfactualworldmodelsjepasthatreasonaboutwhatif",
+      "identity_keys": [
+        "arxiv:2611.24778",
+        "title:counterfactualworldmodelsjepasthatreasonaboutwhatif"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24115",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T18:14:11.328265+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedgrapharelationalworldmodelforlonghorizontasks",
+      "identity_keys": [
+        "arxiv:2611.24115",
+        "title:embodiedgrapharelationalworldmodelforlonghorizontasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24294",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T18:14:11.744768+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "knowledgeclawtowardsagenticknowledgeengineeringviaomnimodalhypergraphs",
+      "identity_keys": [
+        "arxiv:2611.24294",
+        "title:knowledgeclawtowardsagenticknowledgeengineeringviaomnimodalhypergraphs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28977",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T18:14:12.955581+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "isincontextreinforcementlearningaposteriorsampleranempiricalstudy",
+      "identity_keys": [
+        "arxiv:2610.28977",
+        "title:isincontextreinforcementlearningaposteriorsampleranempiricalstudy"
+      ]
     }
   ]
 }
