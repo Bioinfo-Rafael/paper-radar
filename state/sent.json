@@ -40570,6 +40570,146 @@
         "arxiv:2610.27120",
         "title:edmaentropydrivenmultimodalanswering"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.11.18.767220",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-19T11:09:20.869473+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.11.18.767220",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "cellvadisinferringcrosstissueimmunecelltraffickingdynamicsfromsinglecellsnapshots",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.11.18.767220",
+        "title:cellvadisinferringcrosstissueimmunecelltraffickingdynamicsfromsinglecellsnapshots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.23964",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T11:09:22.279136+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dualmanifoldvariationalautoencoders",
+      "identity_keys": [
+        "arxiv:2611.23964",
+        "title:dualmanifoldvariationalautoencoders"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24070",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T11:09:22.490685+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fdmaframeworkforconstrainedcontrolofthe2dradiativetransportequation",
+      "identity_keys": [
+        "arxiv:2611.24070",
+        "title:fdmaframeworkforconstrainedcontrolofthe2dradiativetransportequation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27298",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T11:09:23.029008+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "generalizingmultimodalfoundationalmodelsincontextdrivenclassincrementallearning",
+      "identity_keys": [
+        "arxiv:2610.27298",
+        "title:generalizingmultimodalfoundationalmodelsincontextdrivenclassincrementallearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27406",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T11:09:23.504542+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "morememoryworseagentserrorreproductionandantipersistenceinllmagents",
+      "identity_keys": [
+        "arxiv:2610.27406",
+        "title:morememoryworseagentserrorreproductionandantipersistenceinllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24244",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T11:09:24.180530+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "commdreamerradiogeometricworldmodelsformaplesscellularconnecteduavtrajectoryplanning",
+      "identity_keys": [
+        "arxiv:2611.24244",
+        "title:commdreamerradiogeometricworldmodelsformaplesscellularconnecteduavtrajectoryplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24840",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T11:09:24.340331+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doestheactionmatterprobingactionconditionedsemanticforecastingasaworldmodelforautonomousdriving",
+      "identity_keys": [
+        "arxiv:2611.24840",
+        "title:doestheactionmatterprobingactionconditionedsemanticforecastingasaworldmodelforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24247",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T11:09:24.963236+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "allocentricmemoryegocentricactingadualframevlaforurbanaerialnavigation",
+      "identity_keys": [
+        "arxiv:2611.24247",
+        "title:allocentricmemoryegocentricactingadualframevlaforurbanaerialnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27307",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T11:09:25.382201+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evolvingselftuningbenchmarksforlonghorizontooluse",
+      "identity_keys": [
+        "arxiv:2610.27307",
+        "title:evolvingselftuningbenchmarksforlonghorizontooluse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.26426",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T11:09:25.546702+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "harnessrlcoevolvingpolicieswithajustintimetrainingharnessforopenendedrl",
+      "identity_keys": [
+        "arxiv:2610.26426",
+        "title:harnessrlcoevolvingpolicieswithajustintimetrainingharnessforopenendedrl"
+      ]
     }
   ]
 }
