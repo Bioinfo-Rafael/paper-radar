@@ -40429,6 +40429,147 @@
         "arxiv:2611.22777",
         "title:crossenvsynthesizingverifiablecrossenvironmenttasksforlonghorizonagenttraining"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.23684",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T06:50:07.373308+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "variablelengthdiffuseeverythingarbitrarylengthgenerativemodelingonarbitrarystatespaces",
+      "identity_keys": [
+        "arxiv:2611.23684",
+        "title:variablelengthdiffuseeverythingarbitrarylengthgenerativemodelingonarbitrarystatespaces"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27068",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T06:50:07.598052+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "astrolabea3dparticlelevelsurrogateforcosmologysimulationwithphysicalflowmatching",
+      "identity_keys": [
+        "arxiv:2610.27068",
+        "title:astrolabea3dparticlelevelsurrogateforcosmologysimulationwithphysicalflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24422",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T06:50:07.909048+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "resolutionasattentionforefficientagentmemoryperception",
+      "identity_keys": [
+        "arxiv:2611.24422",
+        "title:resolutionasattentionforefficientagentmemoryperception"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3858063.3858909",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T06:50:08.058300+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lobimpactbenchmarkemergentmarketimpactingenerativelimitorderbookmodels",
+      "identity_keys": [
+        "arxiv:2610.27100",
+        "doi:10.1145/3858063.3858909",
+        "title:lobimpactbenchmarkemergentmarketimpactingenerativelimitorderbookmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.23877",
+      "category": "ml",
+      "first_sent_at": "2026-11-19T06:50:53.455425+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "infinitywassersteindistributionallyrobustprincipalcomponentanalysisexactreformulationfinitesampleguaranteeandefficientalgorithm",
+      "identity_keys": [
+        "arxiv:2611.23877",
+        "title:infinitywassersteindistributionallyrobustprincipalcomponentanalysisexactreformulationfinitesampleguaranteeandefficientalgorithm"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24711",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T06:50:53.999739+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "openhagenworldscalibratedenvironmentsformeasuringandtrainingscientificdiscoveryagents",
+      "identity_keys": [
+        "arxiv:2611.24711",
+        "title:openhagenworldscalibratedenvironmentsformeasuringandtrainingscientificdiscoveryagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.24171",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T06:50:54.384144+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "efficientworldmodelplanningviaphysicsguidedsearchdistillation",
+      "identity_keys": [
+        "arxiv:2611.24171",
+        "title:efficientworldmodelplanningviaphysicsguidedsearchdistillation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aee1549",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T06:50:54.732475+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aee1549",
+      "venue": "Science Robotics",
+      "title_key": "bridgingvisionlanguagereasoningandlearnedcontrolforleggednavigationinthewild",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aee1549",
+        "title:bridgingvisionlanguagereasoningandlearnedcontrolforleggednavigationinthewild"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27039",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T06:50:54.910202+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedplaygroundalonghorizonagenticroboticsbenchmarkforphysicalstrategicandspatialreasoning",
+      "identity_keys": [
+        "arxiv:2610.27039",
+        "title:embodiedplaygroundalonghorizonagenticroboticsbenchmarkforphysicalstrategicandspatialreasoning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.27120",
+      "category": "frontier",
+      "first_sent_at": "2026-11-19T06:51:40.465575+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "edmaentropydrivenmultimodalanswering",
+      "identity_keys": [
+        "arxiv:2610.27120",
+        "title:edmaentropydrivenmultimodalanswering"
+      ]
     }
   ]
 }
