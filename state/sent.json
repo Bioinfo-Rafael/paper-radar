@@ -40837,6 +40837,90 @@
         "arxiv:2610.28977",
         "title:isincontextreinforcementlearningaposteriorsampleranempiricalstudy"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25061",
+      "category": "ml",
+      "first_sent_at": "2026-11-20T02:12:12.692752+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "infer3dinversegenerativemodelingenablesrobust3dreconstruction",
+      "identity_keys": [
+        "arxiv:2611.25061",
+        "title:infer3dinversegenerativemodelingenablesrobust3dreconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28945",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T02:12:13.608991+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "selfimprovingagentswithworldmodelpredictivepaths",
+      "identity_keys": [
+        "arxiv:2610.28945",
+        "title:selfimprovingagentswithworldmodelpredictivepaths"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28779",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T02:12:14.011522+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "secondthoughtsexploringandplanningthroughcomparativeimaginationinworldmodels",
+      "identity_keys": [
+        "arxiv:2610.28779",
+        "title:secondthoughtsexploringandplanningthroughcomparativeimaginationinworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25461",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T02:12:14.482280+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "actmemfromlatentmemoryreasoningtogroundedroboticaction",
+      "identity_keys": [
+        "arxiv:2611.25461",
+        "title:actmemfromlatentmemoryreasoningtogroundedroboticaction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25380",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T02:12:15.246454+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondweightupdatesevolvingagentharnessesfordomainspecialization",
+      "identity_keys": [
+        "arxiv:2611.25380",
+        "title:beyondweightupdatesevolvingagentharnessesfordomainspecialization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25123",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T02:12:15.432842+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "forgetfreelygreplaterlosslessindexfreememoryforlonghorizonllmagents",
+      "identity_keys": [
+        "arxiv:2611.25123",
+        "title:forgetfreelygreplaterlosslessindexfreememoryforlonghorizonllmagents"
+      ]
     }
   ]
 }
