@@ -40991,6 +40991,76 @@
         "arxiv:2610.28776",
         "title:complexityawaresurgicalvideoreasoningsegmentationwithdigitaltwinandcontextmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25927",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T10:56:50.590213+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fastjepaadvancingthesuccesslatencyfrontierforlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2611.25927",
+        "title:fastjepaadvancingthesuccesslatencyfrontierforlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26419",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T10:56:50.774270+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "feasolverintegrationofacompositeworldmodelwithaspikingneuralnetworkmemoryblockforcomputationallyefficientmodellingofdefectsandvariabilities",
+      "identity_keys": [
+        "arxiv:2611.26419",
+        "title:feasolverintegrationofacompositeworldmodelwithaspikingneuralnetworkmemoryblockforcomputationallyefficientmodellingofdefectsandvariabilities"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26503",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T10:56:51.077472+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jarvisanagentthatdesignsbuildsandtestscircuitboardsonitsown",
+      "identity_keys": [
+        "arxiv:2611.26503",
+        "title:jarvisanagentthatdesignsbuildsandtestscircuitboardsonitsown"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/tro.2026.3755907",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T10:56:51.496561+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/tro.2026.3755907",
+      "venue": "IEEE Transactions on Robotics",
+      "title_key": "decomposeandreorganizeplanningwithprimitivesandvisuomotorpolicieslearnedfromdemonstrations",
+      "identity_keys": [
+        "doi:10.1109/tro.2026.3755907",
+        "title:decomposeandreorganizeplanningwithprimitivesandvisuomotorpolicieslearnedfromdemonstrations"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28543",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T10:56:51.847835+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "binarydiscretediffusioncandidatesetdiffusionforlogicandplanningtasks",
+      "identity_keys": [
+        "arxiv:2610.28543",
+        "title:binarydiscretediffusioncandidatesetdiffusionforlogicandplanningtasks"
+      ]
     }
   ]
 }
