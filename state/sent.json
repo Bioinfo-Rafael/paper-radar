@@ -41131,6 +41131,209 @@
         "arxiv:2610.28998",
         "title:flashnextrlasystemoptimizationstudyforlonghorizonagenticrlofqwen38flashnext"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-66287-6",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-20T17:44:58.580676+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-66287-6",
+      "venue": "Nature communications",
+      "title_key": "inferringdifferentialdynamicsfrommultilineagemultiomicandmultisamplesinglecelldatawithmultivelovae",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-66287-6",
+        "pubmed:41266355",
+        "title:inferringdifferentialdynamicsfrommultilineagemultiomicandmultisamplesinglecelldatawithmultivelovae"
+      ]
+    },
+    {
+      "canonical_id": "pubmed:43060842",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-20T17:44:58.925843+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ArXiv",
+      "title_key": "synchronizedoptimaltransportreconstructscoupledtranscriptomicandchromatindynamics",
+      "identity_keys": [
+        "pubmed:43060842",
+        "title:synchronizedoptimaltransportreconstructscoupledtranscriptomicandchromatindynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.07.07.736532",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-20T17:44:59.113826+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.07.07.736532",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "sparcrevealsdistinctosteoclastogenesisassociatedmalignantstatesinmetastaticosteosarcoma",
+      "identity_keys": [
+        "doi:10.64898/2026.07.07.736532",
+        "pubmed:43060285",
+        "title:sparcrevealsdistinctosteoclastogenesisassociatedmalignantstatesinmetastaticosteosarcoma"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/fimmu.2026.1979260",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-20T17:44:59.373176+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/fimmu.2026.1979260",
+      "venue": "Frontiers in Immunology",
+      "title_key": "computationalsinglecellandspatialmultiomicsapproachesfordecodingsharedanddiseasespecificneuroimmunelandscapesacrossbraindisorders",
+      "identity_keys": [
+        "doi:10.3389/fimmu.2026.1979260",
+        "openalex:w7236863765",
+        "title:computationalsinglecellandspatialmultiomicsapproachesfordecodingsharedanddiseasespecificneuroimmunelandscapesacrossbraindisorders"
+      ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2026.03.04.709512",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-20T17:44:59.532895+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2026.03.04.709512",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "alatentspacethermodynamicmodelofcelldifferentiation",
+      "identity_keys": [
+        "biorxiv:10.64898/2026.03.04.709512",
+        "title:alatentspacethermodynamicmodelofcelldifferentiation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1145/3856970",
+      "category": "ml",
+      "first_sent_at": "2026-11-20T17:45:00.064693+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1145/3856970",
+      "venue": "Proceedings of the ACM on Networking",
+      "title_key": "onepromptcensorshipevasionviagenerativediffusionmodels",
+      "identity_keys": [
+        "doi:10.1145/3856970",
+        "openalex:w7165661422",
+        "title:onepromptcensorshipevasionviagenerativediffusionmodels"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2502.07580",
+      "category": "ml",
+      "first_sent_at": "2026-11-20T17:45:00.330147+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2502.07580",
+      "venue": "Transactions on machine learning research",
+      "title_key": "generativemodelingwithbayesiansampleinference",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2502.07580",
+        "openalex:w4407425130",
+        "title:generativemodelingwithbayesiansampleinference"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30388",
+      "category": "ml",
+      "first_sent_at": "2026-11-20T17:45:01.033188+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atransformerbasedapproachforrealtimemultiagentpathplanningwithvaryinginitialfinalconditions",
+      "identity_keys": [
+        "arxiv:2610.30388",
+        "title:atransformerbasedapproachforrealtimemultiagentpathplanningwithvaryinginitialfinalconditions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30347",
+      "category": "ml",
+      "first_sent_at": "2026-11-20T17:45:01.480012+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "filmcamkeyedfeaturemodulationforconditionalaccesswatermarking",
+      "identity_keys": [
+        "arxiv:2610.30347",
+        "title:filmcamkeyedfeaturemodulationforconditionalaccesswatermarking"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2601.12538",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T17:45:02.409040+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2601.12538",
+      "venue": "Transactions on machine learning research",
+      "title_key": "asurveyofagenticreasoningforlargelanguagemodelstowardsrecursivelyselfimprovingandcollectiveagents",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2601.12538",
+        "openalex:w7125263063",
+        "title:asurveyofagenticreasoningforlargelanguagemodelstowardsrecursivelyselfimprovingandcollectiveagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30468",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T17:45:02.649436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "splatlabautonomousscientificdiscoveryfor3dgsresearch",
+      "identity_keys": [
+        "arxiv:2610.30468",
+        "title:splatlabautonomousscientificdiscoveryfor3dgsresearch"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/scirobotics.aeg6618",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T17:45:03.382555+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/scirobotics.aeg6618",
+      "venue": "Science Robotics",
+      "title_key": "controlledflightofaninsectscaleflappingwingrobotviaintegratedonboardsensingandcomputation",
+      "identity_keys": [
+        "doi:10.1126/scirobotics.aeg6618",
+        "title:controlledflightofaninsectscaleflappingwingrobotviaintegratedonboardsensingandcomputation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1146/annurev-control-032125-030330",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T17:45:03.669338+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "tactilebasedroboticmanipulationfrommechanicsdriventodatadrivenperspectives",
+      "identity_keys": [
+        "arxiv:2610.30438",
+        "doi:10.1146/annurev-control-032125-030330",
+        "title:tactilebasedroboticmanipulationfrommechanicsdriventodatadrivenperspectives"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25889",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T17:45:04.346405+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evomemselfevolvingskillsfortimeawarelongvideomemoryagents",
+      "identity_keys": [
+        "arxiv:2611.25889",
+        "title:evomemselfevolvingskillsfortimeawarelongvideomemoryagents"
+      ]
     }
   ]
 }
