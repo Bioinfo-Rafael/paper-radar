@@ -40921,6 +40921,76 @@
         "arxiv:2611.25123",
         "title:forgetfreelygreplaterlosslessindexfreememoryforlonghorizonllmagents"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26343",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T06:37:24.870363+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "deepquestfromknowledgegapstoscientificdiscoveryinalzheimersdisease",
+      "identity_keys": [
+        "arxiv:2611.26343",
+        "title:deepquestfromknowledgegapstoscientificdiscoveryinalzheimersdisease"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26444",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T06:37:25.152305+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mind2actworldadiagnosticbenchmarkforembodiedmindphysicalactionandmindactioncompositioninroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2611.26444",
+        "title:mind2actworldadiagnosticbenchmarkforembodiedmindphysicalactionandmindactioncompositioninroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28827",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T06:37:25.301601+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldstreamstreaminginteractive3dworldswithhierarchicalplanningandpersistentstate",
+      "identity_keys": [
+        "arxiv:2610.28827",
+        "title:worldstreamstreaminginteractive3dworldswithhierarchicalplanningandpersistentstate"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26565",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T06:38:10.691655+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phydexabenchmarkforphysicalreasoninginvisionlanguageactionmodelsviadynamicextrinsicdexterity",
+      "identity_keys": [
+        "arxiv:2611.26565",
+        "title:phydexabenchmarkforphysicalreasoninginvisionlanguageactionmodelsviadynamicextrinsicdexterity"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28776",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T06:38:11.019193+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "complexityawaresurgicalvideoreasoningsegmentationwithdigitaltwinandcontextmemory",
+      "identity_keys": [
+        "arxiv:2610.28776",
+        "title:complexityawaresurgicalvideoreasoningsegmentationwithdigitaltwinandcontextmemory"
+      ]
     }
   ]
 }
