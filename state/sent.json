@@ -41061,6 +41061,76 @@
         "arxiv:2610.28543",
         "title:binarydiscretediffusioncandidatesetdiffusionforlogicandplanningtasks"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25980",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T14:45:06.147132+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningwhatactionschangeactioneffectmatchingfordynamicsfaithfulworldmodels",
+      "identity_keys": [
+        "arxiv:2611.25980",
+        "title:learningwhatactionschangeactioneffectmatchingfordynamicsfaithfulworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26615",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T14:45:06.398408+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scaleworldhighresolutionworldgenerationthroughsharedpredictionandrefinement",
+      "identity_keys": [
+        "arxiv:2611.26615",
+        "title:scaleworldhighresolutionworldgenerationthroughsharedpredictionandrefinement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26438",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T14:45:07.832739+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "riskcontrolledtesttimeadaptationforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2611.26438",
+        "title:riskcontrolledtesttimeadaptationforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28381",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T14:45:08.796963+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "REALM 2026",
+      "title_key": "capsafeabenchmarkforcontextualactionandplansafetyreasoninginembodiedagents",
+      "identity_keys": [
+        "arxiv:2610.28381",
+        "title:capsafeabenchmarkforcontextualactionandplansafetyreasoninginembodiedagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.28998",
+      "category": "frontier",
+      "first_sent_at": "2026-11-20T14:45:09.122981+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flashnextrlasystemoptimizationstudyforlonghorizonagenticrlofqwen38flashnext",
+      "identity_keys": [
+        "arxiv:2610.28998",
+        "title:flashnextrlasystemoptimizationstudyforlonghorizonagenticrlofqwen38flashnext"
+      ]
     }
   ]
 }
