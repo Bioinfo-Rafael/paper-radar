@@ -41334,6 +41334,150 @@
         "arxiv:2611.25889",
         "title:evomemselfevolvingskillsfortimeawarelongvideomemoryagents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.11.04.764326",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-21T01:56:25.661681+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.11.04.764326",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "singlecellmultiomicsidentifyotpandnova1asregulatorsofleptinactioninhypothalamicfeedingcircuits",
+      "identity_keys": [
+        "doi:10.64898/2026.11.04.764326",
+        "pubmed:43060504",
+        "title:singlecellmultiomicsidentifyotpandnova1asregulatorsofleptinactioninhypothalamicfeedingcircuits"
+      ]
+    },
+    {
+      "canonical_id": "pubmed:43060864",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-21T01:56:26.057076+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "ArXiv",
+      "title_key": "nonreciprocalhopfieldnetsforangiogenesis",
+      "identity_keys": [
+        "pubmed:43060864",
+        "title:nonreciprocalhopfieldnetsforangiogenesis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.11.05.764481",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-21T01:56:26.263148+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.11.05.764481",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "inferringgeneregulatorynetworksfromsinglecellperturbationdatabyoptimizingcausalreachoflatentmediatordynamics",
+      "identity_keys": [
+        "doi:10.64898/2026.11.05.764481",
+        "pubmed:43060182",
+        "title:inferringgeneregulatorynetworksfromsinglecellperturbationdatabyoptimizingcausalreachoflatentmediatordynamics"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.11.07.765081",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-21T01:56:26.507101+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.11.07.765081",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "networkinferenceatsinglecellresolutionrevealsmorphoregulatorydivergenceandmultilayeredbufferinginlimbevolution",
+      "identity_keys": [
+        "doi:10.64898/2026.11.07.765081",
+        "pubmed:43059903",
+        "title:networkinferenceatsinglecellresolutionrevealsmorphoregulatorydivergenceandmultilayeredbufferinginlimbevolution"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.11.05.764660",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-21T01:56:26.841263+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.11.05.764660",
+      "venue": "bioRxiv : the preprint server for biology",
+      "title_key": "inferenceofcelldivisionparametersinbacteriaundertransientgrowthconditions",
+      "identity_keys": [
+        "doi:10.64898/2026.11.05.764660",
+        "pubmed:43059732",
+        "title:inferenceofcelldivisionparametersinbacteriaundertransientgrowthconditions"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26145",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T01:56:27.656952+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canworldmodelspredictricegrowthtowardagriculturalworldmodels",
+      "identity_keys": [
+        "arxiv:2611.26145",
+        "title:canworldmodelspredictricegrowthtowardagriculturalworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25722",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T01:56:27.914879+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dacadualanchorcollaborativeagentforzeroshot3dvisualgrounding",
+      "identity_keys": [
+        "arxiv:2611.25722",
+        "title:dacadualanchorcollaborativeagentforzeroshot3dvisualgrounding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30097",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T01:56:28.363460+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atomicrlatomicreinforcementlearningforlonghorizonroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2610.30097",
+        "title:atomicrlatomicreinforcementlearningforlonghorizonroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25849",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T01:56:28.976683+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "egowitnessbenchmarkinginstancelevelspatialmemoryandreasoninginegocentricvideostreams",
+      "identity_keys": [
+        "arxiv:2611.25849",
+        "title:egowitnessbenchmarkinginstancelevelspatialmemoryandreasoninginegocentricvideostreams"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30277",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T01:56:29.320701+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "breakingthehighdegreebarrierinlehmersproblemwithahumanaidiscoveryloop",
+      "identity_keys": [
+        "arxiv:2610.30277",
+        "title:breakingthehighdegreebarrierinlehmersproblemwithahumanaidiscoveryloop"
+      ]
     }
   ]
 }
