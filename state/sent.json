@@ -41548,6 +41548,76 @@
         "arxiv:2610.29676",
         "title:drivemlpwhentrainingstrategyoutperformsmodelcomplexityinautonomousdriving"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26167",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T10:35:45.458493+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "planningtostopfactoredcertificationandterminalrepairfornoncircularrobots",
+      "identity_keys": [
+        "arxiv:2611.26167",
+        "title:planningtostopfactoredcertificationandterminalrepairfornoncircularrobots"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26341",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T10:35:45.694110+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reasoningoncallefficientagenticrobotcontrolforlonghorizonrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2611.26341",
+        "title:reasoningoncallefficientagenticrobotcontrolforlonghorizonrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30051",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T10:35:45.917061+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromreasoningtoactionbenchmarkingfrontieraimodelsonlibero10robotmanipulationtasks",
+      "identity_keys": [
+        "arxiv:2610.30051",
+        "title:fromreasoningtoactionbenchmarkingfrontieraimodelsonlibero10robotmanipulationtasks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.30108",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T10:35:46.188462+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "multimodalembodiedagentsaunifiedcapabilitycentricperspectivefromcomputerusetorobotuse",
+      "identity_keys": [
+        "arxiv:2610.30108",
+        "title:multimodalembodiedagentsaunifiedcapabilitycentricperspectivefromcomputerusetorobotuse"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25989",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T10:35:46.754941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "policyimprovementguidedreplayforcontinualreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2611.25989",
+        "title:policyimprovementguidedreplayforcontinualreinforcementlearning"
+      ]
     }
   ]
 }
