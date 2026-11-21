@@ -41618,6 +41618,137 @@
         "arxiv:2611.25989",
         "title:policyimprovementguidedreplayforcontinualreinforcementlearning"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-026-78669-5",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-21T16:49:41.770625+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-026-78669-5",
+      "venue": "Nature communications",
+      "title_key": "veloteststatisticalassessmentofrnavelocityembeddingsrevealsqualitydifferencesforreliabletrajectoryvisualizations",
+      "identity_keys": [
+        "doi:10.1038/s41467-026-78669-5",
+        "pubmed:43064728",
+        "title:veloteststatisticalassessmentofrnavelocityembeddingsrevealsqualitydifferencesforreliabletrajectoryvisualizations"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41467-025-65143-x",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-21T16:49:42.021878+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41467-025-65143-x",
+      "venue": "Nature communications",
+      "title_key": "mappingcelldynamicsinhumanexvivohairfolliclessuggestspullingmechanismofhairgrowth",
+      "identity_keys": [
+        "doi:10.1038/s41467-025-65143-x",
+        "pubmed:41271712",
+        "title:mappingcelldynamicsinhumanexvivohairfolliclessuggestspullingmechanismofhairgrowth"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.4208/cicp.oa-2026-0074",
+      "category": "ml",
+      "first_sent_at": "2026-11-21T16:49:46.005736+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.4208/cicp.oa-2026-0074",
+      "venue": "Communications in Computational Physics",
+      "title_key": "generatingsamplesofstationarydistributionsofweaklyinteractingdiffusionmodelswithoutfiniteparticletruncationaweakgenerativeapproach",
+      "identity_keys": [
+        "doi:10.4208/cicp.oa-2026-0074",
+        "openalex:w4415090034",
+        "title:generatingsamplesofstationarydistributionsofweaklyinteractingdiffusionmodelswithoutfiniteparticletruncationaweakgenerativeapproach"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31889",
+      "category": "ml",
+      "first_sent_at": "2026-11-21T16:49:46.662348+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scalingtransformerenergybasedmodelsforhighqualityimagesynthesis",
+      "identity_keys": [
+        "arxiv:2610.31889",
+        "title:scalingtransformerenergybasedmodelsforhighqualityimagesynthesis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.21847",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T16:49:47.442339+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2611.21847",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "inventadecentralizedselfimprovingagentsforautonomousscientificdiscovery",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.21847",
+        "openalex:w7236271378",
+        "title:inventadecentralizedselfimprovingagentsforautonomousscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s40430-026-06873-x",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T16:49:47.724334+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "J. Braz. Soc. Mech. Sci. Eng. 48, 741 (2026)",
+      "title_key": "artificialintelligenceinmechanicalengineeringfoundationsopportunitieschallengesandresponsibilities",
+      "identity_keys": [
+        "arxiv:2610.33105",
+        "doi:10.1007/s40430-026-06873-x",
+        "title:artificialintelligenceinmechanicalengineeringfoundationsopportunitieschallengesandresponsibilities"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31983",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T16:49:50.051414+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "interpretingphysicsinvideoencodersusingmultiobjectinteractionvideos",
+      "identity_keys": [
+        "arxiv:2610.31983",
+        "title:interpretingphysicsinvideoencodersusingmultiobjectinteractionvideos"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31859",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T16:49:50.503495+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fullweightvlafinetuningwithoutanfp32mastercopysilentlyerasesmostupdates",
+      "identity_keys": [
+        "arxiv:2610.31859",
+        "title:fullweightvlafinetuningwithoutanfp32mastercopysilentlyerasesmostupdates"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25925",
+      "category": "frontier",
+      "first_sent_at": "2026-11-21T16:49:51.091812+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spatialmembuildingquantitativespatialreasoningagentswithhierarchicalmemory",
+      "identity_keys": [
+        "arxiv:2611.25925",
+        "title:spatialmembuildingquantitativespatialreasoningagentswithhierarchicalmemory"
+      ]
     }
   ]
 }
