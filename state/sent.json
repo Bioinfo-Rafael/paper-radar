@@ -41819,6 +41819,78 @@
         "arxiv:2610.31778",
         "title:benchmarksaresurprisinglycompactionfriendly"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31762",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T05:56:28.595412+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seewhatineeddreamwhatiwantanavigationfoundationmodelonaselfconstructedrepresentationspace",
+      "identity_keys": [
+        "arxiv:2610.31762",
+        "title:seewhatineeddreamwhatiwantanavigationfoundationmodelonaselfconstructedrepresentationspace"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.24588",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T05:56:29.071616+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2611.24588",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "largelanguagemodelsoraiagentsforenglishtoarabictranslationanassessmentonwikienar190",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.24588",
+        "openalex:w7236670273",
+        "title:largelanguagemodelsoraiagentsforenglishtoarabictranslationanassessmentonwikienar190"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s10458-026-09781-5",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T05:56:29.178515+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s10458-026-09781-5",
+      "venue": "Autonomous Agents and Multi-Agent Systems",
+      "title_key": "natbdicombiningbdireasoningandnaturallanguageinferenceforautonomousagents",
+      "identity_keys": [
+        "doi:10.1007/s10458-026-09781-5",
+        "title:natbdicombiningbdireasoningandnaturallanguageinferenceforautonomousagents"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1364/jocn.608491",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T05:56:29.326830+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1364/jocn.608491",
+      "venue": "Journal of Optical Communications and Networking",
+      "title_key": "towardagenticopticalnetworksavisionofllmagentdrivenautonomouslifecyclemanagement",
+      "identity_keys": [
+        "doi:10.1364/jocn.608491",
+        "openalex:w7214708255",
+        "title:towardagenticopticalnetworksavisionofllmagentdrivenautonomouslifecyclemanagement"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31809",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T05:56:29.450273+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "curalocrepositorylevelfaultlocalizationviaplannedcodeinspection",
+      "identity_keys": [
+        "arxiv:2610.31809",
+        "title:curalocrepositorylevelfaultlocalizationviaplannedcodeinspection"
+      ]
     }
   ]
 }
