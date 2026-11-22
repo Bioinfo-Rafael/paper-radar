@@ -41905,6 +41905,34 @@
         "arxiv:2610.31834",
         "title:worldmirroragenticrealtosimgenerationofinteractiveworldsfrominthewildrobotdemonstrations"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3734895",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T13:51:56.627704+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3734895",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "anoptimizationframeworkforintraoperativesutureplanningviaphysicsawaredifferentiablegraphneuralnetworkbasedsurrogates",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3734895",
+        "title:anoptimizationframeworkforintraoperativesutureplanningviaphysicsawaredifferentiablegraphneuralnetworkbasedsurrogates"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3730215",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T13:51:56.824176+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3730215",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "generalizablemultiagentplanningfromsignaltemporallogicspecificationsviadiffusion",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3730215",
+        "title:generalizablemultiagentplanningfromsignaltemporallogicspecificationsviadiffusion"
+      ]
     }
   ]
 }
