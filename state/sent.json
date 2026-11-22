@@ -41933,6 +41933,105 @@
         "doi:10.1109/lra.2026.3730215",
         "title:generalizablemultiagentplanningfromsignaltemporallogicspecificationsviadiffusion"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1186/s13059-025-03701-8",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-22T17:05:08.112497+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1186/s13059-025-03701-8",
+      "venue": "Genome Biology",
+      "title_key": "spvelornavelocityinferenceformultibatchspatialtranscriptomicsdata",
+      "identity_keys": [
+        "doi:10.1186/s13059-025-03701-8",
+        "title:spvelornavelocityinferenceformultibatchspatialtranscriptomicsdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33204",
+      "category": "ml",
+      "first_sent_at": "2026-11-22T17:05:08.793111+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "flowmeshavelocityregularizedflowmatchingframeworkforstabledistributionalmodelingofphysicalfieldsonunstructuredmeshes",
+      "identity_keys": [
+        "arxiv:2610.33204",
+        "title:flowmeshavelocityregularizedflowmatchingframeworkforstabledistributionalmodelingofphysicalfieldsonunstructuredmeshes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33366",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T17:05:09.679962+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "distilldebatediscovergroundingmultiagentresearchideationingraphdistilledinsights",
+      "identity_keys": [
+        "arxiv:2610.33366",
+        "title:distilldebatediscovergroundingmultiagentresearchideationingraphdistilledinsights"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3390/electronics13071169",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T17:05:10.220252+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "Electronics, MDPI, 2024",
+      "title_key": "causalbasedapproachestoexplainandlearnfromselfextensionareview",
+      "identity_keys": [
+        "arxiv:2610.33227",
+        "doi:10.3390/electronics13071169",
+        "title:causalbasedapproachestoexplainandlearnfromselfextensionareview"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32332",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T17:05:10.651161+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "4dmemorybenchmarkinglonghorizonspatiotemporalmemorywithharnessaugmentedagents",
+      "identity_keys": [
+        "arxiv:2610.32332",
+        "title:4dmemorybenchmarkinglonghorizonspatiotemporalmemorywithharnessaugmentedagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.03684",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T17:05:10.846806+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "functionalgroupknowledgeisstructuredinlanguagemodelsbeforeitisspoken",
+      "identity_keys": [
+        "arxiv:2611.03684",
+        "title:functionalgroupknowledgeisstructuredinlanguagemodelsbeforeitisspoken"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33158",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T17:05:11.096549+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gaussianepisodicmemoryforlongtermspatiotemporalreasoning",
+      "identity_keys": [
+        "arxiv:2610.33158",
+        "title:gaussianepisodicmemoryforlongtermspatiotemporalreasoning"
+      ]
     }
   ]
 }
