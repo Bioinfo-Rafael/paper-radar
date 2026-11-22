@@ -41749,6 +41749,76 @@
         "arxiv:2611.25925",
         "title:spatialmembuildingquantitativespatialreasoningagentswithhierarchicalmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.26007",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T00:53:38.769612+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "systemonersibuildingmusclememoryforinteractiveagentsthroughguidedpractice",
+      "identity_keys": [
+        "arxiv:2611.26007",
+        "title:systemonersibuildingmusclememoryforinteractiveagentsthroughguidedpractice"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25865",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T00:53:39.419438+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thinkinginstreamsproactivespatialreasoningwithvisionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2611.25865",
+        "title:thinkinginstreamsproactivespatialreasoningwithvisionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.25793",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T00:53:39.654989+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whensafetyrationaleshallucinatediagnosingandgroundingmultimodalsafetyguards",
+      "identity_keys": [
+        "arxiv:2611.25793",
+        "title:whensafetyrationaleshallucinatediagnosingandgroundingmultimodalsafetyguards"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31945",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T00:53:39.851513+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "kolibriasovereigneuropeanmodelontheparetofrontier",
+      "identity_keys": [
+        "arxiv:2610.31945",
+        "title:kolibriasovereigneuropeanmodelontheparetofrontier"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.31778",
+      "category": "frontier",
+      "first_sent_at": "2026-11-22T00:53:40.046555+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "benchmarksaresurprisinglycompactionfriendly",
+      "identity_keys": [
+        "arxiv:2610.31778",
+        "title:benchmarksaresurprisinglycompactionfriendly"
+      ]
     }
   ]
 }
