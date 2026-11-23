@@ -42214,6 +42214,90 @@
         "arxiv:2610.32308",
         "title:solventlonghorizonreasoningformultistepretrosynthesis"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s41587-026-03284-0",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-23T11:42:47.918482+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s41587-026-03284-0",
+      "venue": "Nature Biotechnology",
+      "title_key": "aunifiedframeworkforscalabledifferentialtestingforspatialomics",
+      "identity_keys": [
+        "doi:10.1038/s41587-026-03284-0",
+        "title:aunifiedframeworkforscalabledifferentialtestingforspatialomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27110",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T11:42:49.949762+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "remoteevolverexpandingearthobservationcapabilitiesthroughagentharnessevolution",
+      "identity_keys": [
+        "arxiv:2611.27110",
+        "title:remoteevolverexpandingearthobservationcapabilitiesthroughagentharnessevolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27173",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T11:42:50.355404+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pacewmparallelworldmodelingwithactionhistoryforvisualplanning",
+      "identity_keys": [
+        "arxiv:2611.27173",
+        "title:pacewmparallelworldmodelingwithactionhistoryforvisualplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27516",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T11:42:50.562463+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "phijepadenoisinglatentpredictionsforvisualrepresentationlearning",
+      "identity_keys": [
+        "arxiv:2611.27516",
+        "title:phijepadenoisinglatentpredictionsforvisualrepresentationlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27639",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T11:42:50.777671+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "soartrainingfreerankconsistentrolloutcompressionforlatentworldmodelplanning",
+      "identity_keys": [
+        "arxiv:2611.27639",
+        "title:soartrainingfreerankconsistentrolloutcompressionforlatentworldmodelplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32697",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T11:42:51.278920+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "spguideenhancingaerialvisionlanguagenavigationwithspatialpriors",
+      "identity_keys": [
+        "arxiv:2610.32697",
+        "title:spguideenhancingaerialvisionlanguagenavigationwithspatialpriors"
+      ]
     }
   ]
 }
