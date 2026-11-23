@@ -42032,6 +42032,76 @@
         "arxiv:2610.33158",
         "title:gaussianepisodicmemoryforlongtermspatiotemporalreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32971",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T01:28:52.136650+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robustrllibaunifiedlibraryandbenchmarkforrobustreinforcementlearningalgorithms",
+      "identity_keys": [
+        "arxiv:2610.32971",
+        "title:robustrllibaunifiedlibraryandbenchmarkforrobustreinforcementlearningalgorithms"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32495",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T01:28:52.454463+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "musictwinstrainingaudiolanguagemodelstolistenliketheirpersona",
+      "identity_keys": [
+        "arxiv:2610.32495",
+        "title:musictwinstrainingaudiolanguagemodelstolistenliketheirpersona"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33312",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T01:28:52.715816+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "responsibilityboundariesforagenticsystemsacomparativeevaluationofprobabilisticagenticprogramming",
+      "identity_keys": [
+        "arxiv:2610.33312",
+        "title:responsibilityboundariesforagenticsystemsacomparativeevaluationofprobabilisticagenticprogramming"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32978",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T01:28:52.856379+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scenebloomagenticindoorenvironmentgenerationwithrealisticanddiverselayoutsforembodiedlearning",
+      "identity_keys": [
+        "arxiv:2610.32978",
+        "title:scenebloomagenticindoorenvironmentgenerationwithrealisticanddiverselayoutsforembodiedlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32755",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T01:28:53.233363+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "semanticrepresentationforagenticselfplayinautomatedlaboratories",
+      "identity_keys": [
+        "arxiv:2610.32755",
+        "title:semanticrepresentationforagenticselfplayinautomatedlaboratories"
+      ]
     }
   ]
 }
