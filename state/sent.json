@@ -42298,6 +42298,120 @@
         "arxiv:2610.32697",
         "title:spguideenhancingaerialvisionlanguagenavigationwithspatialpriors"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33877",
+      "category": "ml",
+      "first_sent_at": "2026-11-23T17:00:17.476274+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "semanticconceptsteeringbreakstheexplanationdriftloopincontinuallearning",
+      "identity_keys": [
+        "arxiv:2610.33877",
+        "title:semanticconceptsteeringbreakstheexplanationdriftloopincontinuallearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33776",
+      "category": "ml",
+      "first_sent_at": "2026-11-23T17:00:18.272941+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "triageragfailureawareselftrainingforadaptingretrievalaugmentedlanguagemodelstospecializeddomains",
+      "identity_keys": [
+        "arxiv:2610.33776",
+        "title:triageragfailureawareselftrainingforadaptingretrievalaugmentedlanguagemodelstospecializeddomains"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.25061",
+      "category": "ml",
+      "first_sent_at": "2026-11-23T17:00:18.939770+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.48550/arxiv.2611.25061",
+      "venue": "arXiv (Cornell University)",
+      "title_key": "infer3dinversegenerativemodelingenablesrobust3dreconstruction",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.25061",
+        "openalex:w7237083567",
+        "title:infer3dinversegenerativemodelingenablesrobust3dreconstruction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33465",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T17:00:20.055276+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "legosraunifiedframeworkforselfimprovingagentguidedscientificdiscovery",
+      "identity_keys": [
+        "arxiv:2610.33465",
+        "title:legosraunifiedframeworkforselfimprovingagentguidedscientificdiscovery"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.24445896",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T17:00:20.245309+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.24445896",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "beyondagenticaigroundedselfevolvingcollectiveintelligencethenextadvanceisnotabetteragentbutanagentthatcanpredictrememberlearnfromexperienceandbeverifiedinthephysicalworld",
+      "identity_keys": [
+        "doi:10.5281/zenodo.24445896",
+        "openalex:w7238491622",
+        "title:beyondagenticaigroundedselfevolvingcollectiveintelligencethenextadvanceisnotabetteragentbutanagentthatcanpredictrememberlearnfromexperienceandbeverifiedinthephysicalworld"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27939",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T17:00:21.669632+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whatmustamodeltellaplanneroutcomeinterfacesforriskawareplanningafterrobotdamage",
+      "identity_keys": [
+        "arxiv:2611.27939",
+        "title:whatmustamodeltellaplanneroutcomeinterfacesforriskawareplanningafterrobotdamage"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33445",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T17:00:22.180116+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromintelligencetoautonomyfoundationsandconstructionofautonomousagentsforfutureintelligentsystems",
+      "identity_keys": [
+        "arxiv:2610.33445",
+        "title:fromintelligencetoautonomyfoundationsandconstructionofautonomousagentsforfutureintelligentsystems"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27500",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T17:00:23.545401+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "turnoutadaptiveattentionswitchingforefficientreasoning",
+      "identity_keys": [
+        "arxiv:2611.27500",
+        "title:turnoutadaptiveattentionswitchingforefficientreasoning"
+      ]
     }
   ]
 }
