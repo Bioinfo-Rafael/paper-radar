@@ -42412,6 +42412,76 @@
         "arxiv:2611.27500",
         "title:turnoutadaptiveattentionswitchingforefficientreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27689",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T21:06:49.668613+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedharnesstowardsrecursiveselfimprovementforroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2611.27689",
+        "title:embodiedharnesstowardsrecursiveselfimprovementforroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/978-981-92-8137-4_7",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T21:06:50.317177+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/978-981-92-8137-4_7",
+      "venue": "Communications in Computer and Information Science",
+      "title_key": "deepoperatorworldmodelsforpolicymirrordescentinreinforcementlearning",
+      "identity_keys": [
+        "doi:10.1007/978-981-92-8137-4_7",
+        "title:deepoperatorworldmodelsforpolicymirrordescentinreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33862",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T21:06:50.522333+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "securingedgephysicalaipostquantumiotblockchainformissioncriticalcyberphysicalagents",
+      "identity_keys": [
+        "arxiv:2610.33862",
+        "title:securingedgephysicalaipostquantumiotblockchainformissioncriticalcyberphysicalagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33486",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T21:06:51.335110+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "learningdexterousmanipulationhandssimulatorstrainingandevaluation",
+      "identity_keys": [
+        "arxiv:2610.33486",
+        "title:learningdexterousmanipulationhandssimulatorstrainingandevaluation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27119",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T21:06:52.152721+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ctrlconcurrenttrainingandrolloutforllmreinforcementlearningviagpucoresidency",
+      "identity_keys": [
+        "arxiv:2611.27119",
+        "title:ctrlconcurrenttrainingandrolloutforllmreinforcementlearningviagpucoresidency"
+      ]
     }
   ]
 }
