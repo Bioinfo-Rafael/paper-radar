@@ -42102,6 +42102,118 @@
         "arxiv:2610.32755",
         "title:semanticrepresentationforagenticselfplayinautomatedlaboratories"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27607",
+      "category": "ml",
+      "first_sent_at": "2026-11-23T06:45:35.142902+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "taskletsaunittestbenchmarkforlanguagemodelarchitectures",
+      "identity_keys": [
+        "arxiv:2611.27607",
+        "title:taskletsaunittestbenchmarkforlanguagemodelarchitectures"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27269",
+      "category": "ml",
+      "first_sent_at": "2026-11-23T06:45:35.384959+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "moduleamutualpromotingdeepunfoldingframeworktowardsdegradationrobustmultimodalimagefusion",
+      "identity_keys": [
+        "arxiv:2611.27269",
+        "title:moduleamutualpromotingdeepunfoldingframeworktowardsdegradationrobustmultimodalimagefusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27618",
+      "category": "ml",
+      "first_sent_at": "2026-11-23T06:45:35.938233+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "potentialemergenceinllmagentsastatisticalphysicsperspective",
+      "identity_keys": [
+        "arxiv:2611.27618",
+        "title:potentialemergenceinllmagentsastatisticalphysicsperspective"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27306",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T06:45:36.633996+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scapeanagentcentricworldformobileembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2611.27306",
+        "title:scapeanagentcentricworldformobileembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27124",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T06:45:37.115417+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aplanoranadversarialexamplearoundtripcheckforlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2611.27124",
+        "title:aplanoranadversarialexamplearoundtripcheckforlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.27418",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T06:45:37.330911+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondfutureviewsexploringfuturestateworldmodelsforvisionlanguagenavigation",
+      "identity_keys": [
+        "arxiv:2611.27418",
+        "title:beyondfutureviewsexploringfuturestateworldmodelsforvisionlanguagenavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32431",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T06:45:40.155138+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whentostoppenalizingactionsmartingalegrpoforvlareinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.32431",
+        "title:whentostoppenalizingactionsmartingalegrpoforvlareinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.32308",
+      "category": "frontier",
+      "first_sent_at": "2026-11-23T06:45:40.723222+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "solventlonghorizonreasoningformultistepretrosynthesis",
+      "identity_keys": [
+        "arxiv:2610.32308",
+        "title:solventlonghorizonreasoningformultistepretrosynthesis"
+      ]
     }
   ]
 }
