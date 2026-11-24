@@ -42847,6 +42847,176 @@
         "arxiv:2611.31129",
         "title:fatcatfaultinjectionattackstargetingchiplevelalignment"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bib/bbag536",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-24T16:53:13.651478+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bib/bbag536",
+      "venue": "Briefings in bioinformatics",
+      "title_key": "mitolodeavirtualmitochondrionframeworkwithknowledgegraphpriorsfortrajectorymodelingandmechanisticperturbationanalysis",
+      "identity_keys": [
+        "doi:10.1093/bib/bbag536",
+        "pubmed:43076351",
+        "title:mitolodeavirtualmitochondrionframeworkwithknowledgegraphpriorsfortrajectorymodelingandmechanisticperturbationanalysis"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag830",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-24T16:53:14.177957+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag830",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "bridginggraphandpairwiselearningforgeneregulatorynetworkinferencefromscrnaseqdata",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag830",
+        "pubmed:43076031",
+        "title:bridginggraphandpairwiselearningforgeneregulatorynetworkinferencefromscrnaseqdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34247",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T16:53:15.015722+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "doesnotationmattermusicxmltokenisationforsymbolicmusicgenerationandunderstanding",
+      "identity_keys": [
+        "arxiv:2610.34247",
+        "title:doesnotationmattermusicxmltokenisationforsymbolicmusicgenerationandunderstanding"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34335",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T16:53:15.811250+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "colinkglobalcompressionandknowledgelinkingformultiturndialoguemodeling",
+      "identity_keys": [
+        "arxiv:2610.34335",
+        "title:colinkglobalcompressionandknowledgelinkingformultiturndialoguemodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34208",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T16:53:16.025427+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cormaconstraintrouteddecisionmambaforgeneralizablemulticonstraintofflinesafereinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.34208",
+        "title:cormaconstraintrouteddecisionmambaforgeneralizablemulticonstraintofflinesafereinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37701",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T16:53:16.234501+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "duquadadualviewframeworkwithqualityawareevidencepruningformultidocumentquestionanswering",
+      "identity_keys": [
+        "arxiv:2610.37701",
+        "title:duquadadualviewframeworkwithqualityawareevidencepruningformultidocumentquestionanswering"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33968",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T16:53:16.667023+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalcooperativegflownets",
+      "identity_keys": [
+        "arxiv:2610.33968",
+        "title:hierarchicalcooperativegflownets"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30310",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T16:53:20.242330+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "seeingtogetheractingapartsharedenvironmentalunderstandingformultirobotnavigation",
+      "identity_keys": [
+        "arxiv:2611.30310",
+        "title:seeingtogetheractingapartsharedenvironmentalunderstandingformultirobotnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30516",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T16:53:23.515081+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "jepaiclprogressalignedlatentplansforincontextroboticmanipulation",
+      "identity_keys": [
+        "arxiv:2611.30516",
+        "title:jepaiclprogressalignedlatentplansforincontextroboticmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34384",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T16:53:24.117606+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "androidfluxevaluatingandrewardmodelingfailurerecoverycapabilitiesinmobileusemultimodalagents",
+      "identity_keys": [
+        "arxiv:2610.34384",
+        "title:androidfluxevaluatingandrewardmodelingfailurerecoverycapabilitiesinmobileusemultimodalagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.29238",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T16:53:24.354620+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "gameanythingfromanyinspirationstoplayablegameworlds",
+      "identity_keys": [
+        "arxiv:2611.29238",
+        "title:gameanythingfromanyinspirationstoplayablegameworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34500",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T16:53:25.504641+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "calimemsearchefficientdataagentviacalibratedmemory",
+      "identity_keys": [
+        "arxiv:2610.34500",
+        "title:calimemsearchefficientdataagentviacalibratedmemory"
+      ]
     }
   ]
 }
