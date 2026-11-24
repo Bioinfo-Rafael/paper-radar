@@ -42777,6 +42777,76 @@
         "arxiv:2611.31201",
         "title:emboharnesstowardsunderstandingfrontiermodelaspolicyharness"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.31022",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T13:27:21.464383+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "omnivbenchcanmllmscomprehendimmersivespatiotemporalscenes",
+      "identity_keys": [
+        "arxiv:2611.31022",
+        "title:omnivbenchcanmllmscomprehendimmersivespatiotemporalscenes"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30659",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T13:27:21.608654+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "actfieldlearningactioneffectsascontinuoustimelatentdynamics",
+      "identity_keys": [
+        "arxiv:2611.30659",
+        "title:actfieldlearningactioneffectsascontinuoustimelatentdynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.31240",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T13:27:21.911639+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pruningautonomousdrivingvlaswhattopreserveforreasoningandaction",
+      "identity_keys": [
+        "arxiv:2611.31240",
+        "title:pruningautonomousdrivingvlaswhattopreserveforreasoningandaction"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30534",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T13:27:22.373303+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "delayopsdonpolicyselfdistillationfromasynchronousteacherforrealtimeasynchronouspolicies",
+      "identity_keys": [
+        "arxiv:2611.30534",
+        "title:delayopsdonpolicyselfdistillationfromasynchronousteacherforrealtimeasynchronouspolicies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.31129",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T13:27:22.515839+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fatcatfaultinjectionattackstargetingchiplevelalignment",
+      "identity_keys": [
+        "arxiv:2611.31129",
+        "title:fatcatfaultinjectionattackstargetingchiplevelalignment"
+      ]
     }
   ]
 }
