@@ -43017,6 +43017,76 @@
         "arxiv:2610.34500",
         "title:calimemsearchefficientdataagentviacalibratedmemory"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30989",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T20:10:55.281716+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldleaguebenchmarkingphysicalagency",
+      "identity_keys": [
+        "arxiv:2611.30989",
+        "title:worldleaguebenchmarkingphysicalagency"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30898",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T20:10:55.446682+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "worldmodelsasnativelatentactionmodels",
+      "identity_keys": [
+        "arxiv:2611.30898",
+        "title:worldmodelsasnativelatentactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30666",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T20:10:55.738464+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "zhengrongworldmodelswithpolebasedactionresponsefactorizationfordirectvisualplanning",
+      "identity_keys": [
+        "arxiv:2611.30666",
+        "title:zhengrongworldmodelswithpolebasedactionresponsefactorizationfordirectvisualplanning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34523",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T20:10:55.870236+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howhumanslearnunfamiliarworldsathinkalouddatasetonarcagi3",
+      "identity_keys": [
+        "arxiv:2610.34523",
+        "title:howhumanslearnunfamiliarworldsathinkalouddatasetonarcagi3"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34108",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T20:10:56.590561+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboduoattemptcheckandatomicrecoverythroughcodeforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.34108",
+        "title:roboduoattemptcheckandatomicrecoverythroughcodeforvisionlanguageactionmodels"
+      ]
     }
   ]
 }
