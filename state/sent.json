@@ -42482,6 +42482,161 @@
         "arxiv:2611.27119",
         "title:ctrlconcurrenttrainingandrolloutforllmreinforcementlearningviagpucoresidency"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1016/j.nbt.2026.11.011",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-24T05:09:11.730143+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1016/j.nbt.2026.11.011",
+      "venue": "New biotechnology",
+      "title_key": "modelingchocellmetabolismusingacellularresourceallocationframework",
+      "identity_keys": [
+        "doi:10.1016/j.nbt.2026.11.011",
+        "pubmed:43072579",
+        "title:modelingchocellmetabolismusingacellularresourceallocationframework"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30064",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T05:09:12.463244+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howlatenttransitiongeometrymattersforplanninginworldmodels",
+      "identity_keys": [
+        "arxiv:2611.30064",
+        "title:howlatenttransitiongeometrymattersforplanninginworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.29681",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T05:09:12.946020+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardsglobalcounterfactualbasedselfexplainablegraphneuralnetworks",
+      "identity_keys": [
+        "arxiv:2611.29681",
+        "title:towardsglobalcounterfactualbasedselfexplainablegraphneuralnetworks"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30139",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T05:09:13.309726+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "autosecoautomatedskillevolutionforcrossproblemcombinatorialoptimizationwithgeneralpurposellmagents",
+      "identity_keys": [
+        "arxiv:2611.30139",
+        "title:autosecoautomatedskillevolutionforcrossproblemcombinatorialoptimizationwithgeneralpurposellmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.29467",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T05:09:13.487169+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondaccuracyadiagnosticbenchmarkforhypothesisdrivenexperimentplanninginllmagents",
+      "identity_keys": [
+        "arxiv:2611.29467",
+        "title:beyondaccuracyadiagnosticbenchmarkforhypothesisdrivenexperimentplanninginllmagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.29043",
+      "category": "ml",
+      "first_sent_at": "2026-11-24T05:09:59.006715+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mirrordescentattheedgeofstability",
+      "identity_keys": [
+        "arxiv:2611.29043",
+        "title:mirrordescentattheedgeofstability"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30004",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T05:09:59.569297+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "envtraprevealingtheenvironmentonlyattacksurfaceinembodiedaiviaconsequenceblindactionexecution",
+      "identity_keys": [
+        "arxiv:2611.30004",
+        "title:envtraprevealingtheenvironmentonlyattacksurfaceinembodiedaiviaconsequenceblindactionexecution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.30145",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T05:10:00.055196+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "rmrvlarecurrentmemoryreasoningforvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2611.30145",
+        "title:rmrvlarecurrentmemoryreasoningforvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.29813",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T05:10:00.243339+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hierarchicalreasoningactionheadfortinyvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2611.29813",
+        "title:hierarchicalreasoningactionheadfortinyvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33863",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T05:10:01.859006+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "robolongrcausallyconsistentrewardsteachrobotstoprogressivelymasterlonghorizonmanipulation",
+      "identity_keys": [
+        "arxiv:2610.33863",
+        "title:robolongrcausallyconsistentrewardsteachrobotstoprogressivelymasterlonghorizonmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.33758",
+      "category": "frontier",
+      "first_sent_at": "2026-11-24T05:10:02.308515+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roadinfrastructureperceptionforautonomousdrivingtaxonomyrepresentationstasksandchallenges",
+      "identity_keys": [
+        "arxiv:2610.33758",
+        "title:roadinfrastructureperceptionforautonomousdrivingtaxonomyrepresentationstasksandchallenges"
+      ]
     }
   ]
 }
