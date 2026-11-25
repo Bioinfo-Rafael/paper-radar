@@ -43087,6 +43087,146 @@
         "arxiv:2610.34108",
         "title:roboduoattemptcheckandatomicrecoverythroughcodeforvisionlanguageactionmodels"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32416",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T03:59:23.618103+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ontheimportanceofhiddenstaterefinementinmaskeddiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2611.32416",
+        "title:ontheimportanceofhiddenstaterefinementinmaskeddiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.31850",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T03:59:23.796769+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "twostageposttrainingforflowbasedembodiedfoundationmodels",
+      "identity_keys": [
+        "arxiv:2611.31850",
+        "title:twostageposttrainingforflowbasedembodiedfoundationmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.31677",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T03:59:23.953600+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lookbeforeyoucommitvisualevidenceguideddecodingformultimodaldiffusionlanguagemodels",
+      "identity_keys": [
+        "arxiv:2611.31677",
+        "title:lookbeforeyoucommitvisualevidenceguideddecodingformultimodaldiffusionlanguagemodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32092",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T03:59:24.360161+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "afusedgaussianprocessbanditframeworkformultifidelitybayesianoptimization",
+      "identity_keys": [
+        "arxiv:2611.32092",
+        "title:afusedgaussianprocessbanditframeworkformultifidelitybayesianoptimization"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.31680",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T03:59:24.941923+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "curvatureequilibratedpolicyoptimizationfordeepreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2611.31680",
+        "title:curvatureequilibratedpolicyoptimizationfordeepreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32357",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T03:59:25.781172+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "criticjepaworldmodelsarebettercriticsthanoptimizers",
+      "identity_keys": [
+        "arxiv:2611.32357",
+        "title:criticjepaworldmodelsarebettercriticsthanoptimizers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32152",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T03:59:25.928856+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboprobebenchmarkingphysicalplausibilityofrobotworldmodels",
+      "identity_keys": [
+        "arxiv:2611.32152",
+        "title:roboprobebenchmarkingphysicalplausibilityofrobotworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32016",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T03:59:26.247283+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "roboharnessrlagenticreinforcementlearningforvlmbasedrobotmanipulation",
+      "identity_keys": [
+        "arxiv:2611.32016",
+        "title:roboharnessrlagenticreinforcementlearningforvlmbasedrobotmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34251",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T03:59:27.252337+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "variationalcognitivememoryabstractionforlonghorizonvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.34251",
+        "title:variationalcognitivememoryabstractionforlonghorizonvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.34450",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T03:59:27.825885+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evolvemasaunifiedselfevolutionframeworkfordecentralizedmultiagentsystems",
+      "identity_keys": [
+        "arxiv:2610.34450",
+        "title:evolvemasaunifiedselfevolutionframeworkfordecentralizedmultiagentsystems"
+      ]
     }
   ]
 }
