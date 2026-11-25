@@ -43227,6 +43227,34 @@
         "arxiv:2610.34450",
         "title:evolvemasaunifiedselfevolutionframeworkfordecentralizedmultiagentsystems"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32851",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T08:02:24.012086+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pathprobabilitygradientsforoptimizingforcefieldsagainstdynamicalobservables",
+      "identity_keys": [
+        "arxiv:2611.32851",
+        "title:pathprobabilitygradientsforoptimizingforcefieldsagainstdynamicalobservables"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32547",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T08:02:24.483313+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "The Fortieth Annual Conference on Neural Information Processing Systems, 2026",
+      "title_key": "contactgeometryforgenerativemodelsanunbalancedoptimaltransportformulation",
+      "identity_keys": [
+        "arxiv:2611.32547",
+        "title:contactgeometryforgenerativemodelsanunbalancedoptimaltransportformulation"
+      ]
     }
   ]
 }
