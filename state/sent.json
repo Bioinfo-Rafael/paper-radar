@@ -43469,6 +43469,91 @@
         "arxiv:2610.36371",
         "title:boxworldletworldenginescontrolandvideogeneratorsrender"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1093/bioinformatics/btag865",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-25T19:08:01.629821+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1093/bioinformatics/btag865",
+      "venue": "Bioinformatics (Oxford, England)",
+      "title_key": "scpriordiffbridgingsinglecellmodalitiesthroughbiologicalnetworkpriorguidedlatentdiffusion",
+      "identity_keys": [
+        "doi:10.1093/bioinformatics/btag865",
+        "pubmed:43081916",
+        "title:scpriordiffbridgingsinglecellmodalitiesthroughbiologicalnetworkpriorguidedlatentdiffusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32445",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T19:08:03.255876+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "ameshtorememberpersistentappearanceforinteractivevideoworlds",
+      "identity_keys": [
+        "arxiv:2611.32445",
+        "title:ameshtorememberpersistentappearanceforinteractivevideoworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32649",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T19:08:06.107612+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "iclworldbenchmarkingincontextlearningofagentsfromdigitaltophysicalworlds",
+      "identity_keys": [
+        "arxiv:2611.32649",
+        "title:iclworldbenchmarkingincontextlearningofagentsfromdigitaltophysicalworlds"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36285",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T19:08:06.374757+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "aspenadaptivesemanticreasoningviacommandpersistencepredictionforefficientnavigationvlas",
+      "identity_keys": [
+        "arxiv:2610.36285",
+        "title:aspenadaptivesemanticreasoningviacommandpersistencepredictionforefficientnavigationvlas"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32493",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T19:08:06.793694+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "cofinavvlmguidedcoarsetofinesemanticnavigationforopenendedlastmileuavdelivery",
+      "identity_keys": [
+        "arxiv:2611.32493",
+        "title:cofinavvlmguidedcoarsetofinesemanticnavigationforopenendedlastmileuavdelivery"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36210",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T19:08:07.447573+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diagnosingandcorrectingbiasinmllmforlongvideounderstanding",
+      "identity_keys": [
+        "arxiv:2610.36210",
+        "title:diagnosingandcorrectingbiasinmllmforlongvideounderstanding"
+      ]
     }
   ]
 }
