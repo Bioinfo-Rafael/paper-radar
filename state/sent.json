@@ -43255,6 +43255,78 @@
         "arxiv:2611.32547",
         "title:contactgeometryforgenerativemodelsanunbalancedoptimaltransportformulation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32665",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T12:10:52.842820+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "diffgr00texecutionawaredifferentiabletrainingforhumanoidwholebodyvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2611.32665",
+        "title:diffgr00texecutionawaredifferentiabletrainingforhumanoidwholebodyvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32564",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T12:10:53.203472+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mximemicltowardsincontextrobotmanipulationthroughselfretrievedinteractionmemory",
+      "identity_keys": [
+        "arxiv:2611.32564",
+        "title:mximemicltowardsincontextrobotmanipulationthroughselfretrievedinteractionmemory"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32510",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T12:10:53.440060+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "geovldrivegeometrygroundedvisionlanguagereasoningforautonomousdriving",
+      "identity_keys": [
+        "arxiv:2611.32510",
+        "title:geovldrivegeometrygroundedvisionlanguagereasoningforautonomousdriving"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1126/science.adz4351",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T12:10:55.032111+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1126/science.adz4351",
+      "venue": "Science",
+      "title_key": "autonomousbiomedicalresearchwithanartificialintelligenceagent",
+      "identity_keys": [
+        "doi:10.1126/science.adz4351",
+        "openalex:w7167845123",
+        "pubmed:42424436",
+        "title:autonomousbiomedicalresearchwithanartificialintelligenceagent"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35962",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T12:10:55.279396+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "h1atasteofthebitterlessoninautomatedtheoremproving",
+      "identity_keys": [
+        "arxiv:2610.35962",
+        "title:h1atasteofthebitterlessoninautomatedtheoremproving"
+      ]
     }
   ]
 }
