@@ -43327,6 +43327,148 @@
         "arxiv:2610.35962",
         "title:h1atasteofthebitterlessoninautomatedtheoremproving"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.09960",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T16:38:26.737832+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sceneshiftertrainingfreemultiscenetemporalcontrolforaudiodrivenhumananimation",
+      "identity_keys": [
+        "arxiv:2611.09960",
+        "title:sceneshiftertrainingfreemultiscenetemporalcontrolforaudiodrivenhumananimation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36361",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T16:38:26.919008+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "helicsbiobankscaleconditionalsyntheticgenomegenerationvialatentflowmatching",
+      "identity_keys": [
+        "arxiv:2610.36361",
+        "title:helicsbiobankscaleconditionalsyntheticgenomegenerationvialatentflowmatching"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36374",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T16:38:27.315400+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "hidrahierarchicaldualroutingattentionforreplayfreelifelongimitationlearning",
+      "identity_keys": [
+        "arxiv:2610.36374",
+        "title:hidrahierarchicaldualroutingattentionforreplayfreelifelongimitationlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.5281/zenodo.20451176",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T16:38:27.676871+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.5281/zenodo.20451176",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "title_key": "athreephasegenerativestructuremodelv21conditionaldynamicsstructuralmodulationandfalsifiablegenerativepaths",
+      "identity_keys": [
+        "doi:10.5281/zenodo.20451176",
+        "openalex:w7162783114",
+        "title:athreephasegenerativestructuremodelv21conditionaldynamicsstructuralmodulationandfalsifiablegenerativepaths"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36309",
+      "category": "ml",
+      "first_sent_at": "2026-11-25T16:38:29.188786+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "bridgingexplorationandlossofplasticityinonpolicyreinforcementlearning",
+      "identity_keys": [
+        "arxiv:2610.36309",
+        "title:bridgingexplorationandlossofplasticityinonpolicyreinforcementlearning"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.65161/recfxm1gkwiof5qo6",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T16:38:29.942212+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.65161/recfxm1gkwiof5qo6",
+      "venue": "Oxford Journal of Student Scholarship",
+      "title_key": "fromrulebasedtoselfimprovingagentstheevolutionofaipricecollusion",
+      "identity_keys": [
+        "doi:10.65161/recfxm1gkwiof5qo6",
+        "openalex:w7238836497",
+        "title:fromrulebasedtoselfimprovingagentstheevolutionofaipricecollusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36013",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T16:38:30.125048+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "omnibrain0aunifiedagenticmodelforembodiedintelligence",
+      "identity_keys": [
+        "arxiv:2610.36013",
+        "title:omnibrain0aunifiedagenticmodelforembodiedintelligence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.32811",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T16:38:30.559549+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "interactiveneuralcomputers",
+      "identity_keys": [
+        "arxiv:2611.32811",
+        "title:interactiveneuralcomputers"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.33145",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T16:38:30.804855+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "lostoncampusevaluatingembodiedspatialreasoningofvisionlanguagemodelsinthewild",
+      "identity_keys": [
+        "arxiv:2611.33145",
+        "title:lostoncampusevaluatingembodiedspatialreasoningofvisionlanguagemodelsinthewild"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36371",
+      "category": "frontier",
+      "first_sent_at": "2026-11-25T16:38:31.121594+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "boxworldletworldenginescontrolandvideogeneratorsrender",
+      "identity_keys": [
+        "arxiv:2610.36371",
+        "title:boxworldletworldenginescontrolandvideogeneratorsrender"
+      ]
     }
   ]
 }
