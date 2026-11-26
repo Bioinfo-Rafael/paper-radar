@@ -44004,6 +44004,76 @@
         "arxiv:2611.34509",
         "title:longhorizonplanningwithlatentworldmodelsviagraphanchors"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34830",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T19:01:42.683155+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "notallworldmodelscandoubthowtrainingobjectiveandarchitectureshapeepistemicuncertaintyinjepaandrssmworldmodels",
+      "identity_keys": [
+        "arxiv:2611.34830",
+        "title:notallworldmodelscandoubthowtrainingobjectiveandarchitectureshapeepistemicuncertaintyinjepaandrssmworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37891",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T19:01:42.846059+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whenmoreplanninghurtslearnedplannersforworldmodels",
+      "identity_keys": [
+        "arxiv:2610.37891",
+        "title:whenmoreplanninghurtslearnedplannersforworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34560",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T19:01:43.131499+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "m2adaptvlamultimodalmemoryaugmentedvisionlanguageactionmodelwithpredictivetesttimeadaptation",
+      "identity_keys": [
+        "arxiv:2611.34560",
+        "title:m2adaptvlamultimodalmemoryaugmentedvisionlanguageactionmodelwithpredictivetesttimeadaptation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34576",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T19:02:28.474811+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "procedureinferenceasmemorylearningrecruiterdecisionproceduresfromokfstructuredepisodesinmultisessionhiringassistants",
+      "identity_keys": [
+        "arxiv:2611.34576",
+        "title:procedureinferenceasmemorylearningrecruiterdecisionproceduresfromokfstructuredepisodesinmultisessionhiringassistants"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37921",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T19:02:28.658917+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fadkvadaptivedictionarykvcachingforefficientreasoningdecoding",
+      "identity_keys": [
+        "arxiv:2610.37921",
+        "title:fadkvadaptivedictionarykvcachingforefficientreasoningdecoding"
+      ]
     }
   ]
 }
