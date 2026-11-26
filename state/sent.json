@@ -43891,6 +43891,119 @@
         "arxiv:2610.35496",
         "title:thehiddencostsofforgettingastudyoftrajectorydeletioninsoftwareengineeringagents"
       ]
+    },
+    {
+      "canonical_id": "biorxiv:10.64898/2025.12.01.691565",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-26T16:11:06.234109+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": "10.64898/2025.12.01.691565",
+      "published_doi": null,
+      "venue": "bioRxiv",
+      "title_key": "scmobaaconversationalsinglecellmultiomicsbrainagentacrossspecies",
+      "identity_keys": [
+        "biorxiv:10.64898/2025.12.01.691565",
+        "title:scmobaaconversationalsinglecellmultiomicsbrainagentacrossspecies"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37727",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T16:11:06.957257+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "predicateneurondifferentiablequantizationofpredicaterelationsingradientbasedlearning",
+      "identity_keys": [
+        "arxiv:2610.37727",
+        "title:predicateneurondifferentiablequantizationofpredicaterelationsingradientbasedlearning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37833",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T16:11:07.219357+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "depththroughrecurrencetowardsultraefficientondeviceasr",
+      "identity_keys": [
+        "arxiv:2610.37833",
+        "title:depththroughrecurrencetowardsultraefficientondeviceasr"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1109/icmla69890.2026.00072",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T16:11:08.078673+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "applicationofpdeemulatorsforamultimaterialmultiphysicssimulationproblem",
+      "identity_keys": [
+        "arxiv:2610.37972",
+        "doi:10.1109/icmla69890.2026.00072",
+        "title:applicationofpdeemulatorsforamultimaterialmultiphysicssimulationproblem"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37919",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T16:11:08.282462+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "scigameletagentsplaythescientificdiscoverygamesintherealandcounterfactualworld",
+      "identity_keys": [
+        "arxiv:2610.37919",
+        "title:scigameletagentsplaythescientificdiscoverygamesintherealandcounterfactualworld"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34422",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T16:11:08.603805+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "canvisualworldmodelsseeforce",
+      "identity_keys": [
+        "arxiv:2611.34422",
+        "title:canvisualworldmodelsseeforce"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34054",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T16:11:08.782514+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "carewmsamehorizonselfconditioningwithconstraintadaptiveregularizationforlatentworldmodels",
+      "identity_keys": [
+        "arxiv:2611.34054",
+        "title:carewmsamehorizonselfconditioningwithconstraintadaptiveregularizationforlatentworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34509",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T16:11:08.888905+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "longhorizonplanningwithlatentworldmodelsviagraphanchors",
+      "identity_keys": [
+        "arxiv:2611.34509",
+        "title:longhorizonplanningwithlatentworldmodelsviagraphanchors"
+      ]
     }
   ]
 }
