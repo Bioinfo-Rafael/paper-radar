@@ -43554,6 +43554,146 @@
         "arxiv:2610.36210",
         "title:diagnosingandcorrectingbiasinmllmforlongvideounderstanding"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.33577",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T03:26:19.158322+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "dosesteersteeringdiffusionbaseddosepredictionmodelstowardsclinicaltargetsviadualresponseguidance",
+      "identity_keys": [
+        "arxiv:2611.33577",
+        "title:dosesteersteeringdiffusionbaseddosepredictionmodelstowardsclinicaltargetsviadualresponseguidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.33719",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T03:26:19.316556+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "understandingmodecollapseindiffusionmodelsunderclassifierfreeguidance",
+      "identity_keys": [
+        "arxiv:2611.33719",
+        "title:understandingmodecollapseindiffusionmodelsunderclassifierfreeguidance"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.33826",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T03:26:19.585712+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "motionodeenhancingautoregressivetexttomotiongenerationwithcontinuousdepthmodeling",
+      "identity_keys": [
+        "arxiv:2611.33826",
+        "title:motionodeenhancingautoregressivetexttomotiongenerationwithcontinuousdepthmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34122",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T03:26:19.712919+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "musemultitaskuncertaintyawareselfsupervisedencoderformmwaveisac",
+      "identity_keys": [
+        "arxiv:2611.34122",
+        "title:musemultitaskuncertaintyawareselfsupervisedencoderformmwaveisac"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.33302",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T03:27:05.127363+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "twotimescalesofforgettinginfinetuningoflanguagemodelsfastbehavioralsuppressionandslowrepresentationaldrift",
+      "identity_keys": [
+        "arxiv:2611.33302",
+        "title:twotimescalesofforgettinginfinetuningoflanguagemodelsfastbehavioralsuppressionandslowrepresentationaldrift"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34222",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T03:27:05.688153+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thesocraticpausesafeguardingscientificjudgementataispeed",
+      "identity_keys": [
+        "arxiv:2611.34222",
+        "title:thesocraticpausesafeguardingscientificjudgementataispeed"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35690",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T03:27:05.826067+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "evoroutercostefficientmultiagentroutingviainsightguidedonpolicydistillation",
+      "identity_keys": [
+        "arxiv:2610.35690",
+        "title:evoroutercostefficientmultiagentroutingviainsightguidedonpolicydistillation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.36011",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T03:27:06.112436+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "e05fromreconstructivetofuturepredictive3dfoundationsforroboticworldactionmodeling",
+      "identity_keys": [
+        "arxiv:2610.36011",
+        "title:e05fromreconstructivetofuturepredictive3dfoundationsforroboticworldactionmodeling"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.33934",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T03:27:51.435785+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towards360circembodieduavtrackingwithoutturning",
+      "identity_keys": [
+        "arxiv:2611.33934",
+        "title:towards360circembodieduavtrackingwithoutturning"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34014",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T03:27:51.824673+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "heteroassociativevisuomotormemorysoftrecallasabaseforlearnedresidualsinfewdemonstrationimitation",
+      "identity_keys": [
+        "arxiv:2611.34014",
+        "title:heteroassociativevisuomotormemorysoftrecallasabaseforlearnedresidualsinfewdemonstrationimitation"
+      ]
     }
   ]
 }
