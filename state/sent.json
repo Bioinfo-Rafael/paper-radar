@@ -43764,6 +43764,133 @@
         "arxiv:2610.35767",
         "title:freetolookfreetoreasonsimplellmharnessesoutdiagnosehandcraftedrootcauseanalysisagents"
       ]
+    },
+    {
+      "canonical_id": "doi:10.64898/2026.11.24.769043",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-26T11:55:49.481113+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.64898/2026.11.24.769043",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "title_key": "sconioncrossmodalconcordanceawarejointanalysisofcellsandfeaturesinsinglecellmultiomicdata",
+      "identity_keys": [
+        "doi:10.64898/2026.11.24.769043",
+        "openalex:w7239854741",
+        "title:sconioncrossmodalconcordanceawarejointanalysisofcellsandfeaturesinsinglecellmultiomicdata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34801",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T11:55:50.149893+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "guidanceasvariancematching",
+      "identity_keys": [
+        "arxiv:2611.34801",
+        "title:guidanceasvariancematching"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1007/s44163-026-02564-7",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T11:55:51.566039+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1007/s44163-026-02564-7",
+      "venue": "Discover Artificial Intelligence",
+      "title_key": "thermallyadaptivemultiscalefeaturefusionandattentiondrivenchannelrecalibrationforlightweightinfraredelectricalsubstationinspection",
+      "identity_keys": [
+        "doi:10.1007/s44163-026-02564-7",
+        "title:thermallyadaptivemultiscalefeaturefusionandattentiondrivenchannelrecalibrationforlightweightinfraredelectricalsubstationinspection"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34106",
+      "category": "ml",
+      "first_sent_at": "2026-11-26T11:55:52.120730+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sysbiosrbenchmarkingsymbolicregressionfortrajectoryfidelityandmechanismrecoveryinsystemsbiology",
+      "identity_keys": [
+        "arxiv:2611.34106",
+        "title:sysbiosrbenchmarkingsymbolicregressionfortrajectoryfidelityandmechanismrecoveryinsystemsbiology"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34597",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T11:55:54.498178+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mpcmicrosecondscalenonlinearandworldmodelcontrolfromedgetogpuviakoopmanlinearizedprecompilation",
+      "identity_keys": [
+        "arxiv:2611.34597",
+        "title:mpcmicrosecondscalenonlinearandworldmodelcontrolfromedgetogpuviakoopmanlinearizedprecompilation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34778",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T11:55:57.675396+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "towardagenticroboticsalargescalestudyofharnessdesignforrobotuseagents",
+      "identity_keys": [
+        "arxiv:2611.34778",
+        "title:towardagenticroboticsalargescalestudyofharnessdesignforrobotuseagents"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34352",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T11:55:58.039630+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "beyondnaturallanguageinstructionstemporallogicasatasklanguageforvlamodelswithvisuallogicalfusion",
+      "identity_keys": [
+        "arxiv:2611.34352",
+        "title:beyondnaturallanguageinstructionstemporallogicasatasklanguageforvlamodelswithvisuallogicalfusion"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37706",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T11:55:58.429350+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "searchguidedreasoningtracecurationforveriloggeneration",
+      "identity_keys": [
+        "arxiv:2610.37706",
+        "title:searchguidedreasoningtracecurationforveriloggeneration"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.35496",
+      "category": "frontier",
+      "first_sent_at": "2026-11-26T11:55:58.774416+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "thehiddencostsofforgettingastudyoftrajectorydeletioninsoftwareengineeringagents",
+      "identity_keys": [
+        "arxiv:2610.35496",
+        "title:thehiddencostsofforgettingastudyoftrajectorydeletioninsoftwareengineeringagents"
+      ]
     }
   ]
 }
