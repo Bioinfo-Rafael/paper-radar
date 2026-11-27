@@ -44074,6 +44074,91 @@
         "arxiv:2610.37921",
         "title:fadkvadaptivedictionarykvcachingforefficientreasoningdecoding"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1002/smll.76852",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-27T03:26:30.119929+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1002/smll.76852",
+      "venue": "Small (Weinheim an der Bergstrasse, Germany)",
+      "title_key": "arphenoaugmentedreconstructionofimagederivedphenotypefromtranscriptomicprogramforsinglecellmultiomics",
+      "identity_keys": [
+        "doi:10.1002/smll.76852",
+        "pubmed:43097524",
+        "title:arphenoaugmentedreconstructionofimagederivedphenotypefromtranscriptomicprogramforsinglecellmultiomics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34915",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T03:26:30.676299+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "memoryisnotgroundtruthrevisingnavigationauthorityunderunreliablevlmevidenceforpersistentsemanticnavigation",
+      "identity_keys": [
+        "arxiv:2611.34915",
+        "title:memoryisnotgroundtruthrevisingnavigationauthorityunderunreliablevlmevidenceforpersistentsemanticnavigation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34132",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T03:26:30.951225+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agentasaverifierfromscorestoevidenceforgeneralverification",
+      "identity_keys": [
+        "arxiv:2611.34132",
+        "title:agentasaverifierfromscorestoevidenceforgeneralverification"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34708",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T03:26:31.079030+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "fromsharedpatternstoindividualevidencetwostagereasoningforemergingentitiesintemporalknowledgegraphs",
+      "identity_keys": [
+        "arxiv:2611.34708",
+        "title:fromsharedpatternstoindividualevidencetwostagereasoningforemergingentitiesintemporalknowledgegraphs"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34351",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T03:26:31.332696+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "inversereinforcementlearningwithstatedependentforesightforhumandecisionmaking",
+      "identity_keys": [
+        "arxiv:2611.34351",
+        "title:inversereinforcementlearningwithstatedependentforesightforhumandecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.37935",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T03:27:16.514237+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skillmemcompactexternalskillmemoryforlatentmultiagentreasoning",
+      "identity_keys": [
+        "arxiv:2610.37935",
+        "title:skillmemcompactexternalskillmemoryforlatentmultiagentreasoning"
+      ]
     }
   ]
 }
