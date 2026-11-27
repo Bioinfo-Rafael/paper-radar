@@ -44441,6 +44441,77 @@
         "arxiv:2610.39049",
         "title:reinforcementlearningforthegameofbalatroafastsimulatorandtwopolicytrainingapproach"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38903",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T18:52:09.462996+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "structuraltestgeometryasaninductivebiasforpartiallyobservableworldmodels",
+      "identity_keys": [
+        "arxiv:2610.38903",
+        "title:structuraltestgeometryasaninductivebiasforpartiallyobservableworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38661",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T18:52:09.841825+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "quantizebydoingtaskguidedmixedprecisionquantizationofvisionlanguageactionmodels",
+      "identity_keys": [
+        "arxiv:2610.38661",
+        "title:quantizebydoingtaskguidedmixedprecisionquantizationofvisionlanguageactionmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34777",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T18:52:10.201015+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "wheneveryrolloutfailssplicinglearnerconditionedoptionsintolonghorizonagentrl",
+      "identity_keys": [
+        "arxiv:2611.34777",
+        "title:wheneveryrolloutfailssplicinglearnerconditionedoptionsintolonghorizonagentrl"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.37394/23201.2026.25.40",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T18:52:10.340122+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.37394/23201.2026.25.40",
+      "venue": "WSEAS Transactions on Circuits and Systems archive",
+      "title_key": "fromautomatedtoautonomousvehiclesananalysisofsaelevelsandagenticai",
+      "identity_keys": [
+        "doi:10.37394/23201.2026.25.40",
+        "openalex:w7238839500",
+        "title:fromautomatedtoautonomousvehiclesananalysisofsaelevelsandagenticai"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1117/12.3134279",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T18:52:10.753159+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1117/12.3134279",
+      "venue": "International Conference on Optical Imaging and Deep Learning (OIDL 2026)",
+      "title_key": "aredesignmethodforsmarthomedeviceinteractioninterfacesbasedonclusteringandreinforcementlearningevidencefromuserbehavioranalysis",
+      "identity_keys": [
+        "doi:10.1117/12.3134279",
+        "title:aredesignmethodforsmarthomedeviceinteractioninterfacesbasedonclusteringandreinforcementlearningevidencefromuserbehavioranalysis"
+      ]
     }
   ]
 }
