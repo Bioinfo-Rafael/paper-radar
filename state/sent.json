@@ -44229,6 +44229,92 @@
         "arxiv:2611.34545",
         "title:recallingthepasttoanswerthepresentcontextawaremultievidencereasoningforstreamingvideoquestionanswering"
       ]
+    },
+    {
+      "canonical_id": "doi:10.48550/arxiv.2611.31227",
+      "category": "bioinfo",
+      "first_sent_at": "2026-11-27T11:45:03.382692+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "howfarcanlineargobipertaunifiedframeworkforsinglecellperturbationmodelling",
+      "identity_keys": [
+        "doi:10.48550/arxiv.2611.31227",
+        "openalex:w7239432508",
+        "title:howfarcanlineargobipertaunifiedframeworkforsinglecellperturbationmodelling"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1038/s42256-026-01320-x",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T11:45:04.309729+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1038/s42256-026-01320-x",
+      "venue": "Nature Machine Intelligence",
+      "title_key": "exploringnonlinearbodyoscillationsfornaturalquadrupedgaits",
+      "identity_keys": [
+        "doi:10.1038/s42256-026-01320-x",
+        "title:exploringnonlinearbodyoscillationsfornaturalquadrupedgaits"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.3389/frai.2026.1984864",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T11:45:04.836653+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.3389/frai.2026.1984864",
+      "venue": "Frontiers in Artificial Intelligence",
+      "title_key": "trustworthyagenticaisystemsnavigatingtherisksandgovernanceofautonomousai",
+      "identity_keys": [
+        "doi:10.3389/frai.2026.1984864",
+        "openalex:w7239730632",
+        "title:trustworthyagenticaisystemsnavigatingtherisksandgovernanceofautonomousai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34485",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T11:45:05.377267+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "skysearcherhighaltitudeonboardvlmreasoningforaerialsemanticsearch",
+      "identity_keys": [
+        "arxiv:2611.34485",
+        "title:skysearcherhighaltitudeonboardvlmreasoningforaerialsemanticsearch"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34603",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T11:45:05.830093+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "visualmontagemanipulatingthebeliefsofvisionlanguageagentswithauthenticimagesequences",
+      "identity_keys": [
+        "arxiv:2611.34603",
+        "title:visualmontagemanipulatingthebeliefsofvisionlanguageagentswithauthenticimagesequences"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34292",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T11:45:06.015627+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "webvibemultimodalinteractivewebsitegenerationviareversesynthesisandvisualselfdistillation",
+      "identity_keys": [
+        "arxiv:2611.34292",
+        "title:webvibemultimodalinteractivewebsitegenerationviareversesynthesisandvisualselfdistillation"
+      ]
     }
   ]
 }
