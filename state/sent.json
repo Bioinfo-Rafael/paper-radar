@@ -44315,6 +44315,132 @@
         "arxiv:2611.34292",
         "title:webvibemultimodalinteractivewebsitegenerationviareversesynthesisandvisualselfdistillation"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38360",
+      "category": "ml",
+      "first_sent_at": "2026-11-27T15:59:59.228554+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "sparsetokengsgaussianbasedsparseviewcbctreconstructionviareusabletokenpool",
+      "identity_keys": [
+        "arxiv:2610.38360",
+        "title:sparsetokengsgaussianbasedsparseviewcbctreconstructionviareusabletokenpool"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39056",
+      "category": "ml",
+      "first_sent_at": "2026-11-27T15:59:59.562126+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "whendoesclosedloopcurriculumadaptationhelpgrpoananalysisoncountdown",
+      "identity_keys": [
+        "arxiv:2610.39056",
+        "title:whendoesclosedloopcurriculumadaptationhelpgrpoananalysisoncountdown"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.33183",
+      "category": "ml",
+      "first_sent_at": "2026-11-27T15:59:59.871430+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reilearningideationfromrepositoryevolution",
+      "identity_keys": [
+        "arxiv:2611.33183",
+        "title:reilearningideationfromrepositoryevolution"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38776",
+      "category": "ml",
+      "first_sent_at": "2026-11-27T16:00:45.087780+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "a211kparameterfoundationmodelgeneticpromptinginneuralcellularautomata",
+      "identity_keys": [
+        "arxiv:2610.38776",
+        "title:a211kparameterfoundationmodelgeneticpromptinginneuralcellularautomata"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38980",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T16:00:49.330189+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "contextcompactionforworldmodels",
+      "identity_keys": [
+        "arxiv:2610.38980",
+        "title:contextcompactionforworldmodels"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38199",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T16:00:49.575891+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "embodiedatseaimitationlearningformultitaskunderwatermanipulation",
+      "identity_keys": [
+        "arxiv:2610.38199",
+        "title:embodiedatseaimitationlearningformultitaskunderwatermanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38289",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T16:00:49.742723+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "pulmoworldanasynchronousmultimodalmedicalworldmodelforlongitudinalpneumoniadynamics",
+      "identity_keys": [
+        "arxiv:2610.38289",
+        "title:pulmoworldanasynchronousmultimodalmedicalworldmodelforlongitudinalpneumoniadynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38388",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T16:00:50.560335+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "elevateagenticcontrolleracquisitionfromtaskfailureforquadrupedalmanipulation",
+      "identity_keys": [
+        "arxiv:2610.38388",
+        "title:elevateagenticcontrolleracquisitionfromtaskfailureforquadrupedalmanipulation"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39049",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T16:00:51.136269+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "reinforcementlearningforthegameofbalatroafastsimulatorandtwopolicytrainingapproach",
+      "identity_keys": [
+        "arxiv:2610.39049",
+        "title:reinforcementlearningforthegameofbalatroafastsimulatorandtwopolicytrainingapproach"
+      ]
     }
   ]
 }
