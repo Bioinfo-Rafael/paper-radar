@@ -44159,6 +44159,76 @@
         "arxiv:2610.37935",
         "title:skillmemcompactexternalskillmemoryforlatentmultiagentreasoning"
       ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34435",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T07:48:07.530355+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "mostofthewaythereturningastrongvideopriorintoanactionconditionedworldmodel",
+      "identity_keys": [
+        "arxiv:2611.34435",
+        "title:mostofthewaythereturningastrongvideopriorintoanactionconditionedworldmodel"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34864",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T07:48:08.467552+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "repacereasoningaboutdemonstrationspeedupforfastervisionlanguageactionpolicies",
+      "identity_keys": [
+        "arxiv:2611.34864",
+        "title:repacereasoningaboutdemonstrationspeedupforfastervisionlanguageactionpolicies"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1177/02783649261506650",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T07:48:08.791357+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1177/02783649261506650",
+      "venue": "The International Journal of Robotics Research",
+      "title_key": "sharedcontrolautonomyinhumanrobotinteractioncurrenttrendsandtheroleofgenerativeai",
+      "identity_keys": [
+        "doi:10.1177/02783649261506650",
+        "title:sharedcontrolautonomyinhumanrobotinteractioncurrenttrendsandtheroleofgenerativeai"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34215",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T07:48:10.245700+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "provemitigatinglonghorizonllmcollusionwithreinforcementlearningfromverifiedevidence",
+      "identity_keys": [
+        "arxiv:2611.34215",
+        "title:provemitigatinglonghorizonllmcollusionwithreinforcementlearningfromverifiedevidence"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2611.34545",
+      "category": "frontier",
+      "first_sent_at": "2026-11-27T07:48:10.642010+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "recallingthepasttoanswerthepresentcontextawaremultievidencereasoningforstreamingvideoquestionanswering",
+      "identity_keys": [
+        "arxiv:2611.34545",
+        "title:recallingthepasttoanswerthepresentcontextawaremultievidencereasoningforstreamingvideoquestionanswering"
+      ]
     }
   ]
 }
