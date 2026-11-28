@@ -44582,6 +44582,20 @@
         "arxiv:2610.38744",
         "title:atomtreeahierarchicalframeworkforstateawareembodiedinstructionfollowingwithllms"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1109/lra.2026.3739594",
+      "category": "frontier",
+      "first_sent_at": "2026-11-28T07:16:24.443599+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1109/lra.2026.3739594",
+      "venue": "IEEE Robotics and Automation Letters",
+      "title_key": "unifiedglobalformationpathplanningstrategyformultiagentsystemsusinggraphofconvexsets",
+      "identity_keys": [
+        "doi:10.1109/lra.2026.3739594",
+        "title:unifiedglobalformationpathplanningstrategyformultiagentsystemsusinggraphofconvexsets"
+      ]
     }
   ]
 }
