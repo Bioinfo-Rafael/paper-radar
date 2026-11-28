@@ -44512,6 +44512,76 @@
         "doi:10.1117/12.3134279",
         "title:aredesignmethodforsmarthomedeviceinteractioninterfacesbasedonclusteringandreinforcementlearningevidencefromuserbehavioranalysis"
       ]
+    },
+    {
+      "canonical_id": "doi:10.1117/12.3134725",
+      "category": "frontier",
+      "first_sent_at": "2026-11-28T03:05:24.991330+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1117/12.3134725",
+      "venue": "International Conference on Optical Imaging and Deep Learning (OIDL 2026)",
+      "title_key": "intelligentplanningandeffectivenessevaluationofproductvaluecommunicationpathwaysusingknowledgegraphintegration",
+      "identity_keys": [
+        "doi:10.1117/12.3134725",
+        "title:intelligentplanningandeffectivenessevaluationofproductvaluecommunicationpathwaysusingknowledgegraphintegration"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1117/12.3134724",
+      "category": "frontier",
+      "first_sent_at": "2026-11-28T03:05:25.191916+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1117/12.3134724",
+      "venue": "International Conference on Optical Imaging and Deep Learning (OIDL 2026)",
+      "title_key": "anexplainablereinforcementlearningapproachforautomatedfinancialdecisionmaking",
+      "identity_keys": [
+        "doi:10.1117/12.3134724",
+        "title:anexplainablereinforcementlearningapproachforautomatedfinancialdecisionmaking"
+      ]
+    },
+    {
+      "canonical_id": "doi:10.1117/12.3134514",
+      "category": "frontier",
+      "first_sent_at": "2026-11-28T03:05:25.495692+00:00",
+      "publication_status": "published",
+      "preprint_doi": null,
+      "published_doi": "10.1117/12.3134514",
+      "venue": "International Conference on Optical Imaging and Deep Learning (OIDL 2026)",
+      "title_key": "knowledgegraphandreinforcementlearningbasedpersonalizedreviewpathplanningforrussianvocabulary",
+      "identity_keys": [
+        "doi:10.1117/12.3134514",
+        "title:knowledgegraphandreinforcementlearningbasedpersonalizedreviewpathplanningforrussianvocabulary"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.39003",
+      "category": "frontier",
+      "first_sent_at": "2026-11-28T03:05:25.737458+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "agenticaireasoningandlearnedsamplingfortaskawareprojectionselectioninsparseviewctpredictinghemodynamics",
+      "identity_keys": [
+        "arxiv:2610.39003",
+        "title:agenticaireasoningandlearnedsamplingfortaskawareprojectionselectioninsparseviewctpredictinghemodynamics"
+      ]
+    },
+    {
+      "canonical_id": "arxiv:2610.38744",
+      "category": "frontier",
+      "first_sent_at": "2026-11-28T03:05:25.934988+00:00",
+      "publication_status": "preprint",
+      "preprint_doi": null,
+      "published_doi": null,
+      "venue": "arXiv",
+      "title_key": "atomtreeahierarchicalframeworkforstateawareembodiedinstructionfollowingwithllms",
+      "identity_keys": [
+        "arxiv:2610.38744",
+        "title:atomtreeahierarchicalframeworkforstateawareembodiedinstructionfollowingwithllms"
+      ]
     }
   ]
 }
